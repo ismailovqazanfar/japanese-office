@@ -239,9 +239,9 @@
    "ru": "Три «десятки» (十), соединённые вместе: тридцать лет. В Древнем Китае тридцать лет считались одним поколением. Отсюда «поколение, эпоха, мир»."
   },
   "hekaye": {
-   "az": "Otuz il bir nəsil: 世界 (sekai) – dünya, お世話 (osewa) – qayğı.",
-   "en": "Thirty years, one generation: 世界 (sekai), the world; お世話 (osewa), care, help.",
-   "ru": "Тридцать лет – одно поколение: 世界 (сэкай) – мир, お世話 (осэва) – забота."
+   "az": "Üç on (十) yan-yana: otuz il, bir nəsil 世. Nəsillər bir-birinə calanıb 世界 (sekai), dünyanı qurur; bir-birinə göstərdikləri qayğı isə お世話 (osewa).",
+   "en": "Three tens (十) side by side: thirty years, one generation, 世. Generations joined end to end build 世界 (sekai), the world; the care they give each other is お世話 (osewa).",
+   "ru": "Три десятки (十) рядом: тридцать лет, одно поколение, 世. Поколения, сцепленные друг с другом, строят 世界 (сэкай), мир; а забота друг о друге – お世話 (осэва)."
   },
   "ilk_soz_dersi": 2,
   "soz_sayi": 3,
@@ -481,9 +481,9 @@
    "ru": "Смысловая часть – металл (金), звуковая – 㕣. Мягкий серый металл: свинец. Стержень карандаша когда-то считали свинцовым, поэтому знак есть в слове «карандаш»."
   },
   "hekaye": {
-   "az": "Boz metal: 鉛 (namari) – qurğuşun. 鉛筆 (enpitsu) – karandaş.",
-   "en": "A grey metal: 鉛 (namari), lead. 鉛筆 (enpitsu), pencil.",
-   "ru": "Серый металл: 鉛 (намари) – свинец. 鉛筆 (эмпицу) – карандаш."
+   "az": "Metal (金) qutunun içində boz, yumşaq bir çubuq var: 鉛 (namari), qurğuşun. Əslində qrafitdir, amma ad qalıb: 鉛筆 (enpitsu), karandaş.",
+   "en": "Inside a metal (金) box lies a soft grey stick: 鉛 (namari), lead. It is really graphite, but the name stuck: 鉛筆 (enpitsu), pencil.",
+   "ru": "В металлической (金) коробке лежит мягкий серый стержень: 鉛 (намари), свинец. На самом деле это графит, но имя осталось: 鉛筆 (эмпицу), карандаш."
   },
   "ilk_soz_dersi": 2,
   "soz_sayi": 1,

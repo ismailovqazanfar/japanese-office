@@ -6631,9 +6631,9 @@
    "ru": "Вечер (夕) и рот (口). Традиционное толкование: в темноте лица не видно, поэтому нужно назвать своё имя вслух."
   },
   "hekaye": {
-   "az": "Qaranlıqda adını de: 名前 (namae) – ad, 有名 (yuumei) – məşhur.",
-   "en": "Say your name in the dark: 名前 (namae), name; 有名 (yuumei), famous.",
-   "ru": "Назови имя в темноте: 名前 (намаэ) – имя, 有名 (юмэй) – знаменитый."
+   "az": "Axşam (夕) düşüb, üzünü görən yoxdur – ağzını (口) açıb adını deyirsən: 名前 (namae), ad. Qaranlıqda belə hamının tanıdığı adam 有名 (yuumei), məşhurdur.",
+   "en": "Evening (夕) has fallen and no one can see your face, so you open your mouth (口) and say your name: 名前 (namae), name. Someone everyone knows even in the dark is 有名 (yuumei), famous.",
+   "ru": "Наступил вечер (夕), лица не видно – открываешь рот (口) и называешь имя: 名前 (намаэ), имя. Того, кого все знают даже в темноте, зовут 有名 (юмэй), знаменитый."
   },
   "ilk_soz_dersi": 1,
   "soz_sayi": 3,
@@ -6662,9 +6662,9 @@
    "ru": "Слева колос (禾), справа 厶. В древности 厶 означал «своё, личное». Моя доля зерна: личное, собственное. Отсюда и японское «я»."
   },
   "hekaye": {
-   "az": "Mənim taxıl payım: 私 (watashi) – mən. 私立 (shiritsu) – özəl.",
-   "en": "My share of the grain: 私 (watashi), I. 私立 (shiritsu), private.",
-   "ru": "Моя доля зерна: 私 (ватаси) – я. 私立 (сирицу) – частный."
+   "az": "Taxıl (禾) bölünəndə payını qucağına alıb 厶 kimi qıvrılırsan: \"bu mənimdir!\" – 私 (watashi), mən. Hamının yox, bir sahibin məktəbi isə 私立 (shiritsu), özəldir.",
+   "en": "When the grain (禾) is shared out, you curl around your portion like 厶: \"this is mine!\" – 私 (watashi), I. A school that belongs to one owner, not to everyone, is 私立 (shiritsu), private.",
+   "ru": "Когда делят зерно (禾), ты сворачиваешься над своей долей, как 厶: «это моё!» – 私 (ватаси), я. Школа одного хозяина, а не всех, – 私立 (сирицу), частная."
   },
   "ilk_soz_dersi": 1,
   "soz_sayi": 2,
@@ -10921,9 +10921,9 @@
    "ru": "Смысловая часть – камень (石), звуковая – 幵 (два ровных предмета). Тереть камнем до гладкости, точить. «Оттачивать» знание стало значить «глубоко изучать»."
   },
   "hekaye": {
-   "az": "Daşla itilə: 研ぐ (togu) – itiləmək. 研究 (kenkyuu) – tədqiqat.",
-   "en": "Sharpen with a stone: 研ぐ (togu), to sharpen. 研究 (kenkyuu), research.",
-   "ru": "Точи камнем: 研ぐ (тогу) – точить. 研究 (кэнкю) – исследование."
+   "az": "Daşın (石) üstündə iki bıçaq (干干) yan-yana parıldayana qədər sürtülür: 研ぐ (togu), itiləmək. Ağlı da belə itiləyirsən: 研究 (kenkyuu), tədqiqat.",
+   "en": "Two blades (干干) side by side are rubbed on a stone (石) until they shine: 研ぐ (togu), to sharpen. You sharpen the mind the same way: 研究 (kenkyuu), research.",
+   "ru": "Два лезвия (干干) рядом трут о камень (石), пока не заблестят: 研ぐ (тогу), точить. Так же оттачивают ум: 研究 (кэнкю), исследование."
   },
   "ilk_soz_dersi": 1,
   "soz_sayi": 2,

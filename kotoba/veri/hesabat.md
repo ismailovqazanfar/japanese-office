@@ -1,4 +1,4 @@
-# Kotoba no Tabi: kanji hesabatı (2026-10-31 16:08)
+# Kotoba no Tabi: kanji hesabatı (2026-10-31 18:15)
 
 Mənbə: `/home/claude/kotoba-no-tabi/index.html`
 
@@ -13,7 +13,7 @@ Mənbə: `/home/claude/kotoba-no-tabi/index.html`
 | Mənası natamam (az/en/ru) | 0 |
 | Oxunuşu boş | 0 |
 | Kart mətni natamam (mənşə/hekayə, 3 dil) | 0 |
-| Hekayə qısadır və ya kanjinin özü keçmir | 175 |
+| Hekayə qısadır və ya kanjinin özü keçmir | 170 |
 | Uzun tire olan mətnlər | 0 |
 | Sözlərdə var, kanji cədvəlində yoxdur (1–35) | 1 |
 | Sözdə dərsindən əvvəl işlənir | 0 |
@@ -41,7 +41,7 @@ yoxdur
 
 ## Hekayə qısadır və ya kanjinin özü keçmir
 
-名 私 研 世 鉛 机 千 金 晩 昼 昨 試 水 働 験 船 飛 友 誕 普 肉 買 紙 果 緒 荷 白 黒 仕 良 侍 少 上 歌 字 全 音 内 残 伎 漢 妻 供 近 男 右 京 犬 象 箱 蔵 棚 左 隣 封 筒 祭 遊 簡 単 遠 多 涼 重 季 海 界 寿 司 豚 待 泳 欲 広 狭 入 持 住 開 呼 塩 砂 歯 思 橋 置 刻 済 独 皆 引 暗 目 若 短 頭 髪 顔 耳 鼻 背 緑 額 返 心 健 康 保 険 薬 邪 味 弾 趣 記 祈 馬 原 掃 除 眠 弱 練 相 撲 北 斎 言 僕 負 不 放 夢 才 久 牧 被 掛 帽 眼 鏡 探 団 触 渡 寂 湯 点 駐 徳 太 法 隆 直 紹 説 準 越 他 考 舎 億 暇 夜 決 実 森 申 島 苦 具 息 商 雲 波
+机 千 金 晩 昼 昨 試 水 働 験 船 飛 友 誕 普 肉 買 紙 果 緒 荷 白 黒 仕 良 侍 少 上 歌 字 全 音 内 残 伎 漢 妻 供 近 男 右 京 犬 象 箱 蔵 棚 左 隣 封 筒 祭 遊 簡 単 遠 多 涼 重 季 海 界 寿 司 豚 待 泳 欲 広 狭 入 持 住 開 呼 塩 砂 歯 思 橋 置 刻 済 独 皆 引 暗 目 若 短 頭 髪 顔 耳 鼻 背 緑 額 返 心 健 康 保 険 薬 邪 味 弾 趣 記 祈 馬 原 掃 除 眠 弱 練 相 撲 北 斎 言 僕 負 不 放 夢 才 久 牧 被 掛 帽 眼 鏡 探 団 触 渡 寂 湯 点 駐 徳 太 法 隆 直 紹 説 準 越 他 考 舎 億 暇 夜 決 実 森 申 島 苦 具 息 商 雲 波
 
 ## Uzun tire olan mətnlər
 
