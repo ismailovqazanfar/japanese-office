@@ -25,7 +25,7 @@ def status():
     batch = rows[(selected - 1) * BOYUT:selected * BOYUT]
     return {'partiya': selected, 'partiya_sayi': total, 'kanji_sayi': len(rows),
             'kanjiler': [{k: r.get(k) for k in ('kanji', 'ders', 'on', 'kun', 'az', 'en', 'ru', 'nümunə_sozler')} for r in batch],
-            'sekil_status': 'generator_qosulmayib'}
+            'sekil_status': 'gemini_desteklenir'}
 
 
 def sec(number):

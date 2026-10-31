@@ -23,6 +23,7 @@ import ortak  # noqa: E402
 import kopru  # noqa: E402
 import token_sayac  # noqa: E402
 import kanji_is_axini
+import gemini_sekil
 
 HOST = "127.0.0.1"
 ILK_PORT = int(os.environ.get("OFIS_PORT", "8796"))
@@ -65,9 +66,9 @@ def tmux_yolu():
 
 def tmux_hazirla():
     tmux = tmux_yolu()
-    var = subprocess.run([tmux, "has-session", "-t", f"={TMUX_OTURUM}"], capture_output=True)
+    var = subprocess.run([tmux, "has-session", "-t", f"={TMUX_OTURUM}"], capture_output=True, env=ortak.ajan_ortami())
     if var.returncode != 0:
-        subprocess.run([tmux, "new-session", "-d", "-s", TMUX_OTURUM, "-n", "lobi"], check=True)
+        subprocess.run([tmux, "new-session", "-d", "-s", TMUX_OTURUM, "-n", "lobi"], check=True, env=ortak.ajan_ortami())
     return tmux
 
 
@@ -108,7 +109,7 @@ def gorev_baslat(ajan_id, etiket=None, prompt=None, kaynak="buton"):
                 tmux = tmux_hazirla()
                 subprocess.run([tmux, "new-window", "-d", "-t", f"={TMUX_OTURUM}:", "-n", ajan_id,
                                 "-c", ajan["cwd"], sys.executable, kosucu, arg_yolu],
-                               check=True, capture_output=True)
+                               check=True, capture_output=True, env=ortak.ajan_ortami())
                 yer = f"{TMUX_OTURUM}:{ajan_id}"
             else:
                 yer = arxa_planda_baslat(ajan, kosu_id, kosucu, arg_yolu)
@@ -123,7 +124,7 @@ def gorev_baslat(ajan_id, etiket=None, prompt=None, kaynak="buton"):
 def arxa_planda_baslat(ajan, kosu_id, kosucu, arg_yolu):
     """tmux olmayanda (Windows və s.) işi ayrıca prosesdə başladır; ekran çıxışı fayla yazılır."""
     ekran = os.path.join(ortak.KOSU_DIZINI, f"{kosu_id}.ekran.txt")
-    env = {**os.environ, "OFIS_PENCERE_BEKLE": "0", "PYTHONIOENCODING": "utf-8"}
+    env = {**ortak.ajan_ortami(), "OFIS_PENCERE_BEKLE": "0", "PYTHONIOENCODING": "utf-8"}
     elave = {}
     if os.name == "nt":
         elave["creationflags"] = 0x00000200 | 0x08000000  # CREATE_NEW_PROCESS_GROUP | CREATE_NO_WINDOW
@@ -210,7 +211,7 @@ def ceo_calistir(metin, kuru=False):
     baslangic = time.time()
     try:
         surec = subprocess.run(komut, cwd=ortak.KOK, input=ceo_promptu(metin, tablo), text=True, encoding="utf-8", errors="replace",
-                               capture_output=True, timeout=CEO_ZAMAN_ASIMI)
+                               capture_output=True, timeout=CEO_ZAMAN_ASIMI, env=ortak.ajan_ortami())
         with open(os.path.join(ortak.KOSU_DIZINI, f"{ceo_id}.log"), "w", encoding="utf-8") as f:
             f.write(surec.stdout + ("\n--- stderr ---\n" + surec.stderr if surec.stderr else ""))
         sonuc = json.loads(surec.stdout)
@@ -387,6 +388,27 @@ class Isleyici(SimpleHTTPRequestHandler):
         if not self._guvenlik():
             return
         yol = urlparse(self.path)
+        if yol.path == "/api/gemini":
+            batch = kanji_is_axini.status()['partiya']
+            return self._json(200, {**gemini_sekil.config(), 'partiya': batch, 'briefs': gemini_sekil.briefs(batch)})
+        if yol.path.startswith('/api/gemini/job/') or yol.path.startswith('/api/gemini/file/'):
+            identity = yol.path.rsplit('/', 1)[-1]
+            try:
+                if '/job/' in yol.path:
+                    return self._json(200, gemini_sekil.read(identity))
+                path = gemini_sekil.image_path(identity)
+                data = path.read_bytes()
+                mime = {'.png':'image/png', '.jpg':'image/jpeg', '.webp':'image/webp'}[path.suffix]
+                self.send_response(200)
+                self.send_header('Content-Type', mime)
+                self.send_header('Content-Length', str(len(data)))
+                self.send_header('X-Content-Type-Options', 'nosniff')
+                self.send_header('Cache-Control', 'no-store')
+                self.end_headers()
+                self.wfile.write(data)
+                return
+            except gemini_sekil.ImageError as e:
+                return self._json(e.code, {'hata': str(e)})
         if yol.path == "/api/kanji":
             return self._json(200, kanji_is_axini.status())
         if yol.path == "/api/ajanlar":
@@ -411,6 +433,17 @@ class Isleyici(SimpleHTTPRequestHandler):
         yol = urlparse(self.path).path
         try:
             veri = self._govde()
+            if yol == "/api/gemini":
+                origin = self.headers.get('Origin')
+                if (origin and origin != 'http://' + self.headers.get('Host', '')) or self.headers.get('Sec-Fetch-Site') == 'cross-site':
+                    raise IstekHatasi(403, 'Şəkil sorğusu yalnız bu ofis səhifəsindən göndərilə bilər')
+                batch = kanji_is_axini.status()
+                if veri.get('partiya') != batch['partiya'] or veri.get('kanji') not in {k['kanji'] for k in batch['kanjiler']}:
+                    raise IstekHatasi(409, 'Aktiv qrup dəyişib. Paneli yenilə.')
+                try:
+                    return self._json(202, gemini_sekil.start(veri))
+                except gemini_sekil.ImageError as e:
+                    raise IstekHatasi(e.code, str(e)) from e
             if yol == "/api/kanji":
                 with BASLATMA_KILIDI:
                     _, tablo = ortak.ajanlari_yukle()

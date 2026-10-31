@@ -111,12 +111,43 @@ Hər qrup üçün agent panelində **Aktiv …** ilə başlayan tapşırıqları
 1. Hekayəçi və Komponent Ustası: mənşə, mnemonika, qısa hekayə və forma-məna əlaqəsi.
 2. Onlar bitdikdən sonra Kanji Müfəttişi və Redaktor: faktlar və az/en/ru redaktəsi.
 3. Redaktə bitdikdən sonra Şəkil Rejissoru və Testçi: hekayəyə uyğun şəkil promptu və aktiv xatırlama testi.
-4. Nəticələri yoxla, şəkilləri ayrıca generatorla yarat, sonra növbəti qrupu seç.
+4. Nəticələri yoxla, Gemini panelində və ya ayrıca generatorla şəkilləri yarat, sonra növbəti qrupu seç.
 
 Şəkillər üçün vahid üslub: 1024×1024, gil miniatür, krem fon, coral/indigo/sage rəngləri, yuxarı soldan işıq, bir əsas hərəkət. Obyektlər kanjinin komponent düzülüşünü xatırladır. Şəkildə yazı, loqo və dini simvol yoxdur. Kanji qlifi tətbiqdə ayrıca göstərilir.
 
-**Şəkil generatoru bu tətbiqə qoşulmayıb.** Şəkil Rejissoru yalnız `image_prompt`, `negative_prompt`, `memory_link_az`, `filename`, `status=prompt_ready` hazırlayır; PNG yaratmır. Yeni `mnemonic` və `recall` sahələri hazırlıq datasıdır, sayta birbaşa import formatı deyil.
+**Gemini şəkil bağlantısı mövcuddur; işləməsi üçün öz yeni API açarın lazımdır.** Şəkil Rejissoru yalnız `image_prompt`, `negative_prompt`, `memory_link_az`, `filename`, `status=prompt_ready` hazırlayır; PNG yaratmır. Yeni `mnemonic` və `recall` sahələri hazırlıq datasıdır, sayta birbaşa import formatı deyil.
 
 Yenilənmiş kodu aldıqdan sonra serveri yenidən başlat. Mövcud `ajanlar.json` faylına yazılmadan yeni Aktiv tapşırıqlar və Şəkil Rejissoru yaddaşda əlavə olunur; şəxsi model, yol və alət icazələri saxlanılır. Köhnə fərdi tapşırıqlar da qalır.
 
 Yoxlama: `python -m unittest -v test_kanji_workflow`.
+
+## Gemini ilə şəkil yaratmaq
+
+Windows-da layihə qovluğunda `py baslat.py` işlət. macOS/Linux: `python3 baslat.py`.
+İlk açılışda çatışmayan `ajanlar.json` nümunədən yaradılır; mövcud şəxsi sazlamalar dəyişmir.
+Açarı terminalda gizli daxil et. Bu açar yalnız serverin cari sessiyasında saxlanır, diskə və GitHub-a yazılmır.
+Enter ilə boş buraxsan ofis API olmadan açılır. Əvvəldən `GEMINI_API_KEY` mühit dəyişəni varsa giriş soruşulmur.
+Söhbətdə paylaşılmış köhnə açarı Google AI Studio-da ləğv et; yalnız yeni açardan istifadə et.
+
+1. Şəkil Rejissoruna aktiv qrupun promptlarını hazırlat.
+2. Sensei və ya Şəkil Rejissoru panelində **Gemini · Şəkil studiyası** bölməsini aç.
+3. **Promptları yenilə**, kanjini seç və promptu yoxla/düzəlt.
+4. **Gemini ilə yarat** bas. Şəkil hazır olanda önizləmə və yükləmə linki görünür.
+
+API sorğusu yalnız bu düymə ilə başlayır; avtomatik generasiya və avtomatik təkrar sorğu yoxdur.
+Eyni qrup/kanji/prompt/model üçün hazır şəkil yenidən istifadə edilir. Yeni variant üçün promptu dəyiş.
+Bir serverdə eyni anda bir şəkil hazırlanır. Paneli bağlasan iş serverdə davam edir; eyni promptla yenidən
+Yarat basmaq işləyən işi və ya hazır nəticəni qaytarır. Server generasiya zamanı bağlanıbsa nəticə qeyri-müəyyən
+ola bilər; yenidən sorğu ayrıca istifadə yarada bilər.
+
+Nəticələr `cikti/sekiller/` altında şəkil və JSON metadata kimi saxlanılır (`cikti/` artıq gitignore-dadır).
+Fayl növü provider cavabına uyğundur: PNG, JPEG və ya WebP. Açar frontendə, Claude agentlərinə və job metadata-ya verilmir.
+Model standart olaraq `gemini-nano-banana-2.1`-dir. Hesabına uyğun başqa şəkil modelini `GEMINI_IMAGE_MODEL` ilə seçə bilərsən.
+1:1 və 1K ölçüsü göndərilir. Pulsuz istifadə zəmanəti yoxdur: API açarı mövcud kvota və ödəniş icazəsini əvəz etmir.
+401/403/429 cavabları paneldə qısa izahla göstərilir, sorğu avtomatik təkrarlanmır.
+
+Əlavə Python paketi tələb olunmur. REST inteqrasiyası:
+https://ai.google.dev/gemini-api/docs/image-generation
+
+Test: `python -m unittest -v test_kanji_workflow test_gemini_sekil`.
+Testlər saxta provider cavablarından istifadə edir; real açarla ödənişli sorğu göndərilmir.

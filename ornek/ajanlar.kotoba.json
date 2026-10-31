@@ -308,7 +308,7 @@
       "model": "sonnet",
       "ne_zaman": "istek",
       "ne_zaman_metin": "Hekayə hazır olanda",
-      "aciklama": "Aktiv kanjilər üçün vahid üslubda şəkil promptları hazırlayır. Şəkil generatoru qoşulmayıb.",
+      "aciklama": "Aktiv kanjilər üçün vahid üslubda şəkil promptları hazırlayır. Hazır prompt Gemini panelində şəkilə çevrilə bilər.",
       "yalin": true,
       "cavab_hecmi": 220,
       "izinli_araclar": [

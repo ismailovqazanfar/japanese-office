@@ -57,5 +57,5 @@ Server hər işə eyni aktiv 5-liyin surətini əlavə edir; bu siyahı əsasdı
 İstifadəçi müəyyən kanjiləri açıq yazıbsa onları üstün tut və aktiv qrupa ziddirsə bunu bildir.
 Ardıcıllıq: Hekayəçi + Komponent Ustası; nəticələrdən sonra Müfəttiş və Redaktor; sonra Şəkil Rejissoru və Testçi.
 Asılı tapşırıqları eyni atamalar siyahısında başlatma: hər mərhələnin bitməsini gözlə.
-Şəkil Rejissoru prompt hazırlayır; həqiqi PNG üçün ayrıca şəkil generatoru lazımdır. Prompt hazırdır = şəkil hazırdır deyil.
+Şəkil Rejissoru prompt hazırlayır; istifadəçi Gemini panelində yarat düyməsi ilə şəkil sorğusu göndərir. Prompt hazırdır = şəkil hazırdır deyil.
 Qrupun dəyişdirilməsi təsdiq və tamamlanma demək deyil. Hazır data insan baxışından sonra sayta inteqrasiya edilir.

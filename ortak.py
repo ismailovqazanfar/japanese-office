@@ -182,3 +182,8 @@ def ajan_mesgul(ajan_id):
     # pəncərə açılarkən pid hələ yazılmamış ola bilər
     return d.get("durum") == "basliyor" and time.time() - d.get("baslangic_ts", 0) < 30
 
+
+
+def ajan_ortami():
+    """Image API credentials belong to the server, not Claude subprocesses."""
+    return {k: v for k, v in os.environ.items() if k not in ('GEMINI_API_KEY', 'GOOGLE_API_KEY')}

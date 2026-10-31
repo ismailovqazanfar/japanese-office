@@ -162,7 +162,7 @@ def kos(arg_dosyasi):
             os.makedirs(calisma_dizini, exist_ok=True)
             surec = subprocess.Popen(komut, cwd=calisma_dizini, stdin=subprocess.PIPE,
                                      stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True,
-                                     encoding="utf-8", errors="replace")
+                                     encoding="utf-8", errors="replace", env=ortak.ajan_ortami())
             surec.stdin.write(tam_prompt)
             surec.stdin.close()
             for satir in surec.stdout:
@@ -239,3 +239,4 @@ if __name__ == "__main__":
     if BEKLEME_SN > 0:
         print(f"(pəncərə {BEKLEME_SN} sn sonra bağlanır)", flush=True)
         time.sleep(BEKLEME_SN)
+
