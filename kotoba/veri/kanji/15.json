@@ -1,0 +1,541 @@
+[
+ {
+  "kanji": "役",
+  "on": "ヤク",
+  "kun": "–",
+  "az": "rol, xidmət",
+  "en": "role, service",
+  "ru": "роль, служба",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "彳",
+   "殳"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (彳), sağda silah tutan əl (殳). Yolda keşik çəkmək: xidmət, vəzifə, rol.",
+   "en": "The meaning part is road (彳); on the right a hand holding a weapon (殳). Standing guard on the road: service, duty, role.",
+   "ru": "Смысловая часть – путь (彳), справа рука с оружием (殳). Нести стражу на дороге: служба, обязанность, роль."
+  },
+  "hekaye": {
+   "az": "Yolda keşik: 役所 (yakusho) – idarə, 役に立つ (yaku ni tatsu) – faydalı olmaq.",
+   "en": "Guarding the road: 役所 (yakusho), public office; 役に立つ (yaku ni tatsu), to be useful.",
+   "ru": "Стража на дороге: 役所 (якусё) – учреждение, 役に立つ (яку ни тацу) – быть полезным."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "市役所 (しやくしょ) bələdiyyə",
+   "役に立ちます (やくにたちます) faydalı olmaq, lazım olmaq"
+  ]
+ },
+ {
+  "kanji": "歯",
+  "on": "シ",
+  "kun": "は",
+  "az": "diş",
+  "en": "tooth",
+  "ru": "зуб",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "止",
+   "米",
+   "凵"
+  ],
+  "mense": {
+   "az": "Köhnə forması 齒: ağızda düzülmüş dişlər və üstündə səs hissəsi 止. Diş.",
+   "en": "The old form is 齒: teeth lined up in a mouth with the sound part 止 on top. Tooth.",
+   "ru": "Старая форма 齒: зубы во рту и сверху звуковая часть 止. Зуб."
+  },
+  "hekaye": {
+   "az": "Ağızda dişlər: 歯 (ha) – diş, 歯医者 (haisha) – diş həkimi.",
+   "en": "Teeth in the mouth: 歯 (ha), tooth; 歯医者 (haisha), dentist.",
+   "ru": "Зубы во рту: 歯 (ха) – зуб, 歯医者 (хайся) – зубной врач."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "歯医者 (はいしゃ) diş həkimi",
+   "歯 (は) diş"
+  ]
+ },
+ {
+  "kanji": "思",
+  "on": "シ",
+  "kun": "おも・う",
+  "az": "düşünmək",
+  "en": "think",
+  "ru": "думать",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "田",
+   "心"
+  ],
+  "mense": {
+   "az": "Yuxarıda əvvəlcə kəllə, beyin (囟) idi, sonra 田-ə çevrildi; aşağıda ürək (心). Baş və ürəklə: düşünmək.",
+   "en": "On top was originally the skull, the brain (囟), which later turned into 田; below is the heart (心). With head and heart: to think.",
+   "ru": "Сверху изначально был череп, мозг (囟), позже ставший 田; снизу сердце (心). Головой и сердцем: думать."
+  },
+  "hekaye": {
+   "az": "Baş və ürək: 思う (omou) – düşünmək, 思い出 (omoide) – xatirə.",
+   "en": "Head and heart: 思う (omou), to think; 思い出 (omoide), memory.",
+   "ru": "Голова и сердце: 思う (омоу) – думать, 思い出 (омоидэ) – воспоминание."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "思い出します (おもいだします) xatırlamaq",
+   "思います (おもいます) düşünmək, fikirləşmək"
+  ]
+ },
+ {
+  "kanji": "橋",
+  "on": "キョウ",
+  "kun": "はし",
+  "az": "körpü",
+  "en": "bridge",
+  "ru": "мост",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "木",
+   "#",
+   "大",
+   "口",
+   "冂",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağac (木), səs hissəsi 喬 (hündür, əyilmiş). Taxtadan qurulmuş, qövs kimi əyilən: körpü.",
+   "en": "The meaning part is wood (木) and the sound part is 喬 (tall, arched). Built of wood and arching over: a bridge.",
+   "ru": "Смысловая часть – дерево (木), звуковая – 喬 (высокий, изогнутый). Деревянный, выгнутый дугой: мост."
+  },
+  "hekaye": {
+   "az": "Taxta qövs: 橋 (hashi) – körpü.",
+   "en": "A wooden arch: 橋 (hashi), bridge.",
+   "ru": "Деревянная дуга: 橋 (хаси) – мост."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "日本橋 (にっぽんばし) Osakada alış-veriş məntəqəsi",
+   "橋 (はし) körpü"
+  ]
+ },
+ {
+  "kanji": "置",
+  "on": "チ",
+  "kun": "お・く",
+  "az": "qoymaq",
+  "en": "put, place",
+  "ru": "ставить",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "罒",
+   "十",
+   "目",
+   "#"
+  ],
+  "mense": {
+   "az": "Yuxarıda tor (罒), aşağıda səs hissəsi 直 (düz). Toru bir yerdə düz qurmaq: qoymaq, yerləşdirmək.",
+   "en": "A net (罒) on top and the sound part 直 (straight) below. Setting a net straight in one spot: to put, to place.",
+   "ru": "Сверху сеть (罒), снизу звуковая часть 直 (прямой). Ровно установить сеть на месте: класть, ставить."
+  },
+  "hekaye": {
+   "az": "Toru yerinə qoy: 置く (oku) – qoymaq, 位置 (ichi) – yer, mövqe.",
+   "en": "Set the net in place: 置く (oku), to put; 位置 (ichi), position.",
+   "ru": "Поставь сеть на место: 置く (оку) – класть, 位置 (ити) – положение."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "置きます (おきます) qoymaq"
+  ]
+ },
+ {
+  "kanji": "作",
+  "on": "サク",
+  "kun": "つく・る",
+  "az": "düzəltmək",
+  "en": "make",
+  "ru": "делать",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 乍 (alətlə iş görmək). İnsanın alətlə bir şey düzəltməsi: etmək, yaratmaq.",
+   "en": "The meaning part is person (亻) and the sound part is 乍 (working with a tool). A person making something with a tool: to make, to create.",
+   "ru": "Смысловая часть – человек (亻), звуковая – 乍 (работа инструментом). Человек мастерит что-то инструментом: делать, создавать."
+  },
+  "hekaye": {
+   "az": "Alətlə düzəlt: 作る (tsukuru) – düzəltmək, 作文 (sakubun) – inşa, 作家 (sakka) – yazıçı.",
+   "en": "Make with a tool: 作る (tsukuru), to make; 作文 (sakubun), essay; 作家 (sakka), writer.",
+   "ru": "Сделай инструментом: 作る (цукуру) – делать, 作文 (сакубун) – сочинение, 作家 (сакка) – писатель."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "作ります (つくります) düzəltmək"
+  ]
+ },
+ {
+  "kanji": "知",
+  "on": "チ",
+  "kun": "し・る",
+  "az": "bilmək",
+  "en": "know",
+  "ru": "знать",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "矢",
+   "口"
+  ],
+  "mense": {
+   "az": "Ox (矢) və ağız (口). Ox kimi dəqiq və tez deyilən söz: bilmək.",
+   "en": "An arrow (矢) and a mouth (口). Words spoken as quickly and precisely as an arrow: to know.",
+   "ru": "Стрела (矢) и рот (口). Слова, меткие и быстрые, как стрела: знать."
+  },
+  "hekaye": {
+   "az": "Ox kimi dəqiq söz: 知る (shiru) – bilmək, 知識 (chishiki) – bilik.",
+   "en": "Words as precise as an arrow: 知る (shiru), to know; 知識 (chishiki), knowledge.",
+   "ru": "Слово меткое, как стрела: 知る (сиру) – знать, 知識 (тисики) – знания."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "知ります (しります) bilmək"
+  ]
+ },
+ {
+  "kanji": "資",
+  "on": "シ",
+  "kun": "–",
+  "az": "ehtiyat, vəsait",
+  "en": "resources",
+  "ru": "ресурсы",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "冫",
+   "欠",
+   "貝"
+  ],
+  "mense": {
+   "az": "Məna hissəsi pul (貝), səs hissəsi 次. İşə qoyulan pul və vəsait: kapital, material.",
+   "en": "The meaning part is money (貝) and the sound part is 次. Money and means put into a task: capital, materials.",
+   "ru": "Смысловая часть – деньги (貝), звуковая – 次. Деньги и средства для дела: капитал, материалы."
+  },
+  "hekaye": {
+   "az": "İş üçün vəsait: 資料 (shiryou) – material, 資金 (shikin) – vəsait.",
+   "en": "Means for the work: 資料 (shiryou), materials; 資金 (shikin), funds.",
+   "ru": "Средства для дела: 資料 (сирё) – материалы, 資金 (сикин) – фонды."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "資料 (しりょう) material, sənəd"
+  ]
+ },
+ {
+  "kanji": "刻",
+  "on": "コク",
+  "kun": "きざ・む",
+  "az": "oymaq, vaxt",
+  "en": "carve, time",
+  "ru": "вырезать, время",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "#",
+   "人",
+   "#",
+   "刂"
+  ],
+  "mense": {
+   "az": "Məna hissəsi bıçaq (刂), səs hissəsi 亥. Bıçaqla oymaq, cızmaq. Qədim saatlarda vaxt cızıqlarla göstərildiyi üçün \"an, vaxt\" mənası da var.",
+   "en": "The meaning part is knife (刂) and the sound part is 亥. To carve or notch with a knife. Old clocks marked time with notches, so it also means \"moment, time\".",
+   "ru": "Смысловая часть – нож (刂), звуковая – 亥. Вырезать ножом, делать насечки. Древние часы отмечали время насечками, отсюда «момент, время»."
+  },
+  "hekaye": {
+   "az": "Bıçaqla cız: 時刻 (jikoku) – vaxt, 遅刻 (chikoku) – gecikmə.",
+   "en": "Notch with a knife: 時刻 (jikoku), time; 遅刻 (chikoku), lateness.",
+   "ru": "Насечка ножом: 時刻 (дзикоку) – время, 遅刻 (тикоку) – опоздание."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "時刻表 (じこくひょう) hərəkət cədvəli (qatar, avtobus)"
+  ]
+ },
+ {
+  "kanji": "表",
+  "on": "ヒョウ",
+  "kun": "おもて、あらわ・す",
+  "az": "üz, cədvəl",
+  "en": "surface, table",
+  "ru": "поверхность, таблица",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "#",
+   "衣"
+  ],
+  "mense": {
+   "az": "Köhnə formada paltar (衣) və xəz (毛): xəzi çölə çevrilmiş kürk. Üz tərəf, səth; sonra \"göstərmək, ifadə etmək\".",
+   "en": "In the old form clothing (衣) and fur (毛): a fur coat worn fur side out. The outside, the surface; later \"to show, to express\".",
+   "ru": "В старой форме одежда (衣) и мех (毛): шуба мехом наружу. Лицевая сторона, поверхность; позже «показывать, выражать»."
+  },
+  "hekaye": {
+   "az": "Xəzi çölə: 表 (omote) – üz tərəf, 発表 (happyou) – təqdimat, 表 (hyou) – cədvəl.",
+   "en": "Fur side out: 表 (omote), front; 発表 (happyou), presentation; 表 (hyou), table, chart.",
+   "ru": "Мехом наружу: 表 (омотэ) – лицевая сторона, 発表 (хаппё) – выступление, 表 (хё) – таблица."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "時刻表 (じこくひょう) hərəkət cədvəli (qatar, avtobus)"
+  ]
+ },
+ {
+  "kanji": "服",
+  "on": "フク",
+  "kun": "–",
+  "az": "paltar",
+  "en": "clothes",
+  "ru": "одежда",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "月",
+   "卩",
+   "又"
+  ],
+  "mense": {
+   "az": "Solda qayıq (舟, indi 月-ə bənzəyir), sağda diz çökmüş insanı basan əl. Əvvəlcə \"tabe olmaq, xidmət etmək\" idi; sonra \"geyinmək\", paltar.",
+   "en": "On the left a boat (舟, now looking like 月), on the right a hand pressing down a kneeling person. It first meant \"to submit, to serve\"; later \"to wear\", clothes.",
+   "ru": "Слева лодка (舟, сейчас похожа на 月), справа рука, придавливающая коленопреклонённого. Сначала – «подчиняться, служить»; позже «носить», одежда."
+  },
+  "hekaye": {
+   "az": "Geyinilən: 服 (fuku) – paltar, 洋服 (youfuku) – Avropa üslubunda paltar.",
+   "en": "What is worn: 服 (fuku), clothes; 洋服 (youfuku), Western clothes.",
+   "ru": "Носимое: 服 (фуку) – одежда, 洋服 (ёфуку) – европейская одежда."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "服 (ふく) paltar"
+  ]
+ },
+ {
+  "kanji": "製",
+  "on": "セイ",
+  "kun": "–",
+  "az": "istehsal",
+  "en": "manufacture",
+  "ru": "производство",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "牛",
+   "巾",
+   "刂",
+   "衣"
+  ],
+  "mense": {
+   "az": "Yuxarıda 制 (kəsmək, səs verir), aşağıda paltar (衣). Parçanı biçib paltar tikmək: istehsal etmək.",
+   "en": "制 (to cut, giving the sound) on top and clothing (衣) below. Cutting cloth to make clothes: to manufacture.",
+   "ru": "Сверху 制 (кроить, даёт звук), снизу одежда (衣). Кроить ткань и шить одежду: производить."
+  },
+  "hekaye": {
+   "az": "Biç və tik: 製品 (seihin) – məhsul, 日本製 (nihonsei) – Yaponiya istehsalı.",
+   "en": "Cut and sew: 製品 (seihin), product; 日本製 (nihonsei), made in Japan.",
+   "ru": "Кроить и шить: 製品 (сэйхин) – изделие, 日本製 (нихонсэй) – сделано в Японии."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "製品 (せいひん) məhsul"
+  ]
+ },
+ {
+  "kanji": "品",
+  "on": "ヒン",
+  "kun": "しな",
+  "az": "mal, əşya",
+  "en": "goods",
+  "ru": "товар",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "品"
+  ],
+  "mense": {
+   "az": "Üç ağız və ya üç qutu (口). Çoxlu əşya: mal, növ, keyfiyyət.",
+   "en": "Three mouths or three boxes (口). Many items: goods, kind, quality.",
+   "ru": "Три рта или три коробки (口). Много предметов: товар, сорт, качество."
+  },
+  "hekaye": {
+   "az": "Üç qutu mal: 品物 (shinamono) – mal, 製品 (seihin) – məhsul, 上品 (jouhin) – zərif.",
+   "en": "Three boxes of goods: 品物 (shinamono), goods; 製品 (seihin), product; 上品 (jouhin), elegant.",
+   "ru": "Три коробки товара: 品物 (синамоно) – товар, 製品 (сэйхин) – изделие, 上品 (дзёхин) – изящный."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "製品 (せいひん) məhsul"
+  ]
+ },
+ {
+  "kanji": "経",
+  "on": "ケイ",
+  "kun": "へ・る",
+  "az": "keçmək, iqtisadiyyat",
+  "en": "pass through, economy",
+  "ru": "проходить, экономика",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "又",
+   "土"
+  ],
+  "mense": {
+   "az": "Məna hissəsi sap (糸), sağ hissə dəzgahda dartılmış uzununa saplardır (巠). Uzununa sap: keçmək, idarə etmək.",
+   "en": "The meaning part is thread (糸); the right side shows warp threads stretched on a loom (巠). The warp: to pass through, to manage.",
+   "ru": "Смысловая часть – нить (糸), справа нити основы, натянутые на станке (巠). Основа ткани: проходить, управлять."
+  },
+  "hekaye": {
+   "az": "Dəzgahın uzununa sapı: 経済 (keizai) – iqtisadiyyat, 経験 (keiken) – təcrübə.",
+   "en": "The warp on the loom: 経済 (keizai), economy; 経験 (keiken), experience.",
+   "ru": "Нить основы: 経済 (кэйдзай) – экономика, 経験 (кэйкэн) – опыт."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "経済 (けいざい) iqtisadiyyat"
+  ]
+ },
+ {
+  "kanji": "済",
+  "on": "サイ",
+  "kun": "す・む",
+  "az": "bitmək, həll olunmaq",
+  "en": "finish, settle",
+  "ru": "заканчиваться",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "文",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 斉 (bərabər). Çayı keçib o taya çatmaq: bitirmək, həll etmək.",
+   "en": "The meaning part is water (氵) and the sound part is 斉 (even). Crossing a river to the other bank: to finish, to settle.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 斉 (ровный). Перейти реку на тот берег: завершать, улаживать."
+  },
+  "hekaye": {
+   "az": "Çayı keç: 済む (sumu) – bitmək, 経済 (keizai) – iqtisadiyyat.",
+   "en": "Cross the river: 済む (sumu), to be over; 経済 (keizai), economy.",
+   "ru": "Перейди реку: 済む (суму) – заканчиваться, 経済 (кэйдзай) – экономика."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "経済 (けいざい) iqtisadiyyat"
+  ]
+ },
+ {
+  "kanji": "市",
+  "on": "シ",
+  "kun": "いち",
+  "az": "şəhər, bazar",
+  "en": "city, market",
+  "ru": "город, рынок",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "市"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir: bazarın yerini göstərən nişan kimi izah olunur. Bazar; sonra şəhər.",
+   "en": "Its origin is debated: it is explained as a sign marking a marketplace. A market; later a city.",
+   "ru": "Происхождение спорно: толкуют как знак, отмечающий рынок. Рынок; позже город."
+  },
+  "hekaye": {
+   "az": "Bazar yeri: 市場 (ichiba) – bazar, 市 (shi) – şəhər, 市役所 (shiyakusho) – bələdiyyə.",
+   "en": "A marketplace: 市場 (ichiba), market; 市 (shi), city; 市役所 (shiyakusho), city hall.",
+   "ru": "Рыночное место: 市場 (итиба) – рынок, 市 (си) – город, 市役所 (сиякусё) – мэрия."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "市役所 (しやくしょ) bələdiyyə"
+  ]
+ },
+ {
+  "kanji": "独",
+  "on": "ドク",
+  "kun": "ひと・り",
+  "az": "tək",
+  "en": "alone",
+  "ru": "один, сам",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "⺨",
+   "虫"
+  ],
+  "mense": {
+   "az": "Köhnə forması 獨: məna hissəsi it (犭), səs hissəsi 蜀. Ənənəvi izaha görə itlər bir yerdə qalmayıb ayrı gəzir: tək, təklikdə.",
+   "en": "The old form is 獨: the meaning part dog (犭) and the sound part 蜀. The traditional explanation: dogs do not stay together but roam apart: alone.",
+   "ru": "Старая форма 獨: смысловая часть – собака (犭), звуковая – 蜀. По традиционному толкованию, собаки не держатся вместе, а бродят поодиночке: один."
+  },
+  "hekaye": {
+   "az": "Tək gəzən: 独身 (dokushin) – subay, 独り (hitori) – tək.",
+   "en": "Roaming alone: 独身 (dokushin), single; 独り (hitori), alone.",
+   "ru": "Бродит один: 独身 (докусин) – холостой, 独り (хитори) – один."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "独身 (どくしん) subay"
+  ]
+ },
+ {
+  "kanji": "皆",
+  "on": "カイ",
+  "kun": "みな",
+  "az": "hamı",
+  "en": "everyone",
+  "ru": "все",
+  "ders": 15,
+  "kart": true,
+  "komponent": [
+   "比",
+   "白"
+  ],
+  "mense": {
+   "az": "Yuxarıda 比 (yan-yana iki insan), aşağıda 白 (demək). Hamının birlikdə dediyi söz: hamı.",
+   "en": "比 (two people side by side) on top and 白 (to say) below. Words spoken by everyone together: all, everybody.",
+   "ru": "Сверху 比 (двое рядом), снизу 白 (говорить). Слова, сказанные всеми вместе: все."
+  },
+  "hekaye": {
+   "az": "Hamı birlikdə: 皆さん (minasan) – hamınız, cənablar.",
+   "en": "Everyone together: 皆さん (minasan), everyone.",
+   "ru": "Все вместе: 皆さん (минасан) – все, уважаемые."
+  },
+  "ilk_soz_dersi": 15,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "皆さん (みなさん) hamınız (nəzakətli)"
+  ]
+ }
+]

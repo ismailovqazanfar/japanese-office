@@ -1,0 +1,3597 @@
+[
+ {
+  "kanji": "八",
+  "on": "ハチ",
+  "kun": "や、よう、やっつ",
+  "az": "səkkiz",
+  "en": "eight",
+  "ru": "восемь",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "九",
+  "on": "キュウ、ク",
+  "kun": "ここの、ここのつ",
+  "az": "doqquz",
+  "en": "nine",
+  "ru": "девять",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "十",
+  "on": "ジュウ",
+  "kun": "とお、と",
+  "az": "on",
+  "en": "ten",
+  "ru": "десять",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "夜",
+  "on": "ヤ",
+  "kun": "よ、よる",
+  "az": "gecə",
+  "en": "night",
+  "ru": "ночь",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "#",
+   "亻",
+   "夕",
+   "#"
+  ],
+  "mense": {
+   "az": "Insanın qoltuğu altında axşam ayı (夕): ay çıxanda başlayan vaxt – gecə.",
+   "en": "The evening moon (夕) under a person's arm: the time that begins when the moon rises – night.",
+   "ru": "Вечерняя луна (夕) под рукой человека: время, когда восходит луна, – ночь."
+  },
+  "hekaye": {
+   "az": "Ay çıxdı: 夜 (yoru) – gecə, 今夜 (kon'ya) – bu gecə.",
+   "en": "The moon is up: 夜 (yoru), night; 今夜 (kon'ya), tonight.",
+   "ru": "Луна взошла: 夜 (ёру) – ночь; 今夜 (конъя) – сегодня ночью."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "村",
+  "on": "ソン",
+  "kun": "むら",
+  "az": "kənd",
+  "en": "village",
+  "ru": "деревня",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "高",
+  "on": "コウ",
+  "kun": "たか、たかい、たかさ、たかまる、たかぶる、たかめる",
+  "az": "hündür, bahalı",
+  "en": "high",
+  "ru": "высокий, дорогой",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "#",
+   "口",
+   "冂",
+   "口"
+  ],
+  "mense": {
+   "az": "Hündür bir qüllənin şəklidir: yuxarıda dam, ortada baxış pəncərəsi, aşağıda darvazalı bünövrə. Belə qüllədən uzaqlar görünürdü, ona görə məna \"hündür\" oldu.",
+   "en": "A picture of a tall tower: a roof on top, a lookout window in the middle and a gated base below. From such a tower you could see far, so the meaning became \"high\".",
+   "ru": "Рисунок высокой башни: сверху крыша, посередине смотровое окно, внизу основание с воротами. С такой башни было видно далеко, отсюда значение «высокий»."
+  },
+  "hekaye": {
+   "az": "Mərtəbə-mərtəbə yüksələn qüllə: 高い (takai) – hündür; baha. 高校 (koukou) – lisey.",
+   "en": "A tower rising floor by floor: 高い (takai), tall; expensive. 高校 (koukou), high school.",
+   "ru": "Башня, поднимающаяся этаж за этажом: 高い (такай) – высокий; дорогой. 高校 (коко) – старшая школа."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "由",
+  "on": "ユ、ユウ、ユイ",
+  "kun": "よし",
+  "az": "səbəb",
+  "en": "reason",
+  "ru": "причина",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "決",
+  "on": "ケツ",
+  "kun": "き、きめる、きまる",
+  "az": "qərara almaq",
+  "en": "decide",
+  "ru": "решать",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "大",
+   "#"
+  ],
+  "mense": {
+   "az": "Solda su (氵), sağda yarmaq (夬): bəndi yarıb suyun yolunu açmaq. Buradan \"qəti qərar vermək\" mənası yarandı.",
+   "en": "Water (氵) on the left, to break open (夬) on the right: breaking a dyke to let the water through. From this came \"to decide\".",
+   "ru": "Слева вода (氵), справа прорывать (夬): прорвать плотину и пустить воду. Отсюда – «решать»."
+  },
+  "hekaye": {
+   "az": "Bəndi aç, qərar ver: 決めます (kimemasu) – qərar verirəm.",
+   "en": "Open the dyke, decide: 決めます (kimemasu), to decide.",
+   "ru": "Открой плотину – реши: 決めます (кимэмасу) – решать."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "二",
+  "on": "ニ",
+  "kun": "ふた、ふたつ、ふたり",
+  "az": "iki",
+  "en": "two",
+  "ru": "два",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "悪",
+  "on": "アク、オ",
+  "kun": "わる、あ、わるい、わるさ、あし、あしき",
+  "az": "pis",
+  "en": "bad, evil",
+  "ru": "плохой, злой",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "実",
+  "on": "ジツ",
+  "kun": "み、みの、みのる、みのり",
+  "az": "həqiqi; meyvə",
+  "en": "real, fruit, nut",
+  "ru": "настоящий; плод",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "一",
+   "一",
+   "一",
+   "人"
+  ],
+  "mense": {
+   "az": "Köhnə forması 實: ev (宀) və içində ipə düzülmüş pul. Dolu ev – dolu, həqiqi; sonra ağacın meyvəsi.",
+   "en": "The old form 實: a house (宀) with strings of coins inside. A full house – full, real; later also the fruit of a tree.",
+   "ru": "Старая форма 實: дом (宀), а в нём связки монет. Полный дом – полный, настоящий; позже и плод."
+  },
+  "hekaye": {
+   "az": "Dolu ev: 実は (jitsu wa) – əslində, 実 (mi) – meyvə.",
+   "en": "A full house: 実は (jitsu wa), actually; 実 (mi), fruit.",
+   "ru": "Полный дом: 実は (дзицу ва) – на самом деле; 実 (ми) – плод."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "発",
+  "on": "ハツ、ホツ",
+  "kun": "た、たつ",
+  "az": "başlamaq, yola düşmək",
+  "en": "start, emit",
+  "ru": "отправление, выпускать",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "癶",
+   "#",
+   "儿"
+  ],
+  "mense": {
+   "az": "Köhnə formada iki ayaq (癶) və yay (弓): ayaqlarını qoyub oxu buraxmaq – yola düşmək, başlamaq.",
+   "en": "The old form had two feet (癶) and a bow (弓): planting the feet and letting the arrow fly – to set out, to start.",
+   "ru": "В старой форме две ноги (癶) и лук (弓): упереть ноги и пустить стрелу – отправляться, начинать."
+  },
+  "hekaye": {
+   "az": "Ox uçdu: 出発 (shuppatsu) – yola düşmək, 発表 (happyou) – təqdimat.",
+   "en": "The arrow is off: 出発 (shuppatsu), departure; 発表 (happyou), presentation.",
+   "ru": "Стрела летит: 出発 (сюппацу) – отправление; 発表 (хаппё:) – доклад."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "森",
+  "on": "シン",
+  "kun": "もり",
+  "az": "meşə",
+  "en": "forest",
+  "ru": "лес",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "木",
+   "木",
+   "木"
+  ],
+  "mense": {
+   "az": "Üç ağac (木) bir yerdə: biri üstdə, ikisi altda. Çin yazısında üç eyni işarə \"çoxluq\" deməkdir, ona görə 森 sıx, qalın meşədir.",
+   "en": "Three trees (木) together, one above and two below. In Chinese characters three of the same sign mean \"a lot\", so 森 is a thick, dense forest.",
+   "ru": "Три дерева (木) вместе: одно сверху, два снизу. В иероглифике три одинаковых знака означают «много», поэтому 森 – густой лес."
+  },
+  "hekaye": {
+   "az": "Bir ağac 木, iki ağac 林, üç ağac 森 (mori) – sıx meşə.",
+   "en": "One tree 木, two trees 林, three trees 森 (mori), a dense forest.",
+   "ru": "Одно дерево 木, два 林, три 森 (мори) – густой лес."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "同",
+  "on": "ドウ",
+  "kun": "おな、おなじ、おなじく",
+  "az": "eyni",
+  "en": "same",
+  "ru": "одинаковый",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "走",
+  "on": "ソウ",
+  "kun": "はし、はしる、はしり",
+  "az": "qaçmaq",
+  "en": "run",
+  "ru": "бежать",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "走"
+  ],
+  "mense": {
+   "az": "Üst hissə qollarını yelləyən insandır, alt hissə ayaq (止). Bərk addımlayan, qaçan insan.",
+   "en": "The top is a person swinging the arms, the bottom is a foot (止): a person running.",
+   "ru": "Сверху человек, размахивающий руками, снизу нога (止): бегущий человек."
+  },
+  "hekaye": {
+   "az": "Qollar yellənir, ayaq tələsir: 走ります (hashirimasu) – qaçıram.",
+   "en": "Arms swing, feet hurry: 走ります (hashirimasu), to run.",
+   "ru": "Руки машут, ноги спешат: 走ります (хасиримасу) – бегать."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "寒",
+  "on": "カン",
+  "kun": "さむ、さむい",
+  "az": "soyuq",
+  "en": "cold",
+  "ru": "холодный",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "暑",
+  "on": "ショ",
+  "kun": "あつ、あつい、あつさ",
+  "az": "isti (hava)",
+  "en": "summer heat, hot",
+  "ru": "жаркий",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "石",
+  "on": "セキ、シャク、コク",
+  "kun": "いし",
+  "az": "daş",
+  "en": "stone",
+  "ru": "камень",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "石"
+  ],
+  "mense": {
+   "az": "Solda və yuxarıda qaya yamacı (厂), onun altında bir daş parçası (口). Qədim yazıda da qayanın dibinə düşmüş daş belə çəkilirdi.",
+   "en": "A cliff face (厂) at the top and left, with a block of stone (口) beneath it. Early script drew a rock fallen at the foot of a cliff in the same way.",
+   "ru": "Слева и сверху склон утёса (厂), под ним кусок камня (口). В древнем письме камень у подножия скалы рисовали так же."
+  },
+  "hekaye": {
+   "az": "Qayanın dibində daş: 石 (ishi) – daş. 磁石 (jishaku) – maqnit, \"çəkən daş\".",
+   "en": "A stone at the foot of a cliff: 石 (ishi), stone. 磁石 (jishaku), magnet: \"attracting stone\".",
+   "ru": "Камень у подножия скалы: 石 (иси) – камень. 磁石 (дзисяку) – магнит, «притягивающий камень»."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "工",
+  "on": "コウ、ク",
+  "kun": "",
+  "az": "istehsal, tikinti",
+  "en": "manufacture, construction",
+  "ru": "производство, работа",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "横",
+  "on": "オウ",
+  "kun": "よこ",
+  "az": "yan, en",
+  "en": "sideways, side",
+  "ru": "бок, поперёк",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "向",
+  "on": "コウ",
+  "kun": "む、むく、むき、むける、むかう、むこう",
+  "az": "üz tutmaq, istiqamət",
+  "en": "turn toward, face toward",
+  "ru": "обращаться к, направление",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "談",
+  "on": "ダン",
+  "kun": "",
+  "az": "söhbət",
+  "en": "talk, conversation",
+  "ru": "беседа",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "期",
+  "on": "キ、ゴ",
+  "kun": "",
+  "az": "dövr, müddət",
+  "en": "term, time, expect",
+  "ru": "период, срок",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "晴",
+  "on": "セイ",
+  "kun": "は、はれる、はれ、はらす",
+  "az": "açıq hava",
+  "en": "fine weather, clear up",
+  "ru": "ясная погода",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "日",
+   "龶",
+   "月"
+  ],
+  "mense": {
+   "az": "Solda günəş (日), sağda göy (青; səs verir): günəşli mavi göy – açıq hava.",
+   "en": "The sun (日) on the left, blue (青; sound) on the right: a sunny blue sky – clear weather.",
+   "ru": "Слева солнце (日), справа синий (青; звучание): солнечное синее небо – ясная погода."
+  },
+  "hekaye": {
+   "az": "Mavi göy, günəş: 晴れ (hare) – açıq hava, 晴れます (haremasu) – hava açılır.",
+   "en": "Blue sky, sun: 晴れ (hare), clear weather; 晴れます (haremasu), to clear up.",
+   "ru": "Синее небо, солнце: 晴れ (харэ) – ясно; 晴れます (харэмасу) – проясняться."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "夕",
+  "on": "セキ",
+  "kun": "ゆう",
+  "az": "axşam",
+  "en": "evening",
+  "ru": "вечер",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "夕"
+  ],
+  "mense": {
+   "az": "Aypara ayın şəklidir və əvvəllər 月 ilə eyni işarə idi. Ay axşam doğduğu üçün sonradan bu forma ayrıca \"axşam\" mənasında işlənməyə başladı.",
+   "en": "It is a picture of the crescent moon and was once the same sign as 月. Because the moon rises in the evening, this shape came to mean \"evening\" on its own.",
+   "ru": "Это рисунок месяца, когда-то он был тем же знаком, что и 月. Поскольку луна восходит вечером, эта форма стала отдельно значить «вечер»."
+  },
+  "hekaye": {
+   "az": "İçində bir xətti olan yarımçıq ay: 夕 – axşam. 夕方 (yuugata) – axşamüstü, 夕食 (yuushoku) – şam yeməyi.",
+   "en": "A half-moon with one line inside: 夕, evening. 夕方 (yuugata) early evening, 夕食 (yuushoku) dinner.",
+   "ru": "Полумесяц с одной чертой внутри: 夕 – вечер. 夕方 (югата) – под вечер, 夕食 (юсёку) – ужин."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "三",
+  "on": "サン",
+  "kun": "み、みっか、みっつ、みっ",
+  "az": "üç",
+  "en": "three",
+  "ru": "три",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "正",
+  "on": "セイ、ショウ",
+  "kun": "ただ、ただしい、ただす、まさ、まさに",
+  "az": "düz, doğru",
+  "en": "right, correct",
+  "ru": "правильный",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "様",
+  "on": "ヨウ",
+  "kun": "さま",
+  "az": "tərz; cənab/xanım",
+  "en": "mode, way, formal title, manner",
+  "ru": "образ, вид; господин",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "昔",
+  "on": "セキ、シャク",
+  "kun": "むかし",
+  "az": "keçmiş, qədim",
+  "en": "former times, antiquity",
+  "ru": "давно, старина",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "昔"
+  ],
+  "mense": {
+   "az": "Altda günəş (日), üstdə üst-üstə yığılmış laylar: çoxdan keçmiş, üst-üstə qalanmış günlər – keçmiş.",
+   "en": "The sun (日) below, stacked layers above: days piled up long ago – the old days.",
+   "ru": "Внизу солнце (日), сверху наслоения: давно прошедшие, наслоившиеся дни – старина."
+  },
+  "hekaye": {
+   "az": "Yığılmış günlər: 昔 (mukashi) – çoxdan, keçmişdə; 昔話 (mukashibanashi) – nağıl.",
+   "en": "Piled-up days: 昔 (mukashi), long ago; 昔話 (mukashibanashi), folk tale.",
+   "ru": "Сложенные дни: 昔 (мукаси) – давно; 昔話 (мукасибанаси) – сказка."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "洋",
+  "on": "ヨウ",
+  "kun": "",
+  "az": "okean; qərb",
+  "en": "ocean, western",
+  "ru": "океан; западный",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "申",
+  "on": "シン",
+  "kun": "もう、もうす、もうし",
+  "az": "ərz etmək (təvazökar)",
+  "en": "report, speak humbly",
+  "ru": "говорить (скромно)",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "申"
+  ],
+  "mense": {
+   "az": "Göydə şaxələnən ildırımın şəkli. Sonra \"bildirmək\" oldu; yapon dilində 申します – \"adım ...dır\" (təvazökar).",
+   "en": "A picture of lightning branching across the sky. Later \"to state\"; in Japanese 申します, \"my name is...\" (humble).",
+   "ru": "Рисунок ветвящейся молнии. Позже «сообщать»; в японском 申します – «меня зовут...» (скромно)."
+  },
+  "hekaye": {
+   "az": "Təvazökar söz: 申します (moushimasu) – deyirəm, adım ...dır.",
+   "en": "A humble word: 申します (moushimasu), I am called...",
+   "ru": "Скромное слово: 申します (мо:симасу) – меня зовут..."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "死",
+  "on": "シ",
+  "kun": "し、しぬ、しに",
+  "az": "ölüm",
+  "en": "die, death",
+  "ru": "смерть",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "式",
+  "on": "シキ",
+  "kun": "",
+  "az": "üslub, mərasim",
+  "en": "style, ceremony",
+  "ru": "стиль, церемония",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "弋",
+   "工"
+  ],
+  "mense": {
+   "az": "Sağda dirək (弋; səs verir), içində alət (工): işi görmək üçün müəyyən qayda – üsul, mərasim.",
+   "en": "A stake (弋; sound) with a tool (工) inside: a fixed way of doing work – a method, a ceremony.",
+   "ru": "Колышек (弋; звучание) с инструментом (工) внутри: установленный порядок дела – способ, церемония."
+  },
+  "hekaye": {
+   "az": "Qayda ilə: 結婚式 (kekkonshiki) – toy, 入学式 (nyuugakushiki) – məktəbə qəbul mərasimi.",
+   "en": "By the rules: 結婚式 (kekkonshiki), wedding; 入学式 (nyuugakushiki), entrance ceremony.",
+   "ru": "По правилам: 結婚式 (кэккон-сики) – свадьба; 入学式 (ню:гаку-сики) – церемония поступления."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "悲",
+  "on": "ヒ",
+  "kun": "かな、かなしい、かなしむ、かなしさ、かなしみ",
+  "az": "kədərli",
+  "en": "sad",
+  "ru": "грустный",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "幸",
+  "on": "コウ",
+  "kun": "さいわ、さいわい、さち、しあわ、しあわせ",
+  "az": "xoşbəxtlik",
+  "en": "happiness, happy",
+  "ru": "счастье",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "反",
+  "on": "ハン、ホン、タン",
+  "kun": "そ、そる、そらす",
+  "az": "əks, anti-",
+  "en": "counter, anti-",
+  "ru": "против, анти-",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "対",
+  "on": "タイ、ツイ",
+  "kun": "",
+  "az": "qarşı, cüt",
+  "en": "oppose, opposite, against",
+  "ru": "против, пара",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "小",
+  "on": "ショウ",
+  "kun": "ちい、ちいさい、こ、お",
+  "az": "kiçik",
+  "en": "small",
+  "ru": "маленький",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "小"
+  ],
+  "mense": {
+   "az": "Üç kiçik nöqtədir: qum dənələri və ya xırda hissəciklər. Ortadakı nöqtə zamanla uzanıb şaquli xəttə çevrildi.",
+   "en": "Three tiny dots: grains of sand or small specks. Over time the middle dot stretched into a vertical stroke.",
+   "ru": "Три крошечные точки: песчинки или мелкие крупинки. Со временем средняя точка вытянулась в вертикальную черту."
+  },
+  "hekaye": {
+   "az": "Ortada bir çöp, yanlarda iki dənə: 小. 小さい (chiisai) – kiçik, 小学校 (shougakkou) – ibtidai məktəb.",
+   "en": "A stick in the middle and two grains at the sides: 小. 小さい (chiisai) small, 小学校 (shougakkou) primary school.",
+   "ru": "Палочка посередине и две крупинки по бокам: 小. 小さい (тиисай) – маленький, 小学校 (сёгакко) – начальная школа."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "島",
+  "on": "トウ",
+  "kun": "しま",
+  "az": "ada",
+  "en": "island",
+  "ru": "остров",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "鳥",
+   "山"
+  ],
+  "mense": {
+   "az": "Quş (鳥) və dağ (山): dənizdə quşların qonduğu dağ – ada.",
+   "en": "A bird (鳥) and a mountain (山): a mountain in the sea where birds land – an island.",
+   "ru": "Птица (鳥) и гора (山): гора в море, где садятся птицы, – остров."
+  },
+  "hekaye": {
+   "az": "Quşlu dağ: 島 (shima) – ada, 島国 (shimaguni) – ada ölkəsi.",
+   "en": "A mountain with birds: 島 (shima), island; 島国 (shimaguni), island nation.",
+   "ru": "Гора с птицами: 島 (сима) – остров; 島国 (симагуни) – островная страна."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "級",
+  "on": "キュウ",
+  "kun": "",
+  "az": "dərəcə, sinif",
+  "en": "grade",
+  "ru": "ранг, класс",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "面",
+  "on": "メン",
+  "kun": "おも、おもて、つら",
+  "az": "üz, səth",
+  "en": "face, mask, surface",
+  "ru": "лицо, поверхность",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "第",
+  "on": "ダイ",
+  "kun": "",
+  "az": "sıra ön şəkilçisi",
+  "en": "ordinal number prefix, degree",
+  "ru": "порядковый префикс",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "係",
+  "on": "ケイ",
+  "kun": "かか、かかる、かかり、かかわる、かかわり",
+  "az": "əlaqə; məsul şəxs",
+  "en": "connect, person in charge",
+  "ru": "связь; ответственный",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "有",
+  "on": "ユウ、ウ",
+  "kun": "あ、ある",
+  "az": "var olmaq",
+  "en": "have",
+  "ru": "иметь",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "感",
+  "on": "カン",
+  "kun": "",
+  "az": "hiss etmək",
+  "en": "sense, feel",
+  "ru": "чувство",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "数",
+  "on": "スウ、ス",
+  "kun": "かず、かぞ、かぞえる",
+  "az": "say, saymaq",
+  "en": "number, count",
+  "ru": "число, считать",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "化",
+  "on": "カ、ケ",
+  "kun": "ば、ばける、ばかす",
+  "az": "çevrilmək",
+  "en": "change into",
+  "ru": "превращаться",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "科",
+  "on": "カ",
+  "kun": "",
+  "az": "fənn, şöbə",
+  "en": "subject of study",
+  "ru": "предмет, отделение",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "苦",
+  "on": "ク",
+  "kun": "くる、にが、くるしい、くるしむ、くるしめる、にがい、にがる",
+  "az": "əzab, acı",
+  "en": "suffering, bitter, painful",
+  "ru": "страдание, горький",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "十",
+   "口"
+  ],
+  "mense": {
+   "az": "Üstdə ot (艹), altda köhnə (古; səs verir): acı dadan ot – acı, əziyyət.",
+   "en": "Grass (艹) on top, old (古; sound) below: a bitter-tasting herb – bitter, hardship.",
+   "ru": "Сверху трава (艹), снизу старый (古; звучание): горькая трава – горький, страдание."
+  },
+  "hekaye": {
+   "az": "Acı ot: 苦い (nigai) – acı, 苦しい (kurushii) – ağır, əziyyətli.",
+   "en": "A bitter herb: 苦い (nigai), bitter; 苦しい (kurushii), painful, hard.",
+   "ru": "Горькая трава: 苦い (нигай) – горький; 苦しい (курусий) – тяжёлый."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "声",
+  "on": "セイ、ショウ",
+  "kun": "こえ、こわ",
+  "az": "səs",
+  "en": "voice",
+  "ru": "голос",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "士",
+   "#"
+  ],
+  "mense": {
+   "az": "Köhnə forması 聲 idi: daş zəng (殸) və qulaq (耳). Qulağa çatan səs. Sonra sadələşib 声 oldu.",
+   "en": "The old form was 聲: a stone chime (殸) and an ear (耳), the sound that reaches the ear. Later it was simplified to 声.",
+   "ru": "Старая форма 聲: каменный колокол (殸) и ухо (耳) – звук, доходящий до уха. Позже упрощено до 声."
+  },
+  "hekaye": {
+   "az": "Qulağa çatan səs: 声 (koe) – insan səsi, 大きい声 (ookii koe) – uca səs.",
+   "en": "The sound reaching the ear: 声 (koe), voice; 大きい声 (ookii koe), a loud voice.",
+   "ru": "Звук для уха: 声 (коэ) – голос; 大きい声 (о:кий коэ) – громкий голос."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "力",
+  "on": "リョク、リキ",
+  "kun": "ちから",
+  "az": "güc",
+  "en": "power, force",
+  "ru": "сила",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "力"
+  ],
+  "mense": {
+   "az": "Qədim kotanın şəklidir: əyri dəstək və torpağı yaran iti uc. Torpağı şumlamaq böyük güc istəyirdi, ona görə işarə \"güc\" mənasını aldı.",
+   "en": "A picture of an ancient plough: a bent handle and a sharp tip that splits the soil. Ploughing took great effort, so the sign came to mean \"strength\".",
+   "ru": "Рисунок древнего плуга: изогнутая рукоять и острый наконечник, вспарывающий землю. Пахота требовала большой силы, и знак стал значить «сила»."
+  },
+  "hekaye": {
+   "az": "Kotanla şum = güc: 力 (chikara). Tarla (田) + güc (力) = 男 (otoko) – kişi.",
+   "en": "Ploughing = strength: 力 (chikara). Field (田) + strength (力) = 男 (otoko), man.",
+   "ru": "Пахать плугом = сила: 力 (тикара). Поле (田) + сила (力) = 男 (отоко) – мужчина."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "落",
+  "on": "ラク",
+  "kun": "お、おちる、おとす",
+  "az": "düşmək",
+  "en": "fall",
+  "ru": "падать",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "氵",
+   "夂",
+   "口"
+  ],
+  "mense": {
+   "az": "Üstdə ot (艹), altda 洛 (səs verir): ağacdan, otdan yarpaqların düşməsi – düşmək.",
+   "en": "Grass (艹) on top, 洛 (sound) below: leaves dropping from plants – to fall.",
+   "ru": "Сверху трава (艹), снизу 洛 (звучание): листья падают с растений – падать."
+  },
+  "hekaye": {
+   "az": "Yarpaq düşür: 落ちます (ochimasu) – düşür, 落とします (otoshimasu) – salıram.",
+   "en": "Leaves fall: 落ちます (ochimasu), to fall; 落とします (otoshimasu), to drop.",
+   "ru": "Лист падает: 落ちます (отимасу) – падать; 落とします (отосимасу) – ронять."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "具",
+  "on": "グ",
+  "kun": "",
+  "az": "alət, vasitə",
+  "en": "implement, tool",
+  "ru": "инструмент",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "具"
+  ],
+  "mense": {
+   "az": "Üstdə qiymətli qab (目 kimi), altda onu tutan iki əl. Əllə tutulan əşya – alət, avadanlıq.",
+   "en": "A precious vessel (like 目) above two hands holding it: a thing held in the hands – a tool, equipment.",
+   "ru": "Сверху ценный сосуд (как 目), снизу две руки, держащие его: предмет в руках – инструмент, принадлежность."
+  },
+  "hekaye": {
+   "az": "Əldə tutulan şey: 道具 (dougu) – alət, 家具 (kagu) – mebel.",
+   "en": "A thing in the hands: 道具 (dougu), tool; 家具 (kagu), furniture.",
+   "ru": "Вещь в руках: 道具 (до:гу) – инструмент; 家具 (кагу) – мебель."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "流",
+  "on": "リュウ、ル",
+  "kun": "なが、ながれる、ながれ、ながす",
+  "az": "axın, axmaq",
+  "en": "flow, current, style",
+  "ru": "течение, течь",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "光",
+  "on": "コウ",
+  "kun": "ひか、ひかる、ひかり",
+  "az": "işıq",
+  "en": "light",
+  "ru": "свет",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "助",
+  "on": "ジョ",
+  "kun": "たす、たすける、たすかる、すけ",
+  "az": "kömək",
+  "en": "help, rescue, assistance",
+  "ru": "помощь",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "深",
+  "on": "シン",
+  "kun": "ふか、ふかい、ふかまる、ふかめる",
+  "az": "dərin",
+  "en": "deep",
+  "ru": "глубокий",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "想",
+  "on": "ソウ、ソ",
+  "kun": "",
+  "az": "fikir, düşüncə",
+  "en": "conceive, idea, thought",
+  "ru": "мысль, идея",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "平",
+  "on": "ヘイ、ビョウ",
+  "kun": "たい、ひらたい、たいら、ひら",
+  "az": "düz, sakit",
+  "en": "flat, calm",
+  "ru": "ровный, спокойный",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "進",
+  "on": "シン",
+  "kun": "すす、すすむ、すすめる",
+  "az": "irəliləmək",
+  "en": "advance, progress",
+  "ru": "продвигаться",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "追",
+  "on": "ツイ",
+  "kun": "おう、お",
+  "az": "qovmaq, izləmək",
+  "en": "chase, pursue",
+  "ru": "гнаться",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "#",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Solda yol (辶), sağda 𠂤 (dəstə, ordu): dəstənin ardınca getmək – qovmaq, arxasınca düşmək.",
+   "en": "The road (辶) on the left, 𠂤 (a troop) on the right: going after a troop – to chase, to follow.",
+   "ru": "Слева дорога (辶), справа 𠂤 (отряд): идти вслед за отрядом – гнаться, следовать."
+  },
+  "hekaye": {
+   "az": "Ardınca get: 追います (oimasu) – qovuram, 追いかけます – arxasınca qaçıram.",
+   "en": "Go after it: 追います (oimasu), to chase; 追いかけます, to run after.",
+   "ru": "Иди вслед: 追います (оимасу) – гнаться; 追いかけます – бежать следом."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "代",
+  "on": "ダイ、タイ",
+  "kun": "かわる、かわり、かえる、よ、しろ、か",
+  "az": "əvəz; nəsil; haqq",
+  "en": "substitute, generation, charge",
+  "ru": "замена; поколение; плата",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "州",
+  "on": "シュウ",
+  "kun": "す",
+  "az": "ştat, vilayət",
+  "en": "state",
+  "ru": "штат, провинция",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "福",
+  "on": "フク",
+  "kun": "",
+  "az": "xoşbəxtlik, bəxt",
+  "en": "fortune",
+  "ru": "удача, счастье",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "倍",
+  "on": "バイ",
+  "kun": "",
+  "az": "qat, iki dəfə",
+  "en": "times, double",
+  "ru": "раз, вдвое",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "詩",
+  "on": "シ",
+  "kun": "",
+  "az": "şeir",
+  "en": "poetry, poem",
+  "ru": "стихи",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "打",
+  "on": "ダ",
+  "kun": "うつ、うち",
+  "az": "vurmaq",
+  "en": "strike, hit",
+  "ru": "ударять",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "形",
+  "on": "ケイ、ギョウ",
+  "kun": "かた、かたち",
+  "az": "forma",
+  "en": "shape",
+  "ru": "форма",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "命",
+  "on": "メイ、ミョウ",
+  "kun": "いのち",
+  "az": "həyat; əmr",
+  "en": "order, life",
+  "ru": "жизнь; приказ",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "客",
+  "on": "キャク、カク",
+  "kun": "",
+  "az": "qonaq, müştəri",
+  "en": "visitor, customer, guest",
+  "ru": "гость, клиент",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "息",
+  "on": "ソク",
+  "kun": "いき",
+  "az": "nəfəs",
+  "en": "breath",
+  "ru": "дыхание",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "自",
+   "心"
+  ],
+  "mense": {
+   "az": "Üstdə burun (自), altda ürək (心): burundan gələn, ürəkdən çıxan nəfəs.",
+   "en": "A nose (自) above a heart (心): the breath that comes through the nose from the chest.",
+   "ru": "Сверху нос (自), снизу сердце (心): дыхание, идущее из груди через нос."
+  },
+  "hekaye": {
+   "az": "Nəfəs: 息 (iki) – nəfəs, 息子 (musuko) – oğul.",
+   "en": "Breath: 息 (iki), breath; 息子 (musuko), son.",
+   "ru": "Дыхание: 息 (ики) – дыхание; 息子 (мусуко) – сын."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "拾",
+  "on": "シュウ、ジュウ",
+  "kun": "ひろ、ひろう",
+  "az": "yerdən götürmək",
+  "en": "pick up, ten (in documents)",
+  "ru": "подбирать",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "丸",
+  "on": "ガン",
+  "kun": "まる、まるい、まるめる",
+  "az": "dəyirmi",
+  "en": "round, suffix for names of ships/people",
+  "ru": "круглый",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "岸",
+  "on": "ガン",
+  "kun": "きし",
+  "az": "sahil",
+  "en": "shore, bank, coast",
+  "ru": "берег",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "組",
+  "on": "ソ",
+  "kun": "く、くむ、くみ",
+  "az": "qrup, qurmaq",
+  "en": "organize, assemble, group, class, gang",
+  "ru": "группа, составлять",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "守",
+  "on": "シュ、ス",
+  "kun": "まも、もり、まもる、まもり",
+  "az": "qorumaq, əməl etmək",
+  "en": "protect, obey, babysitter",
+  "ru": "защищать, соблюдать",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "商",
+  "on": "ショウ",
+  "kun": "あきな、あきなう、あきない",
+  "az": "ticarət",
+  "en": "trade, deal",
+  "ru": "торговля",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "立",
+   "冂",
+   "儿",
+   "口"
+  ],
+  "mense": {
+   "az": "Qədim Şan (商) dövlətinin adı idi. Məşhur bir izaha görə, bu xalq ticarətlə tanındığı üçün \"alver, ticarət\" mənası yarandı.",
+   "en": "It was the name of the ancient Shang (商) state. A popular explanation says its people were known as traders, so it came to mean \"trade\".",
+   "ru": "Это название древнего государства Шан (商). По распространённому объяснению, его жители славились торговлей, отсюда – «торговля»."
+  },
+  "hekaye": {
+   "az": "Tacir xalq: 商品 (shouhin) – mal, 商店 (shouten) – dükan.",
+   "en": "A people of traders: 商品 (shouhin), goods; 商店 (shouten), shop.",
+   "ru": "Народ торговцев: 商品 (сё:хин) – товар; 商店 (сё:тэн) – лавка."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "農",
+  "on": "ノウ",
+  "kun": "",
+  "az": "əkinçilik",
+  "en": "farming, agriculture",
+  "ru": "земледелие",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "門",
+  "on": "モン",
+  "kun": "かど",
+  "az": "qapı (darvaza)",
+  "en": "gate",
+  "ru": "ворота",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "門"
+  ],
+  "mense": {
+   "az": "Ən qədim yazıda da elə bugünkü kimidir: iki dirəyə bərkidilmiş iki taylı darvaza. Sonradan bu şəkil \"qapı\" ilə yanaşı \"məktəb, sənət sahəsi\" mənasını da qazandı, çünki ustanın darvazasından içəri girən onun şagirdi sayılırdı.",
+   "en": "The oldest script already shows what we see today: a gate with two doors hung on two posts. Later it also came to mean \"school, field of study\", because whoever entered a master's gate became his pupil.",
+   "ru": "Уже в древнейшем письме знак выглядит так же, как сегодня: ворота с двумя створками на двух столбах. Позже он стал значить и «школа, область знаний»: кто входил в ворота мастера, становился его учеником."
+  },
+  "hekaye": {
+   "az": "İki tay, iki dirək: 門. 門 (mon) – darvaza, 専門 (senmon) – ixtisas, 入門 (nyuumon) – başlanğıc kursu.",
+   "en": "Two doors, two posts: 門. 門 (mon) gate, 専門 (senmon) speciality, 入門 (nyuumon) introductory course.",
+   "ru": "Две створки, два столба: 門. 門 (мон) – ворота, 専門 (сэммон) – специальность, 入門 (нюмон) – вводный курс."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "根",
+  "on": "コン",
+  "kun": "ね",
+  "az": "kök",
+  "en": "root",
+  "ru": "корень",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "列",
+  "on": "レツ",
+  "kun": "",
+  "az": "sıra",
+  "en": "row",
+  "ru": "ряд",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "指",
+  "on": "シ",
+  "kun": "ゆび、さ、さす",
+  "az": "barmaq, göstərmək",
+  "en": "finger, point",
+  "ru": "палец, указывать",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "路",
+  "on": "ロ",
+  "kun": "じ",
+  "az": "yol",
+  "en": "road, way, street",
+  "ru": "дорога",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "章",
+  "on": "ショウ",
+  "kun": "",
+  "az": "fəsil; nişan",
+  "en": "chapter, badge",
+  "ru": "глава; значок",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "等",
+  "on": "トウ",
+  "kun": "ひと、ひとしい",
+  "az": "bərabər, və s.",
+  "en": "equal, class",
+  "ru": "равный, и т. д.",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "首",
+  "on": "シュ",
+  "kun": "くび",
+  "az": "boyun, baş",
+  "en": "head, neck, leader",
+  "ru": "шея, голова",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "坂",
+  "on": "ハン",
+  "kun": "さか",
+  "az": "yoxuş",
+  "en": "slope, hill",
+  "ru": "склон",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "植",
+  "on": "ショク",
+  "kun": "う、うえる、うわる",
+  "az": "əkmək (bitki)",
+  "en": "plant",
+  "ru": "сажать (растение)",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "算",
+  "on": "サン",
+  "kun": "",
+  "az": "hesablamaq",
+  "en": "calculate",
+  "ru": "считать, вычислять",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "毛",
+  "on": "モウ",
+  "kun": "け",
+  "az": "tük, yun",
+  "en": "hair, fur, feather, down",
+  "ru": "волос, шерсть",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "安",
+  "on": "アン",
+  "kun": "やす、やすい、やすまる、やすらか",
+  "az": "ucuz; sakit",
+  "en": "peaceful, inexpensive",
+  "ru": "дешёвый; спокойный",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "女"
+  ],
+  "mense": {
+   "az": "Damın (宀) altında oturan qadın (女). Evində rahat oturan insanın şəkli \"sakit, təhlükəsiz\" mənasını verir. Yapon dilində bu kanji həm də \"ucuz\" deməkdir.",
+   "en": "A woman (女) sitting under a roof (宀). A person sitting at ease in her home gives the meaning \"calm, safe\". In Japanese the kanji also means \"cheap\".",
+   "ru": "Женщина (女) под крышей (宀). Человек, спокойно сидящий у себя дома, дал значение «спокойный, безопасный». В японском этот кандзи значит ещё и «дешёвый»."
+  },
+  "hekaye": {
+   "az": "Evdə qadın, evdə rahatlıq: 安心 (anshin) – arxayınlıq, 安い (yasui) – ucuz.",
+   "en": "A woman at home, peace at home: 安心 (anshin) relief, 安い (yasui) cheap.",
+   "ru": "Женщина дома – покой в доме: 安心 (ансин) – спокойствие, 安い (ясуй) – дешёвый."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "板",
+  "on": "ハン、バン",
+  "kun": "いた",
+  "az": "lövhə, taxta",
+  "en": "board, plate",
+  "ru": "доска",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "虫",
+  "on": "チュウ",
+  "kun": "むし",
+  "az": "həşərat",
+  "en": "insect, bug",
+  "ru": "насекомое",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "虫"
+  ],
+  "mense": {
+   "az": "Əslində iri başlı, qıvrılan bir ilanın şəklidir. Sonra bu işarə bütün xırda canlıların, böcəklərin adına keçdi. Kanjilərdə yanda dursa, həşərat və ya sürünən bildirir: 蚊 (ağcaqanad), 蛇 (ilan).",
+   "en": "Originally a picture of a coiled snake with a big head. Later the sign came to cover all small creatures and insects. As a part of other kanji it marks bugs and reptiles: 蚊 (mosquito), 蛇 (snake).",
+   "ru": "Изначально это рисунок свернувшейся змеи с большой головой. Позже знак стал обозначать всех мелких существ и насекомых. В составе кандзи указывает на насекомых и пресмыкающихся: 蚊 (комар), 蛇 (змея)."
+  },
+  "hekaye": {
+   "az": "Başı yuxarıda, quyruğu qıvrılıb: 虫 (mushi) – böcək. 虫歯 (mushiba) – çürük diş, \"böcəkli diş\".",
+   "en": "Head up, tail curled: 虫 (mushi), insect. 虫歯 (mushiba), a decayed tooth, literally \"bug tooth\".",
+   "ru": "Голова вверх, хвост закручен: 虫 (муси) – насекомое. 虫歯 (мусиба) – кариес, буквально «зуб с жучком»."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "皮",
+  "on": "ヒ",
+  "kun": "かわ",
+  "az": "dəri, qabıq",
+  "en": "skin, hide, rind, leather, bark",
+  "ru": "кожа, кожура",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "鳥",
+  "on": "チョウ",
+  "kun": "とり",
+  "az": "quş",
+  "en": "bird, fowl, poultry",
+  "ru": "птица",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "鳥"
+  ],
+  "mense": {
+   "az": "Yan tərəfdən çəkilmiş quşdur: yuxarıda baş və göz, ortada bədən və qanad, aşağıdakı dörd nöqtə isə ayaqlar və quyruq lələkləri. Uzun quyruqlu quşlar üçün işlənən işarədir.",
+   "en": "A bird drawn from the side: head and eye at the top, body and wing in the middle, and the four dots at the bottom are legs and tail feathers. It was the sign for long-tailed birds.",
+   "ru": "Птица в профиль: сверху голова и глаз, посередине туловище и крыло, а четыре точки внизу – лапы и хвостовые перья. Знак обозначал длиннохвостых птиц."
+  },
+  "hekaye": {
+   "az": "Başında göz, altında ayaqlar: 鳥 (tori) – quş. 焼き鳥 (yakitori) – şişdə toyuq.",
+   "en": "An eye on the head, legs below: 鳥 (tori), bird. 焼き鳥 (yakitori), grilled chicken skewers.",
+   "ru": "Глаз на голове, лапки внизу: 鳥 (тори) – птица. 焼き鳥 (якитори) – куриные шашлычки."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "草",
+  "on": "ソウ",
+  "kun": "くさ",
+  "az": "ot",
+  "en": "grass",
+  "ru": "трава",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "油",
+  "on": "ユ",
+  "kun": "あぶら",
+  "az": "yağ",
+  "en": "oil",
+  "ru": "масло",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "玉",
+  "on": "ギョク",
+  "kun": "たま",
+  "az": "top, daş-qaş",
+  "en": "gem, jewel, ball",
+  "ru": "шар, драгоценность",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "皿",
+  "on": "–",
+  "kun": "さら",
+  "az": "boşqab",
+  "en": "plate, dish, saucer",
+  "ru": "тарелка",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "雲",
+  "on": "ウン",
+  "kun": "くも",
+  "az": "bulud",
+  "en": "cloud",
+  "ru": "облако",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "雨",
+   "云"
+  ],
+  "mense": {
+   "az": "Üstdə yağış (雨), altda 云 – burulan buludun köhnə şəkli. Bulud.",
+   "en": "Rain (雨) on top, 云 below – an old picture of a curling cloud. A cloud.",
+   "ru": "Сверху дождь (雨), снизу 云 – старый рисунок клубящегося облака. Облако."
+  },
+  "hekaye": {
+   "az": "Yağış gətirən: 雲 (kumo) – bulud.",
+   "en": "What brings rain: 雲 (kumo), cloud.",
+   "ru": "То, что несёт дождь: 雲 (кумо) – облако."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "育",
+  "on": "イク",
+  "kun": "そだ、そだつ、そだてる",
+  "az": "böyütmək",
+  "en": "raise",
+  "ru": "растить",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "鳴",
+  "on": "メイ",
+  "kun": "な、なく、なる、ならす",
+  "az": "ötmək, səslənmək",
+  "en": "cry, sound, ring, sing, howl",
+  "ru": "петь, звенеть",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "口",
+   "鳥"
+  ],
+  "mense": {
+   "az": "Ağız (口) və quş (鳥): quşun ağzından çıxan səs, ötmək. Sonra bütün heyvanların səsinə və zəngin, siqnalın səslənməsinə də aid oldu.",
+   "en": "Mouth (口) and bird (鳥): the sound coming from a bird's beak, to sing. Later it covered the cries of all animals and the ringing of bells and alarms.",
+   "ru": "Рот (口) и птица (鳥): звук из клюва птицы, петь. Позже так стали говорить о голосах всех животных и о звоне колоколов, сигналов."
+  },
+  "hekaye": {
+   "az": "Quşun ağzı açıldı: 鳴く (naku) – ötmək, miyovlamaq. 鳴る (naru) – zəng çalınmaq.",
+   "en": "A bird opens its beak: 鳴く (naku), to sing, to meow. 鳴る (naru), to ring.",
+   "ru": "Птица открыла клюв: 鳴く (наку) – петь, мяукать. 鳴る (нару) – звенеть."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "王",
+  "on": "オウ",
+  "kun": "",
+  "az": "kral",
+  "en": "king",
+  "ru": "король",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "王"
+  ],
+  "mense": {
+   "az": "Ən qədim yazılarda bu, enli tiyəli döyüş baltasıdır: hökmdarın gücünün rəmzi. Sonrakı dövrdə belə izah edildi: üç xətt göy, insan və yerdir, onları birləşdirən isə şahdır.",
+   "en": "In the oldest inscriptions this is a broad-bladed battle axe, the symbol of a ruler's power. A later explanation says the three lines are heaven, people and earth, and the one who joins them is the king.",
+   "ru": "В древнейших надписях это боевой топор с широким лезвием, символ власти правителя. Позднее толковали так: три черты – небо, люди и земля, а соединяющий их – царь."
+  },
+  "hekaye": {
+   "az": "Göyü, insanı və yeri bir xəttlə birləşdirən: 王 (ou) – şah. 王様 (ousama) – kral, 女王 (joou) – kraliça.",
+   "en": "The one who joins heaven, people and earth with one line: 王 (ou), king. 王様 (ousama) king, 女王 (joou) queen.",
+   "ru": "Тот, кто одной чертой соединяет небо, людей и землю: 王 (о) – царь. 王様 (осама) – король, 女王 (дзёо) – королева."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "貝",
+  "on": "–",
+  "kun": "かい",
+  "az": "balıqqulağı",
+  "en": "shellfish, shell",
+  "ru": "ракушка",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "糸",
+  "on": "シ",
+  "kun": "いと",
+  "az": "sap",
+  "en": "thread",
+  "ru": "нить",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "竹",
+  "on": "チク",
+  "kun": "たけ",
+  "az": "bambuk",
+  "en": "bamboo",
+  "ru": "бамбук",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "竹"
+  ],
+  "mense": {
+   "az": "Yanaşı bitən iki bambuk budağının şəklidir, hər birindən yarpaqlar aşağı sallanır. Başqa kanjilərin üstündə ⺮ şəklinə düşür və bambukdan düzəldilən əşyaları bildirir: 箱 (qutu), 筆 (fırça), 箸 (çubuqlar).",
+   "en": "A picture of two bamboo twigs growing side by side, leaves hanging down from each. On top of other kanji it shrinks to ⺮ and marks things made of bamboo: 箱 (box), 筆 (brush), 箸 (chopsticks).",
+   "ru": "Рисунок двух веточек бамбука рядом, с каждой свисают листья. Сверху других кандзи он сжимается до ⺮ и обозначает вещи из бамбука: 箱 (коробка), 筆 (кисть), 箸 (палочки)."
+  },
+  "hekaye": {
+   "az": "İki budaq, sallanan yarpaqlar: 竹 (take) – bambuk. Kanjinin başında ⺮ görsən, bambuku xatırla.",
+   "en": "Two twigs with drooping leaves: 竹 (take), bamboo. When you see ⺮ on top of a kanji, think of bamboo.",
+   "ru": "Две веточки с поникшими листьями: 竹 (такэ) – бамбук. Видишь ⺮ над кандзи – вспоминай бамбук."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "林",
+  "on": "リン",
+  "kun": "はやし",
+  "az": "meşəlik",
+  "en": "woods, forest",
+  "ru": "роща",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "木",
+   "木"
+  ],
+  "mense": {
+   "az": "İki ağac (木) yan-yana: bir neçə ağacın bir yerdə bitdiyi yer, meşəlik. Sağdakı ağac olduğu kimi qalır, soldakının isə son xətti qısalır.",
+   "en": "Two trees (木) side by side: a place where several trees grow together, a grove. The right tree stays whole, while the last stroke of the left one gets shorter.",
+   "ru": "Два дерева (木) рядом: место, где растут несколько деревьев, роща. Правое дерево остаётся целым, а у левого последняя черта укорачивается."
+  },
+  "hekaye": {
+   "az": "İki ağac = meşəlik: 林 (hayashi). Üçüncü ağacı əlavə et, 森 olsun.",
+   "en": "Two trees = a grove: 林 (hayashi). Add a third tree and you get 森.",
+   "ru": "Два дерева = роща: 林 (хаяси). Добавь третье – получится 森."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "羽",
+  "on": "ウ",
+  "kun": "は、わ、はね",
+  "az": "lələk, qanad",
+  "en": "feather, wing",
+  "ru": "перо, крыло",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "岩",
+  "on": "ガン",
+  "kun": "いわ",
+  "az": "qaya",
+  "en": "rock",
+  "ru": "скала",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "山",
+   "石"
+  ],
+  "mense": {
+   "az": "Dağ (山) və daş (石) birləşib: dağdakı iri daş, qaya. Bu, köhnə və mürəkkəb 巖 kanjisinin sadə formasıdır və Yaponiyada daha çox işlənir.",
+   "en": "Mountain (山) plus stone (石): a big stone on a mountain, a rock. It is a simple variant of the older, complex 巖 and is the usual form in Japan.",
+   "ru": "Гора (山) плюс камень (石): большой камень в горах, скала. Это простой вариант старого сложного 巖, в Японии пишут именно так."
+  },
+  "hekaye": {
+   "az": "Dağda daş = qaya: 岩 (iwa). 岩手 (Iwate) – Yaponiyada vilayət adı.",
+   "en": "A stone on a mountain = a rock: 岩 (iwa). 岩手 (Iwate) is a prefecture in Japan.",
+   "ru": "Камень на горе = скала: 岩 (ива). 岩手 (Ивате) – префектура в Японии."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "汽",
+  "on": "キ",
+  "kun": "",
+  "az": "buxar",
+  "en": "steam",
+  "ru": "пар",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "弓",
+  "on": "キュウ",
+  "kun": "ゆみ",
+  "az": "yay (ox atmaq üçün)",
+  "en": "bow",
+  "ru": "лук (оружие)",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "黄",
+  "on": "コウ、オウ",
+  "kun": "き、こ",
+  "az": "sarı",
+  "en": "yellow",
+  "ru": "жёлтый",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "谷",
+  "on": "コク",
+  "kun": "たに",
+  "az": "dərə",
+  "en": "valley",
+  "ru": "долина",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "矢",
+  "on": "シ",
+  "kun": "や",
+  "az": "ox",
+  "en": "arrow",
+  "ru": "стрела",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "星",
+  "on": "セイ、ショウ",
+  "kun": "ほし",
+  "az": "ulduz",
+  "en": "star",
+  "ru": "звезда",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "刀",
+  "on": "トウ",
+  "kun": "かたな",
+  "az": "qılınc",
+  "en": "sword",
+  "ru": "меч",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "刀"
+  ],
+  "mense": {
+   "az": "Bir tərəfi iti olan qılıncın və ya bıçağın şəklidir: yuxarıda dəstək, aşağıda əyilmiş tiyə. Başqa kanjilərin sağında 刂 şəklinə düşür: 切 (kəsmək), 前, 別.",
+   "en": "A picture of a single-edged sword or knife: the handle at the top and the curved blade below. On the right of other kanji it becomes 刂: 切 (cut), 前, 別.",
+   "ru": "Рисунок однолезвийного меча или ножа: сверху рукоять, снизу изогнутый клинок. Справа в других кандзи превращается в 刂: 切 (резать), 前, 別."
+  },
+  "hekaye": {
+   "az": "Dəstək və əyri tiyə: 刀 (katana) – qılınc. Yanda 刂 görsən, kəsmək ilə bağlıdır.",
+   "en": "Handle and curved blade: 刀 (katana), sword. If you see 刂 at the side, it is about cutting.",
+   "ru": "Рукоять и изогнутый клинок: 刀 (катана) – меч. Видишь 刂 сбоку – речь о резании."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "麦",
+  "on": "バク",
+  "kun": "むぎ",
+  "az": "buğda",
+  "en": "wheat",
+  "ru": "пшеница",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "米",
+  "on": "ベイ、マイ",
+  "kun": "こめ",
+  "az": "düyü; Amerika",
+  "en": "rice, America",
+  "ru": "рис; Америка",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "米"
+  ],
+  "mense": {
+   "az": "Qədim formada ortada üfüqi xətt, onun üstündə və altında üçər nöqtə var: sünbüldən tökülən düyü dənələri. Sonra nöqtələr birləşdi və bugünkü ulduza bənzər forma yarandı.",
+   "en": "In the ancient form a horizontal line has three dots above and three below: rice grains falling from the ear. Later the dots joined and the star-like shape of today appeared.",
+   "ru": "В древней форме горизонтальная черта, над ней и под ней по три точки: зёрна риса, осыпающиеся с колоса. Позже точки соединились, и возникла нынешняя звёздочка."
+  },
+  "hekaye": {
+   "az": "Dörd tərəfə səpələnən dənələr: 米 (kome) – düyü. 米国 (beikoku) – Amerika, çünki ölkə adı əvvəl 米 ilə səslə yazılırdı.",
+   "en": "Grains scattering in four directions: 米 (kome), rice. 米国 (beikoku), America, because the country's name was once spelt with 米 for its sound.",
+   "ru": "Зёрна, разлетающиеся в четыре стороны: 米 (комэ) – рис. 米国 (бэйкоку) – Америка: название страны когда-то записали через 米 по звучанию."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "委",
+  "on": "イ",
+  "kun": "",
+  "az": "həvalə etmək",
+  "en": "commit, entrust",
+  "ru": "поручать",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "央",
+  "on": "オウ",
+  "kun": "",
+  "az": "mərkəz",
+  "en": "center, middle",
+  "ru": "центр",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "宮",
+  "on": "キュウ、グウ、ク",
+  "kun": "みや",
+  "az": "saray, məbəd",
+  "en": "royal palace, Shinto shrine",
+  "ru": "дворец, храм",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "区",
+  "on": "ク",
+  "kun": "",
+  "az": "rayon",
+  "en": "district, ward",
+  "ru": "район",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "南",
+  "on": "ナン",
+  "kun": "みなみ",
+  "az": "cənub",
+  "en": "south",
+  "ru": "юг",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "血",
+  "on": "ケツ",
+  "kun": "ち",
+  "az": "qan",
+  "en": "blood",
+  "ru": "кровь",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "湖",
+  "on": "コ",
+  "kun": "みずうみ",
+  "az": "göl",
+  "en": "lake",
+  "ru": "озеро",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "昭",
+  "on": "ショウ",
+  "kun": "",
+  "az": "parlaq",
+  "en": "luminous, bright, clear",
+  "ru": "светлый",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "整",
+  "on": "セイ",
+  "kun": "ととの、ととのえる、ととのう",
+  "az": "qaydaya salmaq",
+  "en": "put in order, organize, prepared",
+  "ru": "упорядочивать",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "炭",
+  "on": "タン",
+  "kun": "すみ",
+  "az": "kömür",
+  "en": "coal, charcoal",
+  "ru": "уголь",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "柱",
+  "on": "チュウ",
+  "kun": "はしら",
+  "az": "sütun",
+  "en": "pillar, pole",
+  "ru": "столб",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "丁",
+  "on": "チョウ、テイ",
+  "kun": "",
+  "az": "məhəllə; sayğac",
+  "en": "town subsection, miscellaneous counter, even number",
+  "ru": "квартал; счётный суффикс",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "笛",
+  "on": "テキ",
+  "kun": "ふえ",
+  "az": "fleyta, fit",
+  "en": "flute, whistle",
+  "ru": "флейта, свисток",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "投",
+  "on": "トウ",
+  "kun": "な、なげる",
+  "az": "atmaq",
+  "en": "throw, send in",
+  "ru": "бросать",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "豆",
+  "on": "トウ、ズ",
+  "kun": "まめ",
+  "az": "paxla",
+  "en": "bean, pea, miniature",
+  "ru": "боб",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "童",
+  "on": "ドウ",
+  "kun": "わらべ",
+  "az": "uşaq",
+  "en": "child",
+  "ru": "ребёнок",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "波",
+  "on": "ハ",
+  "kun": "なみ",
+  "az": "dalğa",
+  "en": "wave",
+  "ru": "волна",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "皮"
+  ],
+  "mense": {
+   "az": "Solda su (氵), sağda dəri (皮; səs verir): suyun dərisi kimi qalxıb-enən səth – dalğa.",
+   "en": "Water (氵) on the left, skin (皮; sound) on the right: the rising and falling skin of the water – a wave.",
+   "ru": "Слева вода (氵), справа кожа (皮; звучание): поднимающаяся «кожа» воды – волна."
+  },
+  "hekaye": {
+   "az": "Suyun dərisi: 波 (nami) – dalğa, 電波 (denpa) – radio dalğası.",
+   "en": "The skin of the water: 波 (nami), wave; 電波 (denpa), radio wave.",
+   "ru": "Кожа воды: 波 (нами) – волна; 電波 (дэмпа) – радиоволна."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "古",
+  "on": "コ",
+  "kun": "ふる、ふるい",
+  "az": "köhnə",
+  "en": "old",
+  "ru": "старый",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "十",
+   "口"
+  ],
+  "mense": {
+   "az": "On (十) və ağız (口). Ənənəvi izaha görə on nəsil ağızdan-ağıza ötürülən söz artıq köhnədir. Bəzi alimlər isə ilk formada qalxan və ya dəbilqə görürlər. Hər iki halda məna \"qədim, köhnə\"dir.",
+   "en": "Ten (十) and mouth (口). The traditional explanation: words passed from mouth to mouth for ten generations are old. Some scholars see a shield or helmet in the earliest form. Either way the meaning is \"ancient, old\".",
+   "ru": "Десять (十) и рот (口). Традиционное толкование: слова, прошедшие из уст в уста через десять поколений, стали старыми. Некоторые учёные видят в ранней форме щит или шлем. Значение в любом случае «древний, старый»."
+  },
+  "hekaye": {
+   "az": "On ağızdan keçən söz köhnəlir: 古い (furui) – köhnə. 中古 (chuuko) – işlənmiş, ikinci əl.",
+   "en": "A word that has passed through ten mouths is old: 古い (furui), old. 中古 (chuuko), second-hand.",
+   "ru": "Слово, прошедшее через десять уст, стареет: 古い (фуруй) – старый. 中古 (тюко) – подержанный."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "西",
+  "on": "セイ、サイ",
+  "kun": "にし",
+  "az": "qərb",
+  "en": "west",
+  "ru": "запад",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "畑",
+  "on": "–",
+  "kun": "はた、はたけ",
+  "az": "tarla",
+  "en": "field, cultivated field",
+  "ru": "поле",
+  "ders": 0,
+  "kart": true,
+  "komponent": [
+   "火",
+   "田"
+  ],
+  "mense": {
+   "az": "Yaponiyada yaradılmış kanjidir (kokuji), Çində yoxdur. Od (火) və tarla (田): kolları yandırıb açılan quru əkin sahəsi. Su ilə basdırılan çəltik tarlası isə 田 ilə yazılır.",
+   "en": "A kanji created in Japan (kokuji); it does not exist in Chinese. Fire (火) plus field (田): a dry field cleared by burning the brush. A flooded rice paddy is written 田 alone.",
+   "ru": "Кандзи, созданный в Японии (кокудзи), в китайском его нет. Огонь (火) и поле (田): сухое поле, расчищенное выжиганием. Затопленное рисовое поле пишется просто 田."
+  },
+  "hekaye": {
+   "az": "Odla açılan tarla: 畑 (hatake) – bostan, quru tarla. 田んぼ (tanbo) isə sulu çəltik tarlasıdır.",
+   "en": "A field opened by fire: 畑 (hatake), a dry field or vegetable plot. 田んぼ (tanbo) is a wet rice paddy.",
+   "ru": "Поле, открытое огнём: 畑 (хатакэ) – сухое поле, огород. 田んぼ (тамбо) – заливное рисовое поле."
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "氷",
+  "on": "ヒョウ",
+  "kun": "こおり、ひ",
+  "az": "buz",
+  "en": "ice",
+  "ru": "лёд",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "羊",
+  "on": "ヨウ",
+  "kun": "ひつじ",
+  "az": "qoyun",
+  "en": "sheep",
+  "ru": "овца",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "陽",
+  "on": "ヨウ",
+  "kun": "ひ",
+  "az": "günəş",
+  "en": "sun, positive",
+  "ru": "солнце",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "四",
+  "on": "シ",
+  "kun": "よ、よん",
+  "az": "dörd",
+  "en": "four",
+  "ru": "четыре",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "五",
+  "on": "ゴ",
+  "kun": "いつ、いつつ",
+  "az": "beş",
+  "en": "five",
+  "ru": "пять",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "六",
+  "on": "ロク",
+  "kun": "む、むい、むっつ",
+  "az": "altı",
+  "en": "six",
+  "ru": "шесть",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "秒",
+  "on": "ビョウ",
+  "kun": "",
+  "az": "saniyə",
+  "en": "second (of time)",
+  "ru": "секунда",
+  "ders": 0,
+  "kart": false,
+  "komponent": [],
+  "mense": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "hekaye": {
+   "az": "",
+   "en": "",
+   "ru": ""
+  },
+  "ilk_soz_dersi": null,
+  "soz_sayi": 0,
+  "nümunə_sozler": []
+ }
+]

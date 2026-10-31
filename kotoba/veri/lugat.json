@@ -1,0 +1,7261 @@
+[
+ {
+  "ders": 1,
+  "soz": "私",
+  "oxunus": "わたし",
+  "romaji": "watashi",
+  "az": "mən"
+ },
+ {
+  "ders": 1,
+  "soz": "あなた",
+  "oxunus": "あなた",
+  "romaji": "anata",
+  "az": "sən, siz"
+ },
+ {
+  "ders": 1,
+  "soz": "あの人",
+  "oxunus": "あのひと",
+  "romaji": "ano hito",
+  "az": "o adam"
+ },
+ {
+  "ders": 1,
+  "soz": "あの方",
+  "oxunus": "あのかた",
+  "romaji": "ano kata",
+  "az": "o şəxs"
+ },
+ {
+  "ders": 1,
+  "soz": "～さん",
+  "oxunus": "～さん",
+  "romaji": "~san",
+  "az": "cənab~, xanım~ (nəzakətli ifadə)"
+ },
+ {
+  "ders": 1,
+  "soz": "～ちゃん",
+  "oxunus": "～ちゃん",
+  "romaji": "~chan",
+  "az": "uşaq adlarının sonluğuna qoyulan şəkilçi"
+ },
+ {
+  "ders": 1,
+  "soz": "～人",
+  "oxunus": "～じん",
+  "romaji": "~jin",
+  "az": "milliyəti bildirən şəkilçi"
+ },
+ {
+  "ders": 1,
+  "soz": "アゼルバイジャン人",
+  "oxunus": "アゼルバイジャンじん",
+  "romaji": "azerubaijan-jin",
+  "az": "azərbaycanlı"
+ },
+ {
+  "ders": 1,
+  "soz": "日本人",
+  "oxunus": "にほんじん",
+  "romaji": "nihon-jin",
+  "az": "yapon"
+ },
+ {
+  "ders": 1,
+  "soz": "先生",
+  "oxunus": "せんせい",
+  "romaji": "sensei",
+  "az": "müəllim/mə, ustad (özü haqqında işlədilmir)"
+ },
+ {
+  "ders": 1,
+  "soz": "教師",
+  "oxunus": "きょうし",
+  "romaji": "kyoushi",
+  "az": "müəllim/ə (özü haqqında söyləyəndə)"
+ },
+ {
+  "ders": 1,
+  "soz": "学生",
+  "oxunus": "がくせい",
+  "romaji": "gakusei",
+  "az": "tələbə"
+ },
+ {
+  "ders": 1,
+  "soz": "会社員",
+  "oxunus": "かいしゃいん",
+  "romaji": "kaishain",
+  "az": "şirkət işçisi"
+ },
+ {
+  "ders": 1,
+  "soz": "社員",
+  "oxunus": "しゃいん",
+  "romaji": "shain",
+  "az": "~şirkətdə işləyən"
+ },
+ {
+  "ders": 1,
+  "soz": "銀行員",
+  "oxunus": "ぎんこういん",
+  "romaji": "ginkouin",
+  "az": "bank işçisi"
+ },
+ {
+  "ders": 1,
+  "soz": "医者",
+  "oxunus": "いしゃ",
+  "romaji": "isha",
+  "az": "həkim"
+ },
+ {
+  "ders": 1,
+  "soz": "研究者",
+  "oxunus": "けんきゅうしゃ",
+  "romaji": "kenkyuusha",
+  "az": "tədqiqatçı"
+ },
+ {
+  "ders": 1,
+  "soz": "大学",
+  "oxunus": "だいがく",
+  "romaji": "daigaku",
+  "az": "universitet"
+ },
+ {
+  "ders": 1,
+  "soz": "病院",
+  "oxunus": "びょういん",
+  "romaji": "byouin",
+  "az": "xəstəxana"
+ },
+ {
+  "ders": 1,
+  "soz": "だれ",
+  "oxunus": "だれ",
+  "romaji": "dare",
+  "az": "kim"
+ },
+ {
+  "ders": 1,
+  "soz": "どなた",
+  "oxunus": "どなた",
+  "romaji": "donata",
+  "az": "kim (nəzakətli forma)"
+ },
+ {
+  "ders": 1,
+  "soz": "～歳",
+  "oxunus": "～さい",
+  "romaji": "~sai",
+  "az": "~yaş"
+ },
+ {
+  "ders": 1,
+  "soz": "何歳",
+  "oxunus": "なんさい",
+  "romaji": "nansai",
+  "az": "neçə yaş"
+ },
+ {
+  "ders": 1,
+  "soz": "おいくつ",
+  "oxunus": "おいくつ",
+  "romaji": "oikutsu",
+  "az": "neçə yaşınız (nəzakətli forma)"
+ },
+ {
+  "ders": 1,
+  "soz": "はい",
+  "oxunus": "はい",
+  "romaji": "hai",
+  "az": "bəli, hə"
+ },
+ {
+  "ders": 1,
+  "soz": "いいえ",
+  "oxunus": "いいえ",
+  "romaji": "iie",
+  "az": "xeyir, yox"
+ },
+ {
+  "ders": 1,
+  "soz": "はじめまして",
+  "oxunus": "はじめまして",
+  "romaji": "hajimemashite",
+  "az": "Gəlin tanış olaq (ilk dəfə tanış olanda)"
+ },
+ {
+  "ders": 1,
+  "soz": "～から来ました",
+  "oxunus": "～からきました",
+  "romaji": "~kara kimashita",
+  "az": "~dan, ~dən gəlmişəm"
+ },
+ {
+  "ders": 1,
+  "soz": "どうぞ よろしく[お願いします]",
+  "oxunus": "どうぞ よろしく[おねがいします]",
+  "romaji": "douzo yoroshiku [onegaishimasu]",
+  "az": "Tanışlığımıza şad oldum"
+ },
+ {
+  "ders": 1,
+  "soz": "失礼ですが",
+  "oxunus": "しつれいですが",
+  "romaji": "shitsurei desu ga",
+  "az": "Üzr istəyirəm, amma"
+ },
+ {
+  "ders": 1,
+  "soz": "お名前は？",
+  "oxunus": "おなまえは？",
+  "romaji": "onamae wa?",
+  "az": "Adınız?"
+ },
+ {
+  "ders": 1,
+  "soz": "こちらは～さんです",
+  "oxunus": "こちらは～さんです",
+  "romaji": "kochira wa ~san desu",
+  "az": "Bu cənab ~ / Bu xanım ~dır"
+ },
+ {
+  "ders": 1,
+  "soz": "アメリカ",
+  "oxunus": "アメリカ",
+  "romaji": "Amerika",
+  "az": "Amerika"
+ },
+ {
+  "ders": 1,
+  "soz": "イギリス",
+  "oxunus": "イギリス",
+  "romaji": "Igirisu",
+  "az": "İngiltərə"
+ },
+ {
+  "ders": 1,
+  "soz": "インド",
+  "oxunus": "インド",
+  "romaji": "Indo",
+  "az": "Hindistan"
+ },
+ {
+  "ders": 1,
+  "soz": "インドネシア",
+  "oxunus": "インドネシア",
+  "romaji": "Indoneshia",
+  "az": "İndoneziya"
+ },
+ {
+  "ders": 1,
+  "soz": "韓国",
+  "oxunus": "かんこく",
+  "romaji": "Kankoku",
+  "az": "Koreya"
+ },
+ {
+  "ders": 1,
+  "soz": "タイ",
+  "oxunus": "タイ",
+  "romaji": "Tai",
+  "az": "Tayland"
+ },
+ {
+  "ders": 1,
+  "soz": "中国",
+  "oxunus": "ちゅうごく",
+  "romaji": "Chuugoku",
+  "az": "Çin"
+ },
+ {
+  "ders": 1,
+  "soz": "ドイツ",
+  "oxunus": "ドイツ",
+  "romaji": "Doitsu",
+  "az": "Almaniya"
+ },
+ {
+  "ders": 1,
+  "soz": "日本",
+  "oxunus": "にほん",
+  "romaji": "Nihon",
+  "az": "Yaponiya"
+ },
+ {
+  "ders": 1,
+  "soz": "ブラジル",
+  "oxunus": "ブラジル",
+  "romaji": "Burajiru",
+  "az": "Braziliya"
+ },
+ {
+  "ders": 2,
+  "soz": "これ",
+  "oxunus": "これ",
+  "romaji": "kore",
+  "az": "bu (buradakı əşya)"
+ },
+ {
+  "ders": 2,
+  "soz": "それ",
+  "oxunus": "それ",
+  "romaji": "sore",
+  "az": "o (müsahibin yanındakı obyekt)"
+ },
+ {
+  "ders": 2,
+  "soz": "あれ",
+  "oxunus": "あれ",
+  "romaji": "are",
+  "az": "o (müsahiblərdən uzaq obyekt)"
+ },
+ {
+  "ders": 2,
+  "soz": "この～",
+  "oxunus": "この～",
+  "romaji": "kono~",
+  "az": "bu (işarə əvəzliyi, isimlə)"
+ },
+ {
+  "ders": 2,
+  "soz": "その～",
+  "oxunus": "その～",
+  "romaji": "sono~",
+  "az": "o (işarə əvəzliyi)"
+ },
+ {
+  "ders": 2,
+  "soz": "あの～",
+  "oxunus": "あの～",
+  "romaji": "ano~",
+  "az": "o, uzaq (işarə əvəzliyi)"
+ },
+ {
+  "ders": 2,
+  "soz": "本",
+  "oxunus": "ほん",
+  "romaji": "hon",
+  "az": "kitab"
+ },
+ {
+  "ders": 2,
+  "soz": "辞書",
+  "oxunus": "じしょ",
+  "romaji": "jisho",
+  "az": "lüğət"
+ },
+ {
+  "ders": 2,
+  "soz": "雑誌",
+  "oxunus": "ざっし",
+  "romaji": "zasshi",
+  "az": "jurnal"
+ },
+ {
+  "ders": 2,
+  "soz": "新聞",
+  "oxunus": "しんぶん",
+  "romaji": "shinbun",
+  "az": "qəzet"
+ },
+ {
+  "ders": 2,
+  "soz": "ノート",
+  "oxunus": "ノート",
+  "romaji": "nooto",
+  "az": "dəftər"
+ },
+ {
+  "ders": 2,
+  "soz": "手帳",
+  "oxunus": "てちょう",
+  "romaji": "techou",
+  "az": "kitabça"
+ },
+ {
+  "ders": 2,
+  "soz": "名刺",
+  "oxunus": "めいし",
+  "romaji": "meishi",
+  "az": "vizit kartı"
+ },
+ {
+  "ders": 2,
+  "soz": "カード",
+  "oxunus": "カード",
+  "romaji": "kaado",
+  "az": "kart"
+ },
+ {
+  "ders": 2,
+  "soz": "鉛筆",
+  "oxunus": "えんぴつ",
+  "romaji": "enpitsu",
+  "az": "karandaş"
+ },
+ {
+  "ders": 2,
+  "soz": "ボールペン",
+  "oxunus": "ボールペン",
+  "romaji": "boorupen",
+  "az": "ruçka"
+ },
+ {
+  "ders": 2,
+  "soz": "シャープペンシル",
+  "oxunus": "シャープペンシル",
+  "romaji": "shaapupenshiru",
+  "az": "avtomat karandaş"
+ },
+ {
+  "ders": 2,
+  "soz": "鍵",
+  "oxunus": "かぎ",
+  "romaji": "kagi",
+  "az": "açar"
+ },
+ {
+  "ders": 2,
+  "soz": "時計",
+  "oxunus": "とけい",
+  "romaji": "tokei",
+  "az": "saat"
+ },
+ {
+  "ders": 2,
+  "soz": "傘",
+  "oxunus": "かさ",
+  "romaji": "kasa",
+  "az": "çətir"
+ },
+ {
+  "ders": 2,
+  "soz": "かばん",
+  "oxunus": "かばん",
+  "romaji": "kaban",
+  "az": "çanta"
+ },
+ {
+  "ders": 2,
+  "soz": "CD",
+  "oxunus": "CD",
+  "romaji": "shii dii",
+  "az": "CD"
+ },
+ {
+  "ders": 2,
+  "soz": "テレビ",
+  "oxunus": "テレビ",
+  "romaji": "terebi",
+  "az": "televizor"
+ },
+ {
+  "ders": 2,
+  "soz": "ラジオ",
+  "oxunus": "ラジオ",
+  "romaji": "rajio",
+  "az": "radio"
+ },
+ {
+  "ders": 2,
+  "soz": "カメラ",
+  "oxunus": "カメラ",
+  "romaji": "kamera",
+  "az": "foto aparat"
+ },
+ {
+  "ders": 2,
+  "soz": "コンピューター",
+  "oxunus": "コンピューター",
+  "romaji": "konpyuutaa",
+  "az": "kompyuter"
+ },
+ {
+  "ders": 2,
+  "soz": "車",
+  "oxunus": "くるま",
+  "romaji": "kuruma",
+  "az": "maşın"
+ },
+ {
+  "ders": 2,
+  "soz": "机",
+  "oxunus": "つくえ",
+  "romaji": "tsukue",
+  "az": "masa, stol"
+ },
+ {
+  "ders": 2,
+  "soz": "いす",
+  "oxunus": "いす",
+  "romaji": "isu",
+  "az": "oturacaq, stul"
+ },
+ {
+  "ders": 2,
+  "soz": "チョコレート",
+  "oxunus": "チョコレート",
+  "romaji": "chokoreeto",
+  "az": "şokolad"
+ },
+ {
+  "ders": 2,
+  "soz": "コーヒー",
+  "oxunus": "コーヒー",
+  "romaji": "koohii",
+  "az": "qəhvə"
+ },
+ {
+  "ders": 2,
+  "soz": "お土産",
+  "oxunus": "おみやげ",
+  "romaji": "omiyage",
+  "az": "hədiyyə, suvenir"
+ },
+ {
+  "ders": 2,
+  "soz": "英語",
+  "oxunus": "えいご",
+  "romaji": "eigo",
+  "az": "ingilis dili"
+ },
+ {
+  "ders": 2,
+  "soz": "～語",
+  "oxunus": "～ご",
+  "romaji": "~go",
+  "az": "~ca/cə, ~dili"
+ },
+ {
+  "ders": 2,
+  "soz": "何",
+  "oxunus": "なん",
+  "romaji": "nan",
+  "az": "nə"
+ },
+ {
+  "ders": 2,
+  "soz": "そう",
+  "oxunus": "そう",
+  "romaji": "sou",
+  "az": "bəli, belə (razılıq bildirir)"
+ },
+ {
+  "ders": 2,
+  "soz": "あのう",
+  "oxunus": "あのう",
+  "romaji": "anou",
+  "az": "ee, şey (fikri söyləməzdən öncə tərəddüd edəndə)"
+ },
+ {
+  "ders": 2,
+  "soz": "えっ",
+  "oxunus": "えっ",
+  "romaji": "e(t)",
+  "az": "Nə? (təəccüblənəndə)"
+ },
+ {
+  "ders": 2,
+  "soz": "どうぞ。",
+  "oxunus": "どうぞ。",
+  "romaji": "douzo",
+  "az": "Buyurun. (təklif)"
+ },
+ {
+  "ders": 2,
+  "soz": "[どうも]ありがとう[ございます]",
+  "oxunus": "[どうも]ありがとう[ございます]",
+  "romaji": "[doumo] arigatou [gozaimasu]",
+  "az": "[Çox] təşəkkür [edirəm]. [Çox] sağ olun"
+ },
+ {
+  "ders": 2,
+  "soz": "そうですか。",
+  "oxunus": "そうですか。",
+  "romaji": "sou desu ka",
+  "az": "Belə mi. (başa düşürəm)"
+ },
+ {
+  "ders": 2,
+  "soz": "違います",
+  "oxunus": "ちがいます",
+  "romaji": "chigaimasu",
+  "az": "Səhvdir, belə deyil"
+ },
+ {
+  "ders": 2,
+  "soz": "あ",
+  "oxunus": "あ",
+  "romaji": "a",
+  "az": "A! (yeni bir xəbər eşidəndə)"
+ },
+ {
+  "ders": 2,
+  "soz": "これからお世話になります",
+  "oxunus": "これからおせわになります",
+  "romaji": "kore kara osewa ni narimasu",
+  "az": "Bundan sonra köməyinizə ümid bəsləyirəm"
+ },
+ {
+  "ders": 2,
+  "soz": "こちらこそ[どうぞ]よろしく[お願いします]",
+  "oxunus": "こちらこそ[どうぞ]よろしく[おねがいします]",
+  "romaji": "kochira koso [douzo] yoroshiku [onegaishimasu]",
+  "az": "Mən də məmnun oldum ([どうぞ]よろしく-nın cavabı)"
+ },
+ {
+  "ders": 3,
+  "soz": "ここ",
+  "oxunus": "ここ",
+  "romaji": "koko",
+  "az": "bura, burada"
+ },
+ {
+  "ders": 3,
+  "soz": "そこ",
+  "oxunus": "そこ",
+  "romaji": "soko",
+  "az": "ora, orada (müsahibin yanında)"
+ },
+ {
+  "ders": 3,
+  "soz": "あそこ",
+  "oxunus": "あそこ",
+  "romaji": "asoko",
+  "az": "ora, orada (uzaqda)"
+ },
+ {
+  "ders": 3,
+  "soz": "どこ",
+  "oxunus": "どこ",
+  "romaji": "doko",
+  "az": "hara, harada"
+ },
+ {
+  "ders": 3,
+  "soz": "こちら",
+  "oxunus": "こちら",
+  "romaji": "kochira",
+  "az": "bura (nəzakətli forma)"
+ },
+ {
+  "ders": 3,
+  "soz": "そちら",
+  "oxunus": "そちら",
+  "romaji": "sochira",
+  "az": "ora (nəzakətli forma)"
+ },
+ {
+  "ders": 3,
+  "soz": "あちら",
+  "oxunus": "あちら",
+  "romaji": "achira",
+  "az": "ora, uzaq (nəzakətli forma)"
+ },
+ {
+  "ders": 3,
+  "soz": "どちら",
+  "oxunus": "どちら",
+  "romaji": "dochira",
+  "az": "hara (nəzakətli forma)"
+ },
+ {
+  "ders": 3,
+  "soz": "教室",
+  "oxunus": "きょうしつ",
+  "romaji": "kyoushitsu",
+  "az": "sinif otağı, auditoriya"
+ },
+ {
+  "ders": 3,
+  "soz": "食堂",
+  "oxunus": "しょくどう",
+  "romaji": "shokudou",
+  "az": "yeməkxana"
+ },
+ {
+  "ders": 3,
+  "soz": "事務所",
+  "oxunus": "じむしょ",
+  "romaji": "jimusho",
+  "az": "ofis"
+ },
+ {
+  "ders": 3,
+  "soz": "会議室",
+  "oxunus": "かいぎしつ",
+  "romaji": "kaigishitsu",
+  "az": "iclas otağı"
+ },
+ {
+  "ders": 3,
+  "soz": "受付",
+  "oxunus": "うけつけ",
+  "romaji": "uketsuke",
+  "az": "qəbul, resepsiya"
+ },
+ {
+  "ders": 3,
+  "soz": "ロビー",
+  "oxunus": "ロビー",
+  "romaji": "robii",
+  "az": "foye"
+ },
+ {
+  "ders": 3,
+  "soz": "部屋",
+  "oxunus": "へや",
+  "romaji": "heya",
+  "az": "otaq"
+ },
+ {
+  "ders": 3,
+  "soz": "トイレ",
+  "oxunus": "トイレ",
+  "romaji": "toire",
+  "az": "ayaq yolu, tualet"
+ },
+ {
+  "ders": 3,
+  "soz": "お手洗い",
+  "oxunus": "おてあらい",
+  "romaji": "otearai",
+  "az": "tualet (nəzakətli forma)"
+ },
+ {
+  "ders": 3,
+  "soz": "階段",
+  "oxunus": "かいだん",
+  "romaji": "kaidan",
+  "az": "pilləkən"
+ },
+ {
+  "ders": 3,
+  "soz": "エレベーター",
+  "oxunus": "エレベーター",
+  "romaji": "erebeetaa",
+  "az": "lift"
+ },
+ {
+  "ders": 3,
+  "soz": "エスカレーター",
+  "oxunus": "エスカレーター",
+  "romaji": "esukareetaa",
+  "az": "eskalator"
+ },
+ {
+  "ders": 3,
+  "soz": "自動販売機",
+  "oxunus": "じどうはんばいき",
+  "romaji": "jidouhanbaiki",
+  "az": "avtomat satış maşını"
+ },
+ {
+  "ders": 3,
+  "soz": "電話",
+  "oxunus": "でんわ",
+  "romaji": "denwa",
+  "az": "telefon"
+ },
+ {
+  "ders": 3,
+  "soz": "国",
+  "oxunus": "くに",
+  "romaji": "kuni",
+  "az": "ölkə"
+ },
+ {
+  "ders": 3,
+  "soz": "お国",
+  "oxunus": "おくに",
+  "romaji": "okuni",
+  "az": "ölkə (nəzakətli forma)"
+ },
+ {
+  "ders": 3,
+  "soz": "会社",
+  "oxunus": "かいしゃ",
+  "romaji": "kaisha",
+  "az": "şirkət"
+ },
+ {
+  "ders": 3,
+  "soz": "家",
+  "oxunus": "うち",
+  "romaji": "uchi",
+  "az": "ev"
+ },
+ {
+  "ders": 3,
+  "soz": "靴",
+  "oxunus": "くつ",
+  "romaji": "kutsu",
+  "az": "ayaqqabı"
+ },
+ {
+  "ders": 3,
+  "soz": "ネクタイ",
+  "oxunus": "ネクタイ",
+  "romaji": "nekutai",
+  "az": "qalstuk"
+ },
+ {
+  "ders": 3,
+  "soz": "ワイン",
+  "oxunus": "ワイン",
+  "romaji": "wain",
+  "az": "şərab"
+ },
+ {
+  "ders": 3,
+  "soz": "売り場",
+  "oxunus": "うりば",
+  "romaji": "uriba",
+  "az": "satış məntəqəsi (universamda şöbə)"
+ },
+ {
+  "ders": 3,
+  "soz": "地下",
+  "oxunus": "ちか",
+  "romaji": "chika",
+  "az": "yeraltı mərtəbə, zirzəmi"
+ },
+ {
+  "ders": 3,
+  "soz": "～階",
+  "oxunus": "～かい",
+  "romaji": "~kai",
+  "az": "~mərtəbə (san gai: üçüncü mərtəbə)"
+ },
+ {
+  "ders": 3,
+  "soz": "何階",
+  "oxunus": "なんがい",
+  "romaji": "nangai",
+  "az": "neçənci mərtəbə"
+ },
+ {
+  "ders": 3,
+  "soz": "～円",
+  "oxunus": "～えん",
+  "romaji": "~en",
+  "az": "~yen"
+ },
+ {
+  "ders": 3,
+  "soz": "いくら",
+  "oxunus": "いくら",
+  "romaji": "ikura",
+  "az": "neçə (qiyməti soruşanda)"
+ },
+ {
+  "ders": 3,
+  "soz": "百",
+  "oxunus": "ひゃく",
+  "romaji": "hyaku",
+  "az": "yüz"
+ },
+ {
+  "ders": 3,
+  "soz": "千",
+  "oxunus": "せん",
+  "romaji": "sen",
+  "az": "min"
+ },
+ {
+  "ders": 3,
+  "soz": "万",
+  "oxunus": "まん",
+  "romaji": "man",
+  "az": "on min"
+ },
+ {
+  "ders": 3,
+  "soz": "すみません",
+  "oxunus": "すみません",
+  "romaji": "sumimasen",
+  "az": "Bağışlayın"
+ },
+ {
+  "ders": 3,
+  "soz": "どうも",
+  "oxunus": "どうも",
+  "romaji": "doumo",
+  "az": "Təşəkkürlər. Sağ ol."
+ },
+ {
+  "ders": 3,
+  "soz": "いらっしゃいませ",
+  "oxunus": "いらっしゃいませ",
+  "romaji": "irasshaimase",
+  "az": "Xoş gəldiniz (satıcı müştərini qarşılayanda)"
+ },
+ {
+  "ders": 3,
+  "soz": "～を見せてください",
+  "oxunus": "～をみせてください",
+  "romaji": "~o misete kudasai",
+  "az": "~ göstərin zəhmət olmasa"
+ },
+ {
+  "ders": 3,
+  "soz": "じゃ",
+  "oxunus": "じゃ",
+  "romaji": "ja",
+  "az": "onda, elə isə"
+ },
+ {
+  "ders": 3,
+  "soz": "～をください",
+  "oxunus": "～をください",
+  "romaji": "~o kudasai",
+  "az": "~ verin zəhmət olmasa"
+ },
+ {
+  "ders": 3,
+  "soz": "イタリア",
+  "oxunus": "イタリア",
+  "romaji": "Itaria",
+  "az": "İtaliya"
+ },
+ {
+  "ders": 3,
+  "soz": "スイス",
+  "oxunus": "スイス",
+  "romaji": "Suisu",
+  "az": "İsveçrə"
+ },
+ {
+  "ders": 3,
+  "soz": "フランス",
+  "oxunus": "フランス",
+  "romaji": "Furansu",
+  "az": "Fransa"
+ },
+ {
+  "ders": 3,
+  "soz": "ジャカルタ",
+  "oxunus": "ジャカルタ",
+  "romaji": "Jakaruta",
+  "az": "Cakarta"
+ },
+ {
+  "ders": 3,
+  "soz": "バンコク",
+  "oxunus": "バンコク",
+  "romaji": "Bankoku",
+  "az": "Banqkok"
+ },
+ {
+  "ders": 3,
+  "soz": "ベルリン",
+  "oxunus": "ベルリン",
+  "romaji": "Berurin",
+  "az": "Berlin"
+ },
+ {
+  "ders": 3,
+  "soz": "新大阪",
+  "oxunus": "しんおおさか",
+  "romaji": "Shin-Oosaka",
+  "az": "Osaka stansiya adı (Yeni Osaka)"
+ },
+ {
+  "ders": 4,
+  "soz": "起きます",
+  "oxunus": "おきます",
+  "romaji": "okimasu",
+  "az": "oyanmaq, durmaq"
+ },
+ {
+  "ders": 4,
+  "soz": "寝ます",
+  "oxunus": "ねます",
+  "romaji": "nemasu",
+  "az": "yatmaq"
+ },
+ {
+  "ders": 4,
+  "soz": "働きます",
+  "oxunus": "はたらきます",
+  "romaji": "hatarakimasu",
+  "az": "işləmək"
+ },
+ {
+  "ders": 4,
+  "soz": "休みます",
+  "oxunus": "やすみます",
+  "romaji": "yasumimasu",
+  "az": "dincəlmək, istirahət etmək"
+ },
+ {
+  "ders": 4,
+  "soz": "勉強します",
+  "oxunus": "べんきょうします",
+  "romaji": "benkyoushimasu",
+  "az": "oxumaq, dərs etmək"
+ },
+ {
+  "ders": 4,
+  "soz": "終わります",
+  "oxunus": "おわります",
+  "romaji": "owarimasu",
+  "az": "qurtarmaq, bitmək"
+ },
+ {
+  "ders": 4,
+  "soz": "デパート",
+  "oxunus": "デパート",
+  "romaji": "depaato",
+  "az": "univermaq, alış-veriş mərkəzi"
+ },
+ {
+  "ders": 4,
+  "soz": "銀行",
+  "oxunus": "ぎんこう",
+  "romaji": "ginkou",
+  "az": "bank"
+ },
+ {
+  "ders": 4,
+  "soz": "郵便局",
+  "oxunus": "ゆうびんきょく",
+  "romaji": "yuubinkyoku",
+  "az": "poçt"
+ },
+ {
+  "ders": 4,
+  "soz": "図書館",
+  "oxunus": "としょかん",
+  "romaji": "toshokan",
+  "az": "kitabxana"
+ },
+ {
+  "ders": 4,
+  "soz": "美術館",
+  "oxunus": "びじゅつかん",
+  "romaji": "bijutsukan",
+  "az": "incəsənət muzeyi"
+ },
+ {
+  "ders": 4,
+  "soz": "～分",
+  "oxunus": "～ふん",
+  "romaji": "~fun",
+  "az": "~dəqiqə"
+ },
+ {
+  "ders": 4,
+  "soz": "～時",
+  "oxunus": "～じ",
+  "romaji": "~ji",
+  "az": "~saat (vaxt anı)"
+ },
+ {
+  "ders": 4,
+  "soz": "～半",
+  "oxunus": "～はん",
+  "romaji": "~han",
+  "az": "~yarım (vaxt)"
+ },
+ {
+  "ders": 4,
+  "soz": "～分前",
+  "oxunus": "～ふんまえ",
+  "romaji": "~fun mae",
+  "az": "~dəqiqə əvvəl"
+ },
+ {
+  "ders": 4,
+  "soz": "今",
+  "oxunus": "いま",
+  "romaji": "ima",
+  "az": "indi"
+ },
+ {
+  "ders": 4,
+  "soz": "何時",
+  "oxunus": "なんじ",
+  "romaji": "nanji",
+  "az": "saat neçədir"
+ },
+ {
+  "ders": 4,
+  "soz": "何分",
+  "oxunus": "なんぷん",
+  "romaji": "nanpun",
+  "az": "neçə dəqiqədir"
+ },
+ {
+  "ders": 4,
+  "soz": "午前",
+  "oxunus": "ごぜん",
+  "romaji": "gozen",
+  "az": "günün birinci yarısı (a.m.)"
+ },
+ {
+  "ders": 4,
+  "soz": "午後",
+  "oxunus": "ごご",
+  "romaji": "gogo",
+  "az": "günün ikinci yarısı (p.m.)"
+ },
+ {
+  "ders": 4,
+  "soz": "朝",
+  "oxunus": "あさ",
+  "romaji": "asa",
+  "az": "səhər"
+ },
+ {
+  "ders": 4,
+  "soz": "昼",
+  "oxunus": "ひる",
+  "romaji": "hiru",
+  "az": "günorta"
+ },
+ {
+  "ders": 4,
+  "soz": "晩",
+  "oxunus": "ばん(よる)",
+  "romaji": "ban (yoru)",
+  "az": "axşam (gecə)"
+ },
+ {
+  "ders": 4,
+  "soz": "一昨日",
+  "oxunus": "おととい",
+  "romaji": "ototoi",
+  "az": "sırağagün (2 gün əvvəl)"
+ },
+ {
+  "ders": 4,
+  "soz": "昨日",
+  "oxunus": "きのう",
+  "romaji": "kinou",
+  "az": "dünən"
+ },
+ {
+  "ders": 4,
+  "soz": "今日",
+  "oxunus": "きょう",
+  "romaji": "kyou",
+  "az": "bu gün"
+ },
+ {
+  "ders": 4,
+  "soz": "明日",
+  "oxunus": "あした",
+  "romaji": "ashita",
+  "az": "sabah"
+ },
+ {
+  "ders": 4,
+  "soz": "明後日",
+  "oxunus": "あさって",
+  "romaji": "asatte",
+  "az": "birisigün (2 gün sonra)"
+ },
+ {
+  "ders": 4,
+  "soz": "今朝",
+  "oxunus": "けさ",
+  "romaji": "kesa",
+  "az": "bu səhər"
+ },
+ {
+  "ders": 4,
+  "soz": "今晩",
+  "oxunus": "こんばん",
+  "romaji": "konban",
+  "az": "bu axşam"
+ },
+ {
+  "ders": 4,
+  "soz": "休み",
+  "oxunus": "やすみ",
+  "romaji": "yasumi",
+  "az": "istirahət, tətil"
+ },
+ {
+  "ders": 4,
+  "soz": "昼休み",
+  "oxunus": "ひるやすみ",
+  "romaji": "hiruyasumi",
+  "az": "nahar fasiləsi"
+ },
+ {
+  "ders": 4,
+  "soz": "試験",
+  "oxunus": "しけん",
+  "romaji": "shiken",
+  "az": "imtahan"
+ },
+ {
+  "ders": 4,
+  "soz": "会議",
+  "oxunus": "かいぎ",
+  "romaji": "kaigi",
+  "az": "iclas (～をします: iclas keçirmək)"
+ },
+ {
+  "ders": 4,
+  "soz": "映画",
+  "oxunus": "えいが",
+  "romaji": "eiga",
+  "az": "kino"
+ },
+ {
+  "ders": 4,
+  "soz": "毎朝",
+  "oxunus": "まいあさ",
+  "romaji": "maiasa",
+  "az": "hər səhər"
+ },
+ {
+  "ders": 4,
+  "soz": "毎晩",
+  "oxunus": "まいばん",
+  "romaji": "maiban",
+  "az": "hər axşam"
+ },
+ {
+  "ders": 4,
+  "soz": "毎日",
+  "oxunus": "まいにち",
+  "romaji": "mainichi",
+  "az": "hər gün"
+ },
+ {
+  "ders": 4,
+  "soz": "月曜日",
+  "oxunus": "げつようび",
+  "romaji": "getsuyoubi",
+  "az": "Bazar ertəsi"
+ },
+ {
+  "ders": 4,
+  "soz": "火曜日",
+  "oxunus": "かようび",
+  "romaji": "kayoubi",
+  "az": "Çərşənbə axşamı"
+ },
+ {
+  "ders": 4,
+  "soz": "水曜日",
+  "oxunus": "すいようび",
+  "romaji": "suiyoubi",
+  "az": "Çərşənbə"
+ },
+ {
+  "ders": 4,
+  "soz": "木曜日",
+  "oxunus": "もくようび",
+  "romaji": "mokuyoubi",
+  "az": "Cümə axşamı"
+ },
+ {
+  "ders": 4,
+  "soz": "金曜日",
+  "oxunus": "きんようび",
+  "romaji": "kinyoubi",
+  "az": "Cümə"
+ },
+ {
+  "ders": 4,
+  "soz": "土曜日",
+  "oxunus": "どようび",
+  "romaji": "doyoubi",
+  "az": "Şənbə"
+ },
+ {
+  "ders": 4,
+  "soz": "日曜日",
+  "oxunus": "にちようび",
+  "romaji": "nichiyoubi",
+  "az": "Bazar"
+ },
+ {
+  "ders": 4,
+  "soz": "何曜日",
+  "oxunus": "なんようび",
+  "romaji": "nanyoubi",
+  "az": "həftənin hansı günü"
+ },
+ {
+  "ders": 4,
+  "soz": "～から",
+  "oxunus": "～から",
+  "romaji": "~kara",
+  "az": "~dan, ~dən"
+ },
+ {
+  "ders": 4,
+  "soz": "～まで",
+  "oxunus": "～まで",
+  "romaji": "~made",
+  "az": "~qədər"
+ },
+ {
+  "ders": 4,
+  "soz": "～と～",
+  "oxunus": "～と～",
+  "romaji": "~to~",
+  "az": "~və~ (bağlayıcı)"
+ },
+ {
+  "ders": 4,
+  "soz": "大変ですね",
+  "oxunus": "たいへんですね",
+  "romaji": "taihen desu ne",
+  "az": "Necə də çətindir!"
+ },
+ {
+  "ders": 4,
+  "soz": "番号",
+  "oxunus": "ばんごう",
+  "romaji": "bangou",
+  "az": "nömrə"
+ },
+ {
+  "ders": 4,
+  "soz": "何番",
+  "oxunus": "なんばん",
+  "romaji": "nanban",
+  "az": "neçənci nömrə"
+ },
+ {
+  "ders": 4,
+  "soz": "そちら",
+  "oxunus": "そちら",
+  "romaji": "sochira",
+  "az": "sizin yer"
+ },
+ {
+  "ders": 4,
+  "soz": "ニューヨーク",
+  "oxunus": "ニューヨーク",
+  "romaji": "Nyuuyooku",
+  "az": "Nyu York"
+ },
+ {
+  "ders": 4,
+  "soz": "ペキン",
+  "oxunus": "ペキン",
+  "romaji": "Pekin",
+  "az": "Pekin"
+ },
+ {
+  "ders": 4,
+  "soz": "ロサンゼルス",
+  "oxunus": "ロサンゼルス",
+  "romaji": "Rosanzerusu",
+  "az": "Los Anceles"
+ },
+ {
+  "ders": 4,
+  "soz": "ロンドン",
+  "oxunus": "ロンドン",
+  "romaji": "Rondon",
+  "az": "London"
+ },
+ {
+  "ders": 5,
+  "soz": "行きます",
+  "oxunus": "いきます",
+  "romaji": "ikimasu",
+  "az": "getmək"
+ },
+ {
+  "ders": 5,
+  "soz": "来ます",
+  "oxunus": "きます",
+  "romaji": "kimasu",
+  "az": "gəlmək"
+ },
+ {
+  "ders": 5,
+  "soz": "帰ります",
+  "oxunus": "かえります",
+  "romaji": "kaerimasu",
+  "az": "qayıtmaq"
+ },
+ {
+  "ders": 5,
+  "soz": "学校",
+  "oxunus": "がっこう",
+  "romaji": "gakkou",
+  "az": "məktəb"
+ },
+ {
+  "ders": 5,
+  "soz": "スーパー",
+  "oxunus": "スーパー",
+  "romaji": "suupaa",
+  "az": "super market, universam"
+ },
+ {
+  "ders": 5,
+  "soz": "駅",
+  "oxunus": "えき",
+  "romaji": "eki",
+  "az": "stansiya"
+ },
+ {
+  "ders": 5,
+  "soz": "飛行機",
+  "oxunus": "ひこうき",
+  "romaji": "hikouki",
+  "az": "təyyarə"
+ },
+ {
+  "ders": 5,
+  "soz": "船",
+  "oxunus": "ふね",
+  "romaji": "fune",
+  "az": "gəmi"
+ },
+ {
+  "ders": 5,
+  "soz": "電車",
+  "oxunus": "でんしゃ",
+  "romaji": "densha",
+  "az": "qatar"
+ },
+ {
+  "ders": 5,
+  "soz": "地下鉄",
+  "oxunus": "ちかてつ",
+  "romaji": "chikatetsu",
+  "az": "metro"
+ },
+ {
+  "ders": 5,
+  "soz": "新幹線",
+  "oxunus": "しんかんせん",
+  "romaji": "shinkansen",
+  "az": "Shinkansen (sürətli qatar)"
+ },
+ {
+  "ders": 5,
+  "soz": "バス",
+  "oxunus": "バス",
+  "romaji": "basu",
+  "az": "avtobus"
+ },
+ {
+  "ders": 5,
+  "soz": "タクシー",
+  "oxunus": "タクシー",
+  "romaji": "takushii",
+  "az": "taksi"
+ },
+ {
+  "ders": 5,
+  "soz": "自転車",
+  "oxunus": "じてんしゃ",
+  "romaji": "jitensha",
+  "az": "velosiped"
+ },
+ {
+  "ders": 5,
+  "soz": "歩いて",
+  "oxunus": "あるいて",
+  "romaji": "aruite",
+  "az": "ayaqla, piyada"
+ },
+ {
+  "ders": 5,
+  "soz": "人",
+  "oxunus": "ひと",
+  "romaji": "hito",
+  "az": "adam, şəxs, insan"
+ },
+ {
+  "ders": 5,
+  "soz": "友達",
+  "oxunus": "ともだち",
+  "romaji": "tomodachi",
+  "az": "dost"
+ },
+ {
+  "ders": 5,
+  "soz": "彼",
+  "oxunus": "かれ",
+  "romaji": "kare",
+  "az": "o (kişi) / oğlan dost"
+ },
+ {
+  "ders": 5,
+  "soz": "彼女",
+  "oxunus": "かのじょ",
+  "romaji": "kanojo",
+  "az": "o (qadın) / qız dost"
+ },
+ {
+  "ders": 5,
+  "soz": "家族",
+  "oxunus": "かぞく",
+  "romaji": "kazoku",
+  "az": "ailə"
+ },
+ {
+  "ders": 5,
+  "soz": "一人で",
+  "oxunus": "ひとりで",
+  "romaji": "hitori de",
+  "az": "tək, təkbaşına"
+ },
+ {
+  "ders": 5,
+  "soz": "先週",
+  "oxunus": "せんしゅう",
+  "romaji": "senshuu",
+  "az": "keçən həftə"
+ },
+ {
+  "ders": 5,
+  "soz": "今週",
+  "oxunus": "こんしゅう",
+  "romaji": "konshuu",
+  "az": "bu həftə"
+ },
+ {
+  "ders": 5,
+  "soz": "来週",
+  "oxunus": "らいしゅう",
+  "romaji": "raishuu",
+  "az": "gələn həftə"
+ },
+ {
+  "ders": 5,
+  "soz": "先月",
+  "oxunus": "せんげつ",
+  "romaji": "sengetsu",
+  "az": "keçən ay"
+ },
+ {
+  "ders": 5,
+  "soz": "今月",
+  "oxunus": "こんげつ",
+  "romaji": "kongetsu",
+  "az": "bu ay"
+ },
+ {
+  "ders": 5,
+  "soz": "来月",
+  "oxunus": "らいげつ",
+  "romaji": "raigetsu",
+  "az": "gələn ay"
+ },
+ {
+  "ders": 5,
+  "soz": "去年",
+  "oxunus": "きょねん",
+  "romaji": "kyonen",
+  "az": "keçən il"
+ },
+ {
+  "ders": 5,
+  "soz": "今年",
+  "oxunus": "ことし",
+  "romaji": "kotoshi",
+  "az": "bu il"
+ },
+ {
+  "ders": 5,
+  "soz": "来年",
+  "oxunus": "らいねん",
+  "romaji": "rainen",
+  "az": "gələn il"
+ },
+ {
+  "ders": 5,
+  "soz": "～年",
+  "oxunus": "～ねん",
+  "romaji": "~nen",
+  "az": "~inci il"
+ },
+ {
+  "ders": 5,
+  "soz": "何年",
+  "oxunus": "なんねん",
+  "romaji": "nannen",
+  "az": "hansı il"
+ },
+ {
+  "ders": 5,
+  "soz": "～月",
+  "oxunus": "～がつ",
+  "romaji": "~gatsu",
+  "az": "~inci ay"
+ },
+ {
+  "ders": 5,
+  "soz": "何月",
+  "oxunus": "なんがつ",
+  "romaji": "nangatsu",
+  "az": "hansı ay"
+ },
+ {
+  "ders": 5,
+  "soz": "1日",
+  "oxunus": "ついたち",
+  "romaji": "tsuitachi",
+  "az": "ayın 1-i"
+ },
+ {
+  "ders": 5,
+  "soz": "2日",
+  "oxunus": "ふつか",
+  "romaji": "futsuka",
+  "az": "ayın 2-si"
+ },
+ {
+  "ders": 5,
+  "soz": "3日",
+  "oxunus": "みっか",
+  "romaji": "mikka",
+  "az": "ayın 3-ü"
+ },
+ {
+  "ders": 5,
+  "soz": "4日",
+  "oxunus": "よっか",
+  "romaji": "yokka",
+  "az": "ayın 4-ü"
+ },
+ {
+  "ders": 5,
+  "soz": "5日",
+  "oxunus": "いつか",
+  "romaji": "itsuka",
+  "az": "ayın 5-i"
+ },
+ {
+  "ders": 5,
+  "soz": "6日",
+  "oxunus": "むいか",
+  "romaji": "muika",
+  "az": "ayın 6-sı"
+ },
+ {
+  "ders": 5,
+  "soz": "7日",
+  "oxunus": "なのか",
+  "romaji": "nanoka",
+  "az": "ayın 7-si"
+ },
+ {
+  "ders": 5,
+  "soz": "8日",
+  "oxunus": "ようか",
+  "romaji": "youka",
+  "az": "ayın 8-i"
+ },
+ {
+  "ders": 5,
+  "soz": "9日",
+  "oxunus": "ここのか",
+  "romaji": "kokonoka",
+  "az": "ayın 9-u"
+ },
+ {
+  "ders": 5,
+  "soz": "10日",
+  "oxunus": "とおか",
+  "romaji": "tooka",
+  "az": "ayın 10-u"
+ },
+ {
+  "ders": 5,
+  "soz": "14日",
+  "oxunus": "じゅうよっか",
+  "romaji": "juuyokka",
+  "az": "ayın 14-ü"
+ },
+ {
+  "ders": 5,
+  "soz": "20日",
+  "oxunus": "はつか",
+  "romaji": "hatsuka",
+  "az": "ayın 20-si"
+ },
+ {
+  "ders": 5,
+  "soz": "24日",
+  "oxunus": "にじゅうよっか",
+  "romaji": "nijuuyokka",
+  "az": "ayın 24-ü"
+ },
+ {
+  "ders": 5,
+  "soz": "～日",
+  "oxunus": "～にち",
+  "romaji": "~nichi",
+  "az": "~gün (ayın ~ü)"
+ },
+ {
+  "ders": 5,
+  "soz": "何日",
+  "oxunus": "なんにち",
+  "romaji": "nannichi",
+  "az": "ayın neçəsi"
+ },
+ {
+  "ders": 5,
+  "soz": "いつ",
+  "oxunus": "いつ",
+  "romaji": "itsu",
+  "az": "nə vaxt"
+ },
+ {
+  "ders": 5,
+  "soz": "誕生日",
+  "oxunus": "たんじょうび",
+  "romaji": "tanjoubi",
+  "az": "ad günü"
+ },
+ {
+  "ders": 5,
+  "soz": "そうですね",
+  "oxunus": "そうですね",
+  "romaji": "sou desu ne",
+  "az": "Sən deyəndir. / Səninlə razıyam."
+ },
+ {
+  "ders": 5,
+  "soz": "[どうも]ありがとうございました",
+  "oxunus": "[どうも]ありがとうございました",
+  "romaji": "[doumo] arigatou gozaimashita",
+  "az": "[Çox] sağ olun."
+ },
+ {
+  "ders": 5,
+  "soz": "どういたしまして",
+  "oxunus": "どういたしまして",
+  "romaji": "dou itashimashite",
+  "az": "Dəyməz"
+ },
+ {
+  "ders": 5,
+  "soz": "～番線",
+  "oxunus": "～ばんせん",
+  "romaji": "~bansen",
+  "az": "~inci platforma"
+ },
+ {
+  "ders": 5,
+  "soz": "次の",
+  "oxunus": "つぎの",
+  "romaji": "tsugi no",
+  "az": "gələn, növbəti"
+ },
+ {
+  "ders": 5,
+  "soz": "普通",
+  "oxunus": "ふつう",
+  "romaji": "futsuu",
+  "az": "adi qatar (hər stansiyada dayanır)"
+ },
+ {
+  "ders": 5,
+  "soz": "急行",
+  "oxunus": "きゅうこう",
+  "romaji": "kyuukou",
+  "az": "sürətli (qatar)"
+ },
+ {
+  "ders": 5,
+  "soz": "特急",
+  "oxunus": "とっきゅう",
+  "romaji": "tokkyuu",
+  "az": "ekspres (qatar)"
+ },
+ {
+  "ders": 5,
+  "soz": "甲子園",
+  "oxunus": "こうしえん",
+  "romaji": "Koushien",
+  "az": "Osaka yaxınlığında yer adı"
+ },
+ {
+  "ders": 5,
+  "soz": "大阪城",
+  "oxunus": "おおさかじょう",
+  "romaji": "Oosakajou",
+  "az": "Osaka Qəsri"
+ },
+ {
+  "ders": 6,
+  "soz": "食べます",
+  "oxunus": "たべます",
+  "romaji": "tabemasu",
+  "az": "yemək"
+ },
+ {
+  "ders": 6,
+  "soz": "飲みます",
+  "oxunus": "のみます",
+  "romaji": "nomimasu",
+  "az": "içmək (su, pivə, sake və s.)"
+ },
+ {
+  "ders": 6,
+  "soz": "吸います",
+  "oxunus": "すいます",
+  "romaji": "suimasu",
+  "az": "çəkmək (siqaret və s.)"
+ },
+ {
+  "ders": 6,
+  "soz": "見ます",
+  "oxunus": "みます",
+  "romaji": "mimasu",
+  "az": "görmək, baxmaq, izləmək"
+ },
+ {
+  "ders": 6,
+  "soz": "聞きます",
+  "oxunus": "ききます",
+  "romaji": "kikimasu",
+  "az": "eşitmək, qulaq asmaq"
+ },
+ {
+  "ders": 6,
+  "soz": "読みます",
+  "oxunus": "よみます",
+  "romaji": "yomimasu",
+  "az": "oxumaq"
+ },
+ {
+  "ders": 6,
+  "soz": "書きます",
+  "oxunus": "かきます",
+  "romaji": "kakimasu",
+  "az": "yazmaq"
+ },
+ {
+  "ders": 6,
+  "soz": "買います",
+  "oxunus": "かいます",
+  "romaji": "kaimasu",
+  "az": "almaq, alış-veriş etmək"
+ },
+ {
+  "ders": 6,
+  "soz": "撮ります",
+  "oxunus": "とります",
+  "romaji": "torimasu",
+  "az": "(fotoşəkil) çəkmək"
+ },
+ {
+  "ders": 6,
+  "soz": "します",
+  "oxunus": "します",
+  "romaji": "shimasu",
+  "az": "etmək"
+ },
+ {
+  "ders": 6,
+  "soz": "会います",
+  "oxunus": "あいます",
+  "romaji": "aimasu",
+  "az": "görüşmək"
+ },
+ {
+  "ders": 6,
+  "soz": "ご飯",
+  "oxunus": "ごはん",
+  "romaji": "gohan",
+  "az": "yemək; bişmiş düyü"
+ },
+ {
+  "ders": 6,
+  "soz": "朝ご飯",
+  "oxunus": "あさごはん",
+  "romaji": "asagohan",
+  "az": "səhər yeməyi"
+ },
+ {
+  "ders": 6,
+  "soz": "昼ご飯",
+  "oxunus": "ひるごはん",
+  "romaji": "hirugohan",
+  "az": "günorta yeməyi"
+ },
+ {
+  "ders": 6,
+  "soz": "晩ご飯",
+  "oxunus": "ばんごはん",
+  "romaji": "bangohan",
+  "az": "axşam yeməyi"
+ },
+ {
+  "ders": 6,
+  "soz": "パン",
+  "oxunus": "パン",
+  "romaji": "pan",
+  "az": "çörək"
+ },
+ {
+  "ders": 6,
+  "soz": "たまご",
+  "oxunus": "たまご",
+  "romaji": "tamago",
+  "az": "yumurta"
+ },
+ {
+  "ders": 6,
+  "soz": "肉",
+  "oxunus": "にく",
+  "romaji": "niku",
+  "az": "ət"
+ },
+ {
+  "ders": 6,
+  "soz": "魚",
+  "oxunus": "さかな",
+  "romaji": "sakana",
+  "az": "balıq"
+ },
+ {
+  "ders": 6,
+  "soz": "野菜",
+  "oxunus": "やさい",
+  "romaji": "yasai",
+  "az": "tərəvəz"
+ },
+ {
+  "ders": 6,
+  "soz": "果物",
+  "oxunus": "くだもの",
+  "romaji": "kudamono",
+  "az": "meyvə"
+ },
+ {
+  "ders": 6,
+  "soz": "水",
+  "oxunus": "みず",
+  "romaji": "mizu",
+  "az": "su"
+ },
+ {
+  "ders": 6,
+  "soz": "お茶",
+  "oxunus": "おちゃ",
+  "romaji": "ocha",
+  "az": "çay (yaşıl)"
+ },
+ {
+  "ders": 6,
+  "soz": "紅茶",
+  "oxunus": "こうちゃ",
+  "romaji": "koucha",
+  "az": "çay (qara)"
+ },
+ {
+  "ders": 6,
+  "soz": "牛乳",
+  "oxunus": "ぎゅうにゅう",
+  "romaji": "gyuunyu",
+  "az": "süd"
+ },
+ {
+  "ders": 6,
+  "soz": "ミルク",
+  "oxunus": "ミルク",
+  "romaji": "miruku",
+  "az": "süd"
+ },
+ {
+  "ders": 6,
+  "soz": "ジュース",
+  "oxunus": "ジュース",
+  "romaji": "juusu",
+  "az": "şirə"
+ },
+ {
+  "ders": 6,
+  "soz": "ビール",
+  "oxunus": "ビール",
+  "romaji": "biiru",
+  "az": "pivə"
+ },
+ {
+  "ders": 6,
+  "soz": "[お]酒",
+  "oxunus": "[お]さけ",
+  "romaji": "[o]sake",
+  "az": "sake, Yaponiya spirtli içkisi"
+ },
+ {
+  "ders": 6,
+  "soz": "たばこ",
+  "oxunus": "たばこ",
+  "romaji": "tabako",
+  "az": "siqaret"
+ },
+ {
+  "ders": 6,
+  "soz": "手紙",
+  "oxunus": "てがみ",
+  "romaji": "tegami",
+  "az": "məktub"
+ },
+ {
+  "ders": 6,
+  "soz": "レポート",
+  "oxunus": "レポート",
+  "romaji": "repooto",
+  "az": "hesabat"
+ },
+ {
+  "ders": 6,
+  "soz": "写真",
+  "oxunus": "しゃしん",
+  "romaji": "shashin",
+  "az": "fotoşəkil"
+ },
+ {
+  "ders": 6,
+  "soz": "ビデオ",
+  "oxunus": "ビデオ",
+  "romaji": "bideo",
+  "az": "video"
+ },
+ {
+  "ders": 6,
+  "soz": "店",
+  "oxunus": "みせ",
+  "romaji": "mise",
+  "az": "mağaza"
+ },
+ {
+  "ders": 6,
+  "soz": "庭",
+  "oxunus": "にわ",
+  "romaji": "niwa",
+  "az": "bağ, həyət"
+ },
+ {
+  "ders": 6,
+  "soz": "宿題",
+  "oxunus": "しゅくだい",
+  "romaji": "shukudai",
+  "az": "ev tapşırığı (～をします: ev tapşırığını etmək)"
+ },
+ {
+  "ders": 6,
+  "soz": "テニス",
+  "oxunus": "テニス",
+  "romaji": "tenisu",
+  "az": "tennis (～をします: tennis oynamaq)"
+ },
+ {
+  "ders": 6,
+  "soz": "サッカー",
+  "oxunus": "サッカー",
+  "romaji": "sakkaa",
+  "az": "futbol"
+ },
+ {
+  "ders": 6,
+  "soz": "[お]花見",
+  "oxunus": "[お]はなみ",
+  "romaji": "[o]hanami",
+  "az": "Sakura (albalı çiçəkləri) seyri"
+ },
+ {
+  "ders": 6,
+  "soz": "何",
+  "oxunus": "なに",
+  "romaji": "nani",
+  "az": "nə"
+ },
+ {
+  "ders": 6,
+  "soz": "一緒に",
+  "oxunus": "いっしょに",
+  "romaji": "issho ni",
+  "az": "birlikdə, birgə"
+ },
+ {
+  "ders": 6,
+  "soz": "ちょっと",
+  "oxunus": "ちょっと",
+  "romaji": "chotto",
+  "az": "bir az, azacıq"
+ },
+ {
+  "ders": 6,
+  "soz": "いつも",
+  "oxunus": "いつも",
+  "romaji": "itsumo",
+  "az": "hər zaman, həmişə"
+ },
+ {
+  "ders": 6,
+  "soz": "時々",
+  "oxunus": "ときどき",
+  "romaji": "tokidoki",
+  "az": "hərdən"
+ },
+ {
+  "ders": 6,
+  "soz": "それから",
+  "oxunus": "それから",
+  "romaji": "sore kara",
+  "az": "ondan sonra"
+ },
+ {
+  "ders": 6,
+  "soz": "ええ",
+  "oxunus": "ええ",
+  "romaji": "ee",
+  "az": "hə, bəli"
+ },
+ {
+  "ders": 6,
+  "soz": "いいですね",
+  "oxunus": "いいですね",
+  "romaji": "ii desu ne",
+  "az": "(Ah,) nə yaxşı!"
+ },
+ {
+  "ders": 6,
+  "soz": "分かりました",
+  "oxunus": "わかりました",
+  "romaji": "wakarimashita",
+  "az": "Başa düşdüm. Aydındır."
+ },
+ {
+  "ders": 6,
+  "soz": "何ですか。",
+  "oxunus": "なんですか。",
+  "romaji": "nan desu ka",
+  "az": "Nə olub?"
+ },
+ {
+  "ders": 6,
+  "soz": "じゃ、また[あした]。",
+  "oxunus": "じゃ、また[あした]。",
+  "romaji": "ja, mata [ashita]",
+  "az": "Oldu, [sabaha] qədər."
+ },
+ {
+  "ders": 6,
+  "soz": "メキシコ",
+  "oxunus": "メキシコ",
+  "romaji": "Mekishiko",
+  "az": "Meksika"
+ },
+ {
+  "ders": 7,
+  "soz": "切ります",
+  "oxunus": "きります",
+  "romaji": "kirimasu",
+  "az": "kəsmək"
+ },
+ {
+  "ders": 7,
+  "soz": "送ります",
+  "oxunus": "おくります",
+  "romaji": "okurimasu",
+  "az": "göndərmək, ötürmək"
+ },
+ {
+  "ders": 7,
+  "soz": "あげます",
+  "oxunus": "あげます",
+  "romaji": "agemasu",
+  "az": "vermək"
+ },
+ {
+  "ders": 7,
+  "soz": "もらいます",
+  "oxunus": "もらいます",
+  "romaji": "moraimasu",
+  "az": "almaq"
+ },
+ {
+  "ders": 7,
+  "soz": "貸します",
+  "oxunus": "かします",
+  "romaji": "kashimasu",
+  "az": "borc vermək"
+ },
+ {
+  "ders": 7,
+  "soz": "借ります",
+  "oxunus": "かります",
+  "romaji": "karimasu",
+  "az": "borc almaq"
+ },
+ {
+  "ders": 7,
+  "soz": "教えます",
+  "oxunus": "おしえます",
+  "romaji": "oshiemasu",
+  "az": "öyrətmək"
+ },
+ {
+  "ders": 7,
+  "soz": "習います",
+  "oxunus": "ならいます",
+  "romaji": "naraimasu",
+  "az": "öyrənmək"
+ },
+ {
+  "ders": 7,
+  "soz": "かけます[電話を～]",
+  "oxunus": "かけます[でんわを～]",
+  "romaji": "kakemasu [denwa o ~]",
+  "az": "zəng vurmaq [telefonla zəng vurmaq]"
+ },
+ {
+  "ders": 7,
+  "soz": "手",
+  "oxunus": "て",
+  "romaji": "te",
+  "az": "əl"
+ },
+ {
+  "ders": 7,
+  "soz": "はし",
+  "oxunus": "はし",
+  "romaji": "hashi",
+  "az": "yemək çubuqları"
+ },
+ {
+  "ders": 7,
+  "soz": "スプーン",
+  "oxunus": "スプーン",
+  "romaji": "supuun",
+  "az": "qaşıq"
+ },
+ {
+  "ders": 7,
+  "soz": "ナイフ",
+  "oxunus": "ナイフ",
+  "romaji": "naifu",
+  "az": "bıçaq"
+ },
+ {
+  "ders": 7,
+  "soz": "フォーク",
+  "oxunus": "フォーク",
+  "romaji": "fooku",
+  "az": "çəngəl"
+ },
+ {
+  "ders": 7,
+  "soz": "はさみ",
+  "oxunus": "はさみ",
+  "romaji": "hasami",
+  "az": "qayçı"
+ },
+ {
+  "ders": 7,
+  "soz": "パソコン",
+  "oxunus": "パソコン",
+  "romaji": "pasokon",
+  "az": "fərdi kompyuter"
+ },
+ {
+  "ders": 7,
+  "soz": "ケータイ",
+  "oxunus": "ケータイ",
+  "romaji": "keetai",
+  "az": "mobil telefon"
+ },
+ {
+  "ders": 7,
+  "soz": "メール",
+  "oxunus": "メール",
+  "romaji": "meeru",
+  "az": "e-poçt, mesaj"
+ },
+ {
+  "ders": 7,
+  "soz": "年賀状",
+  "oxunus": "ねんがじょう",
+  "romaji": "nengajou",
+  "az": "Yeni il təbrik kartı"
+ },
+ {
+  "ders": 7,
+  "soz": "パンチ",
+  "oxunus": "パンチ",
+  "romaji": "panchi",
+  "az": "deşikaçan"
+ },
+ {
+  "ders": 7,
+  "soz": "ホッチキス",
+  "oxunus": "ホッチキス",
+  "romaji": "hocchikisu",
+  "az": "stepler"
+ },
+ {
+  "ders": 7,
+  "soz": "セロテープ",
+  "oxunus": "セロテープ",
+  "romaji": "seroteepu",
+  "az": "yapışqan lent"
+ },
+ {
+  "ders": 7,
+  "soz": "消しゴム",
+  "oxunus": "けしゴム",
+  "romaji": "keshigomu",
+  "az": "pozan"
+ },
+ {
+  "ders": 7,
+  "soz": "紙",
+  "oxunus": "かみ",
+  "romaji": "kami",
+  "az": "kağız"
+ },
+ {
+  "ders": 7,
+  "soz": "花",
+  "oxunus": "はな",
+  "romaji": "hana",
+  "az": "gül"
+ },
+ {
+  "ders": 7,
+  "soz": "シャツ",
+  "oxunus": "シャツ",
+  "romaji": "shatsu",
+  "az": "köynək"
+ },
+ {
+  "ders": 7,
+  "soz": "プレゼント",
+  "oxunus": "プレゼント",
+  "romaji": "purezento",
+  "az": "hədiyyə"
+ },
+ {
+  "ders": 7,
+  "soz": "荷物",
+  "oxunus": "にもつ",
+  "romaji": "nimotsu",
+  "az": "yük, baqaj"
+ },
+ {
+  "ders": 7,
+  "soz": "お金",
+  "oxunus": "おかね",
+  "romaji": "okane",
+  "az": "pul"
+ },
+ {
+  "ders": 7,
+  "soz": "切符",
+  "oxunus": "きっぷ",
+  "romaji": "kippu",
+  "az": "bilet"
+ },
+ {
+  "ders": 7,
+  "soz": "クリスマス",
+  "oxunus": "クリスマス",
+  "romaji": "kurisumasu",
+  "az": "Milad bayramı"
+ },
+ {
+  "ders": 7,
+  "soz": "父",
+  "oxunus": "ちち",
+  "romaji": "chichi",
+  "az": "ata, atam (öz atası)"
+ },
+ {
+  "ders": 7,
+  "soz": "母",
+  "oxunus": "はは",
+  "romaji": "haha",
+  "az": "ana, anam (öz anası)"
+ },
+ {
+  "ders": 7,
+  "soz": "お父さん",
+  "oxunus": "おとうさん",
+  "romaji": "otousan",
+  "az": "ata, atası (başqasının atası)"
+ },
+ {
+  "ders": 7,
+  "soz": "お母さん",
+  "oxunus": "おかあさん",
+  "romaji": "okaasan",
+  "az": "ana, anası (başqasının anası)"
+ },
+ {
+  "ders": 7,
+  "soz": "もう",
+  "oxunus": "もう",
+  "romaji": "mou",
+  "az": "artıq"
+ },
+ {
+  "ders": 7,
+  "soz": "まだ",
+  "oxunus": "まだ",
+  "romaji": "mada",
+  "az": "hələ, hələ yox"
+ },
+ {
+  "ders": 7,
+  "soz": "これから",
+  "oxunus": "これから",
+  "romaji": "kore kara",
+  "az": "bundan sonra"
+ },
+ {
+  "ders": 7,
+  "soz": "すてきですね",
+  "oxunus": "すてきですね",
+  "romaji": "suteki desu ne",
+  "az": "necə də gözəldir!"
+ },
+ {
+  "ders": 7,
+  "soz": "いらっしゃい",
+  "oxunus": "いらっしゃい",
+  "romaji": "irasshai",
+  "az": "Xoş gəldiniz."
+ },
+ {
+  "ders": 7,
+  "soz": "どうぞ おあがりください。",
+  "oxunus": "どうぞ おあがりください。",
+  "romaji": "douzo oagari kudasai",
+  "az": "Buyurun, keçin, zəhmət olmasa."
+ },
+ {
+  "ders": 7,
+  "soz": "しつれいします。",
+  "oxunus": "しつれいします。",
+  "romaji": "shitsurei shimasu",
+  "az": "İcazənizlə. (otağa girəndə və ya çıxanda)"
+ },
+ {
+  "ders": 7,
+  "soz": "[～は]いかがですか。",
+  "oxunus": "[～は]いかがですか。",
+  "romaji": "[~wa] ikaga desu ka",
+  "az": "~ istəyirsinizmi? (yemək/içmək təklif edəndə)"
+ },
+ {
+  "ders": 7,
+  "soz": "いただきます",
+  "oxunus": "いただきます",
+  "romaji": "itadakimasu",
+  "az": "Təşəkkürlə qəbul edirəm (yeməkdən əvvəl deyilir)"
+ },
+ {
+  "ders": 7,
+  "soz": "ごちそうさま[でした]",
+  "oxunus": "ごちそうさま[でした]",
+  "romaji": "gochisousama [deshita]",
+  "az": "Yeməklər çox dadlı idi (yeməkdən sonra)"
+ },
+ {
+  "ders": 7,
+  "soz": "スペイン",
+  "oxunus": "スペイン",
+  "romaji": "Supein",
+  "az": "İspaniya"
+ },
+ {
+  "ders": 8,
+  "soz": "ハンサム[な]",
+  "oxunus": "ハンサム[な]",
+  "romaji": "hansamu",
+  "az": "yaraşıqlı (kişilər üçün)"
+ },
+ {
+  "ders": 8,
+  "soz": "きれい[な]",
+  "oxunus": "きれい[な]",
+  "romaji": "kirei",
+  "az": "gözəl, təmiz"
+ },
+ {
+  "ders": 8,
+  "soz": "しずか[な]",
+  "oxunus": "しずか[な]",
+  "romaji": "shizuka",
+  "az": "səssiz, sakit"
+ },
+ {
+  "ders": 8,
+  "soz": "にぎやか[な]",
+  "oxunus": "にぎやか[な]",
+  "romaji": "nigiyaka",
+  "az": "səsli-küylü, canlanmış"
+ },
+ {
+  "ders": 8,
+  "soz": "ゆうめい[な]",
+  "oxunus": "ゆうめい[な]",
+  "romaji": "yuumei",
+  "az": "tanınmış, məşhur"
+ },
+ {
+  "ders": 8,
+  "soz": "しんせつ[な]",
+  "oxunus": "しんせつ[な]",
+  "romaji": "shinsetsu",
+  "az": "mehriban, nəzakətli"
+ },
+ {
+  "ders": 8,
+  "soz": "げんき[な]",
+  "oxunus": "げんき[な]",
+  "romaji": "genki",
+  "az": "sağlam"
+ },
+ {
+  "ders": 8,
+  "soz": "ひま[な]",
+  "oxunus": "ひま[な]",
+  "romaji": "hima",
+  "az": "asudə"
+ },
+ {
+  "ders": 8,
+  "soz": "べんり[な]",
+  "oxunus": "べんり[な]",
+  "romaji": "benri",
+  "az": "rahat, faydalı, əlverişli"
+ },
+ {
+  "ders": 8,
+  "soz": "すてき[な]",
+  "oxunus": "すてき[な]",
+  "romaji": "suteki",
+  "az": "gözəl, xoşagələn"
+ },
+ {
+  "ders": 8,
+  "soz": "おおきい",
+  "oxunus": "おおきい",
+  "romaji": "ookii",
+  "az": "böyük"
+ },
+ {
+  "ders": 8,
+  "soz": "ちいさい",
+  "oxunus": "ちいさい",
+  "romaji": "chiisai",
+  "az": "kiçik, balaca"
+ },
+ {
+  "ders": 8,
+  "soz": "あたらしい",
+  "oxunus": "あたらしい",
+  "romaji": "atarashii",
+  "az": "yeni, təzə"
+ },
+ {
+  "ders": 8,
+  "soz": "ふるい",
+  "oxunus": "ふるい",
+  "romaji": "furui",
+  "az": "köhnə"
+ },
+ {
+  "ders": 8,
+  "soz": "いい(よい)",
+  "oxunus": "いい(よい)",
+  "romaji": "ii (yoi)",
+  "az": "yaxşı"
+ },
+ {
+  "ders": 8,
+  "soz": "わるい",
+  "oxunus": "わるい",
+  "romaji": "warui",
+  "az": "pis"
+ },
+ {
+  "ders": 8,
+  "soz": "あつい",
+  "oxunus": "あつい",
+  "romaji": "atsui",
+  "az": "isti (hava üçün)"
+ },
+ {
+  "ders": 8,
+  "soz": "さむい",
+  "oxunus": "さむい",
+  "romaji": "samui",
+  "az": "soyuq (hava)"
+ },
+ {
+  "ders": 8,
+  "soz": "つめたい",
+  "oxunus": "つめたい",
+  "romaji": "tsumetai",
+  "az": "soyuq (əşya, içki)"
+ },
+ {
+  "ders": 8,
+  "soz": "むずかしい",
+  "oxunus": "むずかしい",
+  "romaji": "muzukashii",
+  "az": "çətin"
+ },
+ {
+  "ders": 8,
+  "soz": "やさしい",
+  "oxunus": "やさしい",
+  "romaji": "yasashii",
+  "az": "asan, yüngül"
+ },
+ {
+  "ders": 8,
+  "soz": "たかい",
+  "oxunus": "たかい",
+  "romaji": "takai",
+  "az": "bahalı, hündür"
+ },
+ {
+  "ders": 8,
+  "soz": "やすい",
+  "oxunus": "やすい",
+  "romaji": "yasui",
+  "az": "ucuz"
+ },
+ {
+  "ders": 8,
+  "soz": "ひくい",
+  "oxunus": "ひくい",
+  "romaji": "hikui",
+  "az": "alçaq, qısa"
+ },
+ {
+  "ders": 8,
+  "soz": "おもしろい",
+  "oxunus": "おもしろい",
+  "romaji": "omoshiroi",
+  "az": "əyləncəli, maraqlı"
+ },
+ {
+  "ders": 8,
+  "soz": "おいしい",
+  "oxunus": "おいしい",
+  "romaji": "oishii",
+  "az": "dadlı"
+ },
+ {
+  "ders": 8,
+  "soz": "いそがしい",
+  "oxunus": "いそがしい",
+  "romaji": "isogashii",
+  "az": "məşğul"
+ },
+ {
+  "ders": 8,
+  "soz": "たのしい",
+  "oxunus": "たのしい",
+  "romaji": "tanoshii",
+  "az": "əyləncəli, xoş"
+ },
+ {
+  "ders": 8,
+  "soz": "白い",
+  "oxunus": "しろい",
+  "romaji": "shiroi",
+  "az": "ağ"
+ },
+ {
+  "ders": 8,
+  "soz": "黒い",
+  "oxunus": "くろい",
+  "romaji": "kuroi",
+  "az": "qara"
+ },
+ {
+  "ders": 8,
+  "soz": "赤い",
+  "oxunus": "あかい",
+  "romaji": "akai",
+  "az": "qırmızı"
+ },
+ {
+  "ders": 8,
+  "soz": "青い",
+  "oxunus": "あおい",
+  "romaji": "aoi",
+  "az": "göy"
+ },
+ {
+  "ders": 8,
+  "soz": "桜",
+  "oxunus": "さくら",
+  "romaji": "sakura",
+  "az": "albalı (çiçəyi/ağacı)"
+ },
+ {
+  "ders": 8,
+  "soz": "山",
+  "oxunus": "やま",
+  "romaji": "yama",
+  "az": "dağ"
+ },
+ {
+  "ders": 8,
+  "soz": "町",
+  "oxunus": "まち",
+  "romaji": "machi",
+  "az": "şəhər"
+ },
+ {
+  "ders": 8,
+  "soz": "食べ物",
+  "oxunus": "たべもの",
+  "romaji": "tabemono",
+  "az": "qida, yemək"
+ },
+ {
+  "ders": 8,
+  "soz": "所",
+  "oxunus": "ところ",
+  "romaji": "tokoro",
+  "az": "yer"
+ },
+ {
+  "ders": 8,
+  "soz": "寮",
+  "oxunus": "りょう",
+  "romaji": "ryou",
+  "az": "yataqxana"
+ },
+ {
+  "ders": 8,
+  "soz": "レストラン",
+  "oxunus": "レストラン",
+  "romaji": "resutoran",
+  "az": "restoran"
+ },
+ {
+  "ders": 8,
+  "soz": "生活",
+  "oxunus": "せいかつ",
+  "romaji": "seikatsu",
+  "az": "həyat, yaşam"
+ },
+ {
+  "ders": 8,
+  "soz": "[お]仕事",
+  "oxunus": "[お]しごと",
+  "romaji": "[o]shigoto",
+  "az": "iş"
+ },
+ {
+  "ders": 8,
+  "soz": "どう",
+  "oxunus": "どう",
+  "romaji": "dou",
+  "az": "necə"
+ },
+ {
+  "ders": 8,
+  "soz": "どんな～",
+  "oxunus": "どんな～",
+  "romaji": "donna~",
+  "az": "nə cür~, necə~"
+ },
+ {
+  "ders": 8,
+  "soz": "とても",
+  "oxunus": "とても",
+  "romaji": "totemo",
+  "az": "çox"
+ },
+ {
+  "ders": 8,
+  "soz": "あまり",
+  "oxunus": "あまり",
+  "romaji": "amari",
+  "az": "heç, heç də (inkarla)"
+ },
+ {
+  "ders": 8,
+  "soz": "そして",
+  "oxunus": "そして",
+  "romaji": "soshite",
+  "az": "və (bağlayıcı)"
+ },
+ {
+  "ders": 8,
+  "soz": "～が、～",
+  "oxunus": "～が、～",
+  "romaji": "~ga, ~",
+  "az": "~, amma~"
+ },
+ {
+  "ders": 8,
+  "soz": "お元気ですか",
+  "oxunus": "おげんきですか",
+  "romaji": "ogenki desu ka",
+  "az": "Necəsiniz?"
+ },
+ {
+  "ders": 8,
+  "soz": "そうですね",
+  "oxunus": "そうですね",
+  "romaji": "sou desu ne",
+  "az": "Hmm, qoy düşünüm."
+ },
+ {
+  "ders": 8,
+  "soz": "もう一杯",
+  "oxunus": "もういっぱい",
+  "romaji": "mou ippai",
+  "az": "daha bir fincan (stəkan)"
+ },
+ {
+  "ders": 8,
+  "soz": "いいえ、けっこうです",
+  "oxunus": "いいえ、けっこうです",
+  "romaji": "iie, kekkou desu",
+  "az": "Xeyir, çox sağolun."
+ },
+ {
+  "ders": 8,
+  "soz": "もう～です[ね]",
+  "oxunus": "もう～です[ね]",
+  "romaji": "mou ~desu [ne]",
+  "az": "Artıq ~dir[, eləmi?]"
+ },
+ {
+  "ders": 8,
+  "soz": "そろそろ失礼します",
+  "oxunus": "そろそろしつれいします",
+  "romaji": "sorosoro shitsurei shimasu",
+  "az": "Artıq getmək vaxtıdır."
+ },
+ {
+  "ders": 8,
+  "soz": "いいえ",
+  "oxunus": "いいえ",
+  "romaji": "iie",
+  "az": "Dəyməz."
+ },
+ {
+  "ders": 8,
+  "soz": "またいらっしゃってください",
+  "oxunus": "またいらっしゃってください",
+  "romaji": "mata irasshatte kudasai",
+  "az": "Yenə gəlin zəhmət olmasa."
+ },
+ {
+  "ders": 8,
+  "soz": "シャンハイ",
+  "oxunus": "シャンハイ",
+  "romaji": "Shanhai",
+  "az": "Şanxay"
+ },
+ {
+  "ders": 8,
+  "soz": "金閣寺",
+  "oxunus": "きんかくじ",
+  "romaji": "Kinkakuji",
+  "az": "Kinkaku Məbədi"
+ },
+ {
+  "ders": 8,
+  "soz": "奈良公園",
+  "oxunus": "ならこうえん",
+  "romaji": "Nara Kouen",
+  "az": "Nara Parkı"
+ },
+ {
+  "ders": 8,
+  "soz": "富士山",
+  "oxunus": "ふじさん",
+  "romaji": "Fujisan",
+  "az": "Fuji dağı"
+ },
+ {
+  "ders": 8,
+  "soz": "七人の侍",
+  "oxunus": "しちにんのさむらい",
+  "romaji": "Shichinin no Samurai",
+  "az": "Yeddi Samuray"
+ },
+ {
+  "ders": 9,
+  "soz": "分かります",
+  "oxunus": "わかります",
+  "romaji": "wakarimasu",
+  "az": "başa düşmək"
+ },
+ {
+  "ders": 9,
+  "soz": "あります",
+  "oxunus": "あります",
+  "romaji": "arimasu",
+  "az": "var, sahib olmaq"
+ },
+ {
+  "ders": 9,
+  "soz": "好き[な]",
+  "oxunus": "すき[な]",
+  "romaji": "suki",
+  "az": "xoşagələn"
+ },
+ {
+  "ders": 9,
+  "soz": "嫌い[な]",
+  "oxunus": "きらい[な]",
+  "romaji": "kirai",
+  "az": "xoşuma gəlməyən, zəhləm gedən"
+ },
+ {
+  "ders": 9,
+  "soz": "上手[な]",
+  "oxunus": "じょうず[な]",
+  "romaji": "jouzu",
+  "az": "bacarıqlı, zirak"
+ },
+ {
+  "ders": 9,
+  "soz": "下手[な]",
+  "oxunus": "へた[な]",
+  "romaji": "heta",
+  "az": "bacarıqsız, fərsiz"
+ },
+ {
+  "ders": 9,
+  "soz": "飲み物",
+  "oxunus": "のみもの",
+  "romaji": "nomimono",
+  "az": "içki"
+ },
+ {
+  "ders": 9,
+  "soz": "料理",
+  "oxunus": "りょうり",
+  "romaji": "ryouri",
+  "az": "yemək (xörək), aşpazlıq"
+ },
+ {
+  "ders": 9,
+  "soz": "スポーツ",
+  "oxunus": "スポーツ",
+  "romaji": "supootsu",
+  "az": "idman (～をします: idmanla məşğul olmaq)"
+ },
+ {
+  "ders": 9,
+  "soz": "野球",
+  "oxunus": "やきゅう",
+  "romaji": "yakyuu",
+  "az": "beysbol"
+ },
+ {
+  "ders": 9,
+  "soz": "ダンス",
+  "oxunus": "ダンス",
+  "romaji": "dansu",
+  "az": "rəqs (～をします: rəqs etmək)"
+ },
+ {
+  "ders": 9,
+  "soz": "旅行",
+  "oxunus": "りょこう",
+  "romaji": "ryokou",
+  "az": "səyahət"
+ },
+ {
+  "ders": 9,
+  "soz": "音楽",
+  "oxunus": "おんがく",
+  "romaji": "ongaku",
+  "az": "musiqi"
+ },
+ {
+  "ders": 9,
+  "soz": "歌",
+  "oxunus": "うた",
+  "romaji": "uta",
+  "az": "mahnı"
+ },
+ {
+  "ders": 9,
+  "soz": "クラシック",
+  "oxunus": "クラシック",
+  "romaji": "kurashikku",
+  "az": "klassik musiqi"
+ },
+ {
+  "ders": 9,
+  "soz": "ジャズ",
+  "oxunus": "ジャズ",
+  "romaji": "jazu",
+  "az": "caz"
+ },
+ {
+  "ders": 9,
+  "soz": "コンサート",
+  "oxunus": "コンサート",
+  "romaji": "konsaato",
+  "az": "konsert"
+ },
+ {
+  "ders": 9,
+  "soz": "カラオケ",
+  "oxunus": "カラオケ",
+  "romaji": "karaoke",
+  "az": "karaoke"
+ },
+ {
+  "ders": 9,
+  "soz": "歌舞伎",
+  "oxunus": "かぶき",
+  "romaji": "kabuki",
+  "az": "Kabuki (ənənəvi yapon teatrı)"
+ },
+ {
+  "ders": 9,
+  "soz": "絵",
+  "oxunus": "え",
+  "romaji": "e",
+  "az": "rəsm"
+ },
+ {
+  "ders": 9,
+  "soz": "字",
+  "oxunus": "じ",
+  "romaji": "ji",
+  "az": "hərf"
+ },
+ {
+  "ders": 9,
+  "soz": "漢字",
+  "oxunus": "かんじ",
+  "romaji": "kanji",
+  "az": "heroqlif"
+ },
+ {
+  "ders": 9,
+  "soz": "ひらがな",
+  "oxunus": "ひらがな",
+  "romaji": "hiragana",
+  "az": "Hiragana əlifbası"
+ },
+ {
+  "ders": 9,
+  "soz": "カタカナ",
+  "oxunus": "カタカナ",
+  "romaji": "katakana",
+  "az": "Katakana əlifbası"
+ },
+ {
+  "ders": 9,
+  "soz": "ローマ字",
+  "oxunus": "ローマじ",
+  "romaji": "roumaji",
+  "az": "Latın əlifbası"
+ },
+ {
+  "ders": 9,
+  "soz": "細かいお金",
+  "oxunus": "こまかいおかね",
+  "romaji": "komakai okane",
+  "az": "xırda pul"
+ },
+ {
+  "ders": 9,
+  "soz": "チケット",
+  "oxunus": "チケット",
+  "romaji": "chiketto",
+  "az": "bilet"
+ },
+ {
+  "ders": 9,
+  "soz": "時間",
+  "oxunus": "じかん",
+  "romaji": "jikan",
+  "az": "vaxt"
+ },
+ {
+  "ders": 9,
+  "soz": "用事",
+  "oxunus": "ようじ",
+  "romaji": "youji",
+  "az": "vacib iş"
+ },
+ {
+  "ders": 9,
+  "soz": "約束",
+  "oxunus": "やくそく",
+  "romaji": "yakusoku",
+  "az": "söz, sözləşmə"
+ },
+ {
+  "ders": 9,
+  "soz": "アルバイト",
+  "oxunus": "アルバイト",
+  "romaji": "arubaito",
+  "az": "əlavə iş (～をします: əlavə işləmək)"
+ },
+ {
+  "ders": 9,
+  "soz": "ご主人",
+  "oxunus": "ごしゅじん",
+  "romaji": "goshujin",
+  "az": "başqasının əri"
+ },
+ {
+  "ders": 9,
+  "soz": "夫/主人",
+  "oxunus": "おっと/しゅじん",
+  "romaji": "otto / shujin",
+  "az": "mənim ərim"
+ },
+ {
+  "ders": 9,
+  "soz": "奥さん",
+  "oxunus": "おくさん",
+  "romaji": "okusan",
+  "az": "başqasının xanımı"
+ },
+ {
+  "ders": 9,
+  "soz": "妻/家内",
+  "oxunus": "つま/かない",
+  "romaji": "tsuma / kanai",
+  "az": "mənim xanımım"
+ },
+ {
+  "ders": 9,
+  "soz": "子供",
+  "oxunus": "こども",
+  "romaji": "kodomo",
+  "az": "uşaq"
+ },
+ {
+  "ders": 9,
+  "soz": "よく",
+  "oxunus": "よく",
+  "romaji": "yoku",
+  "az": "yaxşı, tez-tez"
+ },
+ {
+  "ders": 9,
+  "soz": "だいたい",
+  "oxunus": "だいたい",
+  "romaji": "daitai",
+  "az": "təxminən, demək olar ki"
+ },
+ {
+  "ders": 9,
+  "soz": "たくさん",
+  "oxunus": "たくさん",
+  "romaji": "takusan",
+  "az": "çoxlu"
+ },
+ {
+  "ders": 9,
+  "soz": "少し",
+  "oxunus": "すこし",
+  "romaji": "sukoshi",
+  "az": "biraz, az"
+ },
+ {
+  "ders": 9,
+  "soz": "全然",
+  "oxunus": "ぜんぜん",
+  "romaji": "zenzen",
+  "az": "heç (inkarla)"
+ },
+ {
+  "ders": 9,
+  "soz": "早く",
+  "oxunus": "はやく",
+  "romaji": "hayaku",
+  "az": "tez, sürətlə"
+ },
+ {
+  "ders": 9,
+  "soz": "～から",
+  "oxunus": "～から",
+  "romaji": "~kara",
+  "az": "~ üçün, ~ görə"
+ },
+ {
+  "ders": 9,
+  "soz": "どうして",
+  "oxunus": "どうして",
+  "romaji": "doushite",
+  "az": "nə üçün, niyə"
+ },
+ {
+  "ders": 9,
+  "soz": "貸してください。",
+  "oxunus": "かしてください。",
+  "romaji": "kashite kudasai",
+  "az": "Borc verin, zəhmət olmasa."
+ },
+ {
+  "ders": 9,
+  "soz": "いいですよ。",
+  "oxunus": "いいですよ。",
+  "romaji": "ii desu yo",
+  "az": "Olar. Əlbəttə."
+ },
+ {
+  "ders": 9,
+  "soz": "残念です[が]",
+  "oxunus": "ざんねんです[が]",
+  "romaji": "zannen desu [ga]",
+  "az": "Təəssüf edirəm, amma..."
+ },
+ {
+  "ders": 9,
+  "soz": "ああ",
+  "oxunus": "ああ",
+  "romaji": "aa",
+  "az": "aaa"
+ },
+ {
+  "ders": 9,
+  "soz": "いっしょにいかがですか。",
+  "oxunus": "いっしょにいかがですか。",
+  "romaji": "issho ni ikaga desu ka",
+  "az": "Bizimlə birgə necədir?"
+ },
+ {
+  "ders": 9,
+  "soz": "[～は]ちょっと…。",
+  "oxunus": "[～は]ちょっと…。",
+  "romaji": "[~wa] chotto...",
+  "az": "[~] bir az çətindir (təklifi rədd edəndə)"
+ },
+ {
+  "ders": 9,
+  "soz": "だめですか。",
+  "oxunus": "だめですか。",
+  "romaji": "dame desu ka",
+  "az": "Olmaz?"
+ },
+ {
+  "ders": 9,
+  "soz": "また今度お願いします。",
+  "oxunus": "またこんどおねがいします。",
+  "romaji": "mata kondo onegaishimasu",
+  "az": "Qalsın gələn dəfəyə, zəhmət olmasa."
+ },
+ {
+  "ders": 10,
+  "soz": "あります",
+  "oxunus": "あります",
+  "romaji": "arimasu",
+  "az": "var, (var) olmaq (əşyalar üçün)"
+ },
+ {
+  "ders": 10,
+  "soz": "います",
+  "oxunus": "います",
+  "romaji": "imasu",
+  "az": "var, (var) olmaq (canlılar üçün)"
+ },
+ {
+  "ders": 10,
+  "soz": "色々[な]",
+  "oxunus": "いろいろ[な]",
+  "romaji": "iroiro [na]",
+  "az": "cürbəcür, müxtəlif"
+ },
+ {
+  "ders": 10,
+  "soz": "男の人",
+  "oxunus": "おとこのひと",
+  "romaji": "otoko no hito",
+  "az": "kişi"
+ },
+ {
+  "ders": 10,
+  "soz": "女の人",
+  "oxunus": "おんなのひと",
+  "romaji": "onna no hito",
+  "az": "qadın"
+ },
+ {
+  "ders": 10,
+  "soz": "男の子",
+  "oxunus": "おとこのこ",
+  "romaji": "otoko no ko",
+  "az": "oğlan uşağı"
+ },
+ {
+  "ders": 10,
+  "soz": "女の子",
+  "oxunus": "おんなのこ",
+  "romaji": "onna no ko",
+  "az": "qız uşağı"
+ },
+ {
+  "ders": 10,
+  "soz": "犬",
+  "oxunus": "いぬ",
+  "romaji": "inu",
+  "az": "it"
+ },
+ {
+  "ders": 10,
+  "soz": "猫",
+  "oxunus": "ねこ",
+  "romaji": "neko",
+  "az": "pişik"
+ },
+ {
+  "ders": 10,
+  "soz": "パンダ",
+  "oxunus": "パンダ",
+  "romaji": "panda",
+  "az": "panda"
+ },
+ {
+  "ders": 10,
+  "soz": "象",
+  "oxunus": "ぞう",
+  "romaji": "zou",
+  "az": "fil"
+ },
+ {
+  "ders": 10,
+  "soz": "木",
+  "oxunus": "き",
+  "romaji": "ki",
+  "az": "ağac"
+ },
+ {
+  "ders": 10,
+  "soz": "物",
+  "oxunus": "もの",
+  "romaji": "mono",
+  "az": "əşya"
+ },
+ {
+  "ders": 10,
+  "soz": "電池",
+  "oxunus": "でんち",
+  "romaji": "denchi",
+  "az": "batareya"
+ },
+ {
+  "ders": 10,
+  "soz": "箱",
+  "oxunus": "はこ",
+  "romaji": "hako",
+  "az": "qutu"
+ },
+ {
+  "ders": 10,
+  "soz": "スイッチ",
+  "oxunus": "スイッチ",
+  "romaji": "suitchi",
+  "az": "düymə (elektrik)"
+ },
+ {
+  "ders": 10,
+  "soz": "冷蔵庫",
+  "oxunus": "れいぞうこ",
+  "romaji": "reizouko",
+  "az": "soyuducu"
+ },
+ {
+  "ders": 10,
+  "soz": "テーブル",
+  "oxunus": "テーブル",
+  "romaji": "teeburu",
+  "az": "masa"
+ },
+ {
+  "ders": 10,
+  "soz": "ベッド",
+  "oxunus": "ベッド",
+  "romaji": "beddo",
+  "az": "çarpayı"
+ },
+ {
+  "ders": 10,
+  "soz": "棚",
+  "oxunus": "たな",
+  "romaji": "tana",
+  "az": "rəf, şkaf"
+ },
+ {
+  "ders": 10,
+  "soz": "ドア",
+  "oxunus": "ドア",
+  "romaji": "doa",
+  "az": "qapı"
+ },
+ {
+  "ders": 10,
+  "soz": "窓",
+  "oxunus": "まど",
+  "romaji": "mado",
+  "az": "pəncərə"
+ },
+ {
+  "ders": 10,
+  "soz": "ポスト",
+  "oxunus": "ポスト",
+  "romaji": "posuto",
+  "az": "poçt qutusu"
+ },
+ {
+  "ders": 10,
+  "soz": "ビル",
+  "oxunus": "ビル",
+  "romaji": "biru",
+  "az": "bina"
+ },
+ {
+  "ders": 10,
+  "soz": "ATM",
+  "oxunus": "ATM",
+  "romaji": "ATM",
+  "az": "bankomat"
+ },
+ {
+  "ders": 10,
+  "soz": "コンビニ",
+  "oxunus": "コンビニ",
+  "romaji": "konbini",
+  "az": "(rahat) market"
+ },
+ {
+  "ders": 10,
+  "soz": "公園",
+  "oxunus": "こうえん",
+  "romaji": "kouen",
+  "az": "park"
+ },
+ {
+  "ders": 10,
+  "soz": "喫茶店",
+  "oxunus": "きっさてん",
+  "romaji": "kissaten",
+  "az": "qəlyanaltıxana, çay evi, kafe"
+ },
+ {
+  "ders": 10,
+  "soz": "～屋",
+  "oxunus": "～や",
+  "romaji": "~ya",
+  "az": "~mağaza"
+ },
+ {
+  "ders": 10,
+  "soz": "乗り場",
+  "oxunus": "のりば",
+  "romaji": "noriba",
+  "az": "dayanacaq"
+ },
+ {
+  "ders": 10,
+  "soz": "県",
+  "oxunus": "けん",
+  "romaji": "ken",
+  "az": "prefektura"
+ },
+ {
+  "ders": 10,
+  "soz": "上",
+  "oxunus": "うえ",
+  "romaji": "ue",
+  "az": "üst"
+ },
+ {
+  "ders": 10,
+  "soz": "下",
+  "oxunus": "した",
+  "romaji": "shita",
+  "az": "alt"
+ },
+ {
+  "ders": 10,
+  "soz": "前",
+  "oxunus": "まえ",
+  "romaji": "mae",
+  "az": "ön, qabaq"
+ },
+ {
+  "ders": 10,
+  "soz": "後ろ",
+  "oxunus": "うしろ",
+  "romaji": "ushiro",
+  "az": "arxa"
+ },
+ {
+  "ders": 10,
+  "soz": "右",
+  "oxunus": "みぎ",
+  "romaji": "migi",
+  "az": "sağ"
+ },
+ {
+  "ders": 10,
+  "soz": "左",
+  "oxunus": "ひだり",
+  "romaji": "hidari",
+  "az": "sol"
+ },
+ {
+  "ders": 10,
+  "soz": "中",
+  "oxunus": "なか",
+  "romaji": "naka",
+  "az": "iç, içəri, daxili"
+ },
+ {
+  "ders": 10,
+  "soz": "外",
+  "oxunus": "そと",
+  "romaji": "soto",
+  "az": "çöl, xarici"
+ },
+ {
+  "ders": 10,
+  "soz": "隣",
+  "oxunus": "となり",
+  "romaji": "tonari",
+  "az": "yanında"
+ },
+ {
+  "ders": 10,
+  "soz": "近く",
+  "oxunus": "ちかく",
+  "romaji": "chikaku",
+  "az": "yaxın, ətraf"
+ },
+ {
+  "ders": 10,
+  "soz": "間",
+  "oxunus": "あいだ",
+  "romaji": "aida",
+  "az": "ara(sı)"
+ },
+ {
+  "ders": 10,
+  "soz": "～や～[など]",
+  "oxunus": "～や～[など]",
+  "romaji": "~ya~[nado]",
+  "az": "~, ~ və s. (bağlayıcı)"
+ },
+ {
+  "ders": 10,
+  "soz": "[どうも]すみません",
+  "oxunus": "[どうも]すみません",
+  "romaji": "[doumo] sumimasen",
+  "az": "[Çox] üzr istəyirəm (zəhmət verəndə)"
+ },
+ {
+  "ders": 10,
+  "soz": "ナンプラー",
+  "oxunus": "ナンプラー",
+  "romaji": "nanpuraa",
+  "az": "nam pla (balıq sousu)"
+ },
+ {
+  "ders": 10,
+  "soz": "コーナー",
+  "oxunus": "コーナー",
+  "romaji": "koonaa",
+  "az": "guşə"
+ },
+ {
+  "ders": 10,
+  "soz": "いちばん下",
+  "oxunus": "いちばんした",
+  "romaji": "ichiban shita",
+  "az": "ən aşağı, ən altı"
+ },
+ {
+  "ders": 10,
+  "soz": "東京ディズニーランド",
+  "oxunus": "とうきょうディズニーランド",
+  "romaji": "Toukyou Dizuniirando",
+  "az": "Tokyo Disneyland"
+ },
+ {
+  "ders": 11,
+  "soz": "あります",
+  "oxunus": "あります",
+  "romaji": "arimasu",
+  "az": "[子どもが～] olmaq, var olmaq"
+ },
+ {
+  "ders": 11,
+  "soz": "います",
+  "oxunus": "います",
+  "romaji": "imasu",
+  "az": "[日本に～] (var) olmaq"
+ },
+ {
+  "ders": 11,
+  "soz": "かかります",
+  "oxunus": "かかります",
+  "romaji": "kakarimasu",
+  "az": "(vaxt) aparmaq"
+ },
+ {
+  "ders": 11,
+  "soz": "休みます",
+  "oxunus": "やすみます",
+  "romaji": "yasumimasu",
+  "az": "[会社を～] dincəlmək, istirahət etmək"
+ },
+ {
+  "ders": 11,
+  "soz": "1つ",
+  "oxunus": "1つ",
+  "romaji": "hitotsu",
+  "az": "bir"
+ },
+ {
+  "ders": 11,
+  "soz": "2つ",
+  "oxunus": "2つ",
+  "romaji": "futatsu",
+  "az": "iki"
+ },
+ {
+  "ders": 11,
+  "soz": "3つ",
+  "oxunus": "3つ",
+  "romaji": "mittsu",
+  "az": "üç"
+ },
+ {
+  "ders": 11,
+  "soz": "4つ",
+  "oxunus": "4つ",
+  "romaji": "yottsu",
+  "az": "dörd"
+ },
+ {
+  "ders": 11,
+  "soz": "5つ",
+  "oxunus": "5つ",
+  "romaji": "itsutsu",
+  "az": "beş"
+ },
+ {
+  "ders": 11,
+  "soz": "6つ",
+  "oxunus": "6つ",
+  "romaji": "muttsu",
+  "az": "altı"
+ },
+ {
+  "ders": 11,
+  "soz": "7つ",
+  "oxunus": "7つ",
+  "romaji": "nanatsu",
+  "az": "yeddi"
+ },
+ {
+  "ders": 11,
+  "soz": "8つ",
+  "oxunus": "8つ",
+  "romaji": "yattsu",
+  "az": "səkkiz"
+ },
+ {
+  "ders": 11,
+  "soz": "9つ",
+  "oxunus": "9つ",
+  "romaji": "kokonotsu",
+  "az": "doqquz"
+ },
+ {
+  "ders": 11,
+  "soz": "10",
+  "oxunus": "10",
+  "romaji": "too",
+  "az": "on"
+ },
+ {
+  "ders": 11,
+  "soz": "いくつ",
+  "oxunus": "いくつ",
+  "romaji": "ikutsu",
+  "az": "neçə ədəd, nə qədər"
+ },
+ {
+  "ders": 11,
+  "soz": "1人",
+  "oxunus": "ひとり",
+  "romaji": "hitori",
+  "az": "bir adam"
+ },
+ {
+  "ders": 11,
+  "soz": "2人",
+  "oxunus": "ふたり",
+  "romaji": "futari",
+  "az": "iki adam"
+ },
+ {
+  "ders": 11,
+  "soz": "～人",
+  "oxunus": "～にん",
+  "romaji": "~nin",
+  "az": "~insan/adam"
+ },
+ {
+  "ders": 11,
+  "soz": "～台",
+  "oxunus": "～だい",
+  "romaji": "~dai",
+  "az": "~ədəd (cihaz, maşın)"
+ },
+ {
+  "ders": 11,
+  "soz": "～枚",
+  "oxunus": "～まい",
+  "romaji": "~mai",
+  "az": "~ədəd (nazik, yastı əşya)"
+ },
+ {
+  "ders": 11,
+  "soz": "～回",
+  "oxunus": "～かい",
+  "romaji": "~kai",
+  "az": "~dəfə"
+ },
+ {
+  "ders": 11,
+  "soz": "りんご",
+  "oxunus": "りんご",
+  "romaji": "ringo",
+  "az": "alma"
+ },
+ {
+  "ders": 11,
+  "soz": "みかん",
+  "oxunus": "みかん",
+  "romaji": "mikan",
+  "az": "mandarin, naringi"
+ },
+ {
+  "ders": 11,
+  "soz": "サンドイッチ",
+  "oxunus": "サンドイッチ",
+  "romaji": "sandoicchi",
+  "az": "sendviç"
+ },
+ {
+  "ders": 11,
+  "soz": "カレー[ライス]",
+  "oxunus": "カレー[ライス]",
+  "romaji": "karee [raisu]",
+  "az": "karri sousu ilə düyü"
+ },
+ {
+  "ders": 11,
+  "soz": "アイスクリーム",
+  "oxunus": "アイスクリーム",
+  "romaji": "aisukuriimu",
+  "az": "dondurma"
+ },
+ {
+  "ders": 11,
+  "soz": "切手",
+  "oxunus": "きって",
+  "romaji": "kitte",
+  "az": "marka"
+ },
+ {
+  "ders": 11,
+  "soz": "はがき",
+  "oxunus": "はがき",
+  "romaji": "hagaki",
+  "az": "açıqca"
+ },
+ {
+  "ders": 11,
+  "soz": "封筒",
+  "oxunus": "ふうとう",
+  "romaji": "fuutou",
+  "az": "zərf"
+ },
+ {
+  "ders": 11,
+  "soz": "両親",
+  "oxunus": "りょうしん",
+  "romaji": "ryoushin",
+  "az": "valideynlər"
+ },
+ {
+  "ders": 11,
+  "soz": "兄弟",
+  "oxunus": "きょうだい",
+  "romaji": "kyoudai",
+  "az": "bacı-qardaşlar"
+ },
+ {
+  "ders": 11,
+  "soz": "兄",
+  "oxunus": "あに",
+  "romaji": "ani",
+  "az": "böyük qardaş (özünün)"
+ },
+ {
+  "ders": 11,
+  "soz": "お兄さん",
+  "oxunus": "おにいさん",
+  "romaji": "oniisan",
+  "az": "böyük qardaş (başqasının)"
+ },
+ {
+  "ders": 11,
+  "soz": "姉",
+  "oxunus": "あね",
+  "romaji": "ane",
+  "az": "böyük bacı (özünün)"
+ },
+ {
+  "ders": 11,
+  "soz": "お姉さん",
+  "oxunus": "おねえさん",
+  "romaji": "oneesan",
+  "az": "böyük bacı (başqasının)"
+ },
+ {
+  "ders": 11,
+  "soz": "弟",
+  "oxunus": "おとうと",
+  "romaji": "otouto",
+  "az": "balaca qardaş (özünün)"
+ },
+ {
+  "ders": 11,
+  "soz": "弟さん",
+  "oxunus": "おとうとさん",
+  "romaji": "otoutosan",
+  "az": "balaca qardaş (başqasının)"
+ },
+ {
+  "ders": 11,
+  "soz": "妹",
+  "oxunus": "いもうと",
+  "romaji": "imouto",
+  "az": "balaca bacı (özünün)"
+ },
+ {
+  "ders": 11,
+  "soz": "妹さん",
+  "oxunus": "いもうとさん",
+  "romaji": "imoutosan",
+  "az": "balaca bacı (başqasının)"
+ },
+ {
+  "ders": 11,
+  "soz": "外国",
+  "oxunus": "がいこく",
+  "romaji": "gaikoku",
+  "az": "xarici ölkə"
+ },
+ {
+  "ders": 11,
+  "soz": "留学生",
+  "oxunus": "りゅうがくせい",
+  "romaji": "ryuugakusei",
+  "az": "xarici tələbə"
+ },
+ {
+  "ders": 11,
+  "soz": "クラス",
+  "oxunus": "クラス",
+  "romaji": "kurasu",
+  "az": "sinif"
+ },
+ {
+  "ders": 11,
+  "soz": "～時間",
+  "oxunus": "～じかん",
+  "romaji": "~jikan",
+  "az": "~saat (müddət)"
+ },
+ {
+  "ders": 11,
+  "soz": "～週間",
+  "oxunus": "～しゅうかん",
+  "romaji": "~shuukan",
+  "az": "~həftə (müddət)"
+ },
+ {
+  "ders": 11,
+  "soz": "～か月",
+  "oxunus": "～かげつ",
+  "romaji": "~kagetsu",
+  "az": "~ay (müddət)"
+ },
+ {
+  "ders": 11,
+  "soz": "～年",
+  "oxunus": "～ねん",
+  "romaji": "~nen",
+  "az": "~il (müddət)"
+ },
+ {
+  "ders": 11,
+  "soz": "～ぐらい",
+  "oxunus": "～ぐらい",
+  "romaji": "~gurai",
+  "az": "~qədər, təxminən"
+ },
+ {
+  "ders": 11,
+  "soz": "どのぐらい",
+  "oxunus": "どのぐらい",
+  "romaji": "dono gurai",
+  "az": "nə qədər?"
+ },
+ {
+  "ders": 11,
+  "soz": "全部で",
+  "oxunus": "ぜんぶで",
+  "romaji": "zenbu de",
+  "az": "hamısı, cəmi"
+ },
+ {
+  "ders": 11,
+  "soz": "みんな",
+  "oxunus": "みんな",
+  "romaji": "minna",
+  "az": "hamı"
+ },
+ {
+  "ders": 11,
+  "soz": "～だけ",
+  "oxunus": "～だけ",
+  "romaji": "~dake",
+  "az": "ancaq~, yalnız~"
+ },
+ {
+  "ders": 11,
+  "soz": "かしこまりました。",
+  "oxunus": "かしこまりました。",
+  "romaji": "kashikomarimashita",
+  "az": "Yaxşı, anladım. (Baş üstə.)"
+ },
+ {
+  "ders": 11,
+  "soz": "いい[お]天気ですね。",
+  "oxunus": "いい[お]てんきですね。",
+  "romaji": "ii [o]tenki desu ne",
+  "az": "Necə gözəl havadır!"
+ },
+ {
+  "ders": 11,
+  "soz": "お出かけですか。",
+  "oxunus": "おでかけですか。",
+  "romaji": "odekake desu ka",
+  "az": "Çölə çıxırsınız?"
+ },
+ {
+  "ders": 11,
+  "soz": "ちょっと～まで。",
+  "oxunus": "ちょっと ～まで。",
+  "romaji": "chotto ~ made",
+  "az": "~-ə qədər gedirəm"
+ },
+ {
+  "ders": 11,
+  "soz": "行ってらっしゃい。",
+  "oxunus": "いってらっしゃい。",
+  "romaji": "itterasshai",
+  "az": "Gülə-gülə, sağ-salamat qayıdın (gedənə deyilir)"
+ },
+ {
+  "ders": 11,
+  "soz": "行ってきます。",
+  "oxunus": "いってきます。",
+  "romaji": "ittekimasu",
+  "az": "Gedib gəlirəm (gedən deyir)"
+ },
+ {
+  "ders": 11,
+  "soz": "船便",
+  "oxunus": "ふなびん",
+  "romaji": "funabin",
+  "az": "gəmi poçtu"
+ },
+ {
+  "ders": 11,
+  "soz": "航空便(エアメール)",
+  "oxunus": "こうくうびん(エアメール)",
+  "romaji": "koukuubin (eameeru)",
+  "az": "aviapoçt"
+ },
+ {
+  "ders": 11,
+  "soz": "お願いします。",
+  "oxunus": "おねがいします。",
+  "romaji": "onegaishimasu",
+  "az": "xahiş edirəm"
+ },
+ {
+  "ders": 11,
+  "soz": "オーストラリア",
+  "oxunus": "オーストラリア",
+  "romaji": "Oosutoraria",
+  "az": "Avstraliya"
+ },
+ {
+  "ders": 12,
+  "soz": "簡単[な]",
+  "oxunus": "かんたん[な]",
+  "romaji": "kantan [na]",
+  "az": "asan, sadə"
+ },
+ {
+  "ders": 12,
+  "soz": "近い",
+  "oxunus": "ちかい",
+  "romaji": "chikai",
+  "az": "yaxın"
+ },
+ {
+  "ders": 12,
+  "soz": "遠い",
+  "oxunus": "とおい",
+  "romaji": "tooi",
+  "az": "uzaq"
+ },
+ {
+  "ders": 12,
+  "soz": "速い/早い",
+  "oxunus": "はやい",
+  "romaji": "hayai",
+  "az": "tez, sürətli"
+ },
+ {
+  "ders": 12,
+  "soz": "遅い",
+  "oxunus": "おそい",
+  "romaji": "osoi",
+  "az": "gec, asta, ləng"
+ },
+ {
+  "ders": 12,
+  "soz": "多い [人が～]",
+  "oxunus": "おおい [ひとが～]",
+  "romaji": "ooi [hito ga ~]",
+  "az": "çox (miqdarca) [çox adam]"
+ },
+ {
+  "ders": 12,
+  "soz": "少ない [人が～]",
+  "oxunus": "すくない[ひとが～]",
+  "romaji": "sukunai [hito ga ~]",
+  "az": "az (miqdarca) [az adam]"
+ },
+ {
+  "ders": 12,
+  "soz": "暖かい/温かい",
+  "oxunus": "あたたかい",
+  "romaji": "atatakai",
+  "az": "ilıq (hava / içki)"
+ },
+ {
+  "ders": 12,
+  "soz": "涼しい",
+  "oxunus": "すずしい",
+  "romaji": "suzushii",
+  "az": "sərin"
+ },
+ {
+  "ders": 12,
+  "soz": "甘い",
+  "oxunus": "あまい",
+  "romaji": "amai",
+  "az": "şirin"
+ },
+ {
+  "ders": 12,
+  "soz": "辛い",
+  "oxunus": "からい",
+  "romaji": "karai",
+  "az": "acı"
+ },
+ {
+  "ders": 12,
+  "soz": "重い",
+  "oxunus": "おもい",
+  "romaji": "omoi",
+  "az": "ağır"
+ },
+ {
+  "ders": 12,
+  "soz": "軽い",
+  "oxunus": "かるい",
+  "romaji": "karui",
+  "az": "yüngül"
+ },
+ {
+  "ders": 12,
+  "soz": "いい[コーヒーが～]",
+  "oxunus": "いい[コーヒーが～]",
+  "romaji": "ii [koohii ga ~]",
+  "az": "yaxşı; [qəhvə olsun] (seçim edəndə)"
+ },
+ {
+  "ders": 12,
+  "soz": "季節",
+  "oxunus": "きせつ",
+  "romaji": "kisetsu",
+  "az": "mövsüm"
+ },
+ {
+  "ders": 12,
+  "soz": "春",
+  "oxunus": "はる",
+  "romaji": "haru",
+  "az": "yaz"
+ },
+ {
+  "ders": 12,
+  "soz": "夏",
+  "oxunus": "なつ",
+  "romaji": "natsu",
+  "az": "yay"
+ },
+ {
+  "ders": 12,
+  "soz": "秋",
+  "oxunus": "あき",
+  "romaji": "aki",
+  "az": "payız"
+ },
+ {
+  "ders": 12,
+  "soz": "冬",
+  "oxunus": "ふゆ",
+  "romaji": "fuyu",
+  "az": "qış"
+ },
+ {
+  "ders": 12,
+  "soz": "天気",
+  "oxunus": "てんき",
+  "romaji": "tenki",
+  "az": "hava"
+ },
+ {
+  "ders": 12,
+  "soz": "雨",
+  "oxunus": "あめ",
+  "romaji": "ame",
+  "az": "yağış"
+ },
+ {
+  "ders": 12,
+  "soz": "雪",
+  "oxunus": "ゆき",
+  "romaji": "yuki",
+  "az": "qar"
+ },
+ {
+  "ders": 12,
+  "soz": "曇り",
+  "oxunus": "くもり",
+  "romaji": "kumori",
+  "az": "buludlu"
+ },
+ {
+  "ders": 12,
+  "soz": "ホテル",
+  "oxunus": "ホテル",
+  "romaji": "hoteru",
+  "az": "otel"
+ },
+ {
+  "ders": 12,
+  "soz": "空港",
+  "oxunus": "くうこう",
+  "romaji": "kuukou",
+  "az": "hava limanı"
+ },
+ {
+  "ders": 12,
+  "soz": "海",
+  "oxunus": "うみ",
+  "romaji": "umi",
+  "az": "dəniz"
+ },
+ {
+  "ders": 12,
+  "soz": "世界",
+  "oxunus": "せかい",
+  "romaji": "sekai",
+  "az": "dünya"
+ },
+ {
+  "ders": 12,
+  "soz": "遊園地",
+  "oxunus": "ゆうえんち",
+  "romaji": "yuuenchi",
+  "az": "əyləncə parkı"
+ },
+ {
+  "ders": 12,
+  "soz": "パーティー",
+  "oxunus": "パーティー",
+  "romaji": "paatii",
+  "az": "əyləncəli yığıncaq, ziyafət (～をします: ziyafət keçirmək)"
+ },
+ {
+  "ders": 12,
+  "soz": "[お]祭り",
+  "oxunus": "[お]まつり",
+  "romaji": "[o]matsuri",
+  "az": "festival, bayram"
+ },
+ {
+  "ders": 12,
+  "soz": "すき焼き",
+  "oxunus": "すきやき",
+  "romaji": "sukiyaki",
+  "az": "sukiyaki (yemək adı)"
+ },
+ {
+  "ders": 12,
+  "soz": "刺身",
+  "oxunus": "さしみ",
+  "romaji": "sashimi",
+  "az": "sashimi (yemək adı)"
+ },
+ {
+  "ders": 12,
+  "soz": "[お]寿司",
+  "oxunus": "[お]すし",
+  "romaji": "[o]sushi",
+  "az": "sushi (yemək adı)"
+ },
+ {
+  "ders": 12,
+  "soz": "天ぷら",
+  "oxunus": "てんぷら",
+  "romaji": "tenpura",
+  "az": "tempura (yemək adı)"
+ },
+ {
+  "ders": 12,
+  "soz": "豚肉",
+  "oxunus": "ぶたにく",
+  "romaji": "butaniku",
+  "az": "donuz əti"
+ },
+ {
+  "ders": 12,
+  "soz": "とり肉",
+  "oxunus": "とりにく",
+  "romaji": "toriniku",
+  "az": "toyuq əti"
+ },
+ {
+  "ders": 12,
+  "soz": "牛肉",
+  "oxunus": "ぎゅうにく",
+  "romaji": "gyuuniku",
+  "az": "mal əti"
+ },
+ {
+  "ders": 12,
+  "soz": "レモン",
+  "oxunus": "レモン",
+  "romaji": "remon",
+  "az": "limon"
+ },
+ {
+  "ders": 12,
+  "soz": "生け花",
+  "oxunus": "いけばな",
+  "romaji": "ikebana",
+  "az": "yapon gülbəzəmə sənəti (～をします: ikebana düzəltmək)"
+ },
+ {
+  "ders": 12,
+  "soz": "紅葉",
+  "oxunus": "もみじ",
+  "romaji": "momiji",
+  "az": "Momiji ağacı (payızda yarpaqları qızaran ağac)"
+ },
+ {
+  "ders": 12,
+  "soz": "どちら",
+  "oxunus": "どちら",
+  "romaji": "dochira",
+  "az": "(ikisindən) hansı"
+ },
+ {
+  "ders": 12,
+  "soz": "どちらも",
+  "oxunus": "どちらも",
+  "romaji": "dochira mo",
+  "az": "hər ikisi də"
+ },
+ {
+  "ders": 12,
+  "soz": "一番～",
+  "oxunus": "いちばん～",
+  "romaji": "ichiban~",
+  "az": "ən~ (üstün dərəcə)"
+ },
+ {
+  "ders": 12,
+  "soz": "ずっと",
+  "oxunus": "ずっと",
+  "romaji": "zutto",
+  "az": "daha da, lap"
+ },
+ {
+  "ders": 12,
+  "soz": "初めて",
+  "oxunus": "はじめて",
+  "romaji": "hajimete",
+  "az": "birinci dəfə, ilk dəfə"
+ },
+ {
+  "ders": 12,
+  "soz": "ただいま。",
+  "oxunus": "ただいま。",
+  "romaji": "tadaima",
+  "az": "Mən gəldim. (evə daxil olan deyir)"
+ },
+ {
+  "ders": 12,
+  "soz": "お帰りなさい。",
+  "oxunus": "おかえりなさい。",
+  "romaji": "okaerinasai",
+  "az": "Xoş gəldin. (evdə olan deyir)"
+ },
+ {
+  "ders": 12,
+  "soz": "わあ、すごい人ですね。",
+  "oxunus": "わあ、すごいひとですね。",
+  "romaji": "waa, sugoi hito desu ne",
+  "az": "Vay! Nə qədər adam var!"
+ },
+ {
+  "ders": 12,
+  "soz": "疲れました。",
+  "oxunus": "つかれました。",
+  "romaji": "tsukaremashita",
+  "az": "Yoruldum."
+ },
+ {
+  "ders": 12,
+  "soz": "祇園祭",
+  "oxunus": "ぎおんまつり",
+  "romaji": "Gion Matsuri",
+  "az": "Gion festivalı (Kyotoda iyulda keçirilir)"
+ },
+ {
+  "ders": 12,
+  "soz": "ホンコン",
+  "oxunus": "ホンコン",
+  "romaji": "Honkon",
+  "az": "Honq Konq"
+ },
+ {
+  "ders": 12,
+  "soz": "シンガポール",
+  "oxunus": "シンガポール",
+  "romaji": "Shingapooru",
+  "az": "Sinqapur"
+ },
+ {
+  "ders": 13,
+  "soz": "遊びます",
+  "oxunus": "あそびます",
+  "romaji": "asobimasu",
+  "az": "oynamaq, əylənmək"
+ },
+ {
+  "ders": 13,
+  "soz": "泳ぎます",
+  "oxunus": "およぎます",
+  "romaji": "oyogimasu",
+  "az": "üzmək"
+ },
+ {
+  "ders": 13,
+  "soz": "迎えます",
+  "oxunus": "むかえます",
+  "romaji": "mukaemasu",
+  "az": "qarşılamaq"
+ },
+ {
+  "ders": 13,
+  "soz": "疲れます",
+  "oxunus": "つかれます",
+  "romaji": "tsukaremasu",
+  "az": "yorulmaq"
+ },
+ {
+  "ders": 13,
+  "soz": "結婚します",
+  "oxunus": "けっこんします",
+  "romaji": "kekkonshimasu",
+  "az": "evlənmək, ərə getmək"
+ },
+ {
+  "ders": 13,
+  "soz": "買い物します",
+  "oxunus": "かいものします",
+  "romaji": "kaimonoshimasu",
+  "az": "alış-veriş etmək"
+ },
+ {
+  "ders": 13,
+  "soz": "食事します",
+  "oxunus": "しょくじします",
+  "romaji": "shokujishimasu",
+  "az": "qida qəbul etmək, yemək"
+ },
+ {
+  "ders": 13,
+  "soz": "散歩します",
+  "oxunus": "さんぽします",
+  "romaji": "sanposhimasu",
+  "az": "[公園を～] gəzmək"
+ },
+ {
+  "ders": 13,
+  "soz": "大変[な]",
+  "oxunus": "たいへん[な]",
+  "romaji": "taihen",
+  "az": "çətin, ağır"
+ },
+ {
+  "ders": 13,
+  "soz": "欲しい",
+  "oxunus": "ほしい",
+  "romaji": "hoshii",
+  "az": "(nəsə) istəmək"
+ },
+ {
+  "ders": 13,
+  "soz": "広い",
+  "oxunus": "ひろい",
+  "romaji": "hiroi",
+  "az": "geniş"
+ },
+ {
+  "ders": 13,
+  "soz": "狭い",
+  "oxunus": "せまい",
+  "romaji": "semai",
+  "az": "dar"
+ },
+ {
+  "ders": 13,
+  "soz": "プール",
+  "oxunus": "プール",
+  "romaji": "puuru",
+  "az": "hovuz"
+ },
+ {
+  "ders": 13,
+  "soz": "川",
+  "oxunus": "かわ",
+  "romaji": "kawa",
+  "az": "çay"
+ },
+ {
+  "ders": 13,
+  "soz": "美術",
+  "oxunus": "びじゅつ",
+  "romaji": "bijutsu",
+  "az": "incəsənət"
+ },
+ {
+  "ders": 13,
+  "soz": "釣り",
+  "oxunus": "つり",
+  "romaji": "tsuri",
+  "az": "balıqçılıq"
+ },
+ {
+  "ders": 13,
+  "soz": "スキー",
+  "oxunus": "スキー",
+  "romaji": "sukii",
+  "az": "xizək"
+ },
+ {
+  "ders": 13,
+  "soz": "週末",
+  "oxunus": "しゅうまつ",
+  "romaji": "shuumatsu",
+  "az": "həftə sonu"
+ },
+ {
+  "ders": 13,
+  "soz": "～ごろ",
+  "oxunus": "～ごろ",
+  "romaji": "~goro",
+  "az": "~radələrində"
+ },
+ {
+  "ders": 13,
+  "soz": "何か",
+  "oxunus": "なにか",
+  "romaji": "nanika",
+  "az": "nəsə"
+ },
+ {
+  "ders": 13,
+  "soz": "どこか",
+  "oxunus": "どこか",
+  "romaji": "dokoka",
+  "az": "harasa"
+ },
+ {
+  "ders": 13,
+  "soz": "のどがかわきます",
+  "oxunus": "のどがかわきます",
+  "romaji": "nodo ga kawakimasu",
+  "az": "susamaq"
+ },
+ {
+  "ders": 13,
+  "soz": "おなかがすきます",
+  "oxunus": "おなかがすきます",
+  "romaji": "onaka ga sukimasu",
+  "az": "acmaq"
+ },
+ {
+  "ders": 13,
+  "soz": "そうしましょう",
+  "oxunus": "そうしましょう",
+  "romaji": "sou shimashou",
+  "az": "gəlin elə də edək"
+ },
+ {
+  "ders": 13,
+  "soz": "ご注文は？",
+  "oxunus": "ごちゅうもんは？",
+  "romaji": "gochuumon wa?",
+  "az": "Sifarişiniz?"
+ },
+ {
+  "ders": 13,
+  "soz": "定食",
+  "oxunus": "ていしょく",
+  "romaji": "teishoku",
+  "az": "kompleks menyu"
+ },
+ {
+  "ders": 13,
+  "soz": "牛丼",
+  "oxunus": "ぎゅうどん",
+  "romaji": "gyuudon",
+  "az": "Gyudon (düyü üstündə ət)"
+ },
+ {
+  "ders": 13,
+  "soz": "[少々]お待ちください。",
+  "oxunus": "[しょうしょう]おまちください。",
+  "romaji": "[shoushou] omachi kudasai",
+  "az": "[Biraz] gözləyin, zəhmət olmasa."
+ },
+ {
+  "ders": 13,
+  "soz": "～でございます",
+  "oxunus": "～でございます",
+  "romaji": "~de gozaimasu",
+  "az": "~です ifadəsinin nəzakətli forması"
+ },
+ {
+  "ders": 13,
+  "soz": "別々に",
+  "oxunus": "べつべつに",
+  "romaji": "betsubetsu ni",
+  "az": "ayrı-ayrılıqda"
+ },
+ {
+  "ders": 14,
+  "soz": "つけます",
+  "oxunus": "つけます",
+  "romaji": "tsukemasu",
+  "az": "yandırmaq (işıq, radio, tv)"
+ },
+ {
+  "ders": 14,
+  "soz": "消します",
+  "oxunus": "けします",
+  "romaji": "keshimasu",
+  "az": "söndürmək (işıq, radio, tv)"
+ },
+ {
+  "ders": 14,
+  "soz": "開けます",
+  "oxunus": "あけます",
+  "romaji": "akemasu",
+  "az": "açmaq (qapını, pəncərəni)"
+ },
+ {
+  "ders": 14,
+  "soz": "閉めます",
+  "oxunus": "しめます",
+  "romaji": "shimemasu",
+  "az": "bağlamaq (qapını, pəncərəni)"
+ },
+ {
+  "ders": 14,
+  "soz": "急ぎます",
+  "oxunus": "いそぎます",
+  "romaji": "isogimasu",
+  "az": "tələsmək"
+ },
+ {
+  "ders": 14,
+  "soz": "待ちます",
+  "oxunus": "まちます",
+  "romaji": "machimasu",
+  "az": "gözləmək"
+ },
+ {
+  "ders": 14,
+  "soz": "持ちます",
+  "oxunus": "もちます",
+  "romaji": "mochimasu",
+  "az": "tutmaq, daşımaq, aparmaq"
+ },
+ {
+  "ders": 14,
+  "soz": "取ります",
+  "oxunus": "とります",
+  "romaji": "torimasu",
+  "az": "almaq, götürmək"
+ },
+ {
+  "ders": 14,
+  "soz": "手伝います",
+  "oxunus": "てつだいます",
+  "romaji": "tetsudaimasu",
+  "az": "kömək etmək"
+ },
+ {
+  "ders": 14,
+  "soz": "呼びます",
+  "oxunus": "よびます",
+  "romaji": "yobimasu",
+  "az": "çağırmaq"
+ },
+ {
+  "ders": 14,
+  "soz": "話します",
+  "oxunus": "はなします",
+  "romaji": "hanashimasu",
+  "az": "danışmaq"
+ },
+ {
+  "ders": 14,
+  "soz": "使います",
+  "oxunus": "つかいます",
+  "romaji": "tsukaimasu",
+  "az": "işlətmək, istifadə etmək"
+ },
+ {
+  "ders": 14,
+  "soz": "止めます",
+  "oxunus": "とめます",
+  "romaji": "tomemasu",
+  "az": "dayandırmaq, saxlamaq"
+ },
+ {
+  "ders": 14,
+  "soz": "見せます",
+  "oxunus": "みせます",
+  "romaji": "misemasu",
+  "az": "göstərmək"
+ },
+ {
+  "ders": 14,
+  "soz": "教えます",
+  "oxunus": "おしえます",
+  "romaji": "oshiemasu",
+  "az": "öyrətmək, tədris etmək"
+ },
+ {
+  "ders": 14,
+  "soz": "座ります",
+  "oxunus": "すわります",
+  "romaji": "suwarimasu",
+  "az": "oturmaq"
+ },
+ {
+  "ders": 14,
+  "soz": "立ちます",
+  "oxunus": "たちます",
+  "romaji": "tachimasu",
+  "az": "ayaq üstündə durmaq"
+ },
+ {
+  "ders": 14,
+  "soz": "入ります",
+  "oxunus": "はいります",
+  "romaji": "hairimasu",
+  "az": "(içəri) girmək, daxil olmaq"
+ },
+ {
+  "ders": 14,
+  "soz": "出ます",
+  "oxunus": "でます",
+  "romaji": "demasu",
+  "az": "çıxmaq"
+ },
+ {
+  "ders": 14,
+  "soz": "降ります",
+  "oxunus": "ふります",
+  "romaji": "furimasu",
+  "az": "yağmaq (yağış)"
+ },
+ {
+  "ders": 14,
+  "soz": "コピーします",
+  "oxunus": "コピーします",
+  "romaji": "kopii shimasu",
+  "az": "sürət çıxarmaq"
+ },
+ {
+  "ders": 14,
+  "soz": "電気",
+  "oxunus": "でんき",
+  "romaji": "denki",
+  "az": "elektrik, işıq"
+ },
+ {
+  "ders": 14,
+  "soz": "エアコン",
+  "oxunus": "エアコン",
+  "romaji": "eakon",
+  "az": "kondisioner"
+ },
+ {
+  "ders": 14,
+  "soz": "パスポート",
+  "oxunus": "パスポート",
+  "romaji": "pasupooto",
+  "az": "pasport"
+ },
+ {
+  "ders": 14,
+  "soz": "名前",
+  "oxunus": "なまえ",
+  "romaji": "namae",
+  "az": "ad"
+ },
+ {
+  "ders": 14,
+  "soz": "住所",
+  "oxunus": "じゅうしょ",
+  "romaji": "juusho",
+  "az": "ünvan"
+ },
+ {
+  "ders": 14,
+  "soz": "地図",
+  "oxunus": "ちず",
+  "romaji": "chizu",
+  "az": "xəritə"
+ },
+ {
+  "ders": 14,
+  "soz": "塩",
+  "oxunus": "しお",
+  "romaji": "shio",
+  "az": "duz"
+ },
+ {
+  "ders": 14,
+  "soz": "砂糖",
+  "oxunus": "さとう",
+  "romaji": "satou",
+  "az": "şəkər"
+ },
+ {
+  "ders": 14,
+  "soz": "問題",
+  "oxunus": "もんだい",
+  "romaji": "mondai",
+  "az": "problem, sual"
+ },
+ {
+  "ders": 14,
+  "soz": "答え",
+  "oxunus": "こたえ",
+  "romaji": "kotae",
+  "az": "cavab"
+ },
+ {
+  "ders": 14,
+  "soz": "読み方",
+  "oxunus": "よみかた",
+  "romaji": "yomikata",
+  "az": "oxunuş (qaydası)"
+ },
+ {
+  "ders": 14,
+  "soz": "～かた",
+  "oxunus": "～かた",
+  "romaji": "~kata",
+  "az": "~qaydası"
+ },
+ {
+  "ders": 14,
+  "soz": "まっすぐ",
+  "oxunus": "まっすぐ",
+  "romaji": "massugu",
+  "az": "düz, birbaşa"
+ },
+ {
+  "ders": 14,
+  "soz": "ゆっくり",
+  "oxunus": "ゆっくり",
+  "romaji": "yukkuri",
+  "az": "yavaş, asta"
+ },
+ {
+  "ders": 14,
+  "soz": "すぐ",
+  "oxunus": "すぐ",
+  "romaji": "sugu",
+  "az": "həmən, təcili"
+ },
+ {
+  "ders": 14,
+  "soz": "また",
+  "oxunus": "また",
+  "romaji": "mata",
+  "az": "yenidən, yenə"
+ },
+ {
+  "ders": 14,
+  "soz": "あとで",
+  "oxunus": "あとで",
+  "romaji": "ato de",
+  "az": "sonra"
+ },
+ {
+  "ders": 14,
+  "soz": "もう少し",
+  "oxunus": "もうすこし",
+  "romaji": "mou sukoshi",
+  "az": "biraz daha"
+ },
+ {
+  "ders": 14,
+  "soz": "もう～",
+  "oxunus": "もう～",
+  "romaji": "mou~",
+  "az": "~daha/başqa"
+ },
+ {
+  "ders": 14,
+  "soz": "さあ",
+  "oxunus": "さあ",
+  "romaji": "saa",
+  "az": "Hə, haydı (təşviq edəndə)"
+ },
+ {
+  "ders": 14,
+  "soz": "あれ?",
+  "oxunus": "あれ?",
+  "romaji": "are?",
+  "az": "Nəə? (təəccüb)"
+ },
+ {
+  "ders": 14,
+  "soz": "信号を右へ曲がってください",
+  "oxunus": "しんごうをみぎへまがってください",
+  "romaji": "shingou o migi e magatte kudasai",
+  "az": "işıqfordan sağa dönün zəhmət olmasa"
+ },
+ {
+  "ders": 14,
+  "soz": "これでお願いします",
+  "oxunus": "これでおねがいします",
+  "romaji": "kore de onegai shimasu",
+  "az": "Bununla ödəyirəm, zəhmət olmasa"
+ },
+ {
+  "ders": 14,
+  "soz": "お釣り",
+  "oxunus": "おつり",
+  "romaji": "otsuri",
+  "az": "qalıq pul"
+ },
+ {
+  "ders": 14,
+  "soz": "みどり町",
+  "oxunus": "みどりちょう",
+  "romaji": "Midorichou",
+  "az": "Midori şəhəri"
+ },
+ {
+  "ders": 15,
+  "soz": "置きます",
+  "oxunus": "おきます",
+  "romaji": "okimasu",
+  "az": "qoymaq"
+ },
+ {
+  "ders": 15,
+  "soz": "作ります",
+  "oxunus": "つくります",
+  "romaji": "tsukurimasu",
+  "az": "düzəltmək"
+ },
+ {
+  "ders": 15,
+  "soz": "売ります",
+  "oxunus": "うります",
+  "romaji": "urimasu",
+  "az": "satmaq"
+ },
+ {
+  "ders": 15,
+  "soz": "知ります",
+  "oxunus": "しります",
+  "romaji": "shirimasu",
+  "az": "bilmək"
+ },
+ {
+  "ders": 15,
+  "soz": "住みます",
+  "oxunus": "すみます",
+  "romaji": "sumimasu",
+  "az": "yaşamaq"
+ },
+ {
+  "ders": 15,
+  "soz": "研究します",
+  "oxunus": "けんきゅうします",
+  "romaji": "kenkyuushimasu",
+  "az": "tədqiq etmək"
+ },
+ {
+  "ders": 15,
+  "soz": "資料",
+  "oxunus": "しりょう",
+  "romaji": "shiryou",
+  "az": "material, sənəd"
+ },
+ {
+  "ders": 15,
+  "soz": "カタログ",
+  "oxunus": "カタログ",
+  "romaji": "katarogu",
+  "az": "kataloq"
+ },
+ {
+  "ders": 15,
+  "soz": "時刻表",
+  "oxunus": "じこくひょう",
+  "romaji": "jikokuhyou",
+  "az": "hərəkət cədvəli (qatar, avtobus)"
+ },
+ {
+  "ders": 15,
+  "soz": "服",
+  "oxunus": "ふく",
+  "romaji": "fuku",
+  "az": "paltar"
+ },
+ {
+  "ders": 15,
+  "soz": "製品",
+  "oxunus": "せいひん",
+  "romaji": "seihin",
+  "az": "məhsul"
+ },
+ {
+  "ders": 15,
+  "soz": "ソフト",
+  "oxunus": "ソフト",
+  "romaji": "sofuto",
+  "az": "proqram təminatı (software)"
+ },
+ {
+  "ders": 15,
+  "soz": "電子辞書",
+  "oxunus": "でんしじしょ",
+  "romaji": "denshi jisho",
+  "az": "elektron lüğət"
+ },
+ {
+  "ders": 15,
+  "soz": "経済",
+  "oxunus": "けいざい",
+  "romaji": "keizai",
+  "az": "iqtisadiyyat"
+ },
+ {
+  "ders": 15,
+  "soz": "市役所",
+  "oxunus": "しやくしょ",
+  "romaji": "shiyakusho",
+  "az": "bələdiyyə"
+ },
+ {
+  "ders": 15,
+  "soz": "歯医者",
+  "oxunus": "はいしゃ",
+  "romaji": "haisha",
+  "az": "diş həkimi"
+ },
+ {
+  "ders": 15,
+  "soz": "独身",
+  "oxunus": "どくしん",
+  "romaji": "dokushin",
+  "az": "subay"
+ },
+ {
+  "ders": 15,
+  "soz": "すみません",
+  "oxunus": "すみません",
+  "romaji": "sumimasen",
+  "az": "bağışlayın, üzr istəyirəm"
+ },
+ {
+  "ders": 15,
+  "soz": "皆さん",
+  "oxunus": "みなさん",
+  "romaji": "minasan",
+  "az": "hamınız (nəzakətli)"
+ },
+ {
+  "ders": 15,
+  "soz": "思い出します",
+  "oxunus": "おもいだします",
+  "romaji": "omoidashimasu",
+  "az": "xatırlamaq"
+ },
+ {
+  "ders": 15,
+  "soz": "いらっしゃいます",
+  "oxunus": "いらっしゃいます",
+  "romaji": "irasshaimasu",
+  "az": "olmaq (います-in nəzakətli forması)"
+ },
+ {
+  "ders": 15,
+  "soz": "日本橋",
+  "oxunus": "にっぽんばし",
+  "romaji": "Nipponbashi",
+  "az": "Osakada alış-veriş məntəqəsi"
+ },
+ {
+  "ders": 15,
+  "soz": "みんなのインタビュー",
+  "oxunus": "みんなのインタビュー",
+  "romaji": "Minna no Intabyuu",
+  "az": "TV verilişi (hamının müsahibəsi)"
+ },
+ {
+  "ders": 16,
+  "soz": "乗ります",
+  "oxunus": "のります",
+  "romaji": "norimasu",
+  "az": "minmək (nəqliyyat vasitəsinə)"
+ },
+ {
+  "ders": 16,
+  "soz": "降ります",
+  "oxunus": "おります",
+  "romaji": "orimasu",
+  "az": "enmək (nəqliyyat vasitəsindən)"
+ },
+ {
+  "ders": 16,
+  "soz": "乗り換えます",
+  "oxunus": "のりかえます",
+  "romaji": "norikaemasu",
+  "az": "nəqliyyatı dəyişmək"
+ },
+ {
+  "ders": 16,
+  "soz": "浴びます",
+  "oxunus": "あびます",
+  "romaji": "abimasu",
+  "az": "(duş) qəbul etmək"
+ },
+ {
+  "ders": 16,
+  "soz": "入れます",
+  "oxunus": "いれます",
+  "romaji": "iremasu",
+  "az": "(içəri) qoymaq, daxil etmək"
+ },
+ {
+  "ders": 16,
+  "soz": "出します",
+  "oxunus": "だします",
+  "romaji": "dashimasu",
+  "az": "(çölə) çıxartmaq, göndərmək, təhvil vermək"
+ },
+ {
+  "ders": 16,
+  "soz": "下ろします",
+  "oxunus": "おろします",
+  "romaji": "oroshimasu",
+  "az": "[お金を～] (hesabdan) pul çıxarmaq"
+ },
+ {
+  "ders": 16,
+  "soz": "入ります",
+  "oxunus": "はいります",
+  "romaji": "hairimasu",
+  "az": "[大学に～] girmək, daxil olmaq"
+ },
+ {
+  "ders": 16,
+  "soz": "出ます",
+  "oxunus": "でます",
+  "romaji": "demasu",
+  "az": "[大学を～] çıxmaq (məzun olmaq)"
+ },
+ {
+  "ders": 16,
+  "soz": "押します",
+  "oxunus": "おします",
+  "romaji": "oshimasu",
+  "az": "basmaq, sıxmaq (düymə)"
+ },
+ {
+  "ders": 16,
+  "soz": "飲みます",
+  "oxunus": "のみます",
+  "romaji": "nomimasu",
+  "az": "içmək"
+ },
+ {
+  "ders": 16,
+  "soz": "始めます",
+  "oxunus": "はじめます",
+  "romaji": "hajimemasu",
+  "az": "başlamaq"
+ },
+ {
+  "ders": 16,
+  "soz": "見学します",
+  "oxunus": "けんがくします",
+  "romaji": "kengaku shimasu",
+  "az": "ekskursiya ilə baxmaq, yerində tanış olmaq"
+ },
+ {
+  "ders": 16,
+  "soz": "電話します",
+  "oxunus": "でんわします",
+  "romaji": "denwashimasu",
+  "az": "telefon etmək"
+ },
+ {
+  "ders": 16,
+  "soz": "若い",
+  "oxunus": "わかい",
+  "romaji": "wakai",
+  "az": "gənc, cavan"
+ },
+ {
+  "ders": 16,
+  "soz": "長い",
+  "oxunus": "ながい",
+  "romaji": "nagai",
+  "az": "uzun"
+ },
+ {
+  "ders": 16,
+  "soz": "短い",
+  "oxunus": "みじかい",
+  "romaji": "mijikai",
+  "az": "qısa"
+ },
+ {
+  "ders": 16,
+  "soz": "明るい",
+  "oxunus": "あかるい",
+  "romaji": "akarui",
+  "az": "işıqlı, aydın"
+ },
+ {
+  "ders": 16,
+  "soz": "暗い",
+  "oxunus": "くらい",
+  "romaji": "kurai",
+  "az": "qaranlıq"
+ },
+ {
+  "ders": 16,
+  "soz": "体",
+  "oxunus": "からだ",
+  "romaji": "karada",
+  "az": "bədən"
+ },
+ {
+  "ders": 16,
+  "soz": "頭",
+  "oxunus": "あたま",
+  "romaji": "atama",
+  "az": "baş"
+ },
+ {
+  "ders": 16,
+  "soz": "髪",
+  "oxunus": "かみ",
+  "romaji": "kami",
+  "az": "saç"
+ },
+ {
+  "ders": 16,
+  "soz": "顔",
+  "oxunus": "かお",
+  "romaji": "kao",
+  "az": "üz, sifət"
+ },
+ {
+  "ders": 16,
+  "soz": "目",
+  "oxunus": "め",
+  "romaji": "me",
+  "az": "göz"
+ },
+ {
+  "ders": 16,
+  "soz": "耳",
+  "oxunus": "みみ",
+  "romaji": "mimi",
+  "az": "qulaq"
+ },
+ {
+  "ders": 16,
+  "soz": "鼻",
+  "oxunus": "はな",
+  "romaji": "hana",
+  "az": "burun"
+ },
+ {
+  "ders": 16,
+  "soz": "口",
+  "oxunus": "くち",
+  "romaji": "kuchi",
+  "az": "ağız"
+ },
+ {
+  "ders": 16,
+  "soz": "歯",
+  "oxunus": "は",
+  "romaji": "ha",
+  "az": "diş"
+ },
+ {
+  "ders": 16,
+  "soz": "お腹",
+  "oxunus": "おなか",
+  "romaji": "onaka",
+  "az": "qarın, mədə"
+ },
+ {
+  "ders": 16,
+  "soz": "足",
+  "oxunus": "あし",
+  "romaji": "ashi",
+  "az": "ayaq"
+ },
+ {
+  "ders": 16,
+  "soz": "背",
+  "oxunus": "せ",
+  "romaji": "se",
+  "az": "boy, hündürlük"
+ },
+ {
+  "ders": 16,
+  "soz": "サービス",
+  "oxunus": "サービス",
+  "romaji": "saabisu",
+  "az": "servis, xidmət"
+ },
+ {
+  "ders": 16,
+  "soz": "ジョギング",
+  "oxunus": "ジョギング",
+  "romaji": "jogingu",
+  "az": "qaçış (～[を]します: qaçmaq)"
+ },
+ {
+  "ders": 16,
+  "soz": "シャワー",
+  "oxunus": "シャワー",
+  "romaji": "shawaa",
+  "az": "duş"
+ },
+ {
+  "ders": 16,
+  "soz": "緑",
+  "oxunus": "みどり",
+  "romaji": "midori",
+  "az": "yaşıl, yaşıllıq"
+ },
+ {
+  "ders": 16,
+  "soz": "[お]寺",
+  "oxunus": "[お]てら",
+  "romaji": "[o]tera",
+  "az": "Buddist məbədi"
+ },
+ {
+  "ders": 16,
+  "soz": "神社",
+  "oxunus": "じんじゃ",
+  "romaji": "jinja",
+  "az": "Shintou məbədi"
+ },
+ {
+  "ders": 16,
+  "soz": "～番",
+  "oxunus": "～ばん",
+  "romaji": "~ban",
+  "az": "~nömrə"
+ },
+ {
+  "ders": 16,
+  "soz": "どうやって",
+  "oxunus": "どうやって",
+  "romaji": "dou yatte",
+  "az": "necə? nə cür?"
+ },
+ {
+  "ders": 16,
+  "soz": "どの～",
+  "oxunus": "どの～",
+  "romaji": "dono~",
+  "az": "hansı~ (üç və daha çox seçim)"
+ },
+ {
+  "ders": 16,
+  "soz": "どれ",
+  "oxunus": "どれ",
+  "romaji": "dore",
+  "az": "hansı (üç və daha çox arasında)"
+ },
+ {
+  "ders": 16,
+  "soz": "すごいですね。",
+  "oxunus": "すごいですね。",
+  "romaji": "sugoi desu ne",
+  "az": "Möhtəşəm. Əla."
+ },
+ {
+  "ders": 16,
+  "soz": "[いいえ、]まだまだです。",
+  "oxunus": "[いいえ、]まだまだです。",
+  "romaji": "[iie,] madamada desu",
+  "az": "(Xeyir,) hələ çox öyrənməliyəm (təvazökar cavab)"
+ },
+ {
+  "ders": 16,
+  "soz": "お引き出しですか。",
+  "oxunus": "おひきだしですか。",
+  "romaji": "ohikidashi desu ka",
+  "az": "Hesabdan pul çıxarmaq istəyirsiniz?"
+ },
+ {
+  "ders": 16,
+  "soz": "まず",
+  "oxunus": "まず",
+  "romaji": "mazu",
+  "az": "ilk olaraq, əvvəlcə"
+ },
+ {
+  "ders": 16,
+  "soz": "次に",
+  "oxunus": "つぎに",
+  "romaji": "tsugi ni",
+  "az": "sonra, ardınca"
+ },
+ {
+  "ders": 16,
+  "soz": "キャッシュカード",
+  "oxunus": "キャッシュカード",
+  "romaji": "kyasshu kaado",
+  "az": "bank kartı"
+ },
+ {
+  "ders": 16,
+  "soz": "暗証番号",
+  "oxunus": "あんしょうばんごう",
+  "romaji": "anshou bangou",
+  "az": "gizli şifrə, PIN kod"
+ },
+ {
+  "ders": 16,
+  "soz": "金額",
+  "oxunus": "きんがく",
+  "romaji": "kingaku",
+  "az": "pulun məbləği"
+ },
+ {
+  "ders": 16,
+  "soz": "確認",
+  "oxunus": "かくにん",
+  "romaji": "kakunin",
+  "az": "təsdiq (～します: əmin olmaq üçün yoxlamaq)"
+ },
+ {
+  "ders": 16,
+  "soz": "ボタン",
+  "oxunus": "ボタン",
+  "romaji": "botan",
+  "az": "düymə"
+ },
+ {
+  "ders": 16,
+  "soz": "雪祭り",
+  "oxunus": "ゆきまつり",
+  "romaji": "Yukimatsuri",
+  "az": "Qar festivalı"
+ },
+ {
+  "ders": 16,
+  "soz": "梅田",
+  "oxunus": "うめだ",
+  "romaji": "Umeda",
+  "az": "Osakada rayon"
+ },
+ {
+  "ders": 16,
+  "soz": "大学前",
+  "oxunus": "だいがくまえ",
+  "romaji": "Daigakumae",
+  "az": "avtobus dayanacağı"
+ },
+ {
+  "ders": 16,
+  "soz": "JR",
+  "oxunus": "JR",
+  "romaji": "JR",
+  "az": "Yaponiya Dəmiryolları"
+ },
+ {
+  "ders": 16,
+  "soz": "バンドン",
+  "oxunus": "バンドン",
+  "romaji": "Bandon",
+  "az": "Bandunq"
+ },
+ {
+  "ders": 16,
+  "soz": "フランケン",
+  "oxunus": "フランケン",
+  "romaji": "Furanken",
+  "az": "Franken"
+ },
+ {
+  "ders": 16,
+  "soz": "ベラクルス",
+  "oxunus": "ベラクルス",
+  "romaji": "Berakurusu",
+  "az": "Verakruz"
+ },
+ {
+  "ders": 17,
+  "soz": "覚えます",
+  "oxunus": "おぼえます",
+  "romaji": "oboemasu",
+  "az": "yadda saxlamaq, əzbərləmək"
+ },
+ {
+  "ders": 17,
+  "soz": "忘れます",
+  "oxunus": "わすれます",
+  "romaji": "wasuremasu",
+  "az": "unutmaq, yaddan çıxartmaq"
+ },
+ {
+  "ders": 17,
+  "soz": "なくします",
+  "oxunus": "なくします",
+  "romaji": "nakushimasu",
+  "az": "itirmək"
+ },
+ {
+  "ders": 17,
+  "soz": "払います",
+  "oxunus": "はらいます",
+  "romaji": "haraimasu",
+  "az": "ödəmək"
+ },
+ {
+  "ders": 17,
+  "soz": "返します",
+  "oxunus": "かえします",
+  "romaji": "kaeshimasu",
+  "az": "qaytarmaq"
+ },
+ {
+  "ders": 17,
+  "soz": "出かけます",
+  "oxunus": "でかけます",
+  "romaji": "dekakemasu",
+  "az": "(çölə) çıxmaq"
+ },
+ {
+  "ders": 17,
+  "soz": "脱ぎます",
+  "oxunus": "ぬぎます",
+  "romaji": "nugimasu",
+  "az": "çıxartmaq, soyunmaq"
+ },
+ {
+  "ders": 17,
+  "soz": "持って行きます",
+  "oxunus": "もっていきます",
+  "romaji": "motte ikimasu",
+  "az": "(bir şeyi) götürüb getmək"
+ },
+ {
+  "ders": 17,
+  "soz": "持って来ます",
+  "oxunus": "もってきます",
+  "romaji": "motte kimasu",
+  "az": "(bir şeyi) götürüb gətirmək"
+ },
+ {
+  "ders": 17,
+  "soz": "心配します",
+  "oxunus": "しんぱいします",
+  "romaji": "shinpaishimasu",
+  "az": "narahat olmaq"
+ },
+ {
+  "ders": 17,
+  "soz": "残業します",
+  "oxunus": "ざんぎょうします",
+  "romaji": "zangyoushimasu",
+  "az": "əlavə işləmək"
+ },
+ {
+  "ders": 17,
+  "soz": "出張します",
+  "oxunus": "しゅっちょうします",
+  "romaji": "shucchoushimasu",
+  "az": "ezamiyyətə getmək"
+ },
+ {
+  "ders": 17,
+  "soz": "飲みます",
+  "oxunus": "のみます",
+  "romaji": "nomimasu",
+  "az": "[薬を～] qəbul etmək"
+ },
+ {
+  "ders": 17,
+  "soz": "入ります",
+  "oxunus": "はいります",
+  "romaji": "hairimasu",
+  "az": "[おふろに～] girmək"
+ },
+ {
+  "ders": 17,
+  "soz": "大切[な]",
+  "oxunus": "たいせつ[な]",
+  "romaji": "taisetsu",
+  "az": "önəmli, vacib"
+ },
+ {
+  "ders": 17,
+  "soz": "大丈夫[な]",
+  "oxunus": "だいじょうぶ[な]",
+  "romaji": "daijoubu",
+  "az": "problem yoxdur, qaydasındadır"
+ },
+ {
+  "ders": 17,
+  "soz": "危ない",
+  "oxunus": "あぶない",
+  "romaji": "abunai",
+  "az": "təhlükəli, qorxulu"
+ },
+ {
+  "ders": 17,
+  "soz": "禁煙",
+  "oxunus": "きんえん",
+  "romaji": "kin'en",
+  "az": "siqaret çəkmək qadağandır"
+ },
+ {
+  "ders": 17,
+  "soz": "[健康]保険証",
+  "oxunus": "[けんこう]ほけんしょう",
+  "romaji": "[kenkou] hokenshou",
+  "az": "[sağlamlıq sığortası] kartı"
+ },
+ {
+  "ders": 17,
+  "soz": "熱",
+  "oxunus": "ねつ",
+  "romaji": "netsu",
+  "az": "istilik, qızdırma"
+ },
+ {
+  "ders": 17,
+  "soz": "病気",
+  "oxunus": "びょうき",
+  "romaji": "byouki",
+  "az": "xəstəlik"
+ },
+ {
+  "ders": 17,
+  "soz": "薬",
+  "oxunus": "くすり",
+  "romaji": "kusuri",
+  "az": "dərman"
+ },
+ {
+  "ders": 17,
+  "soz": "[お]ふろ",
+  "oxunus": "[お]ふろ",
+  "romaji": "[o]furo",
+  "az": "hamam"
+ },
+ {
+  "ders": 17,
+  "soz": "上着",
+  "oxunus": "うわぎ",
+  "romaji": "uwagi",
+  "az": "üst geyim"
+ },
+ {
+  "ders": 17,
+  "soz": "下着",
+  "oxunus": "したぎ",
+  "romaji": "shitagi",
+  "az": "alt paltar"
+ },
+ {
+  "ders": 17,
+  "soz": "2、3日",
+  "oxunus": "に、さんにち",
+  "romaji": "ni, san nichi",
+  "az": "iki, üç gün"
+ },
+ {
+  "ders": 17,
+  "soz": "2、3～",
+  "oxunus": "2、3～",
+  "romaji": "ni, san~",
+  "az": "bir neçə~"
+ },
+ {
+  "ders": 17,
+  "soz": "～までに",
+  "oxunus": "～までに",
+  "romaji": "~made ni",
+  "az": "~a qədər"
+ },
+ {
+  "ders": 17,
+  "soz": "ですから",
+  "oxunus": "ですから",
+  "romaji": "desu kara",
+  "az": "ona görə də..."
+ },
+ {
+  "ders": 17,
+  "soz": "どうしましたか",
+  "oxunus": "どうしましたか",
+  "romaji": "dou shimashita ka",
+  "az": "Nə oldu?"
+ },
+ {
+  "ders": 17,
+  "soz": "のど",
+  "oxunus": "のど",
+  "romaji": "nodo",
+  "az": "boğaz"
+ },
+ {
+  "ders": 17,
+  "soz": "[～が]痛いです",
+  "oxunus": "[～が]いたいです",
+  "romaji": "[~ga] itai desu",
+  "az": "~ağrıyır"
+ },
+ {
+  "ders": 17,
+  "soz": "風邪",
+  "oxunus": "かぜ",
+  "romaji": "kaze",
+  "az": "soyuqdəymə"
+ },
+ {
+  "ders": 17,
+  "soz": "それから",
+  "oxunus": "それから",
+  "romaji": "sore kara",
+  "az": "bundan başqa, sonra"
+ },
+ {
+  "ders": 17,
+  "soz": "お大事に",
+  "oxunus": "おだいじに",
+  "romaji": "odaiji ni",
+  "az": "Sağlam olun! Özünüzə yaxşı baxın!"
+ },
+ {
+  "ders": 18,
+  "soz": "できます",
+  "oxunus": "できます",
+  "romaji": "dekimasu",
+  "az": "bacarmaq, edə bilmək"
+ },
+ {
+  "ders": 18,
+  "soz": "洗います",
+  "oxunus": "あらいます",
+  "romaji": "araimasu",
+  "az": "yumaq"
+ },
+ {
+  "ders": 18,
+  "soz": "弾きます",
+  "oxunus": "ひきます",
+  "romaji": "hikimasu",
+  "az": "(musiqi alətində) çalmaq"
+ },
+ {
+  "ders": 18,
+  "soz": "歌います",
+  "oxunus": "うたいます",
+  "romaji": "utaimasu",
+  "az": "mahnı oxumaq"
+ },
+ {
+  "ders": 18,
+  "soz": "集めます",
+  "oxunus": "あつめます",
+  "romaji": "atsumemasu",
+  "az": "yığmaq, toplamaq, cəmləmək"
+ },
+ {
+  "ders": 18,
+  "soz": "捨てます",
+  "oxunus": "すてます",
+  "romaji": "sutemasu",
+  "az": "atmaq"
+ },
+ {
+  "ders": 18,
+  "soz": "換えます",
+  "oxunus": "かえます",
+  "romaji": "kaemasu",
+  "az": "mübadilə etmək, dəyişdirmək (pul)"
+ },
+ {
+  "ders": 18,
+  "soz": "運転します",
+  "oxunus": "うんてんします",
+  "romaji": "untenshimasu",
+  "az": "(maşın) sürmək, idarə etmək"
+ },
+ {
+  "ders": 18,
+  "soz": "予約します",
+  "oxunus": "よやくします",
+  "romaji": "yoyakushimasu",
+  "az": "rezerv etmək, bron etmək"
+ },
+ {
+  "ders": 18,
+  "soz": "ピアノ",
+  "oxunus": "ピアノ",
+  "romaji": "piano",
+  "az": "piano"
+ },
+ {
+  "ders": 18,
+  "soz": "～メートル",
+  "oxunus": "～メートル",
+  "romaji": "~meetoru",
+  "az": "~metr"
+ },
+ {
+  "ders": 18,
+  "soz": "現金",
+  "oxunus": "げんきん",
+  "romaji": "genkin",
+  "az": "nəğd pul"
+ },
+ {
+  "ders": 18,
+  "soz": "趣味",
+  "oxunus": "しゅみ",
+  "romaji": "shumi",
+  "az": "hobbi, maraq"
+ },
+ {
+  "ders": 18,
+  "soz": "日記",
+  "oxunus": "にっき",
+  "romaji": "nikki",
+  "az": "gündəlik"
+ },
+ {
+  "ders": 18,
+  "soz": "[お]祈り",
+  "oxunus": "[お]いのり",
+  "romaji": "[o]inori",
+  "az": "dua"
+ },
+ {
+  "ders": 18,
+  "soz": "課長",
+  "oxunus": "かちょう",
+  "romaji": "kachou",
+  "az": "bölmə müdiri"
+ },
+ {
+  "ders": 18,
+  "soz": "部長",
+  "oxunus": "ぶちょう",
+  "romaji": "buchou",
+  "az": "şöbə müdiri"
+ },
+ {
+  "ders": 18,
+  "soz": "社長",
+  "oxunus": "しゃちょう",
+  "romaji": "shachou",
+  "az": "şirkət müdiri"
+ },
+ {
+  "ders": 18,
+  "soz": "動物",
+  "oxunus": "どうぶつ",
+  "romaji": "doubutsu",
+  "az": "heyvan"
+ },
+ {
+  "ders": 18,
+  "soz": "馬",
+  "oxunus": "うま",
+  "romaji": "uma",
+  "az": "at"
+ },
+ {
+  "ders": 18,
+  "soz": "インターネット",
+  "oxunus": "インターネット",
+  "romaji": "intaanetto",
+  "az": "internet"
+ },
+ {
+  "ders": 18,
+  "soz": "特に",
+  "oxunus": "とくに",
+  "romaji": "toku ni",
+  "az": "özəlliklə, əsasən"
+ },
+ {
+  "ders": 18,
+  "soz": "へえ",
+  "oxunus": "へえ",
+  "romaji": "hee",
+  "az": "Nəəə... (təəccüb)"
+ },
+ {
+  "ders": 18,
+  "soz": "それはおもしろいですね",
+  "oxunus": "それはおもしろいですね",
+  "romaji": "sore wa omoshiroi desu ne",
+  "az": "Bu çox maraqlıdır!"
+ },
+ {
+  "ders": 18,
+  "soz": "なかなか",
+  "oxunus": "なかなか",
+  "romaji": "nakanaka",
+  "az": "asanlıqla (inkarla: heç cür, çətinliklə)"
+ },
+ {
+  "ders": 18,
+  "soz": "本当ですか",
+  "oxunus": "ほんとうですか",
+  "romaji": "hontou desu ka",
+  "az": "Doğrudanmı?"
+ },
+ {
+  "ders": 18,
+  "soz": "ぜひ",
+  "oxunus": "ぜひ",
+  "romaji": "zehi",
+  "az": "mütləq"
+ },
+ {
+  "ders": 18,
+  "soz": "故郷",
+  "oxunus": "ふるさと",
+  "romaji": "furusato",
+  "az": "Furusato (mahnı adı, “Vətən”)"
+ },
+ {
+  "ders": 18,
+  "soz": "ビートルズ",
+  "oxunus": "ビートルズ",
+  "romaji": "Biitoruzu",
+  "az": "Beatles"
+ },
+ {
+  "ders": 18,
+  "soz": "秋葉原",
+  "oxunus": "あきはばら",
+  "romaji": "Akihabara",
+  "az": "Tokioda rayon (elektrik malları mərkəzi)"
+ },
+ {
+  "ders": 19,
+  "soz": "登ります",
+  "oxunus": "のぼります",
+  "romaji": "noborimasu",
+  "az": "[山に～] qalxmaq, dırmanmaq, çıxmaq"
+ },
+ {
+  "ders": 19,
+  "soz": "泊まります",
+  "oxunus": "とまります",
+  "romaji": "tomarimasu",
+  "az": "[ホテルに～] gecələmək, qalmaq"
+ },
+ {
+  "ders": 19,
+  "soz": "掃除します",
+  "oxunus": "そうじします",
+  "romaji": "souji shimasu",
+  "az": "(evi) yığışdırmaq, təmizlik etmək"
+ },
+ {
+  "ders": 19,
+  "soz": "洗濯します",
+  "oxunus": "せんたくします",
+  "romaji": "sentakushimasu",
+  "az": "paltar yumaq"
+ },
+ {
+  "ders": 19,
+  "soz": "なります",
+  "oxunus": "なります",
+  "romaji": "narimasu",
+  "az": "olmaq (vəziyyətə dönmək)"
+ },
+ {
+  "ders": 19,
+  "soz": "眠い",
+  "oxunus": "ねむい",
+  "romaji": "nemui",
+  "az": "yuxulu"
+ },
+ {
+  "ders": 19,
+  "soz": "強い",
+  "oxunus": "つよい",
+  "romaji": "tsuyoi",
+  "az": "güclü"
+ },
+ {
+  "ders": 19,
+  "soz": "弱い",
+  "oxunus": "よわい",
+  "romaji": "yowai",
+  "az": "zəif, gücsüz"
+ },
+ {
+  "ders": 19,
+  "soz": "練習",
+  "oxunus": "れんしゅう",
+  "romaji": "renshuu",
+  "az": "məşq, çalışma ([～をします])"
+ },
+ {
+  "ders": 19,
+  "soz": "ゴルフ",
+  "oxunus": "ゴルフ",
+  "romaji": "gorufu",
+  "az": "qolf"
+ },
+ {
+  "ders": 19,
+  "soz": "相撲",
+  "oxunus": "すもう",
+  "romaji": "sumou",
+  "az": "Sumo güləşi"
+ },
+ {
+  "ders": 19,
+  "soz": "お茶",
+  "oxunus": "おちゃ",
+  "romaji": "ocha",
+  "az": "çay mərasimi"
+ },
+ {
+  "ders": 19,
+  "soz": "日",
+  "oxunus": "ひ",
+  "romaji": "hi",
+  "az": "gün, tarix"
+ },
+ {
+  "ders": 19,
+  "soz": "調子",
+  "oxunus": "ちょうし",
+  "romaji": "choushi",
+  "az": "vəziyyət, hal"
+ },
+ {
+  "ders": 19,
+  "soz": "一度",
+  "oxunus": "いちど",
+  "romaji": "ichido",
+  "az": "bir dəfə"
+ },
+ {
+  "ders": 19,
+  "soz": "一度も",
+  "oxunus": "いちども",
+  "romaji": "ichido mo",
+  "az": "heç bir dəfə (inkar ifadələrlə)"
+ },
+ {
+  "ders": 19,
+  "soz": "だんだん",
+  "oxunus": "だんだん",
+  "romaji": "dandan",
+  "az": "getdikcə, yavaş-yavaş"
+ },
+ {
+  "ders": 19,
+  "soz": "もうすぐ",
+  "oxunus": "もうすぐ",
+  "romaji": "mou sugu",
+  "az": "bir az sonra, birazdan"
+ },
+ {
+  "ders": 19,
+  "soz": "おかげさまで",
+  "oxunus": "おかげさまで",
+  "romaji": "okagesama de",
+  "az": "sizin sayənizdə"
+ },
+ {
+  "ders": 19,
+  "soz": "でも",
+  "oxunus": "でも",
+  "romaji": "demo",
+  "az": "amma, ancaq"
+ },
+ {
+  "ders": 19,
+  "soz": "乾杯",
+  "oxunus": "かんぱい",
+  "romaji": "kanpai",
+  "az": "şərəfə! (sağlığa!)"
+ },
+ {
+  "ders": 19,
+  "soz": "ダイエット",
+  "oxunus": "ダイエット",
+  "romaji": "daietto",
+  "az": "pəhriz, rejim"
+ },
+ {
+  "ders": 19,
+  "soz": "無理[な]",
+  "oxunus": "むり[な]",
+  "romaji": "muri [na]",
+  "az": "imkansız, mümkünsüz, çətin"
+ },
+ {
+  "ders": 19,
+  "soz": "体に いい",
+  "oxunus": "からだに いい",
+  "romaji": "karada ni ii",
+  "az": "sağlamlıq üçün faydalı"
+ },
+ {
+  "ders": 19,
+  "soz": "東京スカイツリー",
+  "oxunus": "とうきょうスカイツリー",
+  "romaji": "Toukyou Sukaitsurii",
+  "az": "Tokyo Sky Tree"
+ },
+ {
+  "ders": 19,
+  "soz": "葛飾北斎",
+  "oxunus": "かつしかほくさい",
+  "romaji": "Katsushika Hokusai",
+  "az": "Katsushika Hokusai"
+ },
+ {
+  "ders": 20,
+  "soz": "要ります[ビザが～]",
+  "oxunus": "いります[ビザが～]",
+  "romaji": "irimasu [biza ga ~]",
+  "az": "lazım olmaq [viza lazımdır]"
+ },
+ {
+  "ders": 20,
+  "soz": "調べます",
+  "oxunus": "しらべます",
+  "romaji": "shirabemasu",
+  "az": "yoxlamaq, araşdırmaq"
+ },
+ {
+  "ders": 20,
+  "soz": "修理します",
+  "oxunus": "しゅうりします",
+  "romaji": "shuuri shimasu",
+  "az": "düzəltmək, təmir etmək"
+ },
+ {
+  "ders": 20,
+  "soz": "僕",
+  "oxunus": "ぼく",
+  "romaji": "boku",
+  "az": "mən (私-nin qeyri-rəsmi forması, kişilər işlədir)"
+ },
+ {
+  "ders": 20,
+  "soz": "君",
+  "oxunus": "きみ",
+  "romaji": "kimi",
+  "az": "sən (あなた-nın qeyri-rəsmi forması)"
+ },
+ {
+  "ders": 20,
+  "soz": "～君",
+  "oxunus": "～くん",
+  "romaji": "~kun",
+  "az": "~kun (～さん-ın qeyri-rəsmi forması, oğlanlar üçün)"
+ },
+ {
+  "ders": 20,
+  "soz": "うん",
+  "oxunus": "うん",
+  "romaji": "un",
+  "az": "hə (はい-nın qeyri-rəsmi forması)"
+ },
+ {
+  "ders": 20,
+  "soz": "ううん",
+  "oxunus": "ううん",
+  "romaji": "uun",
+  "az": "yox (いいえ-nin qeyri-rəsmi forması)"
+ },
+ {
+  "ders": 20,
+  "soz": "言葉",
+  "oxunus": "ことば",
+  "romaji": "kotoba",
+  "az": "dil, söz"
+ },
+ {
+  "ders": 20,
+  "soz": "着物",
+  "oxunus": "きもの",
+  "romaji": "kimono",
+  "az": "kimono (ənənəvi yapon geyimi)"
+ },
+ {
+  "ders": 20,
+  "soz": "ビザ",
+  "oxunus": "ビザ",
+  "romaji": "biza",
+  "az": "viza"
+ },
+ {
+  "ders": 20,
+  "soz": "始め",
+  "oxunus": "はじめ",
+  "romaji": "hajime",
+  "az": "başlanğıc"
+ },
+ {
+  "ders": 20,
+  "soz": "終わり",
+  "oxunus": "おわり",
+  "romaji": "owari",
+  "az": "son"
+ },
+ {
+  "ders": 20,
+  "soz": "こっち",
+  "oxunus": "こっち",
+  "romaji": "kocchi",
+  "az": "bura (こちら-nın qeyri-rəsmi forması)"
+ },
+ {
+  "ders": 20,
+  "soz": "そっち",
+  "oxunus": "そっち",
+  "romaji": "socchi",
+  "az": "ora, müsahibin yanı (そちら-nın qeyri-rəsmi forması)"
+ },
+ {
+  "ders": 20,
+  "soz": "あっち",
+  "oxunus": "あっち",
+  "romaji": "acchi",
+  "az": "ora, uzaq yer (あちら-nın qeyri-rəsmi forması)"
+ },
+ {
+  "ders": 20,
+  "soz": "どっち",
+  "oxunus": "どっち",
+  "romaji": "docchi",
+  "az": "hansı, hara (どちら-nın qeyri-rəsmi forması)"
+ },
+ {
+  "ders": 20,
+  "soz": "みんなで",
+  "oxunus": "みんなで",
+  "romaji": "minna de",
+  "az": "hamılıqla, hamımız birlikdə"
+ },
+ {
+  "ders": 20,
+  "soz": "～けど",
+  "oxunus": "～けど",
+  "romaji": "~kedo",
+  "az": "amma, lakin (が-nın qeyri-rəsmi forması)"
+ },
+ {
+  "ders": 20,
+  "soz": "おなかがいっぱいです",
+  "oxunus": "おなかがいっぱいです",
+  "romaji": "onaka ga ippai desu",
+  "az": "doydum"
+ },
+ {
+  "ders": 20,
+  "soz": "よかったら",
+  "oxunus": "よかったら",
+  "romaji": "yokattara",
+  "az": "əgər istəsəniz, məsləhətdirsə..."
+ },
+ {
+  "ders": 20,
+  "soz": "いろいろ",
+  "oxunus": "いろいろ",
+  "romaji": "iroiro",
+  "az": "müxtəlif"
+ },
+ {
+  "ders": 21,
+  "soz": "思います",
+  "oxunus": "おもいます",
+  "romaji": "omoimasu",
+  "az": "düşünmək, fikirləşmək"
+ },
+ {
+  "ders": 21,
+  "soz": "言います",
+  "oxunus": "いいます",
+  "romaji": "iimasu",
+  "az": "söyləmək, demək"
+ },
+ {
+  "ders": 21,
+  "soz": "勝ちます",
+  "oxunus": "かちます",
+  "romaji": "kachimasu",
+  "az": "qələbə çalmaq, udmaq, qazanmaq"
+ },
+ {
+  "ders": 21,
+  "soz": "負けます",
+  "oxunus": "まけます",
+  "romaji": "makemasu",
+  "az": "məğlub olmaq, uduzmaq"
+ },
+ {
+  "ders": 21,
+  "soz": "あります",
+  "oxunus": "あります",
+  "romaji": "arimasu",
+  "az": "[お祭りが～] olmaq, keçirilmək"
+ },
+ {
+  "ders": 21,
+  "soz": "役に立ちます",
+  "oxunus": "やくにたちます",
+  "romaji": "yaku ni tachimasu",
+  "az": "faydalı olmaq, lazım olmaq"
+ },
+ {
+  "ders": 21,
+  "soz": "動きます",
+  "oxunus": "うごきます",
+  "romaji": "ugokimasu",
+  "az": "hərəkət etmək, işləmək (əşya)"
+ },
+ {
+  "ders": 21,
+  "soz": "やめます",
+  "oxunus": "やめます",
+  "romaji": "yamemasu",
+  "az": "[会社を～] işdən çıxmaq, tərk etmək"
+ },
+ {
+  "ders": 21,
+  "soz": "気をつけます",
+  "oxunus": "きをつけます",
+  "romaji": "ki o tsukemasu",
+  "az": "[車に～] diqqət yetirmək"
+ },
+ {
+  "ders": 21,
+  "soz": "むだ[な]",
+  "oxunus": "むだ[な]",
+  "romaji": "muda [na]",
+  "az": "boş, mənasız"
+ },
+ {
+  "ders": 21,
+  "soz": "不便[な]",
+  "oxunus": "ふべん[な]",
+  "romaji": "fuben",
+  "az": "narahat"
+ },
+ {
+  "ders": 21,
+  "soz": "すごい",
+  "oxunus": "すごい",
+  "romaji": "sugoi",
+  "az": "möhtəşəm, dəhşətli"
+ },
+ {
+  "ders": 21,
+  "soz": "本当",
+  "oxunus": "ほんとう",
+  "romaji": "hontou",
+  "az": "gerçək, həqiqət"
+ },
+ {
+  "ders": 21,
+  "soz": "うそ",
+  "oxunus": "うそ",
+  "romaji": "uso",
+  "az": "yalan"
+ },
+ {
+  "ders": 21,
+  "soz": "自動車",
+  "oxunus": "じどうしゃ",
+  "romaji": "jidousha",
+  "az": "avtomobil"
+ },
+ {
+  "ders": 21,
+  "soz": "交通",
+  "oxunus": "こうつう",
+  "romaji": "koutsu",
+  "az": "yol hərəkəti"
+ },
+ {
+  "ders": 21,
+  "soz": "物価",
+  "oxunus": "ぶっか",
+  "romaji": "bukka",
+  "az": "qiymətlər (bazar qiymətləri)"
+ },
+ {
+  "ders": 21,
+  "soz": "放送",
+  "oxunus": "ほうそう",
+  "romaji": "housou",
+  "az": "yayım"
+ },
+ {
+  "ders": 21,
+  "soz": "ニュース",
+  "oxunus": "ニュース",
+  "romaji": "nyuusu",
+  "az": "xəbər"
+ },
+ {
+  "ders": 21,
+  "soz": "アニメ",
+  "oxunus": "アニメ",
+  "romaji": "anime",
+  "az": "anime"
+ },
+ {
+  "ders": 21,
+  "soz": "マンガ",
+  "oxunus": "マンガ",
+  "romaji": "manga",
+  "az": "manga (yapon komiksi)"
+ },
+ {
+  "ders": 21,
+  "soz": "デザイン",
+  "oxunus": "デザイン",
+  "romaji": "dezain",
+  "az": "dizayn"
+ },
+ {
+  "ders": 21,
+  "soz": "夢",
+  "oxunus": "ゆめ",
+  "romaji": "yume",
+  "az": "röya, yuxu"
+ },
+ {
+  "ders": 21,
+  "soz": "天才",
+  "oxunus": "てんさい",
+  "romaji": "tensai",
+  "az": "dahi"
+ },
+ {
+  "ders": 21,
+  "soz": "試合",
+  "oxunus": "しあい",
+  "romaji": "shiai",
+  "az": "yarış"
+ },
+ {
+  "ders": 21,
+  "soz": "意見",
+  "oxunus": "いけん",
+  "romaji": "iken",
+  "az": "fikir"
+ },
+ {
+  "ders": 21,
+  "soz": "話",
+  "oxunus": "はなし",
+  "romaji": "hanashi",
+  "az": "danışıq, söhbət (～をします: söhbət etmək)"
+ },
+ {
+  "ders": 21,
+  "soz": "地球",
+  "oxunus": "ちきゅう",
+  "romaji": "chikyuu",
+  "az": "Yer kürəsi"
+ },
+ {
+  "ders": 21,
+  "soz": "月",
+  "oxunus": "つき",
+  "romaji": "tsuki",
+  "az": "Ay"
+ },
+ {
+  "ders": 21,
+  "soz": "最近",
+  "oxunus": "さいきん",
+  "romaji": "saikin",
+  "az": "son vaxtlar, yaxınlarda"
+ },
+ {
+  "ders": 21,
+  "soz": "たぶん",
+  "oxunus": "たぶん",
+  "romaji": "tabun",
+  "az": "bəlkə, yəqin"
+ },
+ {
+  "ders": 21,
+  "soz": "きっと",
+  "oxunus": "きっと",
+  "romaji": "kitto",
+  "az": "mütləq, şübhəsiz"
+ },
+ {
+  "ders": 21,
+  "soz": "ほんとうに",
+  "oxunus": "ほんとうに",
+  "romaji": "hontou ni",
+  "az": "doğrudan, həqiqətən"
+ },
+ {
+  "ders": 21,
+  "soz": "そんなに",
+  "oxunus": "そんなに",
+  "romaji": "sonna ni",
+  "az": "o qədər də ~ deyil (inkarla)"
+ },
+ {
+  "ders": 21,
+  "soz": "～について",
+  "oxunus": "～について",
+  "romaji": "~ni tsuite",
+  "az": "~haqqında"
+ },
+ {
+  "ders": 21,
+  "soz": "久しぶりですね。",
+  "oxunus": "ひさしぶりですね。",
+  "romaji": "hisashiburi desu ne",
+  "az": "Çoxdandır görüşmürük."
+ },
+ {
+  "ders": 21,
+  "soz": "～でも飲みませんか。",
+  "oxunus": "～でものみませんか。",
+  "romaji": "~demo nomimasen ka",
+  "az": "~ nəsə içməzsinizmi?"
+ },
+ {
+  "ders": 21,
+  "soz": "もちろん",
+  "oxunus": "もちろん",
+  "romaji": "mochiron",
+  "az": "əlbəttə"
+ },
+ {
+  "ders": 21,
+  "soz": "もう帰らないと…。",
+  "oxunus": "もうかえらないと…。",
+  "romaji": "mou kaeranai to...",
+  "az": "Artıq evə qayıtmalıyam..."
+ },
+ {
+  "ders": 21,
+  "soz": "アインシュタイン",
+  "oxunus": "アインシュタイン",
+  "romaji": "Ainshutain",
+  "az": "Albert Eynşteyn (1879–1955)"
+ },
+ {
+  "ders": 21,
+  "soz": "ガガーリン",
+  "oxunus": "ガガーリン",
+  "romaji": "Gagaarin",
+  "az": "Yuri Qaqarin (1934–1968)"
+ },
+ {
+  "ders": 21,
+  "soz": "ガリレオ",
+  "oxunus": "ガリレオ",
+  "romaji": "Garireo",
+  "az": "Qalileo Qaliley (1564–1642)"
+ },
+ {
+  "ders": 21,
+  "soz": "キング牧師",
+  "oxunus": "キングぼくし",
+  "romaji": "Kingu Bokushi",
+  "az": "Martin Lüter King (1929–1968)"
+ },
+ {
+  "ders": 21,
+  "soz": "フランクリン",
+  "oxunus": "フランクリン",
+  "romaji": "Furankurin",
+  "az": "Bencamin Franklin (1706–1790)"
+ },
+ {
+  "ders": 21,
+  "soz": "かぐや姫",
+  "oxunus": "かぐやひめ",
+  "romaji": "Kaguya Hime",
+  "az": "Şahzadə Kaguya (yapon folklor qəhrəmanı)"
+ },
+ {
+  "ders": 21,
+  "soz": "天神祭",
+  "oxunus": "てんじんまつり",
+  "romaji": "Tenjin Matsuri",
+  "az": "Tenjin festivalı (Osakada)"
+ },
+ {
+  "ders": 21,
+  "soz": "吉野山",
+  "oxunus": "よしのやま",
+  "romaji": "Yoshinoyama",
+  "az": "Yoshino dağı (Nara prefekturası)"
+ },
+ {
+  "ders": 21,
+  "soz": "カンガルー",
+  "oxunus": "カンガルー",
+  "romaji": "kangaruu",
+  "az": "kenquru"
+ },
+ {
+  "ders": 21,
+  "soz": "キャプテン・クック",
+  "oxunus": "キャプテン・クック",
+  "romaji": "Kyaputen Kukku",
+  "az": "Kapitan Ceyms Kuk (1728–1779)"
+ },
+ {
+  "ders": 22,
+  "soz": "着ます",
+  "oxunus": "きます",
+  "romaji": "kimasu",
+  "az": "geyinmək (köynək, paltar)"
+ },
+ {
+  "ders": 22,
+  "soz": "履きます",
+  "oxunus": "はきます",
+  "romaji": "hakimasu",
+  "az": "geyinmək (ayaqqabı, şalvar, ətək)"
+ },
+ {
+  "ders": 22,
+  "soz": "被ります",
+  "oxunus": "かぶります",
+  "romaji": "kaburimasu",
+  "az": "[帽子を～] qoymaq"
+ },
+ {
+  "ders": 22,
+  "soz": "掛けます",
+  "oxunus": "かけます",
+  "romaji": "kakemasu",
+  "az": "[眼鏡を～] taxmaq"
+ },
+ {
+  "ders": 22,
+  "soz": "します",
+  "oxunus": "します",
+  "romaji": "shimasu",
+  "az": "[ネクタイを～] taxmaq, bağlamaq"
+ },
+ {
+  "ders": 22,
+  "soz": "生まれます",
+  "oxunus": "うまれます",
+  "romaji": "umaremasu",
+  "az": "doğulmaq"
+ },
+ {
+  "ders": 22,
+  "soz": "私たち",
+  "oxunus": "わたしたち",
+  "romaji": "watashitachi",
+  "az": "biz"
+ },
+ {
+  "ders": 22,
+  "soz": "コート",
+  "oxunus": "コート",
+  "romaji": "kooto",
+  "az": "palto"
+ },
+ {
+  "ders": 22,
+  "soz": "セーター",
+  "oxunus": "セーター",
+  "romaji": "seetaa",
+  "az": "sviter, jaket"
+ },
+ {
+  "ders": 22,
+  "soz": "スーツ",
+  "oxunus": "スーツ",
+  "romaji": "suutsu",
+  "az": "kostyum"
+ },
+ {
+  "ders": 22,
+  "soz": "帽子",
+  "oxunus": "ぼうし",
+  "romaji": "boushi",
+  "az": "papaq"
+ },
+ {
+  "ders": 22,
+  "soz": "眼鏡",
+  "oxunus": "めがね",
+  "romaji": "megane",
+  "az": "eynək"
+ },
+ {
+  "ders": 22,
+  "soz": "ケーキ",
+  "oxunus": "ケーキ",
+  "romaji": "keeki",
+  "az": "tort"
+ },
+ {
+  "ders": 22,
+  "soz": "お弁当",
+  "oxunus": "おべんとう",
+  "romaji": "obentou",
+  "az": "bento (qutuda hazır yemək)"
+ },
+ {
+  "ders": 22,
+  "soz": "ロボット",
+  "oxunus": "ロボット",
+  "romaji": "robotto",
+  "az": "robot"
+ },
+ {
+  "ders": 22,
+  "soz": "ユーモア",
+  "oxunus": "ユーモア",
+  "romaji": "yuumoa",
+  "az": "zarafat, yumor"
+ },
+ {
+  "ders": 22,
+  "soz": "都合",
+  "oxunus": "つごう",
+  "romaji": "tsugou",
+  "az": "vaxt rahatlığı (つごうが いい: vaxtı uyğun olmaq)"
+ },
+ {
+  "ders": 22,
+  "soz": "よく",
+  "oxunus": "よく",
+  "romaji": "yoku",
+  "az": "tez-tez"
+ },
+ {
+  "ders": 22,
+  "soz": "ええと",
+  "oxunus": "ええと",
+  "romaji": "eeto",
+  "az": "eee.../ hmm..."
+ },
+ {
+  "ders": 22,
+  "soz": "おめでとうございます",
+  "oxunus": "おめでとうございます",
+  "romaji": "omedetou gozaimasu",
+  "az": "Təbrik edirəm."
+ },
+ {
+  "ders": 22,
+  "soz": "お探しですか",
+  "oxunus": "おさがしですか",
+  "romaji": "osagashi desu ka",
+  "az": "Nəsə axtarırsınız?"
+ },
+ {
+  "ders": 22,
+  "soz": "では",
+  "oxunus": "では",
+  "romaji": "dewa",
+  "az": "onda isə"
+ },
+ {
+  "ders": 22,
+  "soz": "こちら",
+  "oxunus": "こちら",
+  "romaji": "kochira",
+  "az": "bu"
+ },
+ {
+  "ders": 22,
+  "soz": "家賃",
+  "oxunus": "やちん",
+  "romaji": "yachin",
+  "az": "kirayə ev pulu"
+ },
+ {
+  "ders": 22,
+  "soz": "ダイニングキッチン",
+  "oxunus": "ダイニングキッチン",
+  "romaji": "dainingu kicchin",
+  "az": "mətbəx-yeməkxana (yemək yeri ilə birləşik mətbəx)"
+ },
+ {
+  "ders": 22,
+  "soz": "和室",
+  "oxunus": "わしつ",
+  "romaji": "washitsu",
+  "az": "yapon üslublu otaq"
+ },
+ {
+  "ders": 22,
+  "soz": "押入れ",
+  "oxunus": "おしいれ",
+  "romaji": "oshiire",
+  "az": "yapon üslublu şkaf"
+ },
+ {
+  "ders": 22,
+  "soz": "布団",
+  "oxunus": "ふとん",
+  "romaji": "futon",
+  "az": "yapon üslublu yorğan, döşək"
+ },
+ {
+  "ders": 22,
+  "soz": "パリ",
+  "oxunus": "パリ",
+  "romaji": "Pari",
+  "az": "Paris"
+ },
+ {
+  "ders": 22,
+  "soz": "万里の長城",
+  "oxunus": "ばんりのちょうじょう",
+  "romaji": "Banri no Choujou",
+  "az": "Böyük Çin səddi"
+ },
+ {
+  "ders": 23,
+  "soz": "聞きます",
+  "oxunus": "ききます",
+  "romaji": "kikimasu",
+  "az": "[先生に～] soruşmaq"
+ },
+ {
+  "ders": 23,
+  "soz": "回します",
+  "oxunus": "まわします",
+  "romaji": "mawashimasu",
+  "az": "çevirmək, döndərmək, fırlatmaq"
+ },
+ {
+  "ders": 23,
+  "soz": "引きます",
+  "oxunus": "ひきます",
+  "romaji": "hikimasu",
+  "az": "dartmaq, çəkmək"
+ },
+ {
+  "ders": 23,
+  "soz": "変えます",
+  "oxunus": "かえます",
+  "romaji": "kaemasu",
+  "az": "dəyişmək, dəyişdirmək"
+ },
+ {
+  "ders": 23,
+  "soz": "触ります",
+  "oxunus": "さわります",
+  "romaji": "sawarimasu",
+  "az": "[ドアに～] toxunmaq, dəymək"
+ },
+ {
+  "ders": 23,
+  "soz": "出ます",
+  "oxunus": "でます",
+  "romaji": "demasu",
+  "az": "[お釣りが～] çıxmaq"
+ },
+ {
+  "ders": 23,
+  "soz": "歩きます",
+  "oxunus": "あるきます",
+  "romaji": "arukimasu",
+  "az": "[道を～] piyada gəzmək"
+ },
+ {
+  "ders": 23,
+  "soz": "渡ります",
+  "oxunus": "わたります",
+  "romaji": "watarimasu",
+  "az": "[橋を～] qarşı tərəfə keçmək"
+ },
+ {
+  "ders": 23,
+  "soz": "曲がります",
+  "oxunus": "まがります",
+  "romaji": "magarimasu",
+  "az": "[右へ～] dönmək"
+ },
+ {
+  "ders": 23,
+  "soz": "寂しい",
+  "oxunus": "さびしい",
+  "romaji": "sabishii",
+  "az": "qüssəli, tənha, qəmli"
+ },
+ {
+  "ders": 23,
+  "soz": "[お]湯",
+  "oxunus": "[お]ゆ",
+  "romaji": "[o]yu",
+  "az": "isti su"
+ },
+ {
+  "ders": 23,
+  "soz": "音",
+  "oxunus": "おと",
+  "romaji": "oto",
+  "az": "səs"
+ },
+ {
+  "ders": 23,
+  "soz": "サイズ",
+  "oxunus": "サイズ",
+  "romaji": "saizu",
+  "az": "ölçü"
+ },
+ {
+  "ders": 23,
+  "soz": "故障",
+  "oxunus": "こしょう",
+  "romaji": "koshou",
+  "az": "nasazlıq, xarab olma"
+ },
+ {
+  "ders": 23,
+  "soz": "道",
+  "oxunus": "みち",
+  "romaji": "michi",
+  "az": "yol"
+ },
+ {
+  "ders": 23,
+  "soz": "交差点",
+  "oxunus": "こうさてん",
+  "romaji": "kousaten",
+  "az": "yol ayrıcılığı, yol kəsişməsi"
+ },
+ {
+  "ders": 23,
+  "soz": "信号",
+  "oxunus": "しんごう",
+  "romaji": "shingou",
+  "az": "işıqfor"
+ },
+ {
+  "ders": 23,
+  "soz": "角",
+  "oxunus": "かど",
+  "romaji": "kado",
+  "az": "künc"
+ },
+ {
+  "ders": 23,
+  "soz": "橋",
+  "oxunus": "はし",
+  "romaji": "hashi",
+  "az": "körpü"
+ },
+ {
+  "ders": 23,
+  "soz": "駐車場",
+  "oxunus": "ちゅうしゃじょう",
+  "romaji": "chuushajou",
+  "az": "maşın dayanacağı"
+ },
+ {
+  "ders": 23,
+  "soz": "建物",
+  "oxunus": "たてもの",
+  "romaji": "tatemono",
+  "az": "bina"
+ },
+ {
+  "ders": 23,
+  "soz": "何回も",
+  "oxunus": "なんかいも",
+  "romaji": "nankai mo",
+  "az": "dəfələrlə, dönə-dönə"
+ },
+ {
+  "ders": 23,
+  "soz": "～目",
+  "oxunus": "～め",
+  "romaji": "~me",
+  "az": "~inci (sıra bildirən şəkilçi)"
+ },
+ {
+  "ders": 23,
+  "soz": "聖徳太子",
+  "oxunus": "しょうとくたいし",
+  "romaji": "Shoutoku Taishi",
+  "az": "Şahzadə Shoutoku"
+ },
+ {
+  "ders": 23,
+  "soz": "法隆寺",
+  "oxunus": "ほうりゅうじ",
+  "romaji": "Houryuuji",
+  "az": "Houryuuji Məbədi"
+ },
+ {
+  "ders": 24,
+  "soz": "くれます",
+  "oxunus": "くれます",
+  "romaji": "kuremasu",
+  "az": "vermək (mənə)"
+ },
+ {
+  "ders": 24,
+  "soz": "直します",
+  "oxunus": "なおします",
+  "romaji": "naoshimasu",
+  "az": "təmir etmək, düzəltmək"
+ },
+ {
+  "ders": 24,
+  "soz": "連れて行きます",
+  "oxunus": "つれていきます",
+  "romaji": "tsurete ikimasu",
+  "az": "(kimisə) özünlə aparmaq"
+ },
+ {
+  "ders": 24,
+  "soz": "連れて来ます",
+  "oxunus": "つれてきます",
+  "romaji": "tsurete kimasu",
+  "az": "(kimisə) özünlə gətirmək"
+ },
+ {
+  "ders": 24,
+  "soz": "送ります[人を～]",
+  "oxunus": "おくります[ひとを～]",
+  "romaji": "okurimasu [hito o ~]",
+  "az": "yola salmaq [kimisə yola salmaq]"
+ },
+ {
+  "ders": 24,
+  "soz": "紹介します",
+  "oxunus": "しょうかいします",
+  "romaji": "shoukaishimasu",
+  "az": "tanıtmaq"
+ },
+ {
+  "ders": 24,
+  "soz": "案内します",
+  "oxunus": "あんないします",
+  "romaji": "annaishimasu",
+  "az": "yol göstərmək, bələdçilik etmək"
+ },
+ {
+  "ders": 24,
+  "soz": "説明します",
+  "oxunus": "せつめいします",
+  "romaji": "setsumeishimasu",
+  "az": "izah etmək"
+ },
+ {
+  "ders": 24,
+  "soz": "おじいさん/おじいちゃん",
+  "oxunus": "おじいさん/おじいちゃん",
+  "romaji": "ojiisan / ojiichan",
+  "az": "baba, yaşlı kişi"
+ },
+ {
+  "ders": 24,
+  "soz": "おばあさん/おばあちゃん",
+  "oxunus": "おばあさん/おばあちゃん",
+  "romaji": "obaasan / obaachan",
+  "az": "nənə, yaşlı qadın"
+ },
+ {
+  "ders": 24,
+  "soz": "準備",
+  "oxunus": "じゅんび",
+  "romaji": "junbi",
+  "az": "hazırlıq (～します: hazırlaşmaq)"
+ },
+ {
+  "ders": 24,
+  "soz": "引っ越し",
+  "oxunus": "ひっこし",
+  "romaji": "hikkoshi",
+  "az": "köç (～します: köçmək)"
+ },
+ {
+  "ders": 24,
+  "soz": "[お]菓子",
+  "oxunus": "[お]かし",
+  "romaji": "[o]kashi",
+  "az": "şirniyyat"
+ },
+ {
+  "ders": 24,
+  "soz": "ホームステイ",
+  "oxunus": "ホームステイ",
+  "romaji": "hoomusutei",
+  "az": "xaricdə ailədə qonaq qalmaq"
+ },
+ {
+  "ders": 24,
+  "soz": "全部",
+  "oxunus": "ぜんぶ",
+  "romaji": "zenbu",
+  "az": "hamısı"
+ },
+ {
+  "ders": 24,
+  "soz": "自分で",
+  "oxunus": "じぶんで",
+  "romaji": "jibun de",
+  "az": "özü, təkbaşına"
+ },
+ {
+  "ders": 24,
+  "soz": "他に",
+  "oxunus": "ほかに",
+  "romaji": "hoka ni",
+  "az": "~dan başqa"
+ },
+ {
+  "ders": 24,
+  "soz": "母の日",
+  "oxunus": "ははのひ",
+  "romaji": "Haha no Hi",
+  "az": "Analar günü"
+ },
+ {
+  "ders": 25,
+  "soz": "考えます",
+  "oxunus": "かんがえます",
+  "romaji": "kangaemasu",
+  "az": "fikirləşmək, düşünüb-daşınmaq"
+ },
+ {
+  "ders": 25,
+  "soz": "着きます",
+  "oxunus": "つきます",
+  "romaji": "tsukimasu",
+  "az": "[駅に～] çatmaq (hansısa yer)"
+ },
+ {
+  "ders": 25,
+  "soz": "留学します",
+  "oxunus": "りゅうがくします",
+  "romaji": "ryuugakushimasu",
+  "az": "xaricdə oxumaq"
+ },
+ {
+  "ders": 25,
+  "soz": "取ります",
+  "oxunus": "とります",
+  "romaji": "torimasu",
+  "az": "[年を～] yaşlanmaq"
+ },
+ {
+  "ders": 25,
+  "soz": "足ります",
+  "oxunus": "たります",
+  "romaji": "tarimasu",
+  "az": "kifayət olmaq, çatmaq"
+ },
+ {
+  "ders": 25,
+  "soz": "田舎",
+  "oxunus": "いなか",
+  "romaji": "inaka",
+  "az": "kənd"
+ },
+ {
+  "ders": 25,
+  "soz": "チャンス",
+  "oxunus": "チャンス",
+  "romaji": "chansu",
+  "az": "şans, imkan"
+ },
+ {
+  "ders": 25,
+  "soz": "億",
+  "oxunus": "おく",
+  "romaji": "oku",
+  "az": "yüz milyon"
+ },
+ {
+  "ders": 25,
+  "soz": "もし[～たら]",
+  "oxunus": "もし[～たら]",
+  "romaji": "moshi [~tara]",
+  "az": "əgər..."
+ },
+ {
+  "ders": 25,
+  "soz": "意味",
+  "oxunus": "いみ",
+  "romaji": "imi",
+  "az": "məna"
+ },
+ {
+  "ders": 25,
+  "soz": "もしもし",
+  "oxunus": "もしもし",
+  "romaji": "moshi moshi",
+  "az": "alo (telefona cavab verəndə)"
+ },
+ {
+  "ders": 25,
+  "soz": "転勤",
+  "oxunus": "てんきん",
+  "romaji": "tenkin",
+  "az": "təyinat (～します: başqa yerə təyin olunmaq)"
+ },
+ {
+  "ders": 25,
+  "soz": "こと",
+  "oxunus": "こと",
+  "romaji": "koto",
+  "az": "iş, şey"
+ },
+ {
+  "ders": 25,
+  "soz": "暇",
+  "oxunus": "ひま",
+  "romaji": "hima",
+  "az": "boş vaxt"
+ },
+ {
+  "ders": 25,
+  "soz": "[いろいろ]お世話になりました。",
+  "oxunus": "[いろいろ]おせわになりました。",
+  "romaji": "[iroiro] osewa ni narimashita",
+  "az": "Hər şey üçün təşəkkür edirəm."
+ },
+ {
+  "ders": 25,
+  "soz": "がんばります",
+  "oxunus": "がんばります",
+  "romaji": "ganbarimasu",
+  "az": "əlimdən gələni edəcəyəm, çalışacağam"
+ },
+ {
+  "ders": 25,
+  "soz": "どうぞお元気で。",
+  "oxunus": "どうぞおげんきで。",
+  "romaji": "douzo ogenki de",
+  "az": "Sağlıqla qalın."
+ },
+ {
+  "ders": 25,
+  "soz": "ベトナム",
+  "oxunus": "ベトナム",
+  "romaji": "Betonamu",
+  "az": "Vyetnam"
+ }
+]

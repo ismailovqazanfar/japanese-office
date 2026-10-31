@@ -1,0 +1,563 @@
+[
+ {
+  "kanji": "山",
+  "on": "サン",
+  "kun": "やま",
+  "az": "dağ",
+  "en": "mountain",
+  "ru": "гора",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "山"
+  ],
+  "mense": {
+   "az": "Ən qədim yazıda dağ üç zirvəli silsilə kimi çəkilirdi. Tunc qablarda bu dolğun siluetə çevrildi, sonra isə üç şaquli xəttə sadələşdi.",
+   "en": "The oldest script drew a mountain as a range with three peaks. On bronze vessels it became a solid silhouette and was later simplified to three upright strokes.",
+   "ru": "В древнейшем письме гору рисовали хребтом с тремя вершинами. На бронзе рисунок стал сплошным силуэтом, а потом упростился до трёх вертикальных черт."
+  },
+  "hekaye": {
+   "az": "Ortada uca zirvə, yanlarda iki kiçik: 山 (yama) – dağ. 富士山 (Fujisan) – Fuji dağı.",
+   "en": "A tall peak in the middle and two smaller ones: 山 (yama), mountain. 富士山 (Fujisan), Mount Fuji.",
+   "ru": "Высокая вершина в центре и две поменьше: 山 (яма) – гора. 富士山 (Фудзисан) – гора Фудзи."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "山 (やま) dağ",
+   "富士山 (ふじさん) Fuji dağı",
+   "吉野山 (よしのやま) Yoshino dağı (Nara prefekturası)"
+  ]
+ },
+ {
+  "kanji": "寺",
+  "on": "ジ",
+  "kun": "てら",
+  "az": "məbəd",
+  "en": "temple",
+  "ru": "храм",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "土",
+   "寸"
+  ],
+  "mense": {
+   "az": "Yuxarıda ayaq (之, bugün 土-ə bənzəyir), aşağıda əl (寸). Əvvəlcə dövlət idarəsi demək idi. Sonra Çinə gələn rahiblər belə binalarda yerləşdirildi və məna \"məbəd\" oldu.",
+   "en": "A foot (之, today looking like 土) on top and a hand (寸) below. It first meant a government office. Monks arriving in China were housed in such buildings, and the meaning became \"temple\".",
+   "ru": "Сверху ступня (之, сейчас похожа на 土), снизу рука (寸). Сначала – государственное учреждение. Прибывших в Китай монахов селили в таких зданиях, и значение стало «храм»."
+  },
+  "hekaye": {
+   "az": "İdarədən məbədə: お寺 (otera) – buddist məbədi, 金閣寺 (Kinkakuji).",
+   "en": "From office to temple: お寺 (otera), Buddhist temple; 金閣寺 (Kinkakuji).",
+   "ru": "От учреждения к храму: お寺 (отэра) – буддийский храм, 金閣寺 (Кинкакудзи)."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "金閣寺 (きんかくじ) Kinkaku Məbədi",
+   "[お]寺 ([お]てら) Buddist məbədi",
+   "法隆寺 (ほうりゅうじ) Houryuuji Məbədi"
+  ]
+ },
+ {
+  "kanji": "町",
+  "on": "チョウ",
+  "kun": "まち",
+  "az": "qəsəbə, şəhər",
+  "en": "town",
+  "ru": "городок",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "田",
+   "丁"
+  ],
+  "mense": {
+   "az": "Məna hissəsi tarla (田), səs hissəsi 丁. Tarlalar arasındakı cığırlar, sonra evlərin sıralandığı yer: qəsəbə, məhəllə.",
+   "en": "The meaning part is field (田) and the sound part is 丁. The paths between fields, then a place where houses line up: a town, a neighbourhood.",
+   "ru": "Смысловая часть – поле (田), звуковая – 丁. Тропинки между полями, позже место, где выстроились дома: городок, квартал."
+  },
+  "hekaye": {
+   "az": "Tarlalar arasında yol: 町 (machi) – şəhərcik, 町内 (chounai) – məhəllə.",
+   "en": "Paths between fields: 町 (machi), town; 町内 (chounai), neighbourhood.",
+   "ru": "Тропы меж полей: 町 (мати) – городок, 町内 (тёнай) – квартал."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "町 (まち) şəhər",
+   "みどり町 (みどりちょう) Midori şəhəri"
+  ]
+ },
+ {
+  "kanji": "元",
+  "on": "ゲン、ガン",
+  "kun": "もと",
+  "az": "mənbə, əsas",
+  "en": "origin",
+  "ru": "начало, основа",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "#",
+   "儿"
+  ],
+  "mense": {
+   "az": "İnsan (儿) və onun üstündə vurğulanmış baş (二). Başdan \"əsas, başlanğıc, mənbə\" mənası çıxdı.",
+   "en": "A person (儿) with the head (二) emphasised on top. From \"head\" came \"origin, beginning, source\".",
+   "ru": "Человек (儿) с выделенной головой (二). От «головы» пошли значения «основа, начало, источник»."
+  },
+  "hekaye": {
+   "az": "Baş, mənbə: 元気 (genki) – gümrah, 元日 (ganjitsu) – yeni ilin ilk günü.",
+   "en": "Head, source: 元気 (genki), lively; 元日 (ganjitsu), New Year's Day.",
+   "ru": "Голова, источник: 元気 (гэнки) – бодрый, 元日 (гандзицу) – Новый год (1 января)."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "お元気ですか (おげんきですか) Necəsiniz?",
+   "どうぞお元気で。 (どうぞおげんきで。) Sağlıqla qalın."
+  ]
+ },
+ {
+  "kanji": "杯",
+  "on": "ハイ",
+  "kun": "さかずき",
+  "az": "fincan, qədəh",
+  "en": "cup, glass",
+  "ru": "чашка, бокал",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "木",
+   "不"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağac (木), səs hissəsi 不. Taxtadan oyulmuş içki qabı: kasa, stəkan. Yapon dilində stəkan saymaq üçün də işlənir.",
+   "en": "The meaning part is wood (木) and the sound part is 不. A drinking vessel carved from wood: a cup. In Japanese it also counts cupfuls.",
+   "ru": "Смысловая часть – дерево (木), звуковая – 不. Сосуд для питья из дерева: чаша. В японском также считает чашки."
+  },
+  "hekaye": {
+   "az": "Taxta kasa: 一杯 (ippai) – bir stəkan; dolu, 乾杯 (kanpai) – sağlıqlar!",
+   "en": "A wooden cup: 一杯 (ippai), one cupful; full; 乾杯 (kanpai), cheers!",
+   "ru": "Деревянная чаша: 一杯 (иппай) – одна чашка; полный, 乾杯 (кампай) – за здоровье!"
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "もう一杯 (もういっぱい) daha bir fincan (stəkan)",
+   "乾杯 (かんぱい) şərəfə! (sağlığa!)"
+  ]
+ },
+ {
+  "kanji": "公",
+  "on": "コウ",
+  "kun": "おおやけ",
+  "az": "ictimai",
+  "en": "public",
+  "ru": "общественный",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "八",
+   "厶"
+  ],
+  "mense": {
+   "az": "Yuxarıda 八 (açmaq, ayırmaq), aşağıda 厶 (şəxsi). Şəxsi olanı açıb hamıya vermək: ictimai, ümumi.",
+   "en": "八 (to open, to divide) on top and 厶 (private) below. Opening up what is private to everyone: public.",
+   "ru": "Сверху 八 (раскрывать, делить), снизу 厶 (личное). Открыть личное для всех: общественный."
+  },
+  "hekaye": {
+   "az": "Şəxsini aç, hamıya ver: 公園 (kouen) – park, 公務員 (koumuin) – dövlət qulluqçusu.",
+   "en": "Open up the private: 公園 (kouen), park; 公務員 (koumuin), civil servant.",
+   "ru": "Открой личное для всех: 公園 (коэн) – парк, 公務員 (комуин) – госслужащий."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "奈良公園 (ならこうえん) Nara Parkı",
+   "公園 (こうえん) park"
+  ]
+ },
+ {
+  "kanji": "白",
+  "on": "ハク",
+  "kun": "しろ・い",
+  "az": "ağ",
+  "en": "white",
+  "ru": "белый",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "白"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir: palıd qozası, dırnaq və ya şam alovu kimi izah olunur. Çox erkən dövrdən \"ağ, parlaq, aydın\" mənasında işlənir.",
+   "en": "Its origin is debated: it has been explained as an acorn, a thumbnail or a candle flame. From very early on it meant \"white, bright, clear\".",
+   "ru": "Происхождение спорно: толкуют как жёлудь, ноготь или пламя свечи. С ранних времён значит «белый, светлый, ясный»."
+  },
+  "hekaye": {
+   "az": "Ağ və aydın: 白い (shiroi) – ağ, 面白い (omoshiroi) – maraqlı.",
+   "en": "White and clear: 白い (shiroi), white; 面白い (omoshiroi), interesting.",
+   "ru": "Белый и ясный: 白い (сирой) – белый, 面白い (омосирой) – интересный."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "白い (しろい) ağ"
+  ]
+ },
+ {
+  "kanji": "黒",
+  "on": "コク",
+  "kun": "くろ・い",
+  "az": "qara",
+  "en": "black",
+  "ru": "чёрный",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "日",
+   "#",
+   "灬"
+  ],
+  "mense": {
+   "az": "Köhnə forması 黑: yuxarıda his basmış baca və ya pəncərə, aşağıda od (灬). Ocağın tüstüsündən qaralan yer: qara.",
+   "en": "The old form is 黑: a soot-covered chimney or window on top and fire (灬) below. The place blackened by smoke from the hearth: black.",
+   "ru": "Старая форма 黑: сверху закопчённая труба или окно, снизу огонь (灬). Место, почерневшее от дыма очага: чёрный."
+  },
+  "hekaye": {
+   "az": "Odun hisi: 黒い (kuroi) – qara, 黒板 (kokuban) – lövhə.",
+   "en": "Soot from the fire: 黒い (kuroi), black; 黒板 (kokuban), blackboard.",
+   "ru": "Сажа от огня: 黒い (курой) – чёрный, 黒板 (кокубан) – доска."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "黒い (くろい) qara"
+  ]
+ },
+ {
+  "kanji": "赤",
+  "on": "セキ",
+  "kun": "あか・い",
+  "az": "qırmızı",
+  "en": "red",
+  "ru": "красный",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "赤"
+  ],
+  "mense": {
+   "az": "Yuxarıda böyük (大, burada 土-ə bənzəyir), aşağıda od (火). Böyük alovun rəngi: qırmızı.",
+   "en": "Big (大, here looking like 土) on top and fire (火) below. The colour of a big blaze: red.",
+   "ru": "Сверху большой (大, здесь похож на 土), снизу огонь (火). Цвет большого пламени: красный."
+  },
+  "hekaye": {
+   "az": "Böyük alov: 赤い (akai) – qırmızı, 赤ちゃん (akachan) – körpə, \"qırmızı balaca\".",
+   "en": "A big blaze: 赤い (akai), red; 赤ちゃん (akachan), baby, \"little red one\".",
+   "ru": "Большое пламя: 赤い (акай) – красный, 赤ちゃん (акатян) – младенец, «красненький»."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "赤い (あかい) qırmızı"
+  ]
+ },
+ {
+  "kanji": "青",
+  "on": "セイ",
+  "kun": "あお・い",
+  "az": "göy",
+  "en": "blue",
+  "ru": "синий",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "龶",
+   "月"
+  ],
+  "mense": {
+   "az": "Yuxarıda 生 (cücərti, səs verir), aşağıda 丹 (boya, mineral). Təzə cücərtinin rəngi: göy-yaşıl. Yapon dilində həm göy, həm təzə yaşıl üçün işlənir.",
+   "en": "生 (a sprout, giving the sound) on top and 丹 (a pigment, a mineral) below. The colour of fresh shoots: blue-green. In Japanese it covers both blue and fresh green.",
+   "ru": "Сверху 生 (росток, даёт звук), снизу 丹 (краска, минерал). Цвет свежих ростков: сине-зелёный. В японском – и синий, и свежий зелёный."
+  },
+  "hekaye": {
+   "az": "Cücərtinin rəngi: 青い (aoi) – göy, 青信号 (aoshingou) – yaşıl işıq.",
+   "en": "The colour of a shoot: 青い (aoi), blue; 青信号 (aoshingou), green light.",
+   "ru": "Цвет ростка: 青い (аой) – синий, 青信号 (аосинго) – зелёный свет."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "青い (あおい) göy"
+  ]
+ },
+ {
+  "kanji": "桜",
+  "on": "オウ",
+  "kun": "さくら",
+  "az": "sakura, albalı çiçəyi",
+  "en": "cherry blossom",
+  "ru": "сакура",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "木",
+   "⺍",
+   "女"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağac (木). Köhnə forması 櫻 idi, sağ hissə səs verirdi və boyunbağı mənasında 嬰 idi. Sadələşəndə 𭕄 + 女 qaldı. Albalı ağacı, sakura.",
+   "en": "The meaning part is tree (木). The old form was 櫻; the right side, 嬰 (a necklace), gave the sound. When simplified it became 𭕄 + 女. The cherry tree, sakura.",
+   "ru": "Смысловая часть – дерево (木). Старая форма 櫻; правая часть 嬰 (ожерелье) давала звук. При упрощении осталось 𭕄 + 女. Вишня, сакура."
+  },
+  "hekaye": {
+   "az": "Ağac + çiçək boyunbağı: 桜 (sakura) – albalı ağacı, お花見 (ohanami) – sakura seyri.",
+   "en": "Tree + a necklace of blossom: 桜 (sakura); お花見 (ohanami), cherry-blossom viewing.",
+   "ru": "Дерево + ожерелье цветов: 桜 (сакура); お花見 (оханами) – любование сакурой."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "桜 (さくら) albalı (çiçəyi/ağacı)"
+  ]
+ },
+ {
+  "kanji": "寮",
+  "on": "リョウ",
+  "kun": "–",
+  "az": "yataqxana",
+  "en": "dormitory",
+  "ru": "общежитие",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "大",
+   "日",
+   "小",
+   "#"
+  ],
+  "mense": {
+   "az": "Yuxarıda dam (宀), altında səs hissəsi 尞. Bir yerdə qalan insanların evi: yataqxana.",
+   "en": "A roof (宀) on top with the sound part 尞 beneath. A house where people live together: a dormitory.",
+   "ru": "Сверху крыша (宀), под ней звуковая часть 尞. Дом, где люди живут вместе: общежитие."
+  },
+  "hekaye": {
+   "az": "Ortaq dam: 寮 (ryou) – yataqxana, 学生寮 (gakuseiryou) – tələbə yataqxanası.",
+   "en": "A shared roof: 寮 (ryou), dormitory; 学生寮 (gakuseiryou), student dorm.",
+   "ru": "Общая крыша: 寮 (рё) – общежитие, 学生寮 (гакусэйрё) – студенческое общежитие."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "寮 (りょう) yataqxana"
+  ]
+ },
+ {
+  "kanji": "活",
+  "on": "カツ",
+  "kun": "い・きる",
+  "az": "canlı, həyat",
+  "en": "lively, life",
+  "ru": "живой, жизнь",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "舌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), sağ hissə əvvəlcə səs verən başqa işarə idi, sonra 舌-ə bənzədi. Axan suyun gur səsi: canlı, fəal.",
+   "en": "The meaning part is water (氵); the right side was originally another sound sign and later came to look like 舌. The rushing sound of flowing water: lively, active.",
+   "ru": "Смысловая часть – вода (氵); правая часть изначально была другим звуковым знаком, позже стала похожа на 舌. Шум бегущей воды: живой, активный."
+  },
+  "hekaye": {
+   "az": "Axan su kimi canlı: 生活 (seikatsu) – həyat, yaşayış; 活動 (katsudou) – fəaliyyət.",
+   "en": "Lively like flowing water: 生活 (seikatsu), daily life; 活動 (katsudou), activity.",
+   "ru": "Живой, как бегущая вода: 生活 (сэйкацу) – жизнь, быт; 活動 (кацудо) – деятельность."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "生活 (せいかつ) həyat, yaşam"
+  ]
+ },
+ {
+  "kanji": "仕",
+  "on": "シ",
+  "kun": "つか・える",
+  "az": "xidmət etmək",
+  "en": "serve",
+  "ru": "служить",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "士"
+  ],
+  "mense": {
+   "az": "Solda insan (亻), sağda 士 (kişi, xidmət edən, səs də verir). Bir başqasına xidmət edən insan: xidmət etmək, işləmək.",
+   "en": "A person (亻) on the left and 士 (a man, a retainer, also giving the sound) on the right. A person who serves another: to serve, to work.",
+   "ru": "Слева человек (亻), справа 士 (муж, служилый, также даёт звук). Человек, служащий другому: служить, работать."
+  },
+  "hekaye": {
+   "az": "Xidmət edən adam: 仕事 (shigoto) – iş, 仕方 (shikata) – üsul.",
+   "en": "A person who serves: 仕事 (shigoto), work; 仕方 (shikata), way of doing.",
+   "ru": "Служащий человек: 仕事 (сигото) – работа, 仕方 (сиката) – способ."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "[お]仕事 ([お]しごと) iş"
+  ]
+ },
+ {
+  "kanji": "閣",
+  "on": "カク",
+  "kun": "–",
+  "az": "qüllə, kabinet",
+  "en": "tower, cabinet",
+  "ru": "башня, кабинет",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "門",
+   "夂",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi darvaza (門), səs hissəsi 各. Hündür, bəzəkli bina: köşk, qüllə. Sonra \"nazirlər kabineti\" mənasını da aldı.",
+   "en": "The meaning part is gate (門) and the sound part is 各. A tall, ornate building: a pavilion, a tower. Later also \"the cabinet\" of ministers.",
+   "ru": "Смысловая часть – ворота (門), звуковая – 各. Высокое нарядное здание: павильон, башня. Позже также «кабинет министров»."
+  },
+  "hekaye": {
+   "az": "Darvazalı köşk: 金閣寺 (Kinkakuji) – Qızıl köşk, 内閣 (naikaku) – hökumət kabineti.",
+   "en": "A gated pavilion: 金閣寺 (Kinkakuji), the Golden Pavilion; 内閣 (naikaku), the cabinet.",
+   "ru": "Павильон с воротами: 金閣寺 (Кинкакудзи) – Золотой павильон, 内閣 (найкаку) – кабинет министров."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "金閣寺 (きんかくじ) Kinkaku Məbədi"
+  ]
+ },
+ {
+  "kanji": "奈",
+  "on": "ナ",
+  "kun": "–",
+  "az": "(Nara)",
+  "en": "(Nara)",
+  "ru": "(Нара)",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "大",
+   "示"
+  ],
+  "mense": {
+   "az": "Yuxarıda 大, aşağıda 示. Əvvəlcə bir meyvə ağacının adı idi. Yapon dilində əsasən səsinə görə yer adlarında işlənir.",
+   "en": "大 on top and 示 below. It was first the name of a fruit tree. In Japanese it is used mostly for its sound in place names.",
+   "ru": "Сверху 大, снизу 示. Сначала – название плодового дерева. В японском используется в основном по звучанию в топонимах."
+  },
+  "hekaye": {
+   "az": "Səsinə görə: 奈良 (Nara) – qədim paytaxt, 神奈川 (Kanagawa) – vilayət.",
+   "en": "Used for its sound: 奈良 (Nara), the ancient capital; 神奈川 (Kanagawa), a prefecture.",
+   "ru": "По звучанию: 奈良 (Нара) – древняя столица, 神奈川 (Канагава) – префектура."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "奈良公園 (ならこうえん) Nara Parkı"
+  ]
+ },
+ {
+  "kanji": "良",
+  "on": "リョウ",
+  "kun": "よ・い",
+  "az": "yaxşı",
+  "en": "good",
+  "ru": "хороший",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "良"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir: bir izaha görə taxıl ələyən ələk, başqasına görə uzun dəhliz. Çox erkən dövrdən \"yaxşı\" mənasında işlənir.",
+   "en": "Its origin is debated: one explanation sees a sieve for grain, another a long corridor. From very early on it meant \"good\".",
+   "ru": "Происхождение спорно: по одному толкованию, сито для зерна, по другому – длинный коридор. С ранних времён значит «хороший»."
+  },
+  "hekaye": {
+   "az": "Ələnmiş, seçilmiş = yaxşı: 良い (yoi) – yaxşı, 奈良 (Nara).",
+   "en": "Sifted, chosen = good: 良い (yoi), good; 奈良 (Nara).",
+   "ru": "Просеянный, отборный = хороший: 良い (ёй) – хороший, 奈良 (Нара)."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "奈良公園 (ならこうえん) Nara Parkı"
+  ]
+ },
+ {
+  "kanji": "七",
+  "on": "シチ",
+  "kun": "なな",
+  "az": "yeddi",
+  "en": "seven",
+  "ru": "семь",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "七"
+  ],
+  "mense": {
+   "az": "Əvvəlcə çarpaz kəsik işarəsi idi (切-in ilk forması). Səsinə görə \"yeddi\" rəqəmi üçün götürüldü, kəsmək mənası isə 切-ə keçdi.",
+   "en": "It was first a cross-shaped cut mark (the original form of 切). It was borrowed for its sound for the number seven, and \"to cut\" moved to 切.",
+   "ru": "Сначала – знак крестообразного надреза (исходная форма 切). По звучанию его взяли для числа «семь», а значение «резать» перешло к 切."
+  },
+  "hekaye": {
+   "az": "Kəsikdən rəqəmə: 七つ (nanatsu) – yeddi dənə, 七月 (shichigatsu) – iyul.",
+   "en": "From a cut to a number: 七つ (nanatsu), seven; 七月 (shichigatsu), July.",
+   "ru": "От надреза к числу: 七つ (нанацу) – семь штук, 七月 (ситигацу) – июль."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "七人の侍 (しちにんのさむらい) Yeddi Samuray"
+  ]
+ },
+ {
+  "kanji": "侍",
+  "on": "ジ",
+  "kun": "さむらい",
+  "az": "samuray",
+  "en": "samurai",
+  "ru": "самурай",
+  "ders": 8,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "土",
+   "寸"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 寺. Böyüyün yanında durub ona xidmət edən: xidmətçi. Yaponiyada bu söz döyüşçü təbəqənin adı oldu: samurai.",
+   "en": "The meaning part is person (亻) and the sound part is 寺. Someone who waits on a superior: an attendant. In Japan the word became the name of the warrior class: samurai.",
+   "ru": "Смысловая часть – человек (亻), звуковая – 寺. Тот, кто прислуживает старшему: слуга. В Японии слово стало названием воинского сословия: самурай."
+  },
+  "hekaye": {
+   "az": "Böyüyə xidmət edən: 侍 (samurai) – samurai.",
+   "en": "One who serves a lord: 侍 (samurai), samurai.",
+   "ru": "Тот, кто служит господину: 侍 (самурай) – самурай."
+  },
+  "ilk_soz_dersi": 8,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "七人の侍 (しちにんのさむらい) Yeddi Samuray"
+  ]
+ }
+]

@@ -1,10 +1,16 @@
-"""Ajan Ofisi ortak yardımcıları: yollar, ajan tablosu, olay günlüğü, durum dosyaları."""
-import fcntl
+"""Yapon Ofisi ortaq köməkçiləri: yollar, agent cədvəli, hadisə jurnalı, vəziyyət faylları.
+Windows, macOS və Linux-da işləyir (fcntl yalnız POSIX-də var, Windows-da msvcrt istifadə olunur)."""
 import json
 import os
 import re
 import time
 from datetime import datetime, timezone
+
+WINDOWS = os.name == "nt"
+if WINDOWS:
+    import msvcrt
+else:
+    import fcntl
 
 KOK = os.path.dirname(os.path.abspath(__file__))
 # Yapılandırma: ajanlar.example.json'ı ajanlar.json olarak kopyala (ajanlar.json .gitignore'da).
@@ -40,37 +46,69 @@ def ajanlari_yukle():
             veri = json.load(f)
     except FileNotFoundError as e:
         raise YapilandirmaHatasi(
-            f"{os.path.basename(AJANLAR_DOSYASI)} yok. Önce: cp ajanlar.example.json ajanlar.json") from e
+            f"{os.path.basename(AJANLAR_DOSYASI)} yoxdur. Əvvəlcə: cp ornek/ajanlar.kotoba.json ajanlar.json") from e
     if not isinstance(veri, dict) or not isinstance(veri.get("ajanlar"), list):
-        raise YapilandirmaHatasi("ajanlar.json içinde 'ajanlar' listesi olmalı")
+        raise YapilandirmaHatasi("ajanlar.json içində 'ajanlar' siyahısı olmalıdır")
     tablo = {}
     for ajan in veri["ajanlar"]:
         if not AJAN_ID_DESENI.match(ajan["id"]):
-            raise ValueError(f"geçersiz ajan id: {ajan['id']!r}")
+            raise ValueError(f"yanlış agent id: {ajan['id']!r}")
         oda = ajan.get("oda") or "genel"
         if not isinstance(oda, str) or not ODA_ID_DESENI.fullmatch(oda):
-            raise ValueError(f"geçersiz oda id: {oda!r} (ajan {ajan['id']})")
-        kurulu = os.path.isdir(os.path.expanduser(ajan.get("cwd") or ""))
-        tablo[ajan["id"]] = {**ajan, "oda": oda, "cwd": os.path.expanduser(ajan.get("cwd") or ""), "kurulu": kurulu}
+            raise ValueError(f"yanlış otaq id: {oda!r} (agent {ajan['id']})")
+        cwd = cwd_hell(ajan.get("cwd"))
+        tablo[ajan["id"]] = {**ajan, "oda": oda, "cwd": cwd, "kurulu": bool(cwd) and os.path.isdir(cwd)}
     return veri, tablo
+
+
+def cwd_hell(cwd):
+    """~ açılır; nisbi yol (\".\", \"kotoba\") bu qovluğa görə həll olunur ki, server haradan işə salınsa da eyni olsun."""
+    if not cwd:
+        return ""
+    cwd = os.path.expanduser(cwd)
+    return os.path.normpath(cwd if os.path.isabs(cwd) else os.path.join(KOK, cwd))
 
 
 def ayarlar(veri):
     """Arayüz ayarları: kullanıcı adı (selamlama) ve marka. İkisi de isteğe bağlı."""
     a = veri.get("ayarlar") if isinstance(veri.get("ayarlar"), dict) else {}
-    return {"kullanici": str(a.get("kullanici") or "")[:40], "marka": str(a.get("marka") or "Ajan Ofisi")[:40]}
+    return {"kullanici": str(a.get("kullanici") or "")[:40], "marka": str(a.get("marka") or "Yapon Ofisi")[:40]}
 
 
 def olay_yaz(olay):
     """olaylar.jsonl'e tek satır ekler (süreçler arası kilitli)."""
     satir = json.dumps({"zaman": simdi_iso(), **olay}, ensure_ascii=False)
     with open(OLAYLAR, "a", encoding="utf-8") as f:
-        fcntl.flock(f, fcntl.LOCK_EX)
+        _kilitle(f)
         try:
             f.write(satir + "\n")
             f.flush()
         finally:
+            _ac(f)
+
+
+def _kilitle(f):
+    if WINDOWS:
+        for _ in range(200):  # Windows-da kilid gözləmir, özümüz təkrar yoxlayırıq (~10 sn)
+            try:
+                f.seek(0, os.SEEK_END)
+                msvcrt.locking(f.fileno(), msvcrt.LK_NBLCK, 1)
+                return
+            except OSError:
+                time.sleep(0.05)
+    else:
+        fcntl.flock(f, fcntl.LOCK_EX)
+
+
+def _ac(f):
+    try:
+        if WINDOWS:
+            f.seek(0, os.SEEK_END)
+            msvcrt.locking(f.fileno(), msvcrt.LK_UNLCK, 1)
+        else:
             fcntl.flock(f, fcntl.LOCK_UN)
+    except OSError:
+        pass
 
 
 def durum_yolu(ajan_id):
@@ -95,6 +133,18 @@ def durum_yaz(ajan_id, durum):
 def surec_yasiyor(pid):
     if not pid:
         return False
+    if WINDOWS:
+        # Windows-da os.kill(pid, 0) prosesi YOXLAMIR, dayandırır. Ona görə WinAPI ilə soruşuruq.
+        import ctypes
+        k32 = ctypes.windll.kernel32
+        h = k32.OpenProcess(0x1000, False, int(pid))  # PROCESS_QUERY_LIMITED_INFORMATION
+        if not h:
+            return False
+        kod = ctypes.c_ulong()
+        try:
+            return bool(k32.GetExitCodeProcess(h, ctypes.byref(kod))) and kod.value == 259  # STILL_ACTIVE
+        finally:
+            k32.CloseHandle(h)
     try:
         os.kill(int(pid), 0)
         return True
@@ -105,11 +155,11 @@ def surec_yasiyor(pid):
 
 
 def ajan_mesgul(ajan_id):
-    """Ajan şu an koşuyor mu? Ölü süreçten kalan 'calisiyor' kaydını meşgul saymaz."""
+    """Agent indi işləyirmi? Ölü prosesdən qalan 'calisiyor' qeydini məşğul saymır."""
     d = durum_oku(ajan_id)
     if not d or d.get("durum") not in ("basliyor", "calisiyor"):
         return False
     if surec_yasiyor(d.get("pid")):
         return True
-    # tmux penceresi açılırken pid henüz yazılmamış olabilir
+    # pəncərə açılarkən pid hələ yazılmamış ola bilər
     return d.get("durum") == "basliyor" and time.time() - d.get("baslangic_ts", 0) < 30

@@ -141,12 +141,12 @@ function arka(g, doku, w, h, z, y = 1) {
 const OTUR_ON = P([-.11, .52, .17], [-1.2, 0, .04]);
 const MEMELER = {
   tasarimci: {
-    yazi:'BİR REVİZE DAHA MI?',
+    yazi:'YENƏ DÜZƏLİŞ?',
     kedi:{ poz:{ bas:P([0, .86, .1], [-.14, 0, .16]), onR:P([.11, .52, .17], [-.25, 0, -.05]) }, yuz:{ bebek:1, buyuk:1, bakY:.25 } },
     kam:[.25, 1.0, 2.4], hedef:[0, .82, .1],
   },
   temizlikci: {
-    yazi:'YER AÇIYORUM',
+    yazi:'YER AÇIRAM',
     // masanın solunda, yerde duran açık kasanın içine kafa üstü girmiş; arkası ve kuyruğu dışarıda
     kedi:{ temel:'kivril', poz:{ kok:P([-.98, -.56, 1.75], [0, -Math.PI / 2, 0]), bas:P([0, .24, .22], [.15, 0, 0]),
       k0:P([0, .1, -.3], [-1.2, 0, 0]), k1:P([0, .12, 0], [.35, 0, 0]), k2:P([0, .12, 0], [.3, 0, 0]), k3:P([0, .12, 0], [.25, 0, .2]), k4:P([0, .12, 0], [.2, 0, .3]), k5:P([0, .12, 0], [.1, 0, .3]) }, yuz:{ bebek:.6 } },
@@ -155,7 +155,7 @@ const MEMELER = {
   },
   'blog-yazari': 'girdap', editor: 'girdap',
   girdap: {
-    yazi:'OKURLAR SENİ SEVİYOR',
+    yazi:'ŞAGİRDLƏR SƏNİ SEVİR',
     kedi:{ poz:{ bas:P([0, .84, .1], [-.18, 0, -.22]), kulakL:P([-.15, .14, -.03], [-.45, 0, .75]), onR:P([.11, .52, .17], [-.25, 0, -.05]) }, yuz:{ acik:0, mutlu:1 } },
     sahne(g, d) {
       const gd = girdapDoku(); d.girdap = gd;
@@ -173,7 +173,7 @@ const MEMELER = {
     kam:[.55, 1.1, 2.5], hedef:[.2, .82, .3],
   },
   'sosyal-yazar': {
-    yazi:'GÜNDEMDE NE VAR',
+    yazi:'GÜNDƏMDƏ NƏ VAR',
     kedi:{ poz:{ bas:P([0, .86, .1], [0, -.6, .05]) }, yuz:{ bakX:1, kapak:.45, bebek:.6, buyuk:.3 }, yaz:true },
     kam:[.6, 1.0, 2.1], hedef:[0, .84, .1],
   },
@@ -184,7 +184,7 @@ const MEMELER = {
     kam:[2.3, 1.55, 2.6], hedef:[0, .72, .35],
   },
   ceo: {
-    yazi:'EVET PATRON, HALLEDİYORUM',
+    yazi:'BAŞ ÜSTƏ, SENSEI',
     kedi:{ poz:{ onR:P([.11, .55, .12], [-2.55, 0, .5]), bas:P([0, .86, .08], [-.05, 0, -.14]) }, yuz:{ kapak:.35, bakX:-.4 }, konus:true },
     sahne(g, d, kedi) { d.sok = ahize(kedi, g); },
     kam:[.15, 1.05, 2.6], hedef:[0, .82, .1],
@@ -203,13 +203,13 @@ const MEMELER = {
     kam:[1.9, 1.05, 1.5], hedef:[0, .55, .6],
   },
   'gun-sonu': {
-    yazi:'BUGÜN NE YAPTIK',
+    yazi:'BU GÜN NƏ ETDİK',
     kedi:{ poz:{ kok:P([-.55, .4, .86], [0, .15, 0]), onL:P([-.11, .52, .17], [-.2, 0, .04]) }, yuz:{ kapak:.2, bakY:-.3 } },
     sahne(g) { kagitlar(g, -.55, .86); },
     kam:[0, 1.75, 4.0], hedef:[-.45, .85, .8],
   },
   gelistirici: {
-    yazi:'DEPLOY ETTİM BİLE',
+    yazi:'ARTIQ HAZIRDIR',
     kedi:{ poz:{ bas:P([0, .86, .1], [.04, .25, 0]) }, yuz:{ kas:1, kapak:.42, bakX:-.6 } },
     sahne(g, d, kedi) {
       d.harita = haritaDoku(); arka(g, d.harita, 4.2, 2.2, -.45, 1.0);
@@ -231,7 +231,7 @@ const MEMELER = {
     kam:[.2, 1.25, 3.0], hedef:[0, .8, .1],
   },
   bekci: {
-    yazi:'BU DOSYA İÇERİ GİREMEZ',
+    yazi:'BU FAYL İÇƏRİ GİRƏ BİLMƏZ',
     kedi:{ poz:{ onL:P([-.11, .5, .18], [-1.5, 0, .95]), onR:P([.11, .56, .2], [-1.5, 0, -.95]), bas:P([0, .87, .07], [-.1, 0, .06]) }, yuz:{ kapak:.6, bakX:.2 }, kontur:'#4dff7a' },
     sahne(g, d) { d.ekran = matrixDoku(256, 256); arka(g, d.ekran, 3.6, 2.4, -.42, 1.0); },
     anim(t, d) { if (t - (d.son || 0) > .06) { d.son = t; d.ekran.ciz(); } },

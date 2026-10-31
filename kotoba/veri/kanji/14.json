@@ -1,0 +1,601 @@
+[
+ {
+  "kanji": "入",
+  "on": "ニュウ",
+  "kun": "はい・る、い・れる",
+  "az": "girmək",
+  "en": "enter",
+  "ru": "входить",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "入"
+  ],
+  "mense": {
+   "az": "İçəri girən ucluq: iki xətt bir nöqtədə birləşib. Daxil olmaq.",
+   "en": "A point going in: two strokes meeting at a tip. To enter.",
+   "ru": "Остриё, входящее внутрь: две черты, сходящиеся в точку. Входить."
+  },
+  "hekaye": {
+   "az": "Ucluq içəri: 入る (hairu) – girmək, 入口 (iriguchi) – giriş.",
+   "en": "A point going in: 入る (hairu), to enter; 入口 (iriguchi), entrance.",
+   "ru": "Остриё внутрь: 入る (хаиру) – входить, 入口 (иригути) – вход."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 5,
+  "nümunə_sozler": [
+   "入ります (はいります) (içəri) girmək, daxil olmaq",
+   "入れます (いれます) (içəri) qoymaq, daxil etmək",
+   "入ります (はいります) [大学に～] girmək, daxil olmaq",
+   "入ります (はいります) [おふろに～] girmək"
+  ]
+ },
+ {
+  "kanji": "持",
+  "on": "ジ",
+  "kun": "も・つ",
+  "az": "tutmaq",
+  "en": "hold",
+  "ru": "держать",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "扌",
+   "土",
+   "寸"
+  ],
+  "mense": {
+   "az": "Məna hissəsi əl (扌), səs hissəsi 寺. Əldə tutmaq: tutmaq, sahib olmaq.",
+   "en": "The meaning part is hand (扌) and the sound part is 寺. Holding in the hand: to hold, to have.",
+   "ru": "Смысловая часть – рука (扌), звуковая – 寺. Держать в руке: держать, иметь."
+  },
+  "hekaye": {
+   "az": "Əldə tut: 持つ (motsu) – tutmaq, 気持ち (kimochi) – hiss.",
+   "en": "Hold in the hand: 持つ (motsu), to hold; 気持ち (kimochi), feeling.",
+   "ru": "Держи в руке: 持つ (моцу) – держать, 気持ち (кимоти) – чувство."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "持ちます (もちます) tutmaq, daşımaq, aparmaq",
+   "持って行きます (もっていきます) (bir şeyi) götürüb getmək",
+   "持って来ます (もってきます) (bir şeyi) götürüb gətirmək"
+  ]
+ },
+ {
+  "kanji": "取",
+  "on": "シュ",
+  "kun": "と・る",
+  "az": "götürmək",
+  "en": "take",
+  "ru": "брать",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "耳",
+   "又"
+  ],
+  "mense": {
+   "az": "Qulaq (耳) və onu tutan əl (又). Əllə tutub götürmək: götürmək, almaq.",
+   "en": "An ear (耳) and a hand (又) grabbing it. Seizing with the hand: to take.",
+   "ru": "Ухо (耳) и хватающая его рука (又). Схватить рукой: брать."
+  },
+  "hekaye": {
+   "az": "Əllə tut: 取る (toru) – götürmək, 取り消す (torikesu) – ləğv etmək.",
+   "en": "Seize with the hand: 取る (toru), to take; 取り消す (torikesu), to cancel.",
+   "ru": "Схвати рукой: 取る (тору) – брать, 取り消す (торикэсу) – отменять."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "取ります (とります) almaq, götürmək",
+   "取ります (とります) [年を～] yaşlanmaq"
+  ]
+ },
+ {
+  "kanji": "立",
+  "on": "リツ",
+  "kun": "た・つ",
+  "az": "durmaq",
+  "en": "stand",
+  "ru": "стоять",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "立"
+  ],
+  "mense": {
+   "az": "Yer xətti üzərində ayaq üstə duran insan (大).",
+   "en": "A person (大) standing on the line of the ground.",
+   "ru": "Человек (大), стоящий на линии земли."
+  },
+  "hekaye": {
+   "az": "Yerdə duran: 立つ (tatsu) – ayağa durmaq, 国立 (kokuritsu) – dövlət (məktəbi).",
+   "en": "Standing on the ground: 立つ (tatsu), to stand; 国立 (kokuritsu), national (school).",
+   "ru": "Стоящий на земле: 立つ (тацу) – стоять, 国立 (кокурицу) – государственный."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "立ちます (たちます) ayaq üstündə durmaq",
+   "役に立ちます (やくにたちます) faydalı olmaq, lazım olmaq"
+  ]
+ },
+ {
+  "kanji": "降",
+  "on": "コウ",
+  "kun": "お・りる、ふ・る",
+  "az": "enmək, yağmaq",
+  "en": "descend, fall (rain)",
+  "ru": "спускаться, идти (дождь)",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "⻖",
+   "夂",
+   "#"
+  ],
+  "mense": {
+   "az": "Solda təpə, pilləkən (阝), sağda aşağı çevrilmiş iki ayaq (夅). Təpədən aşağı enmək: düşmək, enmək.",
+   "en": "On the left a hill, steps (阝); on the right two feet pointing down (夅). Coming down a hill: to descend, to get off.",
+   "ru": "Слева холм, ступени (阝), справа две ступни, обращённые вниз (夅). Спускаться с холма: сходить, выходить."
+  },
+  "hekaye": {
+   "az": "Təpədən en: 降りる (oriru) – düşmək (nəqliyyatdan), 降る (furu) – yağmaq.",
+   "en": "Come down the hill: 降りる (oriru), to get off; 降る (furu), to fall (rain).",
+   "ru": "Спустись с холма: 降りる (ориру) – выходить (из транспорта), 降る (фуру) – идти (о дожде)."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "降ります (ふります) yağmaq (yağış)",
+   "降ります (おります) enmək (nəqliyyat vasitəsindən)"
+  ]
+ },
+ {
+  "kanji": "住",
+  "on": "ジュウ",
+  "kun": "す・む",
+  "az": "yaşamaq",
+  "en": "live, reside",
+  "ru": "жить",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "主"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 主 (bir yerdə duran çıraq). Bir yerdə qalan insan: yaşamaq.",
+   "en": "The meaning part is person (亻) and the sound part is 主 (a lamp standing in one place). A person staying in one place: to live.",
+   "ru": "Смысловая часть – человек (亻), звуковая – 主 (светильник на одном месте). Человек, живущий на одном месте: жить."
+  },
+  "hekaye": {
+   "az": "Bir yerdə qal: 住む (sumu) – yaşamaq, 住所 (juusho) – ünvan.",
+   "en": "Stay in one place: 住む (sumu), to live; 住所 (juusho), address.",
+   "ru": "Оставайся на месте: 住む (суму) – жить, 住所 (дзюсё) – адрес."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "住所 (じゅうしょ) ünvan",
+   "住みます (すみます) yaşamaq"
+  ]
+ },
+ {
+  "kanji": "信",
+  "on": "シン",
+  "kun": "–",
+  "az": "etibar, siqnal",
+  "en": "trust, signal",
+  "ru": "доверие, сигнал",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "言"
+  ],
+  "mense": {
+   "az": "İnsan (亻) və söz (言). İnsanın sözü: inanmaq, etibar. Sonra \"xəbər, siqnal\" mənası da.",
+   "en": "A person (亻) and words (言). A person's word: to believe, trust. Later also \"message, signal\".",
+   "ru": "Человек (亻) и слово (言). Слово человека: верить, доверие. Позже также «весть, сигнал»."
+  },
+  "hekaye": {
+   "az": "İnsanın sözü: 信じる (shinjiru) – inanmaq, 信号 (shingou) – svetofor.",
+   "en": "A person's word: 信じる (shinjiru), to believe; 信号 (shingou), traffic light.",
+   "ru": "Слово человека: 信じる (синдзиру) – верить, 信号 (синго) – светофор."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "信号を右へ曲がってください (しんごうをみぎへまがってください) işıqfordan sağa dönün zəhmət olmasa",
+   "信号 (しんごう) işıqfor"
+  ]
+ },
+ {
+  "kanji": "曲",
+  "on": "キョク",
+  "kun": "ま・がる",
+  "az": "əyilmək, melodiya",
+  "en": "bend, tune",
+  "ru": "сгибаться, мелодия",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "日",
+   "#"
+  ],
+  "mense": {
+   "az": "Əyri bambuk səbətin və ya əyri xətkeşin şəklidir. Əyilmək; mahnının \"əyrilən\" ahəngi: melodiya.",
+   "en": "A picture of a bent bamboo basket or a curved ruler. To bend; the \"curving\" line of a tune: melody.",
+   "ru": "Рисунок изогнутой бамбуковой корзины или кривой линейки. Гнуть; «изгибы» напева: мелодия."
+  },
+  "hekaye": {
+   "az": "Əyri xətt: 曲がる (magaru) – dönmək, 曲 (kyoku) – mahnı, melodiya.",
+   "en": "A curved line: 曲がる (magaru), to turn; 曲 (kyoku), tune.",
+   "ru": "Кривая линия: 曲がる (магару) – поворачивать, 曲 (кёку) – мелодия."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "信号を右へ曲がってください (しんごうをみぎへまがってください) işıqfordan sağa dönün zəhmət olmasa",
+   "曲がります (まがります) [右へ～] dönmək"
+  ]
+ },
+ {
+  "kanji": "開",
+  "on": "カイ",
+  "kun": "あ・ける、ひら・く",
+  "az": "açmaq",
+  "en": "open",
+  "ru": "открывать",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "門",
+   "干",
+   "干"
+  ],
+  "mense": {
+   "az": "Darvaza (門) və onun içində sürgünü qaldıran iki əl (开). Sürgünü götürüb darvazanı açmaq.",
+   "en": "A gate (門) with two hands inside lifting the bar (开). Removing the bar to open the gate.",
+   "ru": "Ворота (門) и внутри две руки, поднимающие засов (开). Снять засов и открыть ворота."
+  },
+  "hekaye": {
+   "az": "Sürgünü qaldır: 開ける (akeru) – açmaq, 開く (aku) – açılmaq.",
+   "en": "Lift the bar: 開ける (akeru), to open; 開く (aku), to open (by itself).",
+   "ru": "Подними засов: 開ける (акэру) – открывать, 開く (аку) – открываться."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "開けます (あけます) açmaq (qapını, pəncərəni)"
+  ]
+ },
+ {
+  "kanji": "閉",
+  "on": "ヘイ",
+  "kun": "し・める、と・じる",
+  "az": "bağlamaq",
+  "en": "close",
+  "ru": "закрывать",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "門",
+   "才"
+  ],
+  "mense": {
+   "az": "Darvaza (門) və içində ağac sürgü (才). Sürgünü salıb darvazanı bağlamaq.",
+   "en": "A gate (門) with a wooden bar (才) inside. Sliding the bar across to shut the gate.",
+   "ru": "Ворота (門) с деревянным засовом (才) внутри. Задвинуть засов и закрыть ворота."
+  },
+  "hekaye": {
+   "az": "Sürgünü sal: 閉める (shimeru) – bağlamaq, 閉まる (shimaru) – bağlanmaq.",
+   "en": "Slide the bar in: 閉める (shimeru), to shut; 閉まる (shimaru), to close.",
+   "ru": "Задвинь засов: 閉める (симэру) – закрывать, 閉まる (симару) – закрываться."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "閉めます (しめます) bağlamaq (qapını, pəncərəni)"
+  ]
+ },
+ {
+  "kanji": "伝",
+  "on": "デン",
+  "kun": "つた・える",
+  "az": "ötürmək",
+  "en": "convey",
+  "ru": "передавать",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "云"
+  ],
+  "mense": {
+   "az": "Köhnə forması 傳: insan (亻) və 專 (iy, səs verir). İnsandan insana ötürmək: çatdırmaq, rəvayət.",
+   "en": "The old form is 傳: a person (亻) and 專 (a spindle, giving the sound). Passing from person to person: to convey, a tradition.",
+   "ru": "Старая форма 傳: человек (亻) и 專 (веретено, даёт звук). Передавать от человека к человеку: передавать, предание."
+  },
+  "hekaye": {
+   "az": "Insandan insana: 伝える (tsutaeru) – çatdırmaq, 手伝う (tetsudau) – kömək etmək.",
+   "en": "From person to person: 伝える (tsutaeru), to pass on; 手伝う (tetsudau), to help.",
+   "ru": "От человека к человеку: 伝える (цутаэру) – передавать, 手伝う (тэцудау) – помогать."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "手伝います (てつだいます) kömək etmək"
+  ]
+ },
+ {
+  "kanji": "呼",
+  "on": "コ",
+  "kun": "よ・ぶ",
+  "az": "çağırmaq",
+  "en": "call",
+  "ru": "звать",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "口",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağız (口), səs hissəsi 乎 (nəfəs). Ağızdan nəfəs buraxmaq, səsləmək: çağırmaq.",
+   "en": "The meaning part is mouth (口) and the sound part is 乎 (breath). Letting breath out of the mouth, calling out: to call.",
+   "ru": "Смысловая часть – рот (口), звуковая – 乎 (дыхание). Выпускать дыхание, окликать: звать."
+  },
+  "hekaye": {
+   "az": "Ağızdan səslə: 呼ぶ (yobu) – çağırmaq, 呼吸 (kokyuu) – nəfəs.",
+   "en": "Call out: 呼ぶ (yobu), to call; 呼吸 (kokyuu), breathing.",
+   "ru": "Окликни: 呼ぶ (ёбу) – звать, 呼吸 (кокю) – дыхание."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "呼びます (よびます) çağırmaq"
+  ]
+ },
+ {
+  "kanji": "使",
+  "on": "シ",
+  "kun": "つか・う",
+  "az": "istifadə etmək",
+  "en": "use",
+  "ru": "использовать",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "一",
+   "口",
+   "乂"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), sağda 吏 (məmur). Məmurun göndərdiyi adam: elçi. Kimisə işə göndərmək \"işlətmək\" mənasını verdi.",
+   "en": "The meaning part is person (亻) and on the right 吏 (an official). A person sent by an official: an envoy. Sending someone on a task led to \"to use\".",
+   "ru": "Смысловая часть – человек (亻), справа 吏 (чиновник). Человек, посланный чиновником: посланец. «Посылать с поручением» дало «использовать»."
+  },
+  "hekaye": {
+   "az": "Göndərilən adam: 使う (tsukau) – işlətmək, 大使館 (taishikan) – səfirlik.",
+   "en": "A person sent: 使う (tsukau), to use; 大使館 (taishikan), embassy.",
+   "ru": "Посланный: 使う (цукау) – использовать, 大使館 (тайсикан) – посольство."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "使います (つかいます) işlətmək, istifadə etmək"
+  ]
+ },
+ {
+  "kanji": "止",
+  "on": "シ",
+  "kun": "と・める、と・まる",
+  "az": "dayandırmaq",
+  "en": "stop",
+  "ru": "останавливать",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "止"
+  ],
+  "mense": {
+   "az": "Ayaq izinin şəklidir: barmaqlar və daban. Yerində duran ayaq: dayanmaq.",
+   "en": "A picture of a footprint: toes and heel. A foot standing still: to stop.",
+   "ru": "Рисунок следа ноги: пальцы и пятка. Нога, стоящая на месте: останавливаться."
+  },
+  "hekaye": {
+   "az": "Yerində duran ayaq: 止まる (tomaru) – dayanmaq, 中止 (chuushi) – ləğv.",
+   "en": "A foot standing still: 止まる (tomaru), to stop; 中止 (chuushi), cancellation.",
+   "ru": "Стоящая нога: 止まる (томару) – останавливаться, 中止 (тюси) – отмена."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "止めます (とめます) dayandırmaq, saxlamaq"
+  ]
+ },
+ {
+  "kanji": "座",
+  "on": "ザ",
+  "kun": "すわ・る",
+  "az": "oturmaq",
+  "en": "sit",
+  "ru": "сидеть",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "广",
+   "坐"
+  ],
+  "mense": {
+   "az": "Bina (广) və onun altında 坐 (yerdə oturan iki insan). Oturulan yer: oturacaq, oturmaq.",
+   "en": "A building (广) with 坐 (two people sitting on the ground) beneath. A place to sit: a seat, to sit.",
+   "ru": "Здание (广), под ним 坐 (двое, сидящие на земле). Место для сидения: сиденье, сидеть."
+  },
+  "hekaye": {
+   "az": "Damın altında oturan iki nəfər: 座る (suwaru) – oturmaq, 座席 (zaseki) – oturacaq.",
+   "en": "Two people sitting under a roof: 座る (suwaru), to sit; 座席 (zaseki), seat.",
+   "ru": "Двое сидят под крышей: 座る (сувару) – сидеть, 座席 (дзасэки) – место."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "座ります (すわります) oturmaq"
+  ]
+ },
+ {
+  "kanji": "塩",
+  "on": "エン",
+  "kun": "しお",
+  "az": "duz",
+  "en": "salt",
+  "ru": "соль",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "土",
+   "#",
+   "口",
+   "皿"
+  ],
+  "mense": {
+   "az": "Köhnə forması 鹽: duz tarlası (鹵), qab (皿) və baxan göz (臣). Duz.",
+   "en": "The old form is 鹽: a salt field (鹵), a dish (皿) and a watching eye (臣). Salt.",
+   "ru": "Старая форма 鹽: соляное поле (鹵), сосуд (皿) и смотрящий глаз (臣). Соль."
+  },
+  "hekaye": {
+   "az": "Qabda duz: 塩 (shio) – duz, 塩辛い (shiokarai) – duzlu.",
+   "en": "Salt in a dish: 塩 (shio), salt; 塩辛い (shiokarai), salty.",
+   "ru": "Соль в сосуде: 塩 (сио) – соль, 塩辛い (сиокарай) – солёный."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "塩 (しお) duz"
+  ]
+ },
+ {
+  "kanji": "砂",
+  "on": "サ",
+  "kun": "すな",
+  "az": "qum",
+  "en": "sand",
+  "ru": "песок",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "石",
+   "小",
+   "#"
+  ],
+  "mense": {
+   "az": "Daş (石) və az, kiçik (少). Kiçik daşlar: qum.",
+   "en": "Stone (石) and few, small (少). Tiny stones: sand.",
+   "ru": "Камень (石) и мало, мелкий (少). Мелкие камни: песок."
+  },
+  "hekaye": {
+   "az": "Xırda daşlar: 砂 (suna) – qum, 砂糖 (satou) – şəkər.",
+   "en": "Tiny stones: 砂 (suna), sand; 砂糖 (satou), sugar.",
+   "ru": "Мелкие камни: 砂 (суна) – песок, 砂糖 (сато) – сахар."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "砂糖 (さとう) şəkər"
+  ]
+ },
+ {
+  "kanji": "糖",
+  "on": "トウ",
+  "kun": "–",
+  "az": "şəkər",
+  "en": "sugar",
+  "ru": "сахар",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "米",
+   "广",
+   "⺕",
+   "口",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi düyü, dən (米), səs hissəsi 唐. Taxıldan alınan şirinlik: şəkər.",
+   "en": "The meaning part is rice, grain (米) and the sound part is 唐. Sweetness made from grain: sugar.",
+   "ru": "Смысловая часть – рис, зерно (米), звуковая – 唐. Сладость из зерна: сахар."
+  },
+  "hekaye": {
+   "az": "Dəndən şirinlik: 砂糖 (satou) – şəkər, 糖分 (toubun) – şəkər miqdarı.",
+   "en": "Sweetness from grain: 砂糖 (satou), sugar; 糖分 (toubun), sugar content.",
+   "ru": "Сладость из зерна: 砂糖 (сато) – сахар, 糖分 (тобун) – сахаристость."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "砂糖 (さとう) şəkər"
+  ]
+ },
+ {
+  "kanji": "問",
+  "on": "モン",
+  "kun": "と・う",
+  "az": "sual",
+  "en": "question",
+  "ru": "вопрос",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "門",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağız (口), səs hissəsi darvaza (門). Darvazada dayanıb ağızla soruşmaq.",
+   "en": "The meaning part is mouth (口) and the sound part is gate (門). Standing at the gate and asking aloud.",
+   "ru": "Смысловая часть – рот (口), звуковая – ворота (門). Встать у ворот и спросить."
+  },
+  "hekaye": {
+   "az": "Darvazada sual: 問題 (mondai) – sual, problem; 質問 (shitsumon) – sual.",
+   "en": "A question at the gate: 問題 (mondai), problem; 質問 (shitsumon), question.",
+   "ru": "Вопрос у ворот: 問題 (мондай) – вопрос, задача; 質問 (сицумон) – вопрос."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "問題 (もんだい) problem, sual"
+  ]
+ },
+ {
+  "kanji": "答",
+  "on": "トウ",
+  "kun": "こた・える",
+  "az": "cavab",
+  "en": "answer",
+  "ru": "ответ",
+  "ders": 14,
+  "kart": true,
+  "komponent": [
+   "竹",
+   "合"
+  ],
+  "mense": {
+   "az": "Məna hissəsi bambuk (⺮), səs hissəsi 合 (uyğun gəlmək). Qapağın qaba uyğun gəlməsi kimi suala uyğun cavab.",
+   "en": "The meaning part is bamboo (⺮) and the sound part is 合 (to fit). An answer that fits the question as a lid fits its box.",
+   "ru": "Смысловая часть – бамбук (⺮), звуковая – 合 (подходить). Ответ, подходящий к вопросу, как крышка к коробке."
+  },
+  "hekaye": {
+   "az": "Qapaq qaba uyğun: 答え (kotae) – cavab, 答える (kotaeru) – cavab vermək.",
+   "en": "A lid that fits: 答え (kotae), answer; 答える (kotaeru), to answer.",
+   "ru": "Крышка подходит: 答え (котаэ) – ответ, 答える (котаэру) – отвечать."
+  },
+  "ilk_soz_dersi": 14,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "答え (こたえ) cavab"
+  ]
+ }
+]

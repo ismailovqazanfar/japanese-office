@@ -1,0 +1,658 @@
+[
+ {
+  "kanji": "乗",
+  "on": "ジョウ",
+  "kun": "の・る",
+  "az": "minmək",
+  "en": "ride",
+  "ru": "ехать, садиться",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "千",
+   "木",
+   "#"
+  ],
+  "mense": {
+   "az": "Köhnə forması 乘: ağacın (木) üstünə dırmaşmış insan, iki ayağı görünür. Üstünə çıxmaq: minmək.",
+   "en": "The old form is 乘: a person climbing up on a tree (木), both feet visible. Getting up on top: to ride, to board.",
+   "ru": "Старая форма 乘: человек, взобравшийся на дерево (木), видны обе ноги. Подняться наверх: садиться, ехать."
+  },
+  "hekaye": {
+   "az": "Ağacın üstünə çıx: 乗る (noru) – minmək, 乗り換え (norikae) – köçürmə (qatar).",
+   "en": "Climb on top: 乗る (noru), to ride; 乗り換え (norikae), changing trains.",
+   "ru": "Влезь наверх: 乗る (нору) – садиться, ехать; 乗り換え (норикаэ) – пересадка."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "乗り場 (のりば) dayanacaq",
+   "乗ります (のります) minmək (nəqliyyat vasitəsinə)",
+   "乗り換えます (のりかえます) nəqliyyatı dəyişmək"
+  ]
+ },
+ {
+  "kanji": "近",
+  "on": "キン",
+  "kun": "ちか・い",
+  "az": "yaxın",
+  "en": "near",
+  "ru": "близкий",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "斤",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), səs hissəsi 斤. Yolu qısa olan: yaxın.",
+   "en": "The meaning part is road (辶) and the sound part is 斤. A short road: near.",
+   "ru": "Смысловая часть – путь (辶), звуковая – 斤. Короткий путь: близкий."
+  },
+  "hekaye": {
+   "az": "Qısa yol: 近い (chikai) – yaxın, 近所 (kinjo) – qonşuluq.",
+   "en": "A short road: 近い (chikai), near; 近所 (kinjo), neighbourhood.",
+   "ru": "Короткий путь: 近い (тикай) – близкий, 近所 (киндзё) – соседство."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "近く (ちかく) yaxın, ətraf",
+   "近い (ちかい) yaxın",
+   "最近 (さいきん) son vaxtlar, yaxınlarda"
+  ]
+ },
+ {
+  "kanji": "男",
+  "on": "ダン",
+  "kun": "おとこ",
+  "az": "kişi",
+  "en": "man",
+  "ru": "мужчина",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "田",
+   "力"
+  ],
+  "mense": {
+   "az": "Yuxarıda tarla (田), aşağıda güc (力, kotan). Tarlada güc sərf edən: kişi.",
+   "en": "A field (田) on top and strength (力, a plough) below. The one who puts strength into the field: man.",
+   "ru": "Сверху поле (田), снизу сила (力, плуг). Тот, кто трудится в поле: мужчина."
+  },
+  "hekaye": {
+   "az": "Tarlada güc: 男 (otoko) – kişi, 男の子 (otoko no ko) – oğlan.",
+   "en": "Strength in the field: 男 (otoko), man; 男の子 (otoko no ko), boy.",
+   "ru": "Сила в поле: 男 (отоко) – мужчина, 男の子 (отоко-но ко) – мальчик."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "男の人 (おとこのひと) kişi",
+   "男の子 (おとこのこ) oğlan uşağı"
+  ]
+ },
+ {
+  "kanji": "右",
+  "on": "ウ、ユウ",
+  "kun": "みぎ",
+  "az": "sağ",
+  "en": "right",
+  "ru": "право",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "#",
+   "口"
+  ],
+  "mense": {
+   "az": "Sağ əl (ナ) və ağız (口). Yeməyi ağıza aparan əl: sağ.",
+   "en": "A right hand (ナ) and a mouth (口). The hand that brings food to the mouth: right.",
+   "ru": "Правая рука (ナ) и рот (口). Рука, подносящая еду ко рту: правый."
+  },
+  "hekaye": {
+   "az": "Yemək yeyən əl: 右 (migi) – sağ, 右手 (migite) – sağ əl.",
+   "en": "The eating hand: 右 (migi), right; 右手 (migite), right hand.",
+   "ru": "Рука, которой едят: 右 (миги) – правый, 右手 (мигитэ) – правая рука."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "右 (みぎ) sağ",
+   "信号を右へ曲がってください (しんごうをみぎへまがってください) işıqfordan sağa dönün zəhmət olmasa"
+  ]
+ },
+ {
+  "kanji": "外",
+  "on": "ガイ",
+  "kun": "そと",
+  "az": "çöl, xarici",
+  "en": "outside",
+  "ru": "снаружи",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "夕",
+   "卜"
+  ],
+  "mense": {
+   "az": "Axşam (夕) və 卜 (sümükdəki çat). Mənşəyi mübahisəlidir; ənənəvi izaha görə axşam vaxtı aparılan iş adi qaydadan \"kənar\" sayılırdı. Bayır, xarici.",
+   "en": "Evening (夕) and 卜 (a crack in bone). The origin is debated; the traditional explanation is that something done in the evening fell \"outside\" the normal rule. Outside, foreign.",
+   "ru": "Вечер (夕) и 卜 (трещина на кости). Происхождение спорно; по традиционному толкованию, то, что делали вечером, было «вне» обычного порядка. Снаружи, иностранный."
+  },
+  "hekaye": {
+   "az": "Qaydadan kənar: 外 (soto) – bayır, 外国 (gaikoku) – xarici ölkə.",
+   "en": "Outside the rule: 外 (soto), outside; 外国 (gaikoku), foreign country.",
+   "ru": "Вне порядка: 外 (сото) – снаружи, 外国 (гайкоку) – заграница."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "外 (そと) çöl, xarici",
+   "外国 (がいこく) xarici ölkə"
+  ]
+ },
+ {
+  "kanji": "東",
+  "on": "トウ",
+  "kun": "ひがし",
+  "az": "şərq",
+  "en": "east",
+  "ru": "восток",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "東"
+  ],
+  "mense": {
+   "az": "Alimlərə görə iki ucu bağlanmış kisənin şəklidir, səsinə görə \"şərq\" üçün götürülüb. Məşhur yaddaş açarı isə belədir: ağacın (木) arxasından doğan günəş (日).",
+   "en": "According to scholars it is a sack tied at both ends, borrowed for its sound to write \"east\". A popular memory aid reads it as the sun (日) rising behind a tree (木).",
+   "ru": "По мнению учёных, это мешок, завязанный с двух концов, заимствованный по звучанию для «востока». Популярная подсказка: солнце (日), встающее за деревом (木)."
+  },
+  "hekaye": {
+   "az": "Ağacın arxasında doğan günəş: 東 (higashi) – şərq, 東京 (Toukyou) – Tokio, \"şərq paytaxtı\".",
+   "en": "The sun rising behind a tree: 東 (higashi), east; 東京 (Toukyou), Tokyo, \"eastern capital\".",
+   "ru": "Солнце за деревом: 東 (хигаси) – восток, 東京 (Токио) – «восточная столица»."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "東京ディズニーランド (とうきょうディズニーランド) Tokyo Disneyland",
+   "東京スカイツリー (とうきょうスカイツリー) Tokyo Sky Tree"
+  ]
+ },
+ {
+  "kanji": "京",
+  "on": "キョウ",
+  "kun": "–",
+  "az": "paytaxt",
+  "en": "capital",
+  "ru": "столица",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "京"
+  ],
+  "mense": {
+   "az": "Hündür təpə üzərində ucaldılmış bina. Böyük binaların olduğu yer: paytaxt.",
+   "en": "A tall building raised on a mound. The place of great buildings: the capital.",
+   "ru": "Высокое здание на холме. Место больших зданий: столица."
+  },
+  "hekaye": {
+   "az": "Təpədə bina: 東京 (Toukyou) – Tokio, 京都 (Kyouto) – Kioto.",
+   "en": "A building on a hill: 東京 (Toukyou), Tokyo; 京都 (Kyouto), Kyoto.",
+   "ru": "Здание на холме: 東京 (Токио), 京都 (Киото)."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "東京ディズニーランド (とうきょうディズニーランド) Tokyo Disneyland",
+   "東京スカイツリー (とうきょうスカイツリー) Tokyo Sky Tree"
+  ]
+ },
+ {
+  "kanji": "色",
+  "on": "ショク",
+  "kun": "いろ",
+  "az": "rəng",
+  "en": "colour",
+  "ru": "цвет",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "𠂊",
+   "己"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir: bir insanın digərinin üstündə əyilməsi kimi izah olunur. Əvvəl \"üz ifadəsi, sima\" idi, sonra \"rəng\" mənasını aldı.",
+   "en": "Its origin is debated: it is explained as one person bending over another. It first meant \"facial expression, countenance\", and later \"colour\".",
+   "ru": "Происхождение спорно: толкуют как человека, склонившегося над другим. Сначала – «выражение лица», позже «цвет»."
+  },
+  "hekaye": {
+   "az": "Üzdəki rəng: 色 (iro) – rəng, 顔色 (kaoiro) – üz rəngi, 茶色 (chairo) – qəhvəyi.",
+   "en": "Colour in the face: 色 (iro), colour; 顔色 (kaoiro), complexion; 茶色 (chairo), brown.",
+   "ru": "Цвет лица: 色 (иро) – цвет, 顔色 (каоиро) – цвет лица, 茶色 (тяиро) – коричневый."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "色々[な] (いろいろ[な]) cürbəcür, müxtəlif"
+  ]
+ },
+ {
+  "kanji": "犬",
+  "on": "ケン",
+  "kun": "いぬ",
+  "az": "it",
+  "en": "dog",
+  "ru": "собака",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "犬"
+  ],
+  "mense": {
+   "az": "Yan tərəfdən çəkilmiş it: bədən, ayaqlar, quyruq. Sağ yuxarıdakı nöqtə qulaqdır. Kanjinin solunda 犭 şəklinə düşür: 猫.",
+   "en": "A dog drawn from the side: body, legs, tail. The dot at the top right is the ear. On the left of a kanji it becomes 犭: 猫.",
+   "ru": "Собака в профиль: туловище, лапы, хвост. Точка справа вверху – ухо. Слева в кандзи превращается в 犭: 猫."
+  },
+  "hekaye": {
+   "az": "Qulaqlı it: 犬 (inu) – it, 子犬 (koinu) – küçük.",
+   "en": "A dog with an ear: 犬 (inu), dog; 子犬 (koinu), puppy.",
+   "ru": "Собака с ухом: 犬 (ину) – собака, 子犬 (коину) – щенок."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "犬 (いぬ) it"
+  ]
+ },
+ {
+  "kanji": "猫",
+  "on": "ビョウ",
+  "kun": "ねこ",
+  "az": "pişik",
+  "en": "cat",
+  "ru": "кошка",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "⺨",
+   "艹",
+   "田"
+  ],
+  "mense": {
+   "az": "Məna hissəsi heyvan (犭), səs hissəsi 苗 (çincə \"miao\", miyovlamaya bənzəyir). Pişik.",
+   "en": "The meaning part is animal (犭) and the sound part is 苗 (in Chinese \"miao\", like a meow). Cat.",
+   "ru": "Смысловая часть – животное (犭), звуковая – 苗 (по-китайски «мяо», как мяуканье). Кошка."
+  },
+  "hekaye": {
+   "az": "Heyvan + \"miao\": 猫 (neko) – pişik, 子猫 (koneko) – pişik balası.",
+   "en": "Animal + \"miao\": 猫 (neko), cat; 子猫 (koneko), kitten.",
+   "ru": "Животное + «мяо»: 猫 (нэко) – кошка, 子猫 (конэко) – котёнок."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "猫 (ねこ) pişik"
+  ]
+ },
+ {
+  "kanji": "象",
+  "on": "ゾウ、ショウ",
+  "kun": "–",
+  "az": "fil, obraz",
+  "en": "elephant, image",
+  "ru": "слон, образ",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "象"
+  ],
+  "mense": {
+   "az": "Şaquli çəkilmiş fil: yuxarıda xortum və baş, ortada bədən, aşağıda ayaqlar və quyruq. Sonra \"görkəm, obraz\" mənasını da aldı.",
+   "en": "An elephant drawn upright: trunk and head on top, body in the middle, legs and tail below. Later it also meant \"image, appearance\".",
+   "ru": "Слон, нарисованный вертикально: сверху хобот и голова, посередине туловище, внизу ноги и хвост. Позже также «образ, облик»."
+  },
+  "hekaye": {
+   "az": "Xortumlu heyvan: 象 (zou) – fil, 印象 (inshou) – təəssürat.",
+   "en": "The animal with a trunk: 象 (zou), elephant; 印象 (inshou), impression.",
+   "ru": "Животное с хоботом: 象 (дзо) – слон, 印象 (инсё) – впечатление."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "象 (ぞう) fil"
+  ]
+ },
+ {
+  "kanji": "池",
+  "on": "チ",
+  "kun": "いけ",
+  "az": "gölməçə",
+  "en": "pond",
+  "ru": "пруд",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "也"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 也. Su yığılan yer: gölməçə, hovuz.",
+   "en": "The meaning part is water (氵) and the sound part is 也. A place where water collects: a pond.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 也. Место, где собирается вода: пруд."
+  },
+  "hekaye": {
+   "az": "Yığılan su: 池 (ike) – gölməçə, 電池 (denchi) – batareya, \"elektrik hovuzu\".",
+   "en": "Collected water: 池 (ike), pond; 電池 (denchi), battery, \"electric pond\".",
+   "ru": "Собранная вода: 池 (икэ) – пруд, 電池 (дэнти) – батарейка, «пруд электричества»."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "電池 (でんち) batareya"
+  ]
+ },
+ {
+  "kanji": "箱",
+  "on": "ソウ",
+  "kun": "はこ",
+  "az": "qutu",
+  "en": "box",
+  "ru": "коробка",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "竹",
+   "木",
+   "目"
+  ],
+  "mense": {
+   "az": "Məna hissəsi bambuk (⺮), səs hissəsi 相. Bambukdan hörülmüş qutu.",
+   "en": "The meaning part is bamboo (⺮) and the sound part is 相. A box woven from bamboo.",
+   "ru": "Смысловая часть – бамбук (⺮), звуковая – 相. Короб, сплетённый из бамбука."
+  },
+  "hekaye": {
+   "az": "Bambuk qutu: 箱 (hako) – qutu, ゴミ箱 (gomibako) – zibil qabı.",
+   "en": "A bamboo box: 箱 (hako), box; ゴミ箱 (gomibako), rubbish bin.",
+   "ru": "Бамбуковый короб: 箱 (хако) – коробка, ゴミ箱 (гомибако) – мусорное ведро."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "箱 (はこ) qutu"
+  ]
+ },
+ {
+  "kanji": "冷",
+  "on": "レイ",
+  "kun": "つめ・たい、ひ・える",
+  "az": "soyuq",
+  "en": "cold",
+  "ru": "холодный",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "冫",
+   "人@top",
+   "一",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi buz (冫), səs hissəsi 令. Buz kimi soyuq: soyuq, soyutmaq.",
+   "en": "The meaning part is ice (冫) and the sound part is 令. Cold as ice: cold, to chill.",
+   "ru": "Смысловая часть – лёд (冫), звуковая – 令. Холодный как лёд: холодный, охлаждать."
+  },
+  "hekaye": {
+   "az": "Buz kimi: 冷たい (tsumetai) – soyuq, 冷蔵庫 (reizouko) – soyuducu.",
+   "en": "Like ice: 冷たい (tsumetai), cold; 冷蔵庫 (reizouko), refrigerator.",
+   "ru": "Как лёд: 冷たい (цумэтай) – холодный, 冷蔵庫 (рэйдзоко) – холодильник."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "冷蔵庫 (れいぞうこ) soyuducu"
+  ]
+ },
+ {
+  "kanji": "蔵",
+  "on": "ゾウ",
+  "kun": "くら",
+  "az": "anbar",
+  "en": "storehouse",
+  "ru": "склад",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "厂",
+   "戈",
+   "臣"
+  ],
+  "mense": {
+   "az": "Yuxarıda ot (艹), altında səs hissəsi 臧 (gizlətmək). Otla örtüb gizlətmək: anbar, saxlamaq.",
+   "en": "Grass (艹) on top with the sound part 臧 (to hide) beneath. Hiding things under grass: a storehouse, to store.",
+   "ru": "Сверху трава (艹), под ней звуковая часть 臧 (прятать). Прятать под травой: склад, хранить."
+  },
+  "hekaye": {
+   "az": "Gizli anbar: 冷蔵庫 (reizouko) – soyuducu, \"soyuq anbar\".",
+   "en": "A hidden store: 冷蔵庫 (reizouko), refrigerator, \"cold storehouse\".",
+   "ru": "Тайный склад: 冷蔵庫 (рэйдзоко) – холодильник, «холодный склад»."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "冷蔵庫 (れいぞうこ) soyuducu"
+  ]
+ },
+ {
+  "kanji": "庫",
+  "on": "コ",
+  "kun": "くら",
+  "az": "anbar",
+  "en": "warehouse",
+  "ru": "хранилище",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "广",
+   "車"
+  ],
+  "mense": {
+   "az": "Yuxarıda bir tərəfi açıq bina (广), içində araba (車). Arabaların saxlandığı yer: anbar.",
+   "en": "A building open on one side (广) with a cart (車) inside. The place where carts are kept: a storehouse.",
+   "ru": "Здание, открытое с одной стороны (广), внутри повозка (車). Место, где хранят повозки: склад."
+  },
+  "hekaye": {
+   "az": "Araba anbarı: 車庫 (shako) – qaraj, 冷蔵庫 (reizouko) – soyuducu.",
+   "en": "A cart shed: 車庫 (shako), garage; 冷蔵庫 (reizouko), refrigerator.",
+   "ru": "Сарай для повозок: 車庫 (сяко) – гараж, 冷蔵庫 (рэйдзоко) – холодильник."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "冷蔵庫 (れいぞうこ) soyuducu"
+  ]
+ },
+ {
+  "kanji": "棚",
+  "on": "ホウ",
+  "kun": "たな",
+  "az": "rəf",
+  "en": "shelf",
+  "ru": "полка",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "木",
+   "月",
+   "月"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağac (木), səs hissəsi 朋 (yan-yana iki şey). Yan-yana düzülmüş taxta lövhələr: rəf.",
+   "en": "The meaning part is wood (木) and the sound part is 朋 (two things side by side). Wooden boards laid side by side: a shelf.",
+   "ru": "Смысловая часть – дерево (木), звуковая – 朋 (две вещи рядом). Доски, уложенные рядом: полка."
+  },
+  "hekaye": {
+   "az": "Taxta rəf: 棚 (tana) – rəf, 本棚 (hondana) – kitab rəfi.",
+   "en": "A wooden shelf: 棚 (tana), shelf; 本棚 (hondana), bookshelf.",
+   "ru": "Деревянная полка: 棚 (тана) – полка, 本棚 (хондана) – книжная полка."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "棚 (たな) rəf, şkaf"
+  ]
+ },
+ {
+  "kanji": "窓",
+  "on": "ソウ",
+  "kun": "まど",
+  "az": "pəncərə",
+  "en": "window",
+  "ru": "окно",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "穴",
+   "厶",
+   "心"
+  ],
+  "mense": {
+   "az": "Yuxarıda dəlik (穴), aşağıdakı hissə köhnə formada divardakı açıq yer idi (窗). Divarda açılmış dəlik: pəncərə.",
+   "en": "A hole (穴) on top; the lower part was an opening in the wall in the old form (窗). A hole made in a wall: a window.",
+   "ru": "Сверху отверстие (穴); нижняя часть в старой форме (窗) – проём в стене. Отверстие в стене: окно."
+  },
+  "hekaye": {
+   "az": "Divarda dəlik: 窓 (mado) – pəncərə, 窓口 (madoguchi) – kassa pəncərəsi.",
+   "en": "A hole in the wall: 窓 (mado), window; 窓口 (madoguchi), service counter.",
+   "ru": "Дыра в стене: 窓 (мадо) – окно, 窓口 (мадогути) – окошко (касса)."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "窓 (まど) pəncərə"
+  ]
+ },
+ {
+  "kanji": "喫",
+  "on": "キツ",
+  "kun": "–",
+  "az": "qəbul etmək (çay, tütün)",
+  "en": "consume (tea, smoke)",
+  "ru": "потреблять (чай, табак)",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "口",
+   "龶",
+   "刀",
+   "大"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağız (口), səs hissəsi 契. Ağızla qəbul etmək: yemək, içmək, çəkmək.",
+   "en": "The meaning part is mouth (口) and the sound part is 契. Taking in through the mouth: to eat, drink, smoke.",
+   "ru": "Смысловая часть – рот (口), звуковая – 契. Принимать ртом: есть, пить, курить."
+  },
+  "hekaye": {
+   "az": "Ağızla qəbul: 喫茶店 (kissaten) – qəhvəxana, 喫煙 (kitsuen) – siqaret çəkmə.",
+   "en": "Taking in by mouth: 喫茶店 (kissaten), café; 喫煙 (kitsuen), smoking.",
+   "ru": "Принять ртом: 喫茶店 (киссатэн) – кафе, 喫煙 (кицуэн) – курение."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "喫茶店 (きっさてん) qəlyanaltıxana, çay evi, kafe"
+  ]
+ },
+ {
+  "kanji": "県",
+  "on": "ケン",
+  "kun": "–",
+  "az": "prefektura",
+  "en": "prefecture",
+  "ru": "префектура",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "目",
+   "#",
+   "小"
+  ],
+  "mense": {
+   "az": "Köhnə forması 縣: bir şeyin ipdən (系) asılması. \"Asılı olan\" mənasından paytaxta tabe ərazi, vilayət mənası yarandı.",
+   "en": "The old form is 縣: something hanging from a cord (系). From \"hanging, dependent\" came a territory dependent on the capital: a prefecture.",
+   "ru": "Старая форма 縣: что-то, подвешенное на шнуре (系). От «подвешенный, зависимый» – территория, подчинённая столице: префектура."
+  },
+  "hekaye": {
+   "az": "Paytaxta bağlı ərazi: 県 (ken) – prefektura, 県庁 (kenchou) – prefektura idarəsi.",
+   "en": "Land tied to the capital: 県 (ken), prefecture; 県庁 (kenchou), prefectural office.",
+   "ru": "Земля, привязанная к столице: 県 (кэн) – префектура, 県庁 (кэнтё) – администрация префектуры."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "県 (けん) prefektura"
+  ]
+ },
+ {
+  "kanji": "左",
+  "on": "サ",
+  "kun": "ひだり",
+  "az": "sol",
+  "en": "left",
+  "ru": "лево",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "#",
+   "工"
+  ],
+  "mense": {
+   "az": "Sol əl (ナ) və alət (工). Aləti tutan əl: sol.",
+   "en": "A left hand (ナ) and a tool (工). The hand that holds the tool: left.",
+   "ru": "Левая рука (ナ) и инструмент (工). Рука, держащая инструмент: левый."
+  },
+  "hekaye": {
+   "az": "Alət tutan əl: 左 (hidari) – sol, 左手 (hidarite) – sol əl.",
+   "en": "The tool hand: 左 (hidari), left; 左手 (hidarite), left hand.",
+   "ru": "Рука с инструментом: 左 (хидари) – левый, 左手 (хидаритэ) – левая рука."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "左 (ひだり) sol"
+  ]
+ },
+ {
+  "kanji": "隣",
+  "on": "リン",
+  "kun": "となり",
+  "az": "qonşu, yanında",
+  "en": "neighbour, next to",
+  "ru": "сосед, рядом",
+  "ders": 10,
+  "kart": true,
+  "komponent": [
+   "⻖",
+   "米",
+   "舛"
+  ],
+  "mense": {
+   "az": "Məna hissəsi təpə, yaşayış yeri (阝), səs hissəsi 粦. Yan-yana olan kəndlər: qonşu.",
+   "en": "The meaning part is mound, settlement (阝) and the sound part is 粦. Villages lying side by side: neighbouring.",
+   "ru": "Смысловая часть – холм, поселение (阝), звуковая – 粦. Соседние деревни: соседний."
+  },
+  "hekaye": {
+   "az": "Yanaşı kəndlər: 隣 (tonari) – qonşu, yanındakı.",
+   "en": "Villages side by side: 隣 (tonari), next door.",
+   "ru": "Соседние деревни: 隣 (тонари) – сосед, рядом."
+  },
+  "ilk_soz_dersi": 10,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "隣 (となり) yanında"
+  ]
+ }
+]

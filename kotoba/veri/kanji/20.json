@@ -1,0 +1,156 @@
+[
+ {
+  "kanji": "君",
+  "on": "クン",
+  "kun": "きみ",
+  "az": "sən, cənab (kiçik)",
+  "en": "you, Mr. (junior)",
+  "ru": "ты, господин (младший)",
+  "ders": 20,
+  "kart": true,
+  "komponent": [
+   "⺕",
+   "尸",
+   "口"
+  ],
+  "mense": {
+   "az": "Yuxarıda əsa tutan əl (尹, rəhbər), aşağıda ağız (口). Əmr verən rəhbər: hökmdar. Yapon dilində yaxın, kiçik birinə \"sən\" demək.",
+   "en": "A hand holding a staff (尹, a leader) on top and a mouth (口) below. A leader who gives orders: a lord. In Japanese a familiar \"you\" for a peer or junior.",
+   "ru": "Сверху рука с жезлом (尹, предводитель), снизу рот (口). Повелитель, отдающий приказы: государь. В японском – «ты» к равному или младшему."
+  },
+  "hekaye": {
+   "az": "Əmr verən: 君 (kimi) – sən, 田中君 (Tanaka-kun) – Tanaka (oğlana müraciət).",
+   "en": "The one who commands: 君 (kimi), you; 田中君 (Tanaka-kun), Tanaka (to a boy).",
+   "ru": "Повелевающий: 君 (кими) – ты, 田中君 (Танака-кун) – Танака (к юноше)."
+  },
+  "ilk_soz_dersi": 20,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "君 (きみ) sən (あなた-nın qeyri-rəsmi forması)",
+   "～君 (～くん) ~kun (～さん-ın qeyri-rəsmi forması, oğlanlar üçün)"
+  ]
+ },
+ {
+  "kanji": "言",
+  "on": "ゲン",
+  "kun": "い・う",
+  "az": "demək",
+  "en": "say",
+  "ru": "говорить",
+  "ders": 20,
+  "kart": true,
+  "komponent": [
+   "言"
+  ],
+  "mense": {
+   "az": "Ağız (口) və ondan çıxan sözü göstərən xətlər. Danışmaq, söz. Başqa kanjilərin solunda 言 sözlə bağlı mənalar verir.",
+   "en": "A mouth (口) with lines showing words coming out. To speak, word. On the left of other kanji it marks meanings to do with speech.",
+   "ru": "Рот (口) и черты – слова, выходящие изо рта. Говорить, слово. Слева в других кандзи указывает на речь."
+  },
+  "hekaye": {
+   "az": "Ağızdan sözlər: 言う (iu) – demək, 言葉 (kotoba) – söz.",
+   "en": "Words from the mouth: 言う (iu), to say; 言葉 (kotoba), word.",
+   "ru": "Слова изо рта: 言う (иу) – говорить, 言葉 (котоба) – слово."
+  },
+  "ilk_soz_dersi": 20,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "言葉 (ことば) dil, söz",
+   "言います (いいます) söyləmək, demək"
+  ]
+ },
+ {
+  "kanji": "要",
+  "on": "ヨウ",
+  "kun": "い・る",
+  "az": "lazım olmaq",
+  "en": "need",
+  "ru": "нуждаться",
+  "ders": 20,
+  "kart": true,
+  "komponent": [
+   "覀",
+   "女"
+  ],
+  "mense": {
+   "az": "Köhnə formada beli əlləri ilə tutan qadın: bel. Bədənin ortası, ən vacib yeri: vacib, lazım.",
+   "en": "In the old form a woman holding her waist with both hands: the waist. The middle of the body, its key point: important, necessary.",
+   "ru": "В старой форме – женщина, держащаяся руками за талию: поясница. Середина тела, главное место: важный, нужный."
+  },
+  "hekaye": {
+   "az": "Bədənin ortası: 要る (iru) – lazım olmaq, 重要 (juuyou) – vacib.",
+   "en": "The middle of the body: 要る (iru), to need; 重要 (juuyou), important.",
+   "ru": "Середина тела: 要る (иру) – быть нужным, 重要 (дзюё) – важный."
+  },
+  "ilk_soz_dersi": 20,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "要ります[ビザが～] (いります[ビザが～]) lazım olmaq [viza lazımdır]"
+  ]
+ },
+ {
+  "kanji": "修",
+  "on": "シュウ",
+  "kun": "おさ・める",
+  "az": "təmir, mənimsəmək",
+  "en": "repair, master",
+  "ru": "чинить, осваивать",
+  "ders": 20,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "#",
+   "攵",
+   "彡"
+  ],
+  "mense": {
+   "az": "Səs hissəsi 攸, sağda bəzək xətləri (彡). Düzəltmək, təmir etmək, öyrənib təkmilləşmək.",
+   "en": "The sound part 攸 with decorative strokes (彡) on the right. To set right, to repair, to master through study.",
+   "ru": "Звуковая часть 攸 и справа черты украшения (彡). Исправлять, чинить, совершенствоваться."
+  },
+  "hekaye": {
+   "az": "Düzəlt, təkmilləş: 修理 (shuuri) – təmir, 研修 (kenshuu) – təlim.",
+   "en": "Fix and improve: 修理 (shuuri), repair; 研修 (kenshuu), training.",
+   "ru": "Исправь и улучши: 修理 (сюри) – ремонт, 研修 (кэнсю) – стажировка."
+  },
+  "ilk_soz_dersi": 20,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "修理します (しゅうりします) düzəltmək, təmir etmək"
+  ]
+ },
+ {
+  "kanji": "僕",
+  "on": "ボク",
+  "kun": "–",
+  "az": "mən (kişi)",
+  "en": "I (male)",
+  "ru": "я (муж.)",
+  "ders": 20,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "业",
+   "一",
+   "一",
+   "一",
+   "人",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 菐. Əvvəlcə \"xidmətçi\" idi. Yapon dilində kişilərin işlətdiyi təvazökar \"mən\".",
+   "en": "The meaning part is person (亻) and the sound part is 菐. It first meant \"servant\". In Japanese it is a modest \"I\" used by men and boys.",
+   "ru": "Смысловая часть – человек (亻), звуковая – 菐. Сначала – «слуга». В японском – скромное «я», которым пользуются мужчины."
+  },
+  "hekaye": {
+   "az": "Təvazökar \"mən\": 僕 (boku) – mən (kişi danışığı).",
+   "en": "A modest \"I\": 僕 (boku), I (male speech).",
+   "ru": "Скромное «я»: 僕 (боку) – я (мужская речь)."
+  },
+  "ilk_soz_dersi": 20,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "僕 (ぼく) mən (私-nin qeyri-rəsmi forması, kişilər işlədir)"
+  ]
+ }
+]

@@ -1,0 +1,1072 @@
+[
+ {
+  "kanji": "八",
+  "ders": 0,
+  "on": "ハチ",
+  "kun": "や、よう、やっつ",
+  "az": "səkkiz",
+  "en": "eight",
+  "ru": "восемь",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "九",
+  "ders": 0,
+  "on": "キュウ、ク",
+  "kun": "ここの、ここのつ",
+  "az": "doqquz",
+  "en": "nine",
+  "ru": "девять",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "十",
+  "ders": 0,
+  "on": "ジュウ",
+  "kun": "とお、と",
+  "az": "on",
+  "en": "ten",
+  "ru": "десять",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "村",
+  "ders": 0,
+  "on": "ソン",
+  "kun": "むら",
+  "az": "kənd",
+  "en": "village",
+  "ru": "деревня",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "由",
+  "ders": 0,
+  "on": "ユ、ユウ、ユイ",
+  "kun": "よし",
+  "az": "səbəb",
+  "en": "reason",
+  "ru": "причина",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "二",
+  "ders": 0,
+  "on": "ニ",
+  "kun": "ふた、ふたつ、ふたり",
+  "az": "iki",
+  "en": "two",
+  "ru": "два",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "悪",
+  "ders": 0,
+  "on": "アク、オ",
+  "kun": "わる、あ、わるい、わるさ、あし、あしき",
+  "az": "pis",
+  "en": "bad, evil",
+  "ru": "плохой, злой",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "同",
+  "ders": 0,
+  "on": "ドウ",
+  "kun": "おな、おなじ、おなじく",
+  "az": "eyni",
+  "en": "same",
+  "ru": "одинаковый",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "寒",
+  "ders": 0,
+  "on": "カン",
+  "kun": "さむ、さむい",
+  "az": "soyuq",
+  "en": "cold",
+  "ru": "холодный",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "暑",
+  "ders": 0,
+  "on": "ショ",
+  "kun": "あつ、あつい、あつさ",
+  "az": "isti (hava)",
+  "en": "summer heat, hot",
+  "ru": "жаркий",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "工",
+  "ders": 0,
+  "on": "コウ、ク",
+  "kun": "",
+  "az": "istehsal, tikinti",
+  "en": "manufacture, construction",
+  "ru": "производство, работа",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "横",
+  "ders": 0,
+  "on": "オウ",
+  "kun": "よこ",
+  "az": "yan, en",
+  "en": "sideways, side",
+  "ru": "бок, поперёк",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "向",
+  "ders": 0,
+  "on": "コウ",
+  "kun": "む、むく、むき、むける、むかう、むこう",
+  "az": "üz tutmaq, istiqamət",
+  "en": "turn toward, face toward",
+  "ru": "обращаться к, направление",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "談",
+  "ders": 0,
+  "on": "ダン",
+  "kun": "",
+  "az": "söhbət",
+  "en": "talk, conversation",
+  "ru": "беседа",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "期",
+  "ders": 0,
+  "on": "キ、ゴ",
+  "kun": "",
+  "az": "dövr, müddət",
+  "en": "term, time, expect",
+  "ru": "период, срок",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "三",
+  "ders": 0,
+  "on": "サン",
+  "kun": "み、みっか、みっつ、みっ",
+  "az": "üç",
+  "en": "three",
+  "ru": "три",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "正",
+  "ders": 0,
+  "on": "セイ、ショウ",
+  "kun": "ただ、ただしい、ただす、まさ、まさに",
+  "az": "düz, doğru",
+  "en": "right, correct",
+  "ru": "правильный",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "様",
+  "ders": 0,
+  "on": "ヨウ",
+  "kun": "さま",
+  "az": "tərz; cənab/xanım",
+  "en": "mode, way, formal title, manner",
+  "ru": "образ, вид; господин",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "洋",
+  "ders": 0,
+  "on": "ヨウ",
+  "kun": "",
+  "az": "okean; qərb",
+  "en": "ocean, western",
+  "ru": "океан; западный",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "死",
+  "ders": 0,
+  "on": "シ",
+  "kun": "し、しぬ、しに",
+  "az": "ölüm",
+  "en": "die, death",
+  "ru": "смерть",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "悲",
+  "ders": 0,
+  "on": "ヒ",
+  "kun": "かな、かなしい、かなしむ、かなしさ、かなしみ",
+  "az": "kədərli",
+  "en": "sad",
+  "ru": "грустный",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "幸",
+  "ders": 0,
+  "on": "コウ",
+  "kun": "さいわ、さいわい、さち、しあわ、しあわせ",
+  "az": "xoşbəxtlik",
+  "en": "happiness, happy",
+  "ru": "счастье",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "反",
+  "ders": 0,
+  "on": "ハン、ホン、タン",
+  "kun": "そ、そる、そらす",
+  "az": "əks, anti-",
+  "en": "counter, anti-",
+  "ru": "против, анти-",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "対",
+  "ders": 0,
+  "on": "タイ、ツイ",
+  "kun": "",
+  "az": "qarşı, cüt",
+  "en": "oppose, opposite, against",
+  "ru": "против, пара",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "級",
+  "ders": 0,
+  "on": "キュウ",
+  "kun": "",
+  "az": "dərəcə, sinif",
+  "en": "grade",
+  "ru": "ранг, класс",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "面",
+  "ders": 0,
+  "on": "メン",
+  "kun": "おも、おもて、つら",
+  "az": "üz, səth",
+  "en": "face, mask, surface",
+  "ru": "лицо, поверхность",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "第",
+  "ders": 0,
+  "on": "ダイ",
+  "kun": "",
+  "az": "sıra ön şəkilçisi",
+  "en": "ordinal number prefix, degree",
+  "ru": "порядковый префикс",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "係",
+  "ders": 0,
+  "on": "ケイ",
+  "kun": "かか、かかる、かかり、かかわる、かかわり",
+  "az": "əlaqə; məsul şəxs",
+  "en": "connect, person in charge",
+  "ru": "связь; ответственный",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "有",
+  "ders": 0,
+  "on": "ユウ、ウ",
+  "kun": "あ、ある",
+  "az": "var olmaq",
+  "en": "have",
+  "ru": "иметь",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "感",
+  "ders": 0,
+  "on": "カン",
+  "kun": "",
+  "az": "hiss etmək",
+  "en": "sense, feel",
+  "ru": "чувство",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "数",
+  "ders": 0,
+  "on": "スウ、ス",
+  "kun": "かず、かぞ、かぞえる",
+  "az": "say, saymaq",
+  "en": "number, count",
+  "ru": "число, считать",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "化",
+  "ders": 0,
+  "on": "カ、ケ",
+  "kun": "ば、ばける、ばかす",
+  "az": "çevrilmək",
+  "en": "change into",
+  "ru": "превращаться",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "科",
+  "ders": 0,
+  "on": "カ",
+  "kun": "",
+  "az": "fənn, şöbə",
+  "en": "subject of study",
+  "ru": "предмет, отделение",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "流",
+  "ders": 0,
+  "on": "リュウ、ル",
+  "kun": "なが、ながれる、ながれ、ながす",
+  "az": "axın, axmaq",
+  "en": "flow, current, style",
+  "ru": "течение, течь",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "光",
+  "ders": 0,
+  "on": "コウ",
+  "kun": "ひか、ひかる、ひかり",
+  "az": "işıq",
+  "en": "light",
+  "ru": "свет",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "助",
+  "ders": 0,
+  "on": "ジョ",
+  "kun": "たす、たすける、たすかる、すけ",
+  "az": "kömək",
+  "en": "help, rescue, assistance",
+  "ru": "помощь",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "深",
+  "ders": 0,
+  "on": "シン",
+  "kun": "ふか、ふかい、ふかまる、ふかめる",
+  "az": "dərin",
+  "en": "deep",
+  "ru": "глубокий",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "想",
+  "ders": 0,
+  "on": "ソウ、ソ",
+  "kun": "",
+  "az": "fikir, düşüncə",
+  "en": "conceive, idea, thought",
+  "ru": "мысль, идея",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "平",
+  "ders": 0,
+  "on": "ヘイ、ビョウ",
+  "kun": "たい、ひらたい、たいら、ひら",
+  "az": "düz, sakit",
+  "en": "flat, calm",
+  "ru": "ровный, спокойный",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "進",
+  "ders": 0,
+  "on": "シン",
+  "kun": "すす、すすむ、すすめる",
+  "az": "irəliləmək",
+  "en": "advance, progress",
+  "ru": "продвигаться",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "代",
+  "ders": 0,
+  "on": "ダイ、タイ",
+  "kun": "かわる、かわり、かえる、よ、しろ、か",
+  "az": "əvəz; nəsil; haqq",
+  "en": "substitute, generation, charge",
+  "ru": "замена; поколение; плата",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "州",
+  "ders": 0,
+  "on": "シュウ",
+  "kun": "す",
+  "az": "ştat, vilayət",
+  "en": "state",
+  "ru": "штат, провинция",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "福",
+  "ders": 0,
+  "on": "フク",
+  "kun": "",
+  "az": "xoşbəxtlik, bəxt",
+  "en": "fortune",
+  "ru": "удача, счастье",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "倍",
+  "ders": 0,
+  "on": "バイ",
+  "kun": "",
+  "az": "qat, iki dəfə",
+  "en": "times, double",
+  "ru": "раз, вдвое",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "詩",
+  "ders": 0,
+  "on": "シ",
+  "kun": "",
+  "az": "şeir",
+  "en": "poetry, poem",
+  "ru": "стихи",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "打",
+  "ders": 0,
+  "on": "ダ",
+  "kun": "うつ、うち",
+  "az": "vurmaq",
+  "en": "strike, hit",
+  "ru": "ударять",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "形",
+  "ders": 0,
+  "on": "ケイ、ギョウ",
+  "kun": "かた、かたち",
+  "az": "forma",
+  "en": "shape",
+  "ru": "форма",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "命",
+  "ders": 0,
+  "on": "メイ、ミョウ",
+  "kun": "いのち",
+  "az": "həyat; əmr",
+  "en": "order, life",
+  "ru": "жизнь; приказ",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "客",
+  "ders": 0,
+  "on": "キャク、カク",
+  "kun": "",
+  "az": "qonaq, müştəri",
+  "en": "visitor, customer, guest",
+  "ru": "гость, клиент",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "拾",
+  "ders": 0,
+  "on": "シュウ、ジュウ",
+  "kun": "ひろ、ひろう",
+  "az": "yerdən götürmək",
+  "en": "pick up, ten (in documents)",
+  "ru": "подбирать",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "丸",
+  "ders": 0,
+  "on": "ガン",
+  "kun": "まる、まるい、まるめる",
+  "az": "dəyirmi",
+  "en": "round, suffix for names of ships/people",
+  "ru": "круглый",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "岸",
+  "ders": 0,
+  "on": "ガン",
+  "kun": "きし",
+  "az": "sahil",
+  "en": "shore, bank, coast",
+  "ru": "берег",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "組",
+  "ders": 0,
+  "on": "ソ",
+  "kun": "く、くむ、くみ",
+  "az": "qrup, qurmaq",
+  "en": "organize, assemble, group, class, gang",
+  "ru": "группа, составлять",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "守",
+  "ders": 0,
+  "on": "シュ、ス",
+  "kun": "まも、もり、まもる、まもり",
+  "az": "qorumaq, əməl etmək",
+  "en": "protect, obey, babysitter",
+  "ru": "защищать, соблюдать",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "農",
+  "ders": 0,
+  "on": "ノウ",
+  "kun": "",
+  "az": "əkinçilik",
+  "en": "farming, agriculture",
+  "ru": "земледелие",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "根",
+  "ders": 0,
+  "on": "コン",
+  "kun": "ね",
+  "az": "kök",
+  "en": "root",
+  "ru": "корень",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "列",
+  "ders": 0,
+  "on": "レツ",
+  "kun": "",
+  "az": "sıra",
+  "en": "row",
+  "ru": "ряд",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "指",
+  "ders": 0,
+  "on": "シ",
+  "kun": "ゆび、さ、さす",
+  "az": "barmaq, göstərmək",
+  "en": "finger, point",
+  "ru": "палец, указывать",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "路",
+  "ders": 0,
+  "on": "ロ",
+  "kun": "じ",
+  "az": "yol",
+  "en": "road, way, street",
+  "ru": "дорога",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "章",
+  "ders": 0,
+  "on": "ショウ",
+  "kun": "",
+  "az": "fəsil; nişan",
+  "en": "chapter, badge",
+  "ru": "глава; значок",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "等",
+  "ders": 0,
+  "on": "トウ",
+  "kun": "ひと、ひとしい",
+  "az": "bərabər, və s.",
+  "en": "equal, class",
+  "ru": "равный, и т. д.",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "首",
+  "ders": 0,
+  "on": "シュ",
+  "kun": "くび",
+  "az": "boyun, baş",
+  "en": "head, neck, leader",
+  "ru": "шея, голова",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "坂",
+  "ders": 0,
+  "on": "ハン",
+  "kun": "さか",
+  "az": "yoxuş",
+  "en": "slope, hill",
+  "ru": "склон",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "植",
+  "ders": 0,
+  "on": "ショク",
+  "kun": "う、うえる、うわる",
+  "az": "əkmək (bitki)",
+  "en": "plant",
+  "ru": "сажать (растение)",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "算",
+  "ders": 0,
+  "on": "サン",
+  "kun": "",
+  "az": "hesablamaq",
+  "en": "calculate",
+  "ru": "считать, вычислять",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "毛",
+  "ders": 0,
+  "on": "モウ",
+  "kun": "け",
+  "az": "tük, yun",
+  "en": "hair, fur, feather, down",
+  "ru": "волос, шерсть",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "板",
+  "ders": 0,
+  "on": "ハン、バン",
+  "kun": "いた",
+  "az": "lövhə, taxta",
+  "en": "board, plate",
+  "ru": "доска",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "皮",
+  "ders": 0,
+  "on": "ヒ",
+  "kun": "かわ",
+  "az": "dəri, qabıq",
+  "en": "skin, hide, rind, leather, bark",
+  "ru": "кожа, кожура",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "草",
+  "ders": 0,
+  "on": "ソウ",
+  "kun": "くさ",
+  "az": "ot",
+  "en": "grass",
+  "ru": "трава",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "油",
+  "ders": 0,
+  "on": "ユ",
+  "kun": "あぶら",
+  "az": "yağ",
+  "en": "oil",
+  "ru": "масло",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "玉",
+  "ders": 0,
+  "on": "ギョク",
+  "kun": "たま",
+  "az": "top, daş-qaş",
+  "en": "gem, jewel, ball",
+  "ru": "шар, драгоценность",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "皿",
+  "ders": 0,
+  "on": "–",
+  "kun": "さら",
+  "az": "boşqab",
+  "en": "plate, dish, saucer",
+  "ru": "тарелка",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "育",
+  "ders": 0,
+  "on": "イク",
+  "kun": "そだ、そだつ、そだてる",
+  "az": "böyütmək",
+  "en": "raise",
+  "ru": "растить",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "貝",
+  "ders": 0,
+  "on": "–",
+  "kun": "かい",
+  "az": "balıqqulağı",
+  "en": "shellfish, shell",
+  "ru": "ракушка",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "糸",
+  "ders": 0,
+  "on": "シ",
+  "kun": "いと",
+  "az": "sap",
+  "en": "thread",
+  "ru": "нить",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "羽",
+  "ders": 0,
+  "on": "ウ",
+  "kun": "は、わ、はね",
+  "az": "lələk, qanad",
+  "en": "feather, wing",
+  "ru": "перо, крыло",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "汽",
+  "ders": 0,
+  "on": "キ",
+  "kun": "",
+  "az": "buxar",
+  "en": "steam",
+  "ru": "пар",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "弓",
+  "ders": 0,
+  "on": "キュウ",
+  "kun": "ゆみ",
+  "az": "yay (ox atmaq üçün)",
+  "en": "bow",
+  "ru": "лук (оружие)",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "黄",
+  "ders": 0,
+  "on": "コウ、オウ",
+  "kun": "き、こ",
+  "az": "sarı",
+  "en": "yellow",
+  "ru": "жёлтый",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "谷",
+  "ders": 0,
+  "on": "コク",
+  "kun": "たに",
+  "az": "dərə",
+  "en": "valley",
+  "ru": "долина",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "矢",
+  "ders": 0,
+  "on": "シ",
+  "kun": "や",
+  "az": "ox",
+  "en": "arrow",
+  "ru": "стрела",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "星",
+  "ders": 0,
+  "on": "セイ、ショウ",
+  "kun": "ほし",
+  "az": "ulduz",
+  "en": "star",
+  "ru": "звезда",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "麦",
+  "ders": 0,
+  "on": "バク",
+  "kun": "むぎ",
+  "az": "buğda",
+  "en": "wheat",
+  "ru": "пшеница",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "委",
+  "ders": 0,
+  "on": "イ",
+  "kun": "",
+  "az": "həvalə etmək",
+  "en": "commit, entrust",
+  "ru": "поручать",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "央",
+  "ders": 0,
+  "on": "オウ",
+  "kun": "",
+  "az": "mərkəz",
+  "en": "center, middle",
+  "ru": "центр",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "宮",
+  "ders": 0,
+  "on": "キュウ、グウ、ク",
+  "kun": "みや",
+  "az": "saray, məbəd",
+  "en": "royal palace, Shinto shrine",
+  "ru": "дворец, храм",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "区",
+  "ders": 0,
+  "on": "ク",
+  "kun": "",
+  "az": "rayon",
+  "en": "district, ward",
+  "ru": "район",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "南",
+  "ders": 0,
+  "on": "ナン",
+  "kun": "みなみ",
+  "az": "cənub",
+  "en": "south",
+  "ru": "юг",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "血",
+  "ders": 0,
+  "on": "ケツ",
+  "kun": "ち",
+  "az": "qan",
+  "en": "blood",
+  "ru": "кровь",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "湖",
+  "ders": 0,
+  "on": "コ",
+  "kun": "みずうみ",
+  "az": "göl",
+  "en": "lake",
+  "ru": "озеро",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "昭",
+  "ders": 0,
+  "on": "ショウ",
+  "kun": "",
+  "az": "parlaq",
+  "en": "luminous, bright, clear",
+  "ru": "светлый",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "整",
+  "ders": 0,
+  "on": "セイ",
+  "kun": "ととの、ととのえる、ととのう",
+  "az": "qaydaya salmaq",
+  "en": "put in order, organize, prepared",
+  "ru": "упорядочивать",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "炭",
+  "ders": 0,
+  "on": "タン",
+  "kun": "すみ",
+  "az": "kömür",
+  "en": "coal, charcoal",
+  "ru": "уголь",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "柱",
+  "ders": 0,
+  "on": "チュウ",
+  "kun": "はしら",
+  "az": "sütun",
+  "en": "pillar, pole",
+  "ru": "столб",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "丁",
+  "ders": 0,
+  "on": "チョウ、テイ",
+  "kun": "",
+  "az": "məhəllə; sayğac",
+  "en": "town subsection, miscellaneous counter, even number",
+  "ru": "квартал; счётный суффикс",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "笛",
+  "ders": 0,
+  "on": "テキ",
+  "kun": "ふえ",
+  "az": "fleyta, fit",
+  "en": "flute, whistle",
+  "ru": "флейта, свисток",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "投",
+  "ders": 0,
+  "on": "トウ",
+  "kun": "な、なげる",
+  "az": "atmaq",
+  "en": "throw, send in",
+  "ru": "бросать",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "豆",
+  "ders": 0,
+  "on": "トウ、ズ",
+  "kun": "まめ",
+  "az": "paxla",
+  "en": "bean, pea, miniature",
+  "ru": "боб",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "童",
+  "ders": 0,
+  "on": "ドウ",
+  "kun": "わらべ",
+  "az": "uşaq",
+  "en": "child",
+  "ru": "ребёнок",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "西",
+  "ders": 0,
+  "on": "セイ、サイ",
+  "kun": "にし",
+  "az": "qərb",
+  "en": "west",
+  "ru": "запад",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "氷",
+  "ders": 0,
+  "on": "ヒョウ",
+  "kun": "こおり、ひ",
+  "az": "buz",
+  "en": "ice",
+  "ru": "лёд",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "羊",
+  "ders": 0,
+  "on": "ヨウ",
+  "kun": "ひつじ",
+  "az": "qoyun",
+  "en": "sheep",
+  "ru": "овца",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "陽",
+  "ders": 0,
+  "on": "ヨウ",
+  "kun": "ひ",
+  "az": "günəş",
+  "en": "sun, positive",
+  "ru": "солнце",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "四",
+  "ders": 0,
+  "on": "シ",
+  "kun": "よ、よん",
+  "az": "dörd",
+  "en": "four",
+  "ru": "четыре",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "五",
+  "ders": 0,
+  "on": "ゴ",
+  "kun": "いつ、いつつ",
+  "az": "beş",
+  "en": "five",
+  "ru": "пять",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "六",
+  "ders": 0,
+  "on": "ロク",
+  "kun": "む、むい、むっつ",
+  "az": "altı",
+  "en": "six",
+  "ru": "шесть",
+  "nümunə_sozler": []
+ },
+ {
+  "kanji": "秒",
+  "ders": 0,
+  "on": "ビョウ",
+  "kun": "",
+  "az": "saniyə",
+  "en": "second (of time)",
+  "ru": "секунда",
+  "nümunə_sozler": []
+ }
+]

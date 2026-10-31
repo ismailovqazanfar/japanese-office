@@ -1,0 +1,811 @@
+[
+ {
+  "kanji": "長",
+  "on": "チョウ",
+  "kun": "なが・い",
+  "az": "uzun, rəhbər",
+  "en": "long, chief",
+  "ru": "длинный, глава",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "長"
+  ],
+  "mense": {
+   "az": "Uzun saçlı, əlində əsa tutan qoca. Uzun saç \"uzun\", yaşlı adam \"başçı\" mənasını verdi.",
+   "en": "An old man with long hair holding a staff. The long hair gave \"long\", the elder gave \"chief\".",
+   "ru": "Старик с длинными волосами и посохом. Длинные волосы дали «длинный», старейшина – «глава»."
+  },
+  "hekaye": {
+   "az": "Uzun saçlı başçı: 長い (nagai) – uzun, 社長 (shachou) – şirkət rəhbəri.",
+   "en": "The long-haired elder: 長い (nagai), long; 社長 (shachou), company president.",
+   "ru": "Длинноволосый старейшина: 長い (нагай) – длинный, 社長 (сятё) – президент компании."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 5,
+  "nümunə_sozler": [
+   "長い (ながい) uzun",
+   "課長 (かちょう) bölmə müdiri",
+   "部長 (ぶちょう) şöbə müdiri",
+   "社長 (しゃちょう) şirkət müdiri"
+  ]
+ },
+ {
+  "kanji": "引",
+  "on": "イン",
+  "kun": "ひ・く",
+  "az": "dartmaq",
+  "en": "pull",
+  "ru": "тянуть",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "弓",
+   "#"
+  ],
+  "mense": {
+   "az": "Yay (弓) və onun kirişi (丨). Yayın kirişini dartmaq: çəkmək.",
+   "en": "A bow (弓) and its string (丨). Drawing the bowstring: to pull.",
+   "ru": "Лук (弓) и тетива (丨). Натягивать тетиву: тянуть."
+  },
+  "hekaye": {
+   "az": "Kirişi dart: 引く (hiku) – çəkmək, 引っ越す (hikkosu) – köçmək.",
+   "en": "Draw the string: 引く (hiku), to pull; 引っ越す (hikkosu), to move house.",
+   "ru": "Натяни тетиву: 引く (хику) – тянуть, 引っ越す (хиккосу) – переезжать."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "お引き出しですか。 (おひきだしですか。) Hesabdan pul çıxarmaq istəyirsiniz?",
+   "引きます (ひきます) dartmaq, çəkmək",
+   "引っ越し (ひっこし) köç (～します: köçmək)"
+  ]
+ },
+ {
+  "kanji": "換",
+  "on": "カン",
+  "kun": "か・える",
+  "az": "dəyişdirmək",
+  "en": "exchange",
+  "ru": "обменивать",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "扌",
+   "𠂊",
+   "冂",
+   "儿",
+   "大"
+  ],
+  "mense": {
+   "az": "Məna hissəsi əl (扌), səs hissəsi 奐. Əldən-ələ vermək: dəyişmək, mübadilə etmək.",
+   "en": "The meaning part is hand (扌) and the sound part is 奐. Passing from hand to hand: to exchange.",
+   "ru": "Смысловая часть – рука (扌), звуковая – 奐. Передать из рук в руки: менять, обменивать."
+  },
+  "hekaye": {
+   "az": "Əldən-ələ: 乗り換える (norikaeru) – minik dəyişmək, 交換 (koukan) – mübadilə.",
+   "en": "Hand to hand: 乗り換える (norikaeru), to change trains; 交換 (koukan), exchange.",
+   "ru": "Из рук в руки: 乗り換える (норикаэру) – пересаживаться, 交換 (кокан) – обмен."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "乗り換えます (のりかえます) nəqliyyatı dəyişmək",
+   "換えます (かえます) mübadilə etmək, dəyişdirmək (pul)"
+  ]
+ },
+ {
+  "kanji": "押",
+  "on": "オウ",
+  "kun": "お・す",
+  "az": "basmaq",
+  "en": "push",
+  "ru": "нажимать",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "扌",
+   "甲"
+  ],
+  "mense": {
+   "az": "Məna hissəsi əl (扌), səs hissəsi 甲. Əllə basmaq, itələmək.",
+   "en": "The meaning part is hand (扌) and the sound part is 甲. Pressing or pushing with the hand.",
+   "ru": "Смысловая часть – рука (扌), звуковая – 甲. Нажимать, толкать рукой."
+  },
+  "hekaye": {
+   "az": "Əllə bas: 押す (osu) – basmaq, itələmək; 押し入れ (oshiire) – divar şkafı.",
+   "en": "Press with the hand: 押す (osu), to push; 押し入れ (oshiire), closet.",
+   "ru": "Нажми рукой: 押す (осу) – нажимать, толкать; 押し入れ (осиирэ) – стенной шкаф."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "押します (おします) basmaq, sıxmaq (düymə)",
+   "押入れ (おしいれ) yapon üslublu şkaf"
+  ]
+ },
+ {
+  "kanji": "始",
+  "on": "シ",
+  "kun": "はじ・める",
+  "az": "başlamaq",
+  "en": "begin",
+  "ru": "начинать",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "女",
+   "厶",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qadın (女), səs hissəsi 台. Həyatın qadından başlaması: başlamaq, ilk.",
+   "en": "The meaning part is woman (女) and the sound part is 台. Life beginning with a woman: to begin, first.",
+   "ru": "Смысловая часть – женщина (女), звуковая – 台. Жизнь начинается с женщины: начинать, первый."
+  },
+  "hekaye": {
+   "az": "Başlanğıc: 始める (hajimeru) – başlamaq, 開始 (kaishi) – başlama.",
+   "en": "The beginning: 始める (hajimeru), to begin; 開始 (kaishi), start.",
+   "ru": "Начало: 始める (хадзимэру) – начинать, 開始 (кайси) – старт."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "始めます (はじめます) başlamaq",
+   "始め (はじめ) başlanğıc"
+  ]
+ },
+ {
+  "kanji": "暗",
+  "on": "アン",
+  "kun": "くら・い",
+  "az": "qaranlıq",
+  "en": "dark",
+  "ru": "тёмный",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "日",
+   "立",
+   "日"
+  ],
+  "mense": {
+   "az": "Məna hissəsi günəş (日), səs hissəsi 音. Günəşsiz: qaranlıq.",
+   "en": "The meaning part is the sun (日) and the sound part is 音. Without the sun: dark.",
+   "ru": "Смысловая часть – солнце (日), звуковая – 音. Без солнца: тёмный."
+  },
+  "hekaye": {
+   "az": "Günəşsiz: 暗い (kurai) – qaranlıq, 暗記 (anki) – əzbərləmə.",
+   "en": "Without sun: 暗い (kurai), dark; 暗記 (anki), memorisation.",
+   "ru": "Без солнца: 暗い (курай) – тёмный, 暗記 (анки) – заучивание."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "暗い (くらい) qaranlıq",
+   "暗証番号 (あんしょうばんごう) gizli şifrə, PIN kod"
+  ]
+ },
+ {
+  "kanji": "体",
+  "on": "タイ",
+  "kun": "からだ",
+  "az": "bədən",
+  "en": "body",
+  "ru": "тело",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "木",
+   "#"
+  ],
+  "mense": {
+   "az": "Köhnə forması 體 (sümük 骨 + 豊). Bugünkü sadə forma insan (亻) və kök (本): insanın əsası. Bədən.",
+   "en": "The old form is 體 (bone 骨 + 豊). The simple modern form is person (亻) and root (本): the basis of a person. Body.",
+   "ru": "Старая форма 體 (кость 骨 + 豊). Современная простая форма – человек (亻) и корень (本): основа человека. Тело."
+  },
+  "hekaye": {
+   "az": "İnsanın kökü: 体 (karada) – bədən, 体育 (taiiku) – bədən tərbiyəsi.",
+   "en": "A person's root: 体 (karada), body; 体育 (taiiku), physical education.",
+   "ru": "Корень человека: 体 (карада) – тело, 体育 (тайику) – физкультура."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "体 (からだ) bədən",
+   "体に いい (からだに いい) sağlamlıq üçün faydalı"
+  ]
+ },
+ {
+  "kanji": "目",
+  "on": "モク",
+  "kun": "め",
+  "az": "göz",
+  "en": "eye",
+  "ru": "глаз",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "目"
+  ],
+  "mense": {
+   "az": "Gözün şəklidir, şaquli çevrilib: içində bəbək.",
+   "en": "A picture of an eye, turned upright, with the pupil inside.",
+   "ru": "Рисунок глаза, поставленный вертикально, внутри зрачок."
+  },
+  "hekaye": {
+   "az": "İri gözlər: 目 (me) – göz, 目的 (mokuteki) – məqsəd.",
+   "en": "Big eyes: 目 (me), eye; 目的 (mokuteki), purpose.",
+   "ru": "Большие глаза: 目 (мэ) – глаз, 目的 (мокутэки) – цель."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "目 (め) göz",
+   "～目 (～め) ~inci (sıra bildirən şəkilçi)"
+  ]
+ },
+ {
+  "kanji": "足",
+  "on": "ソク",
+  "kun": "あし、た・りる",
+  "az": "ayaq, kifayət etmək",
+  "en": "foot, suffice",
+  "ru": "нога, хватать",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "足"
+  ],
+  "mense": {
+   "az": "Yuxarıda diz qapağı (口), aşağıda ayaq (止). Ayaq. Ayağın \"bəs etməsi\" mənasından \"kifayət olmaq\" da yaranıb.",
+   "en": "A kneecap (口) on top and a foot (止) below. Leg, foot. From \"enough to stand on\" came \"to suffice\".",
+   "ru": "Сверху коленная чашечка (口), снизу ступня (止). Нога. От «хватает, чтобы стоять» – «быть достаточным»."
+  },
+  "hekaye": {
+   "az": "Dizə qədər çəkmə: 足 (ashi) – ayaq, 足りる (tariru) – kifayət etmək.",
+   "en": "A knee-high boot: 足 (ashi), leg, foot; 足りる (tariru), to be enough.",
+   "ru": "Сапог до колена: 足 (аси) – нога, 足りる (тариру) – хватать."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "足 (あし) ayaq",
+   "足ります (たります) kifayət olmaq, çatmaq"
+  ]
+ },
+ {
+  "kanji": "証",
+  "on": "ショウ",
+  "kun": "–",
+  "az": "sübut, vəsiqə",
+  "en": "proof, certificate",
+  "ru": "доказательство, удостоверение",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "言",
+   "正"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 正 (doğru). Sözlə doğruluğu göstərmək: sübut, şəhadətnamə.",
+   "en": "The meaning part is words (言) and the sound part is 正 (correct). Showing the truth in words: proof, certificate.",
+   "ru": "Смысловая часть – слово (言), звуковая – 正 (верный). Подтверждать правду словами: доказательство, свидетельство."
+  },
+  "hekaye": {
+   "az": "Sözlə sübut: 証明 (shoumei) – sübut, 保険証 (hokenshou) – sığorta kartı.",
+   "en": "Proof in words: 証明 (shoumei), proof; 保険証 (hokenshou), insurance card.",
+   "ru": "Доказательство словом: 証明 (сёмэй) – доказательство, 保険証 (хокэнсё) – страховой полис."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "暗証番号 (あんしょうばんごう) gizli şifrə, PIN kod",
+   "[健康]保険証 ([けんこう]ほけんしょう) [sağlamlıq sığortası] kartı"
+  ]
+ },
+ {
+  "kanji": "田",
+  "on": "デン",
+  "kun": "た",
+  "az": "düyü tarlası",
+  "en": "rice field",
+  "ru": "рисовое поле",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "田"
+  ],
+  "mense": {
+   "az": "Bölmələrə ayrılmış çəltik tarlası: çərçivə tarla, içindəki xətlər arxlar və cığırlardır.",
+   "en": "A rice paddy divided into plots: the frame is the field, the lines inside are ditches and paths.",
+   "ru": "Рисовое поле, разделённое на участки: рамка – поле, линии внутри – канавы и тропки."
+  },
+  "hekaye": {
+   "az": "Bölünmüş tarla: 田んぼ (tanbo) – çəltik tarlası, 田舎 (inaka) – kənd.",
+   "en": "A divided field: 田んぼ (tanbo), rice paddy; 田舎 (inaka), countryside.",
+   "ru": "Разделённое поле: 田んぼ (тамбо) – рисовое поле, 田舎 (инака) – деревня."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "梅田 (うめだ) Osakada rayon",
+   "田舎 (いなか) kənd"
+  ]
+ },
+ {
+  "kanji": "浴",
+  "on": "ヨク",
+  "kun": "あ・びる",
+  "az": "çimmək",
+  "en": "bathe",
+  "ru": "купаться",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "谷"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 谷 (dərə). Su ilə yuyunmaq: çimmək.",
+   "en": "The meaning part is water (氵) and the sound part is 谷 (valley). Washing the body with water: to bathe.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 谷 (долина). Обливаться водой: купаться."
+  },
+  "hekaye": {
+   "az": "Su ilə çim: 浴びる (abiru) – (duş) qəbul etmək, 浴衣 (yukata) – yay kimonosu.",
+   "en": "Bathe in water: 浴びる (abiru), to take (a shower); 浴衣 (yukata), summer kimono.",
+   "ru": "Облейся водой: 浴びる (абиру) – принимать (душ), 浴衣 (юката) – летнее кимоно."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "浴びます (あびます) (duş) qəbul etmək"
+  ]
+ },
+ {
+  "kanji": "若",
+  "on": "ジャク",
+  "kun": "わか・い",
+  "az": "gənc",
+  "en": "young",
+  "ru": "молодой",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "口",
+   "#"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir: saçını daran və ya ot yığan diz çökmüş qadın kimi izah olunur. Bu gün \"gənc\" mənasındadır.",
+   "en": "Its origin is debated: it is explained as a kneeling woman combing her hair or gathering herbs. Today it means \"young\".",
+   "ru": "Происхождение спорно: толкуют как коленопреклонённую женщину, расчёсывающую волосы или собирающую травы. Сегодня значит «молодой»."
+  },
+  "hekaye": {
+   "az": "Gənclik: 若い (wakai) – gənc, 若者 (wakamono) – gənclər.",
+   "en": "Youth: 若い (wakai), young; 若者 (wakamono), young people.",
+   "ru": "Молодость: 若い (вакай) – молодой, 若者 (вакамоно) – молодёжь."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "若い (わかい) gənc, cavan"
+  ]
+ },
+ {
+  "kanji": "短",
+  "on": "タン",
+  "kun": "みじか・い",
+  "az": "qısa",
+  "en": "short",
+  "ru": "короткий",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "矢",
+   "豆"
+  ],
+  "mense": {
+   "az": "Ox (矢) və səs hissəsi 豆. Qədimdə qısa məsafəni oxla ölçürdülər: qısa.",
+   "en": "An arrow (矢) and the sound part 豆. In old times short distances were measured with an arrow: short.",
+   "ru": "Стрела (矢) и звуковая часть 豆. В древности короткие расстояния мерили стрелой: короткий."
+  },
+  "hekaye": {
+   "az": "Ox boyda: 短い (mijikai) – qısa, 短所 (tansho) – çatışmazlıq.",
+   "en": "An arrow's length: 短い (mijikai), short; 短所 (tansho), weak point.",
+   "ru": "Длиной в стрелу: 短い (мидзикай) – короткий, 短所 (тансё) – недостаток."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "短い (みじかい) qısa"
+  ]
+ },
+ {
+  "kanji": "頭",
+  "on": "トウ、ズ",
+  "kun": "あたま",
+  "az": "baş",
+  "en": "head",
+  "ru": "голова",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "豆",
+   "頁"
+  ],
+  "mense": {
+   "az": "Məna hissəsi baş (頁), səs hissəsi 豆. Baş.",
+   "en": "The meaning part is head (頁) and the sound part is 豆. Head.",
+   "ru": "Смысловая часть – голова (頁), звуковая – 豆. Голова."
+  },
+  "hekaye": {
+   "az": "Baş: 頭 (atama) – baş, 頭痛 (zutsuu) – baş ağrısı.",
+   "en": "Head: 頭 (atama), head; 頭痛 (zutsuu), headache.",
+   "ru": "Голова: 頭 (атама) – голова, 頭痛 (дзуцу) – головная боль."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "頭 (あたま) baş"
+  ]
+ },
+ {
+  "kanji": "髪",
+  "on": "ハツ",
+  "kun": "かみ",
+  "az": "saç",
+  "en": "hair",
+  "ru": "волосы",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "長",
+   "彡",
+   "友"
+  ],
+  "mense": {
+   "az": "Yuxarıda uzun saç (髟), aşağıda səs hissəsi. Saç.",
+   "en": "Long hair (髟) on top and the sound part below. Hair.",
+   "ru": "Сверху длинные волосы (髟), снизу звуковая часть. Волосы."
+  },
+  "hekaye": {
+   "az": "Uzun tellər: 髪 (kami) – saç, 髪型 (kamigata) – saç düzümü.",
+   "en": "Long strands: 髪 (kami), hair; 髪型 (kamigata), hairstyle.",
+   "ru": "Длинные пряди: 髪 (ками) – волосы, 髪型 (камигата) – причёска."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "髪 (かみ) saç"
+  ]
+ },
+ {
+  "kanji": "顔",
+  "on": "ガン",
+  "kun": "かお",
+  "az": "üz",
+  "en": "face",
+  "ru": "лицо",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "立",
+   "厂",
+   "彡",
+   "頁"
+  ],
+  "mense": {
+   "az": "Məna hissəsi baş (頁), səs hissəsi 彦. Başın ön tərəfi: üz.",
+   "en": "The meaning part is head (頁) and the sound part is 彦. The front of the head: the face.",
+   "ru": "Смысловая часть – голова (頁), звуковая – 彦. Передняя часть головы: лицо."
+  },
+  "hekaye": {
+   "az": "Başın önü: 顔 (kao) – üz, 笑顔 (egao) – gülüş, təbəssüm.",
+   "en": "The front of the head: 顔 (kao), face; 笑顔 (egao), smile.",
+   "ru": "Перед головы: 顔 (као) – лицо, 笑顔 (эгао) – улыбка."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "顔 (かお) üz, sifət"
+  ]
+ },
+ {
+  "kanji": "耳",
+  "on": "ジ",
+  "kun": "みみ",
+  "az": "qulaq",
+  "en": "ear",
+  "ru": "ухо",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "耳"
+  ],
+  "mense": {
+   "az": "Qulağın şəklidir: kənarları və içindəki qıvrımlar.",
+   "en": "A picture of an ear: its rim and the folds inside.",
+   "ru": "Рисунок уха: край и завитки внутри."
+  },
+  "hekaye": {
+   "az": "Qulaq: 耳 (mimi) – qulaq.",
+   "en": "Ear: 耳 (mimi), ear.",
+   "ru": "Ухо: 耳 (мими) – ухо."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "耳 (みみ) qulaq"
+  ]
+ },
+ {
+  "kanji": "鼻",
+  "on": "ビ",
+  "kun": "はな",
+  "az": "burun",
+  "en": "nose",
+  "ru": "нос",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "自",
+   "田",
+   "十",
+   "#"
+  ],
+  "mense": {
+   "az": "Yuxarıda burun (自), aşağıda səs hissəsi 畀. 自 \"özü\" mənasına keçəndən sonra burun üçün bu kanji yarandı.",
+   "en": "The nose (自) on top and the sound part 畀 below. After 自 came to mean \"self\", this kanji was made for the nose.",
+   "ru": "Сверху нос (自), снизу звуковая часть 畀. Когда 自 стал значить «сам», для носа создали этот кандзи."
+  },
+  "hekaye": {
+   "az": "Burun + səs: 鼻 (hana) – burun, 鼻水 (hanamizu) – zökəm.",
+   "en": "Nose + sound: 鼻 (hana), nose; 鼻水 (hanamizu), runny nose.",
+   "ru": "Нос + звук: 鼻 (хана) – нос, 鼻水 (ханамидзу) – насморк."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "鼻 (はな) burun"
+  ]
+ },
+ {
+  "kanji": "口",
+  "on": "コウ",
+  "kun": "くち",
+  "az": "ağız",
+  "en": "mouth",
+  "ru": "рот",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "口"
+  ],
+  "mense": {
+   "az": "Açıq ağzın şəklidir. Həm də giriş, dəlik mənasında işlənir.",
+   "en": "A picture of an open mouth. It also means an opening, an entrance.",
+   "ru": "Рисунок открытого рта. Также значит отверстие, вход."
+  },
+  "hekaye": {
+   "az": "Açıq ağız: 口 (kuchi) – ağız, 入口 (iriguchi) – giriş, 出口 (deguchi) – çıxış.",
+   "en": "An open mouth: 口 (kuchi), mouth; 入口 (iriguchi), entrance; 出口 (deguchi), exit.",
+   "ru": "Открытый рот: 口 (кути) – рот, 入口 (иригути) – вход, 出口 (дэгути) – выход."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "口 (くち) ağız"
+  ]
+ },
+ {
+  "kanji": "腹",
+  "on": "フク",
+  "kun": "はら",
+  "az": "qarın",
+  "en": "belly",
+  "ru": "живот",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "月",
+   "#",
+   "日",
+   "夂"
+  ],
+  "mense": {
+   "az": "Məna hissəsi bədən, ət (月 = 肉), səs hissəsi 复. Qarın.",
+   "en": "The meaning part is body, flesh (月 = 肉) and the sound part is 复. Belly.",
+   "ru": "Смысловая часть – тело, плоть (月 = 肉), звуковая – 复. Живот."
+  },
+  "hekaye": {
+   "az": "Bədənin ortası: お腹 (onaka) – qarın, 腹が立つ (hara ga tatsu) – hirslənmək.",
+   "en": "The middle of the body: お腹 (onaka), belly; 腹が立つ (hara ga tatsu), to get angry.",
+   "ru": "Середина тела: お腹 (онака) – живот, 腹が立つ (хара га тацу) – злиться."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "お腹 (おなか) qarın, mədə"
+  ]
+ },
+ {
+  "kanji": "背",
+  "on": "ハイ",
+  "kun": "せ",
+  "az": "kürək, boy",
+  "en": "back, height",
+  "ru": "спина, рост",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "北",
+   "月"
+  ],
+  "mense": {
+   "az": "Məna hissəsi bədən (月 = 肉), səs hissəsi 北 (arxa-arxaya duran iki insan). Kürək, arxa.",
+   "en": "The meaning part is body (月 = 肉) and the sound part is 北 (two people standing back to back). The back.",
+   "ru": "Смысловая часть – тело (月 = 肉), звуковая – 北 (двое, стоящие спина к спине). Спина."
+  },
+  "hekaye": {
+   "az": "Arxa-arxaya: 背中 (senaka) – kürək, 背 (se) – boy.",
+   "en": "Back to back: 背中 (senaka), back; 背 (se), height.",
+   "ru": "Спина к спине: 背中 (сэнака) – спина, 背 (сэ) – рост."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "背 (せ) boy, hündürlük"
+  ]
+ },
+ {
+  "kanji": "緑",
+  "on": "リョク",
+  "kun": "みどり",
+  "az": "yaşıl",
+  "en": "green",
+  "ru": "зелёный",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "彔"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ipək sap (糸), səs hissəsi 彔. Yaşıla boyanmış ipək: yaşıl.",
+   "en": "The meaning part is silk thread (糸) and the sound part is 彔. Silk dyed green: green.",
+   "ru": "Смысловая часть – шёлковая нить (糸), звуковая – 彔. Шёлк, окрашенный в зелёный: зелёный."
+  },
+  "hekaye": {
+   "az": "Yaşıl ipək: 緑 (midori) – yaşıl, 緑茶 (ryokucha) – yaşıl çay.",
+   "en": "Green silk: 緑 (midori), green; 緑茶 (ryokucha), green tea.",
+   "ru": "Зелёный шёлк: 緑 (мидори) – зелёный, 緑茶 (рёкутя) – зелёный чай."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "緑 (みどり) yaşıl, yaşıllıq"
+  ]
+ },
+ {
+  "kanji": "額",
+  "on": "ガク",
+  "kun": "ひたい",
+  "az": "məbləğ, alın",
+  "en": "amount, forehead",
+  "ru": "сумма, лоб",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "夂",
+   "口",
+   "頁"
+  ],
+  "mense": {
+   "az": "Məna hissəsi baş (頁), səs hissəsi 客. Alın; sonra çərçivə (asılmış lövhə) və pul məbləği.",
+   "en": "The meaning part is head (頁) and the sound part is 客. The forehead; later a frame (a hung tablet) and a sum of money.",
+   "ru": "Смысловая часть – голова (頁), звуковая – 客. Лоб; позже рамка (вывешенная доска) и сумма денег."
+  },
+  "hekaye": {
+   "az": "Alın, məbləğ: 額 (hitai) – alın, 金額 (kingaku) – məbləğ.",
+   "en": "Forehead, sum: 額 (hitai), forehead; 金額 (kingaku), amount of money.",
+   "ru": "Лоб, сумма: 額 (хитай) – лоб, 金額 (кингаку) – сумма."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "金額 (きんがく) pulun məbləği"
+  ]
+ },
+ {
+  "kanji": "確",
+  "on": "カク",
+  "kun": "たし・か",
+  "az": "dəqiq",
+  "en": "certain",
+  "ru": "точный",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "石",
+   "宀",
+   "隹"
+  ],
+  "mense": {
+   "az": "Məna hissəsi daş (石), səs hissəsi 隺. Daş kimi möhkəm: dəqiq, əmin.",
+   "en": "The meaning part is stone (石) and the sound part is 隺. Firm as stone: certain, sure.",
+   "ru": "Смысловая часть – камень (石), звуковая – 隺. Твёрдый как камень: точный, уверенный."
+  },
+  "hekaye": {
+   "az": "Daş kimi möhkəm: 確認 (kakunin) – yoxlama, 確か (tashika) – yəqin, dəqiq.",
+   "en": "Firm as stone: 確認 (kakunin), confirmation; 確か (tashika), certain.",
+   "ru": "Твёрдый как камень: 確認 (какунин) – проверка, 確か (тасика) – верный."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "確認 (かくにん) təsdiq (～します: əmin olmaq üçün yoxlamaq)"
+  ]
+ },
+ {
+  "kanji": "認",
+  "on": "ニン",
+  "kun": "みと・める",
+  "az": "tanımaq",
+  "en": "recognize",
+  "ru": "признавать",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "言",
+   "刃",
+   "心"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 忍. Sözlə qəbul etmək: tanımaq, təsdiq etmək.",
+   "en": "The meaning part is words (言) and the sound part is 忍. Accepting in words: to recognise, to approve.",
+   "ru": "Смысловая часть – слово (言), звуковая – 忍. Принять словом: признавать, одобрять."
+  },
+  "hekaye": {
+   "az": "Sözlə qəbul: 確認 (kakunin) – yoxlama, 認める (mitomeru) – etiraf etmək.",
+   "en": "Accept in words: 確認 (kakunin), confirmation; 認める (mitomeru), to admit.",
+   "ru": "Прими словом: 確認 (какунин) – проверка, 認める (митомэру) – признавать."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "確認 (かくにん) təsdiq (～します: əmin olmaq üçün yoxlamaq)"
+  ]
+ },
+ {
+  "kanji": "梅",
+  "on": "バイ",
+  "kun": "うめ",
+  "az": "gavalı (ume)",
+  "en": "plum",
+  "ru": "слива",
+  "ders": 16,
+  "kart": true,
+  "komponent": [
+   "木",
+   "毎"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağac (木), səs hissəsi 毎. Gavalı ağacı, ume.",
+   "en": "The meaning part is tree (木) and the sound part is 毎. The Japanese plum, ume.",
+   "ru": "Смысловая часть – дерево (木), звуковая – 毎. Японская слива, умэ."
+  },
+  "hekaye": {
+   "az": "Gavalı ağacı: 梅 (ume) – ume, 梅雨 (tsuyu) – yağış mövsümü, \"gavalı yağışı\".",
+   "en": "The plum tree: 梅 (ume), Japanese plum; 梅雨 (tsuyu), rainy season, \"plum rains\".",
+   "ru": "Слива: 梅 (умэ) – слива, 梅雨 (цую) – сезон дождей, «сливовые дожди»."
+  },
+  "ilk_soz_dersi": 16,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "梅田 (うめだ) Osakada rayon"
+  ]
+ }
+]

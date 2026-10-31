@@ -1,2 +1,3 @@
-- JLPT N5 səviyyəsi; izahlar Azərbaycanca, nümunələr kana + romaji ilə.
-- İnkar/ziddiyyətdə て yox, が/けど/から istifadə olunur (istifadəçinin qaydası).
+# Testçi – daimi qaydalar
+- Suallar yalnız həmin dərsin və əvvəlki dərslərin kanji və sözlərindən olur.
+- Yanlış variantlar inandırıcı olmalıdır (oxşar oxunuş, oxşar forma).

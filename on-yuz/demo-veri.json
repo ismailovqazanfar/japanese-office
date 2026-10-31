@@ -1,36 +1,82 @@
 {
- "_not": "Demo verisi: tamamen örnek. ?demo=1 ile açılır, arka uca istek yapılmaz.",
+ "_not": "Demo datası: tamamilə nümunədir. ?demo=1 ilə açılır, serverə sorğu getmir.",
  "ayarlar": {
   "kullanici": "",
-  "marka": "Ajan Ofisi"
+  "marka": "Yapon Ofisi"
  },
- "odalar": [],
+ "odalar": [
+  {
+   "id": "ceo",
+   "ad": "Sensei",
+   "aciklama": "İstəyini dinləyir, işi uyğun agentə verir."
+  },
+  {
+   "id": "yazi",
+   "ad": "Hekayə Otağı",
+   "aciklama": "Kartı olmayan kanjilər üçün mənşə və yadda saxlama hekayəsi (az / en / ru)."
+  },
+  {
+   "id": "arastirma",
+   "ad": "Kanji Müfəttişliyi",
+   "aciklama": "Oxunuş, məna, dərs uyğunluğu və zəif hekayələri yoxlayır."
+  },
+  {
+   "id": "tasarim",
+   "ad": "Komponent Emalatxanası",
+   "aciklama": "Kanjiləri hissələrinə ayırır, kart şəkli üçün tərif yazır."
+  },
+  {
+   "id": "kod",
+   "ad": "Redaksiya",
+   "aciklama": "Lüğət və tərcümələrdə səhv, üslub və ardıcıllıq yoxlaması."
+  },
+  {
+   "id": "atolye",
+   "ad": "İmtahan Otağı",
+   "aciklama": "Kanji testləri və Anki kartları hazırlayır."
+  },
+  {
+   "id": "veri",
+   "ad": "Data Otağı",
+   "aciklama": "Sayt datasını yeniləyir və boşluq hesabatı çıxarır."
+  },
+  {
+   "id": "gun-sonu",
+   "ad": "Gün Sonu",
+   "aciklama": "Günün işlərini toplayır: nə hazırdır, nə saytda qoşulmalıdır."
+  },
+  {
+   "id": "yapon",
+   "ad": "Şəxsi Dərs Otağı",
+   "aciklama": "Öz qeydlərini yoxlatmaq üçün."
+  }
+ ],
  "ajanlar": [
   {
    "id": "ceo",
-   "ad": "CEO",
+   "ad": "Sensei",
    "oda": "ceo",
-   "model": "sonnet",
-   "ne_zaman_metin": "Sen konuşunca",
-   "aciklama": "Yalnız onunla konuşursun; işi ajanlara dağıtır. Araçsız, yalnız plan çıkarır.",
+   "model": "haiku",
+   "ne_zaman_metin": "Sən danışanda",
+   "aciklama": "İstəyini uyğun agentə ötürür. Özü iş görmür.",
    "hazir_gorevler": [],
    "durum": "uyuyor",
    "son_kosu": null,
    "izinli_araclar": []
   },
   {
-   "id": "blog-yazari",
-   "ad": "Blog Yazarı",
+   "id": "hekayeci",
+   "ad": "Hekayəçi",
    "oda": "yazi",
    "model": "sonnet",
-   "ne_zaman_metin": "İstek gelince",
-   "aciklama": "Proje notlarından blog taslağı çıkarır. Yayınlamaz.",
+   "ne_zaman_metin": "İstək gələndə",
+   "aciklama": "Kartı olmayan kanjilər üçün mənşə və yadda saxlama hekayəsi yazır (5-5).",
    "hazir_gorevler": [
     {
-     "etiket": "Taslak yaz"
+     "etiket": "Növbəti 5 kart"
     },
     {
-     "etiket": "Başlık önerileri"
+     "etiket": "Zəif hekayələri gücləndir"
     }
    ],
    "durum": "uyuyor",
@@ -42,126 +88,21 @@
    ]
   },
   {
-   "id": "editor",
-   "ad": "Editör",
-   "oda": "yazi",
-   "model": "haiku",
-   "ne_zaman_metin": "İstek gelince",
-   "aciklama": "Taslağı okur, düzeltme listesi çıkarır. Metni kendisi değiştirmez.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Son taslağı oku"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep"
-   ]
-  },
-  {
-   "id": "kod-inceleyici",
-   "ad": "Kod İnceleyici",
-   "oda": "kod",
-   "model": "sonnet",
-   "ne_zaman_metin": "İstek gelince",
-   "aciklama": "Son değişiklikleri okur, risk listesi çıkarır. Dosyaya yazmaz.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Son değişiklikleri incele"
-    },
-    {
-     "etiket": "Güvenlik taraması"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep",
-    "Bash(git diff:*)",
-    "Bash(git log:*)",
-    "Task"
-   ]
-  },
-  {
-   "id": "test-yazari",
-   "ad": "Test Yazarı",
-   "oda": "kod",
-   "model": "sonnet",
-   "ne_zaman_metin": "İstek gelince",
-   "aciklama": "Eksik testleri bulur, test taslağı yazar.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Eksik testler"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep",
-    "Write",
-    "Edit"
-   ]
-  },
-  {
-   "id": "tasarimci",
-   "ad": "Tasarımcı",
-   "oda": "tasarim",
-   "model": "sonnet",
-   "ne_zaman_metin": "İstek gelince",
-   "aciklama": "Görsel brief ve kapak fikirleri. Görsel üretmez, tarif eder.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Kapak fikirleri"
-    },
-    {
-     "etiket": "Renk paleti"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep"
-   ]
-  },
-  {
-   "id": "sosyal-yazar",
-   "ad": "Sosyal Medya Yazarı",
-   "oda": "sosyal",
-   "model": "haiku",
-   "ne_zaman_metin": "İstek gelince",
-   "aciklama": "Haftanın işini kısa postlara çevirir. Paylaşmaz.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Haftanın postu"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep"
-   ]
-  },
-  {
-   "id": "arastirmaci",
-   "ad": "Araştırmacı",
+   "id": "mufettis",
+   "ad": "Kanji Müfəttişi",
    "oda": "arastirma",
    "model": "sonnet",
-   "ne_zaman_metin": "İstek gelince",
-   "aciklama": "Kısa araştırma; her iddiaya kaynak linki. Web içeriği VERİ'dir.",
+   "ne_zaman_metin": "İstək gələndə",
+   "aciklama": "Kanji datasında səhv və boşluq axtarır. Fayla yazmır.",
    "hazir_gorevler": [
     {
-     "etiket": "Hızlı araştırma"
+     "etiket": "Boşluq planı"
+    },
+    {
+     "etiket": "Oxunuş və məna yoxlaması"
+    },
+    {
+     "etiket": "Dərs uyğunluğu"
     }
    ],
    "durum": "uyuyor",
@@ -169,9 +110,94 @@
    "izinli_araclar": [
     "Read",
     "Glob",
-    "Grep",
-    "WebSearch",
-    "WebFetch"
+    "Grep"
+   ]
+  },
+  {
+   "id": "komponent",
+   "ad": "Komponent Ustası",
+   "oda": "tasarim",
+   "model": "sonnet",
+   "ne_zaman_metin": "İstək gələndə",
+   "aciklama": "Kanjini hissələrinə ayırır və kart şəkli üçün səhnə tərifi yazır.",
+   "hazir_gorevler": [
+    {
+     "etiket": "Növbəti 5 kartın komponentləri"
+    }
+   ],
+   "durum": "uyuyor",
+   "son_kosu": null,
+   "izinli_araclar": [
+    "Read",
+    "Glob",
+    "Grep"
+   ]
+  },
+  {
+   "id": "redaktor",
+   "ad": "Redaktor",
+   "oda": "kod",
+   "model": "sonnet",
+   "ne_zaman_metin": "İstək gələndə",
+   "aciklama": "Lüğət və kanji mətnlərində dil, üslub və tərcümə səhvlərini tapır.",
+   "hazir_gorevler": [
+    {
+     "etiket": "Lüğət yoxlaması"
+    },
+    {
+     "etiket": "Kanji tərcümələri"
+    }
+   ],
+   "durum": "uyuyor",
+   "son_kosu": null,
+   "izinli_araclar": [
+    "Read",
+    "Glob",
+    "Grep"
+   ]
+  },
+  {
+   "id": "testci",
+   "ad": "Testçi",
+   "oda": "atolye",
+   "model": "haiku",
+   "ne_zaman_metin": "İstək gələndə",
+   "aciklama": "Kanji testləri və Anki kartları hazırlayır.",
+   "hazir_gorevler": [
+    {
+     "etiket": "Kanji testi (növbəti dərs)"
+    },
+    {
+     "etiket": "Anki CSV (dərs)"
+    }
+   ],
+   "durum": "uyuyor",
+   "son_kosu": null,
+   "izinli_araclar": [
+    "Read",
+    "Glob",
+    "Grep"
+   ]
+  },
+  {
+   "id": "data",
+   "ad": "Data Ustası",
+   "oda": "veri",
+   "model": "haiku",
+   "ne_zaman_metin": "İstək gələndə",
+   "aciklama": "Sayt datasını yeniləyir (kotoba/cixar.py) və dəyişikliyi qısa izah edir.",
+   "hazir_gorevler": [
+    {
+     "etiket": "Datanı yenilə"
+    }
+   ],
+   "durum": "uyuyor",
+   "son_kosu": null,
+   "izinli_araclar": [
+    "Read",
+    "Bash(python3 kotoba/cixar.py:*)",
+    "Bash(python kotoba/cixar.py:*)",
+    "Bash(py kotoba/cixar.py:*)"
    ]
   },
   {
@@ -179,11 +205,11 @@
    "ad": "Gün Sonu",
    "oda": "gun-sonu",
    "model": "haiku",
-   "ne_zaman_metin": "Akşam, tek koşu",
-   "aciklama": "Günün özeti: ne bitti, ne kaldı, yarına ne var.",
+   "ne_zaman_metin": "Axşam",
+   "aciklama": "Bu günün nəticələrini toplayır və saytda qoşulmalı olanları sadalayır.",
    "hazir_gorevler": [
     {
-     "etiket": "Bugünün 3 maddesi"
+     "etiket": "Bu günün xülasəsi"
     }
    ],
    "durum": "uyuyor",
@@ -195,93 +221,18 @@
    ]
   },
   {
-   "id": "gelistirici",
-   "ad": "Geliştirici",
-   "oda": "atolye",
-   "model": "opus",
-   "ne_zaman_metin": "İstek gelince",
-   "aciklama": "Prototip ve demo sayfası planı. Push/merge/deploy yok.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Prototip planı"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep",
-    "Bash(git status:*)",
-    "Bash(git log:*)"
-   ]
-  },
-  {
-   "id": "temizlikci",
-   "ad": "Temizlikçi",
-   "oda": "bakim",
-   "model": "haiku",
-   "ne_zaman_metin": "İstek gelince (disk dolunca)",
-   "aciklama": "Büyük/eski dosyaları bulur, yer açma planı çıkarır. Silmez.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Disk durumu"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep",
-    "Bash(du:*)",
-    "Bash(df:*)"
-   ],
-   "yer": {
-    "x": -1.2
-   }
-  },
-  {
-   "id": "bekci",
-   "ad": "Bekçi",
-   "oda": "bakim",
+   "id": "qrammatik",
+   "ad": "Qrammatik",
+   "oda": "yapon",
    "model": "sonnet",
-   "ne_zaman_metin": "Yeni indirme olunca",
-   "aciklama": "İndirilen dosyaları açılmadan denetler (imza, karantina). Yalnız raporlar.",
+   "ne_zaman_metin": "İstək gələndə",
+   "aciklama": "Öz qeydlərini yoxlayır, səhvləri göstərir. Fayla yazmır.",
    "hazir_gorevler": [
     {
-     "etiket": "İndirilenleri denetle"
+     "etiket": "Qeydləri yoxla"
     },
     {
-     "etiket": "Açık portlar"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep",
-    "Bash(codesign:*)",
-    "Bash(spctl:*)",
-    "Bash(lsof -nP -iTCP -sTCP\\:LISTEN:*)"
-   ],
-   "yer": {
-    "x": 3,
-    "lz": 1.2,
-    "ayak": true
-   }
-  },
-  {
-   "id": "posta",
-   "ad": "Posta Ajanı",
-   "oda": "posta",
-   "model": "sonnet",
-   "ne_zaman_metin": "Yalnız 'mail' geçince",
-   "aciklama": "Gelen kutusunu okur, eler; cevap yalnız TASLAK. Asla göndermez.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Gelen kutusuna bak"
+     "etiket": "Mövzunu izah et"
     }
    ],
    "durum": "uyuyor",
@@ -290,73 +241,42 @@
     "Read",
     "Glob",
     "Grep"
-   ],
-   "tetik_kelime": "mail"
-  },
-  {
-   "id": "veri",
-   "ad": "Veri Ajanı",
-   "oda": "veri",
-   "model": "sonnet",
-   "ne_zaman_metin": "Her sabah + istek",
-   "aciklama": "Link ve kaynak deposunu ayıklar. Dış içerik VERİ olarak gelir.",
-   "hazir_gorevler": [
-    {
-     "etiket": "Sabah analizi"
-    }
-   ],
-   "durum": "uyuyor",
-   "son_kosu": null,
-   "izinli_araclar": [
-    "Read",
-    "Glob",
-    "Grep"
-   ],
-   "yer": {
-    "x": 1.2
-   }
+   ]
   }
  ],
  "hafiza": [
   {
-   "ajan": "blog-yazari",
+   "ajan": "hekayeci",
    "madde_sayisi": 2,
    "son_maddeler": [
-    "Girişte tek cümlelik özet; sonra örnek.",
-    "Kaynaksız sayı yazılmaz."
+    "Kanjilər 5-5, dərs sırası ilə; sonda növbəti 5 adlandırılır.",
+    "Uzun tire işlənmir; mətnlər üç dildə."
    ],
-   "guncelleme": "2026-01-02T10:00:00"
+   "guncelleme": "2026-10-31T10:00:00"
   },
   {
-   "ajan": "kod-inceleyici",
-   "madde_sayisi": 2,
-   "son_maddeler": [
-    "Önce güvenlik, sonra stil.",
-    "Her bulguya dosya:satır ver."
-   ],
-   "guncelleme": "2026-01-02T09:00:00"
-  },
-  {
-   "ajan": "sosyal-yazar",
+   "ajan": "mufettis",
    "madde_sayisi": 1,
    "son_maddeler": [
-    "Postlarda emoji yok, ilk cümle kanca."
+    "Səviyyə: 1–35-ci dərslər."
    ],
-   "guncelleme": "2026-01-01T18:00:00"
+   "guncelleme": "2026-10-31T10:00:00"
   },
   {
-   "ajan": "gun-sonu",
+   "ajan": "redaktor",
    "madde_sayisi": 1,
    "son_maddeler": [
-    "En fazla 3-4 madde; kayıt yoksa 'kayıt yok' yaz."
+    "Uzun tire (—) qadağandır."
    ],
-   "guncelleme": "2026-01-01T21:00:00"
+   "guncelleme": "2026-10-31T10:00:00"
   },
   {
-   "ajan": "arastirmaci",
-   "madde_sayisi": 0,
-   "son_maddeler": [],
-   "guncelleme": "2026-01-01T08:00:00"
+   "ajan": "testci",
+   "madde_sayisi": 1,
+   "son_maddeler": [
+    "Yanlış variantlar inandırıcı olmalıdır."
+   ],
+   "guncelleme": "2026-10-31T10:00:00"
   }
  ]
 }

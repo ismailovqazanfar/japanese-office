@@ -1,0 +1,1079 @@
+[
+ {
+  "kanji": "祭",
+  "on": "サイ",
+  "kun": "まつ・り",
+  "az": "bayram, festival",
+  "en": "festival",
+  "ru": "праздник",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "月",
+   "#",
+   "示"
+  ],
+  "mense": {
+   "az": "Ət (月 = 肉), əl (又) və qurbangah (示). Əllə ət nəziri təqdim etmək: mərasim, bayram.",
+   "en": "Meat (月 = 肉), a hand (又) and an altar (示). Offering meat by hand: a rite, a festival.",
+   "ru": "Мясо (月 = 肉), рука (又) и алтарь (示). Подносить мясо рукой: обряд, праздник."
+  },
+  "hekaye": {
+   "az": "Əllə nəzir: 祭り (matsuri) – festival.",
+   "en": "An offering by hand: 祭り (matsuri), festival.",
+   "ru": "Подношение рукой: 祭り (мацури) – праздник."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "[お]祭り ([お]まつり) festival, bayram",
+   "祇園祭 (ぎおんまつり) Gion festivalı (Kyotoda iyulda keçirilir)",
+   "雪祭り (ゆきまつり) Qar festivalı",
+   "天神祭 (てんじんまつり) Tenjin festivalı (Osakada)"
+  ]
+ },
+ {
+  "kanji": "葉",
+  "on": "ヨウ",
+  "kun": "は",
+  "az": "yarpaq",
+  "en": "leaf",
+  "ru": "лист",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "世",
+   "木"
+  ],
+  "mense": {
+   "az": "Yuxarıda ot (艹), aşağıda 枼 (ağacda yarpaqlar, səs də verir). Yarpaq.",
+   "en": "Grass (艹) on top and 枼 (leaves on a tree, also giving the sound) below. A leaf.",
+   "ru": "Сверху трава (艹), снизу 枼 (листья на дереве, также даёт звук). Лист."
+  },
+  "hekaye": {
+   "az": "Ağacda yarpaq: 葉 (ha) – yarpaq, 言葉 (kotoba) – söz, \"dilin yarpaqları\".",
+   "en": "Leaves on a tree: 葉 (ha), leaf; 言葉 (kotoba), word, \"leaves of speech\".",
+   "ru": "Листья на дереве: 葉 (ха) – лист, 言葉 (котоба) – слово, «листья речи»."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "紅葉 (もみじ) Momiji ağacı (payızda yarpaqları qızaran ağac)",
+   "秋葉原 (あきはばら) Tokioda rayon (elektrik malları mərkəzi)",
+   "言葉 (ことば) dil, söz"
+  ]
+ },
+ {
+  "kanji": "秋",
+  "on": "シュウ",
+  "kun": "あき",
+  "az": "payız",
+  "en": "autumn",
+  "ru": "осень",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "禾",
+   "火"
+  ],
+  "mense": {
+   "az": "Taxıl (禾) və od (火). Taxılın od rənginə boyanıb yetişdiyi, küləşin yandırıldığı vaxt: payız.",
+   "en": "Grain (禾) and fire (火). The time when grain ripens to the colour of fire and the stubble is burnt: autumn.",
+   "ru": "Колос (禾) и огонь (火). Время, когда зерно спеет цвета огня и сжигают стерню: осень."
+  },
+  "hekaye": {
+   "az": "Od rəngli taxıl: 秋 (aki) – payız, 秋分 (shuubun) – payız gecə-gündüz bərabərliyi.",
+   "en": "Fire-coloured grain: 秋 (aki), autumn; 秋分 (shuubun), autumn equinox.",
+   "ru": "Зерно цвета огня: 秋 (аки) – осень, 秋分 (сюбун) – осеннее равноденствие."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "秋 (あき) payız",
+   "秋葉原 (あきはばら) Tokioda rayon (elektrik malları mərkəzi)"
+  ]
+ },
+ {
+  "kanji": "雪",
+  "on": "セツ",
+  "kun": "ゆき",
+  "az": "qar",
+  "en": "snow",
+  "ru": "снег",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "雨",
+   "⺕"
+  ],
+  "mense": {
+   "az": "Yuxarıda yağış (雨), aşağıda süpürgə tutan əl (ヨ, köhnədə 彗). Süpürgə ilə süpürülən yağış: qar.",
+   "en": "Rain (雨) on top and a hand holding a broom (ヨ, formerly 彗) below. Precipitation you can sweep with a broom: snow.",
+   "ru": "Сверху дождь (雨), снизу рука с метлой (ヨ, раньше 彗). Осадки, которые можно смести метлой: снег."
+  },
+  "hekaye": {
+   "az": "Süpürülən yağış: 雪 (yuki) – qar, 雪祭り (yukimatsuri) – qar festivalı.",
+   "en": "Rain you can sweep: 雪 (yuki), snow; 雪祭り (yukimatsuri), snow festival.",
+   "ru": "Дождь, который сметают: 雪 (юки) – снег, 雪祭り (юкимацури) – снежный фестиваль."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "雪 (ゆき) qar",
+   "雪祭り (ゆきまつり) Qar festivalı"
+  ]
+ },
+ {
+  "kanji": "遊",
+  "on": "ユウ",
+  "kun": "あそ・ぶ",
+  "az": "oynamaq",
+  "en": "play",
+  "ru": "играть",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "方",
+   "#",
+   "子",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), sağ hissə küləkdə dalğalanan bayraqdır (斿). Bayraq kimi sərbəst dolaşmaq: gəzmək, oynamaq.",
+   "en": "The meaning part is road (辶); the right side is a banner streaming in the wind (斿). Roaming freely like a banner: to wander, to play.",
+   "ru": "Смысловая часть – путь (辶), справа знамя, развевающееся на ветру (斿). Свободно бродить, как знамя на ветру: гулять, играть."
+  },
+  "hekaye": {
+   "az": "Bayraq kimi sərbəst: 遊ぶ (asobu) – oynamaq, əylənmək.",
+   "en": "Free as a banner: 遊ぶ (asobu), to play, to have fun.",
+   "ru": "Свободно, как знамя: 遊ぶ (асобу) – играть, развлекаться."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "遊園地 (ゆうえんち) əyləncə parkı",
+   "遊びます (あそびます) oynamaq, əylənmək"
+  ]
+ },
+ {
+  "kanji": "身",
+  "on": "シン",
+  "kun": "み",
+  "az": "bədən",
+  "en": "body",
+  "ru": "тело",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "身"
+  ],
+  "mense": {
+   "az": "Yandan görünən, qarnı böyük insan: hamilə qadın. Buradan \"bədən, özü\" mənası yarandı.",
+   "en": "A person seen from the side with a big belly: a pregnant woman. From this came \"body, oneself\".",
+   "ru": "Человек в профиль с большим животом: беременная женщина. Отсюда «тело, сам»."
+  },
+  "hekaye": {
+   "az": "Bədən: 身 (mi) – bədən, 出身 (shusshin) – əslən, 刺身 (sashimi) – sashimi.",
+   "en": "Body: 身 (mi), body; 出身 (shusshin), origin; 刺身 (sashimi), sashimi.",
+   "ru": "Тело: 身 (ми) – тело, 出身 (сюссин) – родом из, 刺身 (сасими) – сасими."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "刺身 (さしみ) sashimi (yemək adı)",
+   "独身 (どくしん) subay"
+  ]
+ },
+ {
+  "kanji": "疲",
+  "on": "ヒ",
+  "kun": "つか・れる",
+  "az": "yorulmaq",
+  "en": "tired",
+  "ru": "уставать",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "疒",
+   "皮"
+  ],
+  "mense": {
+   "az": "Məna hissəsi xəstə yatağı (疒), səs hissəsi 皮. Bədənin taqətdən düşməsi: yorulmaq.",
+   "en": "The meaning part is sickbed (疒) and the sound part is 皮. The body running out of strength: to tire.",
+   "ru": "Смысловая часть – больничная постель (疒), звуковая – 皮. Тело выбилось из сил: уставать."
+  },
+  "hekaye": {
+   "az": "Taqətsiz bədən: 疲れる (tsukareru) – yorulmaq, お疲れ様 (otsukaresama) – zəhmətinizə sağ olun.",
+   "en": "A body out of strength: 疲れる (tsukareru), to get tired; お疲れ様 (otsukaresama), thanks for your hard work.",
+   "ru": "Тело без сил: 疲れる (цукарэру) – уставать, お疲れ様 (оцукарэсама) – спасибо за труд."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "疲れました。 (つかれました。) Yoruldum.",
+   "疲れます (つかれます) yorulmaq"
+  ]
+ },
+ {
+  "kanji": "簡",
+  "on": "カン",
+  "kun": "–",
+  "az": "sadə",
+  "en": "simple",
+  "ru": "простой",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "竹",
+   "門",
+   "日"
+  ],
+  "mense": {
+   "az": "Məna hissəsi bambuk (⺮), səs hissəsi 間. Qədimdə üzərinə yazı yazılan bambuk lövhəciklər idi. Qısa qeydlərdən \"sadə, qısa\" mənası yarandı.",
+   "en": "The meaning part is bamboo (⺮) and the sound part is 間. In ancient times these were bamboo slips used for writing. Short notes gave the meaning \"simple, brief\".",
+   "ru": "Смысловая часть – бамбук (⺮), звуковая – 間. В древности – бамбуковые планки для письма. От коротких записей пошло значение «простой, краткий»."
+  },
+  "hekaye": {
+   "az": "Bambuk lövhədə qısa qeyd: 簡単 (kantan) – asan, sadə.",
+   "en": "A short note on a bamboo slip: 簡単 (kantan), easy, simple.",
+   "ru": "Короткая запись на бамбуке: 簡単 (кантан) – простой, лёгкий."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "簡単[な] (かんたん[な]) asan, sadə"
+  ]
+ },
+ {
+  "kanji": "単",
+  "on": "タン",
+  "kun": "–",
+  "az": "tək, sadə",
+  "en": "single, simple",
+  "ru": "одиночный, простой",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "⺍",
+   "甲"
+  ],
+  "mense": {
+   "az": "Köhnə forması 單. Mənşəyi mübahisəlidir: iki uclu ov silahı kimi izah olunur. Çox erkən dövrdən \"tək, sadə\" mənasındadır.",
+   "en": "The old form is 單. Its origin is debated: it is explained as a two-pronged hunting weapon. From very early on it meant \"single, simple\".",
+   "ru": "Старая форма 單. Происхождение спорно: толкуют как двузубое охотничье оружие. С ранних времён значит «одиночный, простой»."
+  },
+  "hekaye": {
+   "az": "Tək: 単語 (tango) – söz, 簡単 (kantan) – asan.",
+   "en": "Single: 単語 (tango), word; 簡単 (kantan), easy.",
+   "ru": "Одиночный: 単語 (танго) – слово, 簡単 (кантан) – простой."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "簡単[な] (かんたん[な]) asan, sadə"
+  ]
+ },
+ {
+  "kanji": "遠",
+  "on": "エン",
+  "kun": "とお・い",
+  "az": "uzaq",
+  "en": "far",
+  "ru": "далёкий",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "土",
+   "口",
+   "衣",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), səs hissəsi 袁. Yolu uzun olan: uzaq.",
+   "en": "The meaning part is road (辶) and the sound part is 袁. A long road: far.",
+   "ru": "Смысловая часть – путь (辶), звуковая – 袁. Длинный путь: далёкий."
+  },
+  "hekaye": {
+   "az": "Uzun yol: 遠い (tooi) – uzaq, 遠足 (ensoku) – məktəb gəzintisi.",
+   "en": "A long road: 遠い (tooi), far; 遠足 (ensoku), school outing.",
+   "ru": "Долгий путь: 遠い (тоой) – далёкий, 遠足 (энсоку) – школьная экскурсия."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "遠い (とおい) uzaq"
+  ]
+ },
+ {
+  "kanji": "速",
+  "on": "ソク",
+  "kun": "はや・い",
+  "az": "sürətli",
+  "en": "fast",
+  "ru": "быстрый",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "束",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), səs hissəsi 束. Yolda cəld hərəkət: sürətli.",
+   "en": "The meaning part is road (辶) and the sound part is 束. Moving quickly on the road: fast.",
+   "ru": "Смысловая часть – путь (辶), звуковая – 束. Быстрое движение по дороге: быстрый."
+  },
+  "hekaye": {
+   "az": "Yolda cəld: 速い (hayai) – sürətli, 高速 (kousoku) – yüksək sürət.",
+   "en": "Quick on the road: 速い (hayai), fast; 高速 (kousoku), high speed.",
+   "ru": "Быстрый в пути: 速い (хаяй) – быстрый, 高速 (косоку) – высокая скорость."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "速い/早い (はやい) tez, sürətli"
+  ]
+ },
+ {
+  "kanji": "遅",
+  "on": "チ",
+  "kun": "おそ・い",
+  "az": "gec, yavaş",
+  "en": "late, slow",
+  "ru": "поздний, медленный",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "尸",
+   "羊",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), sağ hissə köhnə formada (遲) səs verirdi. Yolda yavaş getmək: yavaş, gec.",
+   "en": "The meaning part is road (辶); the right side gave the sound in the old form (遲). Going slowly on the road: slow, late.",
+   "ru": "Смысловая часть – путь (辶); правая часть в старой форме (遲) давала звук. Медленно идти по дороге: медленный, поздний."
+  },
+  "hekaye": {
+   "az": "Yolda yavaş: 遅い (osoi) – yavaş, gec; 遅刻 (chikoku) – gecikmə.",
+   "en": "Slow on the road: 遅い (osoi), slow, late; 遅刻 (chikoku), lateness.",
+   "ru": "Медленно в пути: 遅い (осой) – медленный, поздний; 遅刻 (тикоку) – опоздание."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "遅い (おそい) gec, asta, ləng"
+  ]
+ },
+ {
+  "kanji": "多",
+  "on": "タ",
+  "kun": "おお・い",
+  "az": "çox",
+  "en": "many",
+  "ru": "много",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "夕",
+   "夕"
+  ],
+  "mense": {
+   "az": "Üst-üstə qoyulmuş iki parça ət (夕-ə bənzəyir). Üst-üstə yığılan: çox.",
+   "en": "Two pieces of meat stacked on top of each other (they look like 夕). Piled up: many.",
+   "ru": "Два куска мяса, сложенные друг на друга (похожи на 夕). Сложенное горкой: много."
+  },
+  "hekaye": {
+   "az": "Üst-üstə yığılmış: 多い (ooi) – çox, 多分 (tabun) – yəqin.",
+   "en": "Piled up: 多い (ooi), many; 多分 (tabun), probably.",
+   "ru": "Сложенное горкой: 多い (оой) – много, 多分 (табун) – наверное."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "多い [人が～] (おおい [ひとが～]) çox (miqdarca) [çox adam]"
+  ]
+ },
+ {
+  "kanji": "暖",
+  "on": "ダン",
+  "kun": "あたた・かい",
+  "az": "isti (hava)",
+  "en": "warm (weather)",
+  "ru": "тёплый (погода)",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "日",
+   "⺤",
+   "友",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi günəş (日), səs hissəsi 爰. Günəşin isitdiyi: isti (hava).",
+   "en": "The meaning part is the sun (日) and the sound part is 爰. Warmed by the sun: warm (weather).",
+   "ru": "Смысловая часть – солнце (日), звуковая – 爰. Согретый солнцем: тёплый (о погоде)."
+  },
+  "hekaye": {
+   "az": "Günəş isidir: 暖かい (atatakai) – isti (hava), 暖房 (danbou) – isitmə.",
+   "en": "The sun warms: 暖かい (atatakai), warm; 暖房 (danbou), heating.",
+   "ru": "Солнце греет: 暖かい (ататакай) – тёплый, 暖房 (дамбо) – отопление."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "暖かい/温かい (あたたかい) ilıq (hava / içki)"
+  ]
+ },
+ {
+  "kanji": "温",
+  "on": "オン",
+  "kun": "あたた・かい",
+  "az": "isti (əşya)",
+  "en": "warm (object)",
+  "ru": "тёплый (предмет)",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "日",
+   "皿"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 昷. Isidilmiş su: ilıq, isti (maye, əşya).",
+   "en": "The meaning part is water (氵) and the sound part is 昷. Warmed water: warm (liquids, things).",
+   "ru": "Смысловая часть – вода (氵), звуковая – 昷. Подогретая вода: тёплый (о жидкостях, вещах)."
+  },
+  "hekaye": {
+   "az": "İlıq su: 温かい (atatakai) – isti (yemək), 温泉 (onsen) – isti bulaq.",
+   "en": "Warm water: 温かい (atatakai), warm (food); 温泉 (onsen), hot spring.",
+   "ru": "Тёплая вода: 温かい (ататакай) – тёплый (о еде), 温泉 (онсэн) – горячий источник."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "暖かい/温かい (あたたかい) ilıq (hava / içki)"
+  ]
+ },
+ {
+  "kanji": "涼",
+  "on": "リョウ",
+  "kun": "すず・しい",
+  "az": "sərin",
+  "en": "cool",
+  "ru": "прохладный",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "京"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 京. Sudan gələn sərinlik: sərin.",
+   "en": "The meaning part is water (氵) and the sound part is 京. The coolness that comes off water: cool.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 京. Прохлада от воды: прохладный."
+  },
+  "hekaye": {
+   "az": "Sudan sərinlik: 涼しい (suzushii) – sərin.",
+   "en": "Coolness from water: 涼しい (suzushii), cool.",
+   "ru": "Прохлада от воды: 涼しい (судзусий) – прохладный."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "涼しい (すずしい) sərin"
+  ]
+ },
+ {
+  "kanji": "甘",
+  "on": "カン",
+  "kun": "あま・い",
+  "az": "şirin",
+  "en": "sweet",
+  "ru": "сладкий",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "十",
+   "#"
+  ],
+  "mense": {
+   "az": "Ağız (口) və içində bir şey (一). Ağızda saxlanılıb dadılan: şirin, ləzzətli.",
+   "en": "A mouth (口) with something inside (一). Something kept in the mouth and savoured: sweet.",
+   "ru": "Рот (口) с чем-то внутри (一). То, что держат во рту и смакуют: сладкий."
+  },
+  "hekaye": {
+   "az": "Ağızda dadılan: 甘い (amai) – şirin, 甘える (amaeru) – naz etmək.",
+   "en": "Savoured in the mouth: 甘い (amai), sweet; 甘える (amaeru), to act spoilt.",
+   "ru": "Смакуемое во рту: 甘い (амай) – сладкий, 甘える (амаэру) – капризничать."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "甘い (あまい) şirin"
+  ]
+ },
+ {
+  "kanji": "辛",
+  "on": "シン",
+  "kun": "から・い",
+  "az": "acı, çətin",
+  "en": "spicy, hard",
+  "ru": "острый, тяжёлый",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "辛"
+  ],
+  "mense": {
+   "az": "Qədimdə cəza üçün işlənən iti alət, iynə. Ağrı, əziyyət; sonra \"acı (istiot kimi)\" mənası.",
+   "en": "In ancient times a sharp tool, a needle used for punishment. Pain, hardship; later \"spicy\".",
+   "ru": "В древности – острое орудие, игла для наказания. Боль, тяготы; позже «острый (на вкус)»."
+  },
+  "hekaye": {
+   "az": "İynə kimi yandıran: 辛い (karai) – acı, 辛い (tsurai) – ağır, əzablı.",
+   "en": "Burning like a needle: 辛い (karai), spicy; 辛い (tsurai), painful, hard.",
+   "ru": "Жжёт как игла: 辛い (карай) – острый, 辛い (цурай) – тяжёлый, мучительный."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "辛い (からい) acı"
+  ]
+ },
+ {
+  "kanji": "重",
+  "on": "ジュウ",
+  "kun": "おも・い",
+  "az": "ağır",
+  "en": "heavy",
+  "ru": "тяжёлый",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "千",
+   "#"
+  ],
+  "mense": {
+   "az": "Torpaq (土) üstündə ağır kisə (東-ə bənzəyir) daşıyan insan (人, yuxarıda). Ağır, əhəmiyyətli; həm də \"qat\".",
+   "en": "A person (人, at the top) carrying a heavy sack (like 東) on the ground (土). Heavy, important; also \"layer\".",
+   "ru": "Человек (人, сверху), несущий тяжёлый мешок (похож на 東) на земле (土). Тяжёлый, важный; также «слой»."
+  },
+  "hekaye": {
+   "az": "Ağır kisə: 重い (omoi) – ağır, 重要 (juuyou) – vacib.",
+   "en": "A heavy sack: 重い (omoi), heavy; 重要 (juuyou), important.",
+   "ru": "Тяжёлый мешок: 重い (омой) – тяжёлый, 重要 (дзюё) – важный."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "重い (おもい) ağır"
+  ]
+ },
+ {
+  "kanji": "軽",
+  "on": "ケイ",
+  "kun": "かる・い",
+  "az": "yüngül",
+  "en": "light",
+  "ru": "лёгкий",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "車",
+   "又",
+   "土"
+  ],
+  "mense": {
+   "az": "Məna hissəsi araba (車), səs hissəsi 巠. Yüngül döyüş arabası: yüngül.",
+   "en": "The meaning part is cart (車) and the sound part is 巠. A light war chariot: light.",
+   "ru": "Смысловая часть – повозка (車), звуковая – 巠. Лёгкая боевая колесница: лёгкий."
+  },
+  "hekaye": {
+   "az": "Yüngül araba: 軽い (karui) – yüngül, 気軽 (kigaru) – rahat, asanlıqla.",
+   "en": "A light chariot: 軽い (karui), light; 気軽 (kigaru), casual, easy.",
+   "ru": "Лёгкая колесница: 軽い (каруй) – лёгкий, 気軽 (кигару) – непринуждённо."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "軽い (かるい) yüngül"
+  ]
+ },
+ {
+  "kanji": "季",
+  "on": "キ",
+  "kun": "–",
+  "az": "mövsüm",
+  "en": "season",
+  "ru": "сезон",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "禾",
+   "子"
+  ],
+  "mense": {
+   "az": "Yuxarıda taxıl (禾), aşağıda uşaq (子). Gənc, təzə taxıl. Taxılın böyümə dövrləri ilin fəsillərini göstərir: fəsil.",
+   "en": "Grain (禾) on top and a child (子) below. Young grain. The growing stages of grain mark the parts of the year: season.",
+   "ru": "Сверху колос (禾), снизу ребёнок (子). Молодое зерно. Стадии роста зерна отмечают части года: сезон."
+  },
+  "hekaye": {
+   "az": "Gənc taxıl: 季節 (kisetsu) – fəsil.",
+   "en": "Young grain: 季節 (kisetsu), season.",
+   "ru": "Молодое зерно: 季節 (кисэцу) – время года."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "季節 (きせつ) mövsüm"
+  ]
+ },
+ {
+  "kanji": "節",
+  "on": "セツ",
+  "kun": "ふし",
+  "az": "dövr, oynaq",
+  "en": "season, joint",
+  "ru": "сезон, сустав",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "竹",
+   "艮",
+   "卩"
+  ],
+  "mense": {
+   "az": "Məna hissəsi bambuk (⺮), səs hissəsi 即. Bambuk gövdəsindəki düyün. İlin \"düyünləri\" fəsillər, bayramlardır.",
+   "en": "The meaning part is bamboo (⺮) and the sound part is 即. A node on a bamboo stem. The \"nodes\" of the year are its seasons and festivals.",
+   "ru": "Смысловая часть – бамбук (⺮), звуковая – 即. Узел на стебле бамбука. «Узлы» года – сезоны и праздники."
+  },
+  "hekaye": {
+   "az": "Bambuk düyünü: 季節 (kisetsu) – fəsil, 節約 (setsuyaku) – qənaət.",
+   "en": "A bamboo node: 季節 (kisetsu), season; 節約 (setsuyaku), saving.",
+   "ru": "Узел бамбука: 季節 (кисэцу) – время года, 節約 (сэцуяку) – экономия."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "季節 (きせつ) mövsüm"
+  ]
+ },
+ {
+  "kanji": "春",
+  "on": "シュン",
+  "kun": "はる",
+  "az": "yaz",
+  "en": "spring",
+  "ru": "весна",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "一",
+   "一",
+   "大",
+   "日"
+  ],
+  "mense": {
+   "az": "Köhnə formada ot (艹), günəş (日) və cücərən zoğ (屯, səs verir). Günəşdə cücərən bitkilər: yaz.",
+   "en": "In the old form grass (艹), the sun (日) and a sprouting shoot (屯, giving the sound). Plants sprouting in the sun: spring.",
+   "ru": "В старой форме трава (艹), солнце (日) и пробивающийся росток (屯, даёт звук). Растения, прорастающие на солнце: весна."
+  },
+  "hekaye": {
+   "az": "Günəşdə cücərən: 春 (haru) – yaz, 春休み (haruyasumi) – yaz tətili.",
+   "en": "Sprouting in the sun: 春 (haru), spring; 春休み (haruyasumi), spring holidays.",
+   "ru": "Прорастающее на солнце: 春 (хару) – весна, 春休み (харуясуми) – весенние каникулы."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "春 (はる) yaz"
+  ]
+ },
+ {
+  "kanji": "夏",
+  "on": "カ",
+  "kun": "なつ",
+  "az": "yay",
+  "en": "summer",
+  "ru": "лето",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "一",
+   "自",
+   "夂"
+  ],
+  "mense": {
+   "az": "Böyük başı, qolları və ayaqları görünən insan. Mənşəyi mübahisəlidir; ən isti fəsil, yay mənasında işlənir.",
+   "en": "A person with a big head, arms and feet. Its origin is debated; it is used for the hottest season, summer.",
+   "ru": "Человек с большой головой, руками и ногами. Происхождение спорно; обозначает самое жаркое время года, лето."
+  },
+  "hekaye": {
+   "az": "Ən isti fəsil: 夏 (natsu) – yay, 夏休み (natsuyasumi) – yay tətili.",
+   "en": "The hottest season: 夏 (natsu), summer; 夏休み (natsuyasumi), summer holidays.",
+   "ru": "Самое жаркое время: 夏 (нацу) – лето, 夏休み (нацуясуми) – летние каникулы."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "夏 (なつ) yay"
+  ]
+ },
+ {
+  "kanji": "冬",
+  "on": "トウ",
+  "kun": "ふゆ",
+  "az": "qış",
+  "en": "winter",
+  "ru": "зима",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "夂",
+   "冫"
+  ],
+  "mense": {
+   "az": "Yuxarıda sapın ucundakı düyün (ilin sonu), aşağıda buz (冫). İlin buzlu sonu: qış.",
+   "en": "The knot at the end of a thread on top (the end of the year) and ice (冫) below. The icy end of the year: winter.",
+   "ru": "Сверху узелок на конце нити (конец года), снизу лёд (冫). Ледяной конец года: зима."
+  },
+  "hekaye": {
+   "az": "İlin buzlu sonu: 冬 (fuyu) – qış, 冬休み (fuyuyasumi) – qış tətili.",
+   "en": "The icy end of the year: 冬 (fuyu), winter; 冬休み (fuyuyasumi), winter holidays.",
+   "ru": "Ледяной конец года: 冬 (фую) – зима, 冬休み (фуюясуми) – зимние каникулы."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "冬 (ふゆ) qış"
+  ]
+ },
+ {
+  "kanji": "雨",
+  "on": "ウ",
+  "kun": "あめ",
+  "az": "yağış",
+  "en": "rain",
+  "ru": "дождь",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "雨"
+  ],
+  "mense": {
+   "az": "Yuxarıda göy xətti, altında buluddan düşən damcılar.",
+   "en": "The line of the sky on top with drops falling from a cloud beneath it.",
+   "ru": "Сверху линия неба, под ней капли, падающие из облака."
+  },
+  "hekaye": {
+   "az": "Buluddan damcılar: 雨 (ame) – yağış, 梅雨 (tsuyu) – yağış mövsümü.",
+   "en": "Drops from a cloud: 雨 (ame), rain; 梅雨 (tsuyu), rainy season.",
+   "ru": "Капли из облака: 雨 (амэ) – дождь, 梅雨 (цую) – сезон дождей."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "雨 (あめ) yağış"
+  ]
+ },
+ {
+  "kanji": "曇",
+  "on": "ドン",
+  "kun": "くも・る",
+  "az": "buludlu",
+  "en": "cloudy",
+  "ru": "облачный",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "日",
+   "雨",
+   "云"
+  ],
+  "mense": {
+   "az": "Günəş (日) və bulud (雲). Günəşi örtən bulud: buludlu hava.",
+   "en": "The sun (日) and a cloud (雲). A cloud covering the sun: cloudy weather.",
+   "ru": "Солнце (日) и облако (雲). Облако, закрывающее солнце: пасмурно."
+  },
+  "hekaye": {
+   "az": "Günəşin üstündə bulud: 曇り (kumori) – buludlu, 曇る (kumoru) – buludlanmaq.",
+   "en": "A cloud over the sun: 曇り (kumori), cloudy; 曇る (kumoru), to cloud over.",
+   "ru": "Облако над солнцем: 曇り (кумори) – облачно, 曇る (кумору) – затягиваться."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "曇り (くもり) buludlu"
+  ]
+ },
+ {
+  "kanji": "港",
+  "on": "コウ",
+  "kun": "みなと",
+  "az": "liman",
+  "en": "port",
+  "ru": "порт",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "共",
+   "己"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 巷 (dar küçə). Suyun dar \"küçəsi\", gəmilərin girdiyi körfəz: liman.",
+   "en": "The meaning part is water (氵) and the sound part is 巷 (a lane). A \"lane\" of water where ships come in: a harbour.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 巷 (переулок). Водный «переулок», куда заходят корабли: гавань."
+  },
+  "hekaye": {
+   "az": "Suyun küçəsi: 港 (minato) – liman, 空港 (kuukou) – hava limanı.",
+   "en": "A lane of water: 港 (minato), harbour; 空港 (kuukou), airport.",
+   "ru": "Водный переулок: 港 (минато) – порт, 空港 (куко) – аэропорт."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "空港 (くうこう) hava limanı"
+  ]
+ },
+ {
+  "kanji": "海",
+  "on": "カイ",
+  "kun": "うみ",
+  "az": "dəniz",
+  "en": "sea",
+  "ru": "море",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "毎"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 毎. Böyük su: dəniz.",
+   "en": "The meaning part is water (氵) and the sound part is 毎. Great water: the sea.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 毎. Большая вода: море."
+  },
+  "hekaye": {
+   "az": "Böyük su: 海 (umi) – dəniz, 海外 (kaigai) – xaric.",
+   "en": "Great water: 海 (umi), sea; 海外 (kaigai), overseas.",
+   "ru": "Большая вода: 海 (уми) – море, 海外 (кайгай) – заграница."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "海 (うみ) dəniz"
+  ]
+ },
+ {
+  "kanji": "界",
+  "on": "カイ",
+  "kun": "–",
+  "az": "dünya, sərhəd",
+  "en": "world, boundary",
+  "ru": "мир, граница",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "田",
+   "介"
+  ],
+  "mense": {
+   "az": "Məna hissəsi tarla (田), səs hissəsi 介 (arada olmaq). Tarlalar arasındakı sərhəd: hüdud, aləm.",
+   "en": "The meaning part is field (田) and the sound part is 介 (to be between). The boundary between fields: a border, a world.",
+   "ru": "Смысловая часть – поле (田), звуковая – 介 (быть между). Граница между полями: предел, мир."
+  },
+  "hekaye": {
+   "az": "Tarlalar arası sərhəd: 世界 (sekai) – dünya.",
+   "en": "The border between fields: 世界 (sekai), the world.",
+   "ru": "Граница меж полей: 世界 (сэкай) – мир."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "世界 (せかい) dünya"
+  ]
+ },
+ {
+  "kanji": "焼",
+  "on": "ショウ",
+  "kun": "や・く",
+  "az": "bişirmək, qızartmaq",
+  "en": "bake, grill",
+  "ru": "печь, жарить",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "火",
+   "十",
+   "十",
+   "#",
+   "一",
+   "儿"
+  ],
+  "mense": {
+   "az": "Məna hissəsi od (火), səs hissəsi 尭 (hündür). Hündür alovla yandırmaq: bişirmək, qızartmaq.",
+   "en": "The meaning part is fire (火) and the sound part is 尭 (high). Burning with high flames: to grill, to bake.",
+   "ru": "Смысловая часть – огонь (火), звуковая – 尭 (высокий). Жечь высоким пламенем: жарить, печь."
+  },
+  "hekaye": {
+   "az": "Hündür alov: 焼く (yaku) – qızartmaq, 焼き鳥 (yakitori) – şiş toyuq.",
+   "en": "High flames: 焼く (yaku), to grill; 焼き鳥 (yakitori), grilled chicken.",
+   "ru": "Высокое пламя: 焼く (яку) – жарить, 焼き鳥 (якитори) – куриный шашлык."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "すき焼き (すきやき) sukiyaki (yemək adı)"
+  ]
+ },
+ {
+  "kanji": "寿",
+  "on": "ジュ",
+  "kun": "ことぶき",
+  "az": "uzun ömür",
+  "en": "long life",
+  "ru": "долголетие",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "一",
+   "一",
+   "一",
+   "#",
+   "寸"
+  ],
+  "mense": {
+   "az": "Köhnə forması 壽: uzunömürlü qoca və səs hissəsi. Uzun ömür, təbrik. 寿司 sözündə səsinə görə yazılır.",
+   "en": "The old form is 壽: an old man of long life and a sound part. Long life, congratulations. In 寿司 it is written for its sound.",
+   "ru": "Старая форма 壽: долгожитель и звуковая часть. Долголетие, поздравление. В 寿司 пишется по звучанию."
+  },
+  "hekaye": {
+   "az": "Uzun ömür: 寿命 (jumyou) – ömür, 寿司 (sushi) – sushi.",
+   "en": "Long life: 寿命 (jumyou), lifespan; 寿司 (sushi), sushi.",
+   "ru": "Долголетие: 寿命 (дзюмё) – продолжительность жизни, 寿司 (суси) – суси."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "[お]寿司 ([お]すし) sushi (yemək adı)"
+  ]
+ },
+ {
+  "kanji": "司",
+  "on": "シ",
+  "kun": "–",
+  "az": "idarə etmək",
+  "en": "administer",
+  "ru": "управлять",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "一",
+   "口",
+   "#"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir: əl və ağızla əmr verən kimi izah olunur. İdarə etmək, rəhbərlik. 寿司 sözündə səsinə görə işlənir.",
+   "en": "Its origin is debated: it is explained as someone giving orders with hand and mouth. To administer, to manage. In 寿司 it is used for its sound.",
+   "ru": "Происхождение спорно: толкуют как человека, отдающего приказы рукой и ртом. Управлять, ведать. В 寿司 используется по звучанию."
+  },
+  "hekaye": {
+   "az": "İdarə edən: 司会 (shikai) – aparıcı, 寿司 (sushi) – sushi.",
+   "en": "The one in charge: 司会 (shikai), master of ceremonies; 寿司 (sushi), sushi.",
+   "ru": "Ведущий: 司会 (сикай) – ведущий, 寿司 (суси) – суси."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "[お]寿司 ([お]すし) sushi (yemək adı)"
+  ]
+ },
+ {
+  "kanji": "豚",
+  "on": "トン",
+  "kun": "ぶた",
+  "az": "donuz",
+  "en": "pig",
+  "ru": "свинья",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "月",
+   "豕"
+  ],
+  "mense": {
+   "az": "Ət (月 = 肉) və donuz (豕). Əti yeyilən donuz.",
+   "en": "Meat (月 = 肉) and pig (豕). A pig raised for its meat.",
+   "ru": "Мясо (月 = 肉) и свинья (豕). Свинья, которую растят на мясо."
+  },
+  "hekaye": {
+   "az": "Ət + donuz: 豚 (buta) – donuz, 豚肉 (butaniku) – donuz əti.",
+   "en": "Meat + pig: 豚 (buta), pig; 豚肉 (butaniku), pork.",
+   "ru": "Мясо + свинья: 豚 (бута) – свинья, 豚肉 (бутанику) – свинина."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "豚肉 (ぶたにく) donuz əti"
+  ]
+ },
+ {
+  "kanji": "初",
+  "on": "ショ",
+  "kun": "はじ・め",
+  "az": "ilk",
+  "en": "first",
+  "ru": "первый",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "衤",
+   "刀"
+  ],
+  "mense": {
+   "az": "Solda paltar (衤), sağda bıçaq (刀). Paltar tikməyin ilk addımı parçanı kəsməkdir: ilk, başlanğıc.",
+   "en": "Clothing (衤) on the left and a knife (刀) on the right. The first step in making clothes is cutting the cloth: first, beginning.",
+   "ru": "Слева одежда (衤), справа нож (刀). Первый шаг в шитье – раскрой ткани: первый, начало."
+  },
+  "hekaye": {
+   "az": "Parçanı kəs, başla: 初めて (hajimete) – ilk dəfə, 最初 (saisho) – əvvəl.",
+   "en": "Cut the cloth, begin: 初めて (hajimete), for the first time; 最初 (saisho), the beginning.",
+   "ru": "Раскрой ткань, начни: 初めて (хадзимэтэ) – впервые, 最初 (сайсё) – начало."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "初めて (はじめて) birinci dəfə, ilk dəfə"
+  ]
+ },
+ {
+  "kanji": "祇",
+  "on": "ギ",
+  "kun": "–",
+  "az": "(Gion)",
+  "en": "(Gion)",
+  "ru": "(Гион)",
+  "ders": 12,
+  "kart": true,
+  "komponent": [
+   "示",
+   "氏"
+  ],
+  "mense": {
+   "az": "Məna hissəsi 示 (qurbangah, ilahi), səs hissəsi 氏. Qədimdə torpaq ruhu. Bu gün əsasən Kiotodakı Gion (祇園) məhəlləsinin adında işlənir.",
+   "en": "The meaning part is 示 (altar, the sacred) and the sound part is 氏. In old times an earth spirit. Today it appears mainly in Gion (祇園), the district in Kyoto.",
+   "ru": "Смысловая часть – 示 (алтарь, священное), звуковая – 氏. В древности дух земли. Сегодня в основном в названии киотского квартала Гион (祇園)."
+  },
+  "hekaye": {
+   "az": "Kiotonun adı: 祇園 (Gion) – Gion məhəlləsi, 祇園祭 (Gion Matsuri) – Gion festivalı.",
+   "en": "A Kyoto name: 祇園 (Gion), the Gion district; 祇園祭 (Gion Matsuri), the Gion festival.",
+   "ru": "Киотское имя: 祇園 (Гион) – квартал Гион, 祇園祭 (Гион мацури) – праздник Гион."
+  },
+  "ilk_soz_dersi": 12,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "祇園祭 (ぎおんまつり) Gion festivalı (Kyotoda iyulda keçirilir)"
+  ]
+ }
+]

@@ -1,0 +1,797 @@
+[
+ {
+  "kanji": "物",
+  "on": "ブツ、モツ",
+  "kun": "もの",
+  "az": "əşya",
+  "en": "thing",
+  "ru": "вещь",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "牛",
+   "勿"
+  ],
+  "mense": {
+   "az": "Məna hissəsi öküz (牛), səs hissəsi 勿. Əvvəlcə ala-bula inək idi. Sonra hər cür canlı və əşya, \"şey\" mənasını aldı.",
+   "en": "The meaning part is ox (牛) and the sound part is 勿. It first meant a cow of mixed colours, and later any creature or object: \"thing\".",
+   "ru": "Смысловая часть – бык (牛), звуковая – 勿. Сначала – пёстрая корова, позже любое существо или предмет: «вещь»."
+  },
+  "hekaye": {
+   "az": "Hər şey: 物 (mono) – şey, 果物 (kudamono) – meyvə, 買い物 (kaimono) – alış-veriş.",
+   "en": "Anything at all: 物 (mono), thing; 果物 (kudamono), fruit; 買い物 (kaimono), shopping.",
+   "ru": "Всё что угодно: 物 (моно) – вещь, 果物 (кудамоно) – фрукты, 買い物 (каимоно) – покупки."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 10,
+  "nümunə_sozler": [
+   "果物 (くだもの) meyvə",
+   "荷物 (にもつ) yük, baqaj",
+   "食べ物 (たべもの) qida, yemək",
+   "飲み物 (のみもの) içki"
+  ]
+ },
+ {
+  "kanji": "飲",
+  "on": "イン",
+  "kun": "の・む",
+  "az": "içmək",
+  "en": "drink",
+  "ru": "пить",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "飠",
+   "欠"
+  ],
+  "mense": {
+   "az": "Köhnə forması 㱃: şərab küpü və ağzını açıb əyilən insan (欠). Küpdən içən insan. Bugünkü formada küp yerinə yemək (食) gəlib.",
+   "en": "The old form is 㱃: a wine jar and a person bending with an open mouth (欠). A person drinking from a jar. In the modern form the jar became food (食).",
+   "ru": "Старая форма 㱃: кувшин с вином и человек с открытым ртом (欠). Человек, пьющий из кувшина. В современной форме кувшин стал едой (食)."
+  },
+  "hekaye": {
+   "az": "Ağzını açıb iç: 飲む (nomu) – içmək, 飲み物 (nomimono) – içki, içəcək.",
+   "en": "Open your mouth and drink: 飲む (nomu), to drink; 飲み物 (nomimono), a drink.",
+   "ru": "Открой рот и пей: 飲む (ному) – пить, 飲み物 (номимоно) – напиток."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 5,
+  "nümunə_sozler": [
+   "飲みます (のみます) içmək (su, pivə, sake və s.)",
+   "飲み物 (のみもの) içki",
+   "飲みます (のみます) içmək",
+   "飲みます (のみます) [薬を～] qəbul etmək"
+  ]
+ },
+ {
+  "kanji": "飯",
+  "on": "ハン",
+  "kun": "めし",
+  "az": "yemək, düyü",
+  "en": "meal, rice",
+  "ru": "еда, рис",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "飠",
+   "厂",
+   "又"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yemək (食), səs hissəsi 反. Bişmiş düyü və ümumiyyətlə yemək.",
+   "en": "The meaning part is food (食) and the sound part is 反. Cooked rice, and meals in general.",
+   "ru": "Смысловая часть – еда (食), звуковая – 反. Варёный рис и еда вообще."
+  },
+  "hekaye": {
+   "az": "Bişmiş düyü: ご飯 (gohan) – düyü, yemək; 朝ご飯 (asagohan) – səhər yeməyi.",
+   "en": "Cooked rice: ご飯 (gohan), rice, a meal; 朝ご飯 (asagohan), breakfast.",
+   "ru": "Варёный рис: ご飯 (гохан) – рис, еда; 朝ご飯 (асагохан) – завтрак."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "ご飯 (ごはん) yemək; bişmiş düyü",
+   "朝ご飯 (あさごはん) səhər yeməyi",
+   "昼ご飯 (ひるごはん) günorta yeməyi",
+   "晩ご飯 (ばんごはん) axşam yeməyi"
+  ]
+ },
+ {
+  "kanji": "肉",
+  "on": "ニク",
+  "kun": "–",
+  "az": "ət",
+  "en": "meat",
+  "ru": "мясо",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "肉"
+  ],
+  "mense": {
+   "az": "Bir dilim ətin şəklidir, içində əzələ lifləri. Başqa kanjilərin solunda 月-ə bənzəyən ⺼ şəklinə düşür: 腹, 脱.",
+   "en": "A picture of a slice of meat with muscle fibres inside. On the left of other kanji it becomes ⺼, which looks like 月: 腹, 脱.",
+   "ru": "Рисунок куска мяса с волокнами. Слева в других кандзи превращается в ⺼, похожий на 月: 腹, 脱."
+  },
+  "hekaye": {
+   "az": "Liflərlə ət: 肉 (niku) – ət, 牛肉 (gyuuniku) – mal əti.",
+   "en": "Meat with fibres: 肉 (niku), meat; 牛肉 (gyuuniku), beef.",
+   "ru": "Мясо с волокнами: 肉 (нику) – мясо, 牛肉 (гюнику) – говядина."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "肉 (にく) ət",
+   "豚肉 (ぶたにく) donuz əti",
+   "とり肉 (とりにく) toyuq əti",
+   "牛肉 (ぎゅうにく) mal əti"
+  ]
+ },
+ {
+  "kanji": "茶",
+  "on": "チャ",
+  "kun": "–",
+  "az": "çay",
+  "en": "tea",
+  "ru": "чай",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "人",
+   "木"
+  ],
+  "mense": {
+   "az": "Yuxarıda ot (艹), altında 人 və 木-ə bənzəyən hissə. Yarpaqları dəmlənib içilən bitki: çay.",
+   "en": "Grass (艹) on top with a part like 人 and 木 beneath. The plant whose leaves are brewed and drunk: tea.",
+   "ru": "Сверху трава (艹), под ней часть, похожая на 人 и 木. Растение, чьи листья заваривают и пьют: чай."
+  },
+  "hekaye": {
+   "az": "Dəmlənən yarpaq: お茶 (ocha) – çay, 茶色 (chairo) – qəhvəyi, \"çay rəngi\".",
+   "en": "Brewed leaves: お茶 (ocha), tea; 茶色 (chairo), brown, \"tea colour\".",
+   "ru": "Заваренные листья: お茶 (оча) – чай, 茶色 (тяиро) – коричневый, «цвет чая»."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "お茶 (おちゃ) çay (yaşıl)",
+   "紅茶 (こうちゃ) çay (qara)",
+   "喫茶店 (きっさてん) qəlyanaltıxana, çay evi, kafe",
+   "お茶 (おちゃ) çay mərasimi"
+  ]
+ },
+ {
+  "kanji": "野",
+  "on": "ヤ",
+  "kun": "の",
+  "az": "tarla",
+  "en": "field",
+  "ru": "поле",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "日",
+   "#",
+   "予"
+  ],
+  "mense": {
+   "az": "Məna hissəsi kənd (里), səs hissəsi 予. Kəndin kənarındakı açıq sahə: çöl, vəhşi.",
+   "en": "The meaning part is village (里) and the sound part is 予. The open land outside a village: field, wild.",
+   "ru": "Смысловая часть – деревня (里), звуковая – 予. Открытая земля за деревней: поле, дикий."
+  },
+  "hekaye": {
+   "az": "Kənddən kənarda: 野菜 (yasai) – tərəvəz, 野球 (yakyuu) – beysbol, \"çöl topu\".",
+   "en": "Outside the village: 野菜 (yasai), vegetables; 野球 (yakyuu), baseball, \"field ball\".",
+   "ru": "За деревней: 野菜 (ясай) – овощи, 野球 (якю) – бейсбол, «полевой мяч»."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "野菜 (やさい) tərəvəz",
+   "野球 (やきゅう) beysbol",
+   "吉野山 (よしのやま) Yoshino dağı (Nara prefekturası)"
+  ]
+ },
+ {
+  "kanji": "牛",
+  "on": "ギュウ",
+  "kun": "うし",
+  "az": "inək",
+  "en": "cow",
+  "ru": "корова",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "牛"
+  ],
+  "mense": {
+   "az": "Öndən görünən öküz başıdır: yuxarıda iki buynuz, ortada qulaqlar, şaquli xətt baş.",
+   "en": "An ox's head seen from the front: two horns at the top, ears in the middle and the head as the vertical line.",
+   "ru": "Голова быка спереди: наверху два рога, посередине уши, вертикальная черта – голова."
+  },
+  "hekaye": {
+   "az": "Buynuzlu baş: 牛 (ushi) – inək, 牛乳 (gyuunyuu) – süd, 牛肉 (gyuuniku) – mal əti.",
+   "en": "A horned head: 牛 (ushi), cow; 牛乳 (gyuunyuu), milk; 牛肉 (gyuuniku), beef.",
+   "ru": "Голова с рогами: 牛 (уси) – корова, 牛乳 (гюню) – молоко, 牛肉 (гюнику) – говядина."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "牛乳 (ぎゅうにゅう) süd",
+   "牛肉 (ぎゅうにく) mal əti",
+   "牛丼 (ぎゅうどん) Gyudon (düyü üstündə ət)"
+  ]
+ },
+ {
+  "kanji": "花",
+  "on": "カ",
+  "kun": "はな",
+  "az": "gül",
+  "en": "flower",
+  "ru": "цветок",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "化"
+  ],
+  "mense": {
+   "az": "Yuxarıda ot (艹), aşağıda 化 (dəyişmək, səs verir). Qönçədən açılıb dəyişən bitki hissəsi: çiçək.",
+   "en": "Grass (艹) on top and 化 (to change, giving the sound) below. The part of a plant that changes as it opens from a bud: a flower.",
+   "ru": "Сверху трава (艹), снизу 化 (изменяться, даёт звук). Часть растения, что меняется, раскрываясь из бутона: цветок."
+  },
+  "hekaye": {
+   "az": "Dəyişən bitki: 花 (hana) – çiçək, 花火 (hanabi) – fişəng, \"od çiçəyi\".",
+   "en": "A changing plant: 花 (hana), flower; 花火 (hanabi), fireworks, \"fire flowers\".",
+   "ru": "Меняющееся растение: 花 (хана) – цветок, 花火 (ханаби) – фейерверк, «огненные цветы»."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "[お]花見 ([お]はなみ) Sakura (albalı çiçəkləri) seyri",
+   "花 (はな) gül",
+   "生け花 (いけばな) yapon gülbəzəmə sənəti (～をします: ikebana düzəltmək)"
+  ]
+ },
+ {
+  "kanji": "読",
+  "on": "ドク",
+  "kun": "よ・む",
+  "az": "oxumaq",
+  "en": "read",
+  "ru": "читать",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "言",
+   "士",
+   "冖",
+   "儿"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 売 (köhnə formada başqa işarə idi). Sözləri səsli oxumaq: oxumaq.",
+   "en": "The meaning part is words (言) and the sound part is 売 (a different sign in the old form). Reading words aloud: to read.",
+   "ru": "Смысловая часть – слово (言), звуковая – 売 (в старой форме другой знак). Читать слова вслух: читать."
+  },
+  "hekaye": {
+   "az": "Sözü səsləndir: 読む (yomu) – oxumaq, 読書 (dokusho) – kitab mütaliəsi.",
+   "en": "Voice the words: 読む (yomu), to read; 読書 (dokusho), reading books.",
+   "ru": "Произнеси слова: 読む (ёму) – читать, 読書 (докусё) – чтение."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "読みます (よみます) oxumaq",
+   "読み方 (よみかた) oxunuş (qaydası)"
+  ]
+ },
+ {
+  "kanji": "買",
+  "on": "バイ",
+  "kun": "か・う",
+  "az": "almaq",
+  "en": "buy",
+  "ru": "покупать",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "罒",
+   "貝"
+  ],
+  "mense": {
+   "az": "Yuxarıda tor (网, indi 罒), aşağıda balıqqulağı pul (貝). Pulu torla \"tutub\" mal almaq: almaq.",
+   "en": "A net (网, now 罒) on top and shell money (貝) below. Netting goods with money: to buy.",
+   "ru": "Сверху сеть (网, сейчас 罒), снизу раковина-деньги (貝). «Поймать» товар за деньги: покупать."
+  },
+  "hekaye": {
+   "az": "Pulla tor at: 買う (kau) – almaq, 買い物 (kaimono) – alış-veriş.",
+   "en": "Cast a net of money: 買う (kau), to buy; 買い物 (kaimono), shopping.",
+   "ru": "Закинь сеть из денег: 買う (кау) – покупать, 買い物 (каимоно) – покупки."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "買います (かいます) almaq, alış-veriş etmək",
+   "買い物します (かいものします) alış-veriş etmək"
+  ]
+ },
+ {
+  "kanji": "紅",
+  "on": "コウ",
+  "kun": "べに",
+  "az": "al qırmızı",
+  "en": "crimson",
+  "ru": "алый",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "工"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ipək sap (糸), səs hissəsi 工. Qırmızıya boyanmış ipək: al-qırmızı.",
+   "en": "The meaning part is silk thread (糸) and the sound part is 工. Silk dyed red: crimson.",
+   "ru": "Смысловая часть – шёлковая нить (糸), звуковая – 工. Шёлк, окрашенный в красный: алый."
+  },
+  "hekaye": {
+   "az": "Qırmızı boyalı ipək: 紅茶 (koucha) – qara çay, \"qırmızı çay\"; 紅葉 (kouyou) – payız yarpaqları.",
+   "en": "Red-dyed silk: 紅茶 (koucha), black tea, \"red tea\"; 紅葉 (kouyou), autumn leaves.",
+   "ru": "Шёлк в красной краске: 紅茶 (коча) – чёрный чай, «красный чай»; 紅葉 (коё) – осенняя листва."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "紅茶 (こうちゃ) çay (qara)",
+   "紅葉 (もみじ) Momiji ağacı (payızda yarpaqları qızaran ağac)"
+  ]
+ },
+ {
+  "kanji": "紙",
+  "on": "シ",
+  "kun": "かみ",
+  "az": "kağız",
+  "en": "paper",
+  "ru": "бумага",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "氏"
+  ],
+  "mense": {
+   "az": "Məna hissəsi lif, sap (糸), səs hissəsi 氏. Liflərdən düzəldilən incə vərəq: kağız.",
+   "en": "The meaning part is fibre, thread (糸) and the sound part is 氏. A thin sheet made of fibres: paper.",
+   "ru": "Смысловая часть – волокно, нить (糸), звуковая – 氏. Тонкий лист из волокон: бумага."
+  },
+  "hekaye": {
+   "az": "Liflərdən vərəq: 紙 (kami) – kağız, 手紙 (tegami) – məktub.",
+   "en": "A sheet of fibres: 紙 (kami), paper; 手紙 (tegami), letter.",
+   "ru": "Лист из волокон: 紙 (ками) – бумага, 手紙 (тэгами) – письмо."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "手紙 (てがみ) məktub",
+   "紙 (かみ) kağız"
+  ]
+ },
+ {
+  "kanji": "店",
+  "on": "テン",
+  "kun": "みせ",
+  "az": "mağaza",
+  "en": "shop",
+  "ru": "магазин",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "广",
+   "占"
+  ],
+  "mense": {
+   "az": "Yuxarıda bir tərəfi açıq bina (广), altında 占 (tutmaq, səs verir). Önü açıq tikili: dükan, mağaza.",
+   "en": "A building open on one side (广) on top and 占 (to occupy, giving the sound) below. A building with an open front: a shop.",
+   "ru": "Сверху здание, открытое с одной стороны (广), снизу 占 (занимать, даёт звук). Строение с открытым фасадом: лавка, магазин."
+  },
+  "hekaye": {
+   "az": "Önü açıq bina: 店 (mise) – mağaza, 店員 (ten'in) – satıcı, 本店 (honten) – baş ofis.",
+   "en": "An open-fronted building: 店 (mise), shop; 店員 (ten'in), shop assistant; 本店 (honten), head office.",
+   "ru": "Здание с открытым фасадом: 店 (мисэ) – магазин, 店員 (тэнъин) – продавец, 本店 (хонтэн) – главный офис."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "店 (みせ) mağaza",
+   "喫茶店 (きっさてん) qəlyanaltıxana, çay evi, kafe"
+  ]
+ },
+ {
+  "kanji": "題",
+  "on": "ダイ",
+  "kun": "–",
+  "az": "mövzu",
+  "en": "topic",
+  "ru": "тема",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "日",
+   "疋",
+   "頁"
+  ],
+  "mense": {
+   "az": "Məna hissəsi baş (頁), səs hissəsi 是. Əvvəlcə alın idi. Kitabın \"alnı\" olan başlıq, mövzu.",
+   "en": "The meaning part is head (頁) and the sound part is 是. It first meant the forehead: the \"forehead\" of a book, its title, its topic.",
+   "ru": "Смысловая часть – голова (頁), звуковая – 是. Сначала – лоб: «лоб» книги, заголовок, тема."
+  },
+  "hekaye": {
+   "az": "Kitabın alnı: 題 (dai) – başlıq, 問題 (mondai) – sual, problem, 宿題 (shukudai) – ev tapşırığı.",
+   "en": "The book's forehead: 題 (dai), title; 問題 (mondai), problem; 宿題 (shukudai), homework.",
+   "ru": "Лоб книги: 題 (дай) – заголовок, 問題 (мондай) – вопрос, 宿題 (сюкудай) – домашнее задание."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "宿題 (しゅくだい) ev tapşırığı (～をします: ev tapşırığını etmək)",
+   "問題 (もんだい) problem, sual"
+  ]
+ },
+ {
+  "kanji": "吸",
+  "on": "キュウ",
+  "kun": "す・う",
+  "az": "udmaq, çəkmək",
+  "en": "inhale, smoke",
+  "ru": "вдыхать, курить",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "口",
+   "#",
+   "又"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağız (口), səs hissəsi 及 (çatmaq). Ağızla havanı içəri çəkmək: udmaq, sormaq.",
+   "en": "The meaning part is mouth (口) and the sound part is 及 (to reach). Drawing air in through the mouth: to inhale, to suck.",
+   "ru": "Смысловая часть – рот (口), звуковая – 及 (достигать). Втягивать воздух ртом: вдыхать, сосать."
+  },
+  "hekaye": {
+   "az": "Ağızla çək: 吸う (suu) – çəkmək, udmaq. タバコを 吸う – siqaret çəkmək.",
+   "en": "Draw in through the mouth: 吸う (suu), to inhale. タバコを 吸う, to smoke.",
+   "ru": "Втяни ртом: 吸う (суу) – вдыхать. タバコを 吸う – курить."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "吸います (すいます) çəkmək (siqaret və s.)"
+  ]
+ },
+ {
+  "kanji": "撮",
+  "on": "サツ",
+  "kun": "と・る",
+  "az": "(şəkil) çəkmək",
+  "en": "take (photo)",
+  "ru": "снимать (фото)",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "扌",
+   "日",
+   "耳",
+   "又"
+  ],
+  "mense": {
+   "az": "Məna hissəsi əl (扌), səs hissəsi 最. Barmaqlarla çimdikləyib götürmək. Yapon dilində \"şəkil çəkmək\" mənasında işlənir.",
+   "en": "The meaning part is hand (扌) and the sound part is 最. To pinch and pick up with the fingers. In Japanese it means \"to take a photo\".",
+   "ru": "Смысловая часть – рука (扌), звуковая – 最. Брать щепотью, пальцами. В японском значит «фотографировать»."
+  },
+  "hekaye": {
+   "az": "Barmaqla götür, şəklə al: 撮る (toru) – şəkil çəkmək, 撮影 (satsuei) – çəkiliş.",
+   "en": "Pick it up with the fingers, catch it in a photo: 撮る (toru), to take a photo; 撮影 (satsuei), filming.",
+   "ru": "Возьми пальцами, сними: 撮る (тору) – фотографировать, 撮影 (сацуэй) – съёмка."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "撮ります (とります) (fotoşəkil) çəkmək"
+  ]
+ },
+ {
+  "kanji": "魚",
+  "on": "ギョ",
+  "kun": "さかな",
+  "az": "balıq",
+  "en": "fish",
+  "ru": "рыба",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "魚"
+  ],
+  "mense": {
+   "az": "Şaquli çəkilmiş balıq: yuxarıda baş, ortada pulcuqlu bədən, aşağıda quyruq (bugün 灬).",
+   "en": "A fish drawn upright: the head on top, the scaly body in the middle and the tail at the bottom (today 灬).",
+   "ru": "Рыба, нарисованная вертикально: сверху голова, посередине чешуйчатое тело, внизу хвост (сейчас 灬)."
+  },
+  "hekaye": {
+   "az": "Baş, pulcuq, quyruq: 魚 (sakana) – balıq, 金魚 (kingyo) – qızıl balıq.",
+   "en": "Head, scales, tail: 魚 (sakana), fish; 金魚 (kingyo), goldfish.",
+   "ru": "Голова, чешуя, хвост: 魚 (сакана) – рыба, 金魚 (кингё) – золотая рыбка."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "魚 (さかな) balıq"
+  ]
+ },
+ {
+  "kanji": "菜",
+  "on": "サイ",
+  "kun": "な",
+  "az": "tərəvəz",
+  "en": "vegetable",
+  "ru": "овощ",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "⺤",
+   "木"
+  ],
+  "mense": {
+   "az": "Yuxarıda ot (艹), aşağıda 采 (ağacdan meyvə yığan əl, səs verir). Yığılıb yeyilən göyərti: tərəvəz.",
+   "en": "Grass (艹) on top and 采 (a hand picking from a tree, giving the sound) below. Greens gathered to eat: vegetables.",
+   "ru": "Сверху трава (艹), снизу 采 (рука, срывающая с дерева, даёт звук). Собранная зелень для еды: овощи."
+  },
+  "hekaye": {
+   "az": "Əllə yığılan göyərti: 野菜 (yasai) – tərəvəz, 菜の花 (nanohana) – yaz çiçəyi (kolza).",
+   "en": "Greens picked by hand: 野菜 (yasai), vegetables; 菜の花 (nanohana), rape blossom.",
+   "ru": "Зелень, собранная рукой: 野菜 (ясай) – овощи, 菜の花 (нанохана) – цветы рапса."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "野菜 (やさい) tərəvəz"
+  ]
+ },
+ {
+  "kanji": "果",
+  "on": "カ",
+  "kun": "は・たす",
+  "az": "meyvə, nəticə",
+  "en": "fruit, result",
+  "ru": "плод, результат",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "田",
+   "木"
+  ],
+  "mense": {
+   "az": "Ağacın (木) başında yetişmiş meyvə (田-ə bənzəyən dairə). Meyvə; həm də bir işin \"bəhrəsi\", nəticəsi.",
+   "en": "A ripe fruit (the circle that looks like 田) on top of a tree (木). Fruit; also the \"fruit\" of an effort, the result.",
+   "ru": "Спелый плод (кружок, похожий на 田) на верхушке дерева (木). Плод; также «плод» усилий, результат."
+  },
+  "hekaye": {
+   "az": "Ağacda meyvə: 果物 (kudamono) – meyvə, 結果 (kekka) – nəticə.",
+   "en": "Fruit on a tree: 果物 (kudamono), fruit; 結果 (kekka), result.",
+   "ru": "Плод на дереве: 果物 (кудамоно) – фрукты, 結果 (кэкка) – результат."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "果物 (くだもの) meyvə"
+  ]
+ },
+ {
+  "kanji": "乳",
+  "on": "ニュウ",
+  "kun": "ちち",
+  "az": "süd",
+  "en": "milk",
+  "ru": "молоко",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "⺤",
+   "子",
+   "#"
+  ],
+  "mense": {
+   "az": "Solda uşağı tutan əl (孚), sağda 乚 (sinə). Uşağı əmizdirən ana: süd, döş.",
+   "en": "On the left a hand holding a child (孚), on the right 乚 (the breast). A mother nursing a child: milk, breast.",
+   "ru": "Слева рука, держащая ребёнка (孚), справа 乚 (грудь). Мать кормит ребёнка: молоко, грудь."
+  },
+  "hekaye": {
+   "az": "Əmizdirmə: 牛乳 (gyuunyuu) – inək südü, 乳製品 (nyuuseihin) – süd məhsulları.",
+   "en": "Nursing: 牛乳 (gyuunyuu), cow's milk; 乳製品 (nyuuseihin), dairy products.",
+   "ru": "Кормление грудью: 牛乳 (гюню) – молоко, 乳製品 (нюсэйхин) – молочные продукты."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "牛乳 (ぎゅうにゅう) süd"
+  ]
+ },
+ {
+  "kanji": "酒",
+  "on": "シュ",
+  "kun": "さけ",
+  "az": "içki, sake",
+  "en": "alcohol, sake",
+  "ru": "алкоголь, сакэ",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "酉"
+  ],
+  "mense": {
+   "az": "Solda su (氵), sağda şərab küpü (酉). Küpdə saxlanan maye: içki, sake.",
+   "en": "Water (氵) on the left and a wine jar (酉) on the right. Liquid kept in a jar: alcohol, sake.",
+   "ru": "Слева вода (氵), справа кувшин для вина (酉). Жидкость в кувшине: спиртное, сакэ."
+  },
+  "hekaye": {
+   "az": "Küpdə maye: お酒 (osake) – içki, 日本酒 (nihonshu) – yapon sakesi.",
+   "en": "Liquid in a jar: お酒 (osake), alcohol; 日本酒 (nihonshu), Japanese sake.",
+   "ru": "Жидкость в кувшине: お酒 (осакэ) – спиртное, 日本酒 (нихонсю) – японское сакэ."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "[お]酒 ([お]さけ) sake, Yaponiya spirtli içkisi"
+  ]
+ },
+ {
+  "kanji": "写",
+  "on": "シャ",
+  "kun": "うつ・す",
+  "az": "köçürmək",
+  "en": "copy",
+  "ru": "копировать",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "冖",
+   "一",
+   "#"
+  ],
+  "mense": {
+   "az": "Köhnə forması 寫: dam (宀) və səs hissəsi 舄. Əşyanı bir yerdən başqa yerə köçürmək: köçürmək, surət çıxarmaq, şəkil çəkmək.",
+   "en": "The old form is 寫: a roof (宀) and the sound part 舄. Moving things from one place to another: to copy, to transcribe, to photograph.",
+   "ru": "Старая форма 寫: крыша (宀) и звуковая часть 舄. Переносить вещи с места на место: переписывать, копировать, снимать."
+  },
+  "hekaye": {
+   "az": "Bir yerdən başqasına köçür: 写真 (shashin) – fotoşəkil, 写す (utsusu) – köçürmək.",
+   "en": "Transfer from one place to another: 写真 (shashin), photo; 写す (utsusu), to copy.",
+   "ru": "Перенеси в другое место: 写真 (сясин) – фотография, 写す (уцусу) – копировать."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "写真 (しゃしん) fotoşəkil"
+  ]
+ },
+ {
+  "kanji": "真",
+  "on": "シン",
+  "kun": "ま",
+  "az": "həqiqi",
+  "en": "true",
+  "ru": "истинный",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "十",
+   "具"
+  ],
+  "mense": {
+   "az": "Köhnə forması 眞. Mənşəyi mübahisəlidir. Çox erkən dövrdən \"həqiqi, düz, saf\" mənasında işlənir.",
+   "en": "The old form is 眞. Its origin is debated. From very early on it meant \"true, straight, pure\".",
+   "ru": "Старая форма 眞. Происхождение спорно. С ранних времён значит «истинный, прямой, чистый»."
+  },
+  "hekaye": {
+   "az": "Həqiqi: 写真 (shashin) – fotoşəkil, \"həqiqəti köçürmək\"; 真ん中 (mannaka) – tam orta.",
+   "en": "True: 写真 (shashin), photo, \"copying the truth\"; 真ん中 (mannaka), the very middle.",
+   "ru": "Истинный: 写真 (сясин) – фото, «копия правды»; 真ん中 (маннака) – самая середина."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "写真 (しゃしん) fotoşəkil"
+  ]
+ },
+ {
+  "kanji": "庭",
+  "on": "テイ",
+  "kun": "にわ",
+  "az": "bağ, həyət",
+  "en": "garden",
+  "ru": "сад, двор",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "广",
+   "#",
+   "士",
+   "廴"
+  ],
+  "mense": {
+   "az": "Yuxarıda bina (广), içində 廷 (saray həyəti, səs verir). Binanın qarşısındakı açıq sahə: həyət, bağ.",
+   "en": "A building (广) with 廷 (a palace courtyard, giving the sound) inside. The open space in front of a building: a yard, a garden.",
+   "ru": "Здание (广), внутри 廷 (дворцовый двор, даёт звук). Открытое место перед зданием: двор, сад."
+  },
+  "hekaye": {
+   "az": "Binanın önündəki açıq yer: 庭 (niwa) – həyət, bağ; 家庭 (katei) – ailə, ev.",
+   "en": "The open space by the building: 庭 (niwa), garden; 家庭 (katei), household.",
+   "ru": "Открытое место у дома: 庭 (нива) – сад, двор; 家庭 (катэй) – семья, дом."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "庭 (にわ) bağ, həyət"
+  ]
+ },
+ {
+  "kanji": "宿",
+  "on": "シュク",
+  "kun": "やど",
+  "az": "qonaqlama",
+  "en": "lodging",
+  "ru": "ночлег",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "亻",
+   "白",
+   "#"
+  ],
+  "mense": {
+   "az": "Dam (宀) altında həsir üstündə uzanan insan (亻 + 百-ə bənzəyən həsir). Gecələmək, qalmaq: qonaq evi.",
+   "en": "A person (亻) lying on a mat (the part like 百) under a roof (宀). To stay the night: an inn.",
+   "ru": "Человек (亻), лежащий на циновке (часть, похожая на 百), под крышей (宀). Ночевать: постоялый двор."
+  },
+  "hekaye": {
+   "az": "Damın altında gecələmək: 宿 (yado) – mehmanxana, 宿題 (shukudai) – ev tapşırığı, \"evə aparılan iş\".",
+   "en": "Spending the night under a roof: 宿 (yado), inn; 宿題 (shukudai), homework, \"a task taken home\".",
+   "ru": "Ночлег под крышей: 宿 (ядо) – гостиница, 宿題 (сюкудай) – домашнее задание."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "宿題 (しゅくだい) ev tapşırığı (～をします: ev tapşırığını etmək)"
+  ]
+ },
+ {
+  "kanji": "緒",
+  "on": "ショ、チョ",
+  "kun": "お",
+  "az": "başlanğıc, ip",
+  "en": "beginning, cord",
+  "ru": "начало, шнур",
+  "ders": 6,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "耂",
+   "日"
+  ],
+  "mense": {
+   "az": "Məna hissəsi sap (糸), səs hissəsi 者. Sapın ucu: başlanğıc, ip. Yapon dilində 一緒 sözündə \"birlikdə\" mənası verir.",
+   "en": "The meaning part is thread (糸) and the sound part is 者. The end of a thread: a beginning, a cord. In Japanese 一緒 means \"together\".",
+   "ru": "Смысловая часть – нить (糸), звуковая – 者. Кончик нити: начало, шнурок. В японском 一緒 значит «вместе»."
+  },
+  "hekaye": {
+   "az": "Bir sapın iki ucu: 一緒に (issho ni) – birlikdə.",
+   "en": "Two ends of one thread: 一緒に (issho ni), together.",
+   "ru": "Два конца одной нити: 一緒に (иссё ни) – вместе."
+  },
+  "ilk_soz_dersi": 6,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "一緒に (いっしょに) birlikdə, birgə"
+  ]
+ }
+]

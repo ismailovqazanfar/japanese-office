@@ -1,0 +1,735 @@
+[
+ {
+  "kanji": "手",
+  "on": "シュ",
+  "kun": "て",
+  "az": "əl",
+  "en": "hand",
+  "ru": "рука",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "手"
+  ],
+  "mense": {
+   "az": "Barmaqları açılmış əlin şəklidir: yuxarıda barmaqlar, ortada ovuc, aşağıda qol. Başqa kanjilərin solunda 扌 şəklinə düşür: 持 (tutmaq), 押 (basmaq).",
+   "en": "A picture of a hand with spread fingers: fingers on top, palm in the middle, the arm below. On the left of other kanji it becomes 扌: 持 (hold), 押 (push).",
+   "ru": "Рисунок кисти с растопыренными пальцами: сверху пальцы, посередине ладонь, внизу рука. Слева в других кандзи превращается в 扌: 持 (держать), 押 (нажимать)."
+  },
+  "hekaye": {
+   "az": "Barmaqları açıq əlcək: 手 (te) – əl. 上手 (jouzu) – bacarıqlı, 切手 (kitte) – marka.",
+   "en": "A glove with spread fingers: 手 (te), hand. 上手 (jouzu), skilful; 切手 (kitte), postage stamp.",
+   "ru": "Перчатка с растопыренными пальцами: 手 (тэ) – рука. 上手 (дзёдзу) – умелый, 切手 (киттэ) – марка."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 8,
+  "nümunə_sozler": [
+   "手帳 (てちょう) kitabça",
+   "お手洗い (おてあらい) tualet (nəzakətli forma)",
+   "手紙 (てがみ) məktub",
+   "手 (て) əl"
+  ]
+ },
+ {
+  "kanji": "時",
+  "on": "ジ",
+  "kun": "とき",
+  "az": "vaxt, saat",
+  "en": "time, hour",
+  "ru": "время, час",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "日",
+   "土",
+   "寸"
+  ],
+  "mense": {
+   "az": "Məna hissəsi günəş (日), səs hissəsi 寺. Vaxtı günəşin göydəki yerinə görə ölçürdülər: zaman, saat.",
+   "en": "The meaning part is the sun (日) and the sound part is 寺. Time used to be measured by where the sun stood in the sky: time, hour.",
+   "ru": "Смысловая часть – солнце (日), звуковая – 寺. Время измеряли по положению солнца на небе: время, час."
+  },
+  "hekaye": {
+   "az": "Günəşə baxıb saatı bil: 時 (toki) – zaman. 時間 (jikan) – vaxt, 時計 (tokei) – saat.",
+   "en": "Read the hour from the sun: 時 (toki), time. 時間 (jikan), time; 時計 (tokei), clock.",
+   "ru": "Узнай час по солнцу: 時 (токи) – время. 時間 (дзикан) – время, 時計 (токэй) – часы."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 7,
+  "nümunə_sozler": [
+   "時計 (とけい) saat",
+   "～時 (～じ) ~saat (vaxt anı)",
+   "何時 (なんじ) saat neçədir",
+   "時々 (ときどき) hərdən"
+  ]
+ },
+ {
+  "kanji": "話",
+  "on": "ワ",
+  "kun": "はな・す、はなし",
+  "az": "danışmaq, söhbət",
+  "en": "talk, story",
+  "ru": "говорить, рассказ",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "言",
+   "舌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), sağdakı hissə qədimdə səs verən 𠯑 idi, sonra 舌-ə (dil) bənzədi. Sözlə danışmaq: danışıq, söhbət, hekayə.",
+   "en": "The meaning part is words (言); the right side was originally the sound part 𠯑, which later came to look like 舌 (tongue). Speaking in words: talk, conversation, story.",
+   "ru": "Смысловая часть – слово (言); правая часть изначально была звуковым 𠯑, позже стала похожа на 舌 (язык). Говорить словами: речь, разговор, рассказ."
+  },
+  "hekaye": {
+   "az": "Söz və dil: 話す (hanasu) – danışmaq. 電話 (denwa) – telefon, 話 (hanashi) – söhbət.",
+   "en": "Words and tongue: 話す (hanasu), to speak. 電話 (denwa), phone; 話 (hanashi), talk, story.",
+   "ru": "Слово и язык: 話す (ханасу) – говорить. 電話 (дэнва) – телефон, 話 (ханаси) – рассказ."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 7,
+  "nümunə_sozler": [
+   "これからお世話になります (これからおせわになります) Bundan sonra köməyinizə ümid bəsləyirəm",
+   "電話 (でんわ) telefon",
+   "かけます[電話を～] (かけます[でんわを～]) zəng vurmaq [telefonla zəng vurmaq]",
+   "話します (はなします) danışmaq"
+  ]
+ },
+ {
+  "kanji": "車",
+  "on": "シャ",
+  "kun": "くるま",
+  "az": "maşın, təkər",
+  "en": "car, wheel",
+  "ru": "машина, колесо",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "車"
+  ],
+  "mense": {
+   "az": "Yuxarıdan görünən döyüş arabasıdır: ortada gövdə, onu kəsən ox, iki ucda təkərlər. Şaquli yazılanda təkərlər iki üfüqi xəttə çevrildi.",
+   "en": "A war chariot seen from above: the body in the middle, the axle through it and wheels at both ends. Written vertically, the wheels turned into two horizontal strokes.",
+   "ru": "Боевая колесница, видимая сверху: кузов посередине, ось сквозь него, колёса на концах. При вертикальном написании колёса стали двумя горизонтальными чертами."
+  },
+  "hekaye": {
+   "az": "Ox, təkər, gövdə: 車 (kuruma) – maşın. 電車 (densha) – elektrik qatarı, 自転車 (jitensha) – velosiped.",
+   "en": "Axle, wheels, body: 車 (kuruma), car. 電車 (densha), train; 自転車 (jitensha), bicycle.",
+   "ru": "Ось, колёса, кузов: 車 (курума) – машина. 電車 (дэнся) – электричка, 自転車 (дзитэнся) – велосипед."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 5,
+  "nümunə_sozler": [
+   "車 (くるま) maşın",
+   "電車 (でんしゃ) qatar",
+   "自転車 (じてんしゃ) velosiped",
+   "自動車 (じどうしゃ) avtomobil"
+  ]
+ },
+ {
+  "kanji": "書",
+  "on": "ショ",
+  "kun": "か・く",
+  "az": "yazmaq",
+  "en": "write",
+  "ru": "писать",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "聿",
+   "日"
+  ],
+  "mense": {
+   "az": "Yuxarıda 聿: fırça tutan əl. Aşağıda köhnə formada 者 idi (səs verirdi), indi 日 qalıb. Fırça ilə yazan əl: yazmaq, kitab.",
+   "en": "On top 聿: a hand holding a brush. Below it was originally 者 (giving the sound); today only 日 remains. A hand writing with a brush: to write, a book.",
+   "ru": "Сверху 聿: рука с кистью. Снизу раньше был 者 (давал звук), теперь остался 日. Рука, пишущая кистью: писать, книга."
+  },
+  "hekaye": {
+   "az": "Fırça tutan əl: 書く (kaku) – yazmaq. 辞書 (jisho) – lüğət, 図書館 (toshokan) – kitabxana.",
+   "en": "A hand holding a brush: 書く (kaku), to write. 辞書 (jisho), dictionary; 図書館 (toshokan), library.",
+   "ru": "Рука с кистью: 書く (каку) – писать. 辞書 (дзисё) – словарь, 図書館 (тосёкан) – библиотека."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "辞書 (じしょ) lüğət",
+   "図書館 (としょかん) kitabxana",
+   "書きます (かきます) yazmaq",
+   "電子辞書 (でんしじしょ) elektron lüğət"
+  ]
+ },
+ {
+  "kanji": "新",
+  "on": "シン",
+  "kun": "あたら・しい",
+  "az": "yeni",
+  "en": "new",
+  "ru": "новый",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "立",
+   "木",
+   "斤"
+  ],
+  "mense": {
+   "az": "Solda 辛 (səs verir) və ağac (木), sağda balta (斤). İlk mənası \"baltayla ağac kəsmək\" idi. Təzə kəsilmiş odun təzə, yeni olur: buradan \"yeni\" mənası çıxdı.",
+   "en": "On the left 辛 (giving the sound) and a tree (木), on the right an axe (斤). The first meaning was \"to cut wood with an axe\". Freshly cut wood is fresh, new: hence \"new\".",
+   "ru": "Слева 辛 (даёт звук) и дерево (木), справа топор (斤). Первое значение – «рубить дерево топором». Свежесрубленная древесина свежая, новая: отсюда «новый»."
+  },
+  "hekaye": {
+   "az": "Təzə kəsilmiş ağac: 新しい (atarashii) – yeni. 新聞 (shinbun) – qəzet, \"yeni eşidilənlər\".",
+   "en": "Freshly cut wood: 新しい (atarashii), new. 新聞 (shinbun), newspaper: \"newly heard things\".",
+   "ru": "Свежесрубленное дерево: 新しい (атарасий) – новый. 新聞 (симбун) – газета, «новое услышанное»."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "新聞 (しんぶん) qəzet",
+   "新大阪 (しんおおさか) Osaka stansiya adı (Yeni Osaka)",
+   "新幹線 (しんかんせん) Shinkansen (sürətli qatar)"
+  ]
+ },
+ {
+  "kanji": "聞",
+  "on": "ブン",
+  "kun": "き・く",
+  "az": "eşitmək, soruşmaq",
+  "en": "hear, ask",
+  "ru": "слышать, спрашивать",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "門",
+   "耳"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qulaq (耳), səs hissəsi darvaza (門). Obrazlı desək, qapıya dayanmış qulaq: dinləmək, eşitmək. Yapon dilində həm də \"soruşmaq\" deməkdir.",
+   "en": "The meaning part is the ear (耳) and the sound part is the gate (門). Picture an ear pressed to a gate: to listen, to hear. In Japanese it also means \"to ask\".",
+   "ru": "Смысловая часть – ухо (耳), звуковая – ворота (門). Образно: ухо, приложенное к воротам: слушать, слышать. По-японски значит ещё и «спрашивать»."
+  },
+  "hekaye": {
+   "az": "Darvazaya dayanan qulaq: 聞く (kiku) – eşitmək, soruşmaq. 新聞 (shinbun) – qəzet.",
+   "en": "An ear at the gate: 聞く (kiku), to hear, to ask. 新聞 (shinbun), newspaper.",
+   "ru": "Ухо у ворот: 聞く (кику) – слышать, спрашивать. 新聞 (симбун) – газета."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "新聞 (しんぶん) qəzet",
+   "聞きます (ききます) eşitmək, qulaq asmaq",
+   "聞きます (ききます) [先生に～] soruşmaq"
+  ]
+ },
+ {
+  "kanji": "世",
+  "on": "セ、セイ",
+  "kun": "よ",
+  "az": "dünya, nəsil",
+  "en": "world, generation",
+  "ru": "мир, поколение",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "世"
+  ],
+  "mense": {
+   "az": "Üç \"on\" (十) bir-birinə birləşib: 30 il. Qədim Çində 30 il bir nəsil sayılırdı. Buradan \"nəsil, dövr, dünya\" mənaları yarandı.",
+   "en": "Three \"tens\" (十) joined together: thirty years. In ancient China thirty years counted as one generation. From that came \"generation, age, the world\".",
+   "ru": "Три «десятки» (十), соединённые вместе: тридцать лет. В Древнем Китае тридцать лет считались одним поколением. Отсюда «поколение, эпоха, мир»."
+  },
+  "hekaye": {
+   "az": "Otuz il bir nəsil: 世界 (sekai) – dünya, お世話 (osewa) – qayğı.",
+   "en": "Thirty years, one generation: 世界 (sekai), the world; お世話 (osewa), care, help.",
+   "ru": "Тридцать лет – одно поколение: 世界 (сэкай) – мир, お世話 (осэва) – забота."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "これからお世話になります (これからおせわになります) Bundan sonra köməyinizə ümid bəsləyirəm",
+   "世界 (せかい) dünya",
+   "[いろいろ]お世話になりました。 ([いろいろ]おせわになりました。) Hər şey üçün təşəkkür edirəm."
+  ]
+ },
+ {
+  "kanji": "辞",
+  "on": "ジ",
+  "kun": "や・める",
+  "az": "söz, əl çəkmək",
+  "en": "word, quit",
+  "ru": "слово, уходить",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "舌",
+   "辛"
+  ],
+  "mense": {
+   "az": "Köhnə forması 辭: sol hissə dolaşıq ipi açan iki əldir (mübahisəni çözmək), sağda 辛 (cəza bıçağı). Məhkəmədə deyilən söz, müdafiə nitqi idi. Sonra mənası \"söz, nitq\" oldu, həm də \"imtina etmək\". Bugünkü formada solda 舌 (dil) görünür.",
+   "en": "The old form is 辭: on the left two hands untangling thread (sorting out a dispute), on the right 辛 (a punishment blade). It was the words spoken in court, a plea. Later it came to mean \"words, speech\", and also \"to decline, resign\". In the modern form the left side shows 舌 (tongue).",
+   "ru": "Старая форма 辭: слева две руки распутывают нить (разбирают спор), справа 辛 (нож для наказания). Это были слова на суде, оправдательная речь. Позже значение стало «слова, речь», а также «отказываться». В современной форме слева виден 舌 (язык)."
+  },
+  "hekaye": {
+   "az": "Dil (舌) + söz: 辞書 (jisho) – lüğət, \"sözlər kitabı\". 辞める (yameru) – işdən çıxmaq.",
+   "en": "Tongue (舌) + words: 辞書 (jisho), dictionary, \"book of words\". 辞める (yameru), to quit a job.",
+   "ru": "Язык (舌) + слова: 辞書 (дзисё) – словарь, «книга слов». 辞める (ямэру) – уволиться."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "辞書 (じしょ) lüğət",
+   "電子辞書 (でんしじしょ) elektron lüğət"
+  ]
+ },
+ {
+  "kanji": "刺",
+  "on": "シ",
+  "kun": "さ・す",
+  "az": "sancmaq, kart",
+  "en": "pierce, card",
+  "ru": "колоть, визитка",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "木",
+   "冂",
+   "刂"
+  ],
+  "mense": {
+   "az": "Solda tikan (朿), sağda bıçaq (刂). Tikan kimi batırmaq: sancmaq, deşmək. Qədim Çində ad yazılan taxta lövhəcik də belə adlanırdı, buradan 名刺 (vizit kartı).",
+   "en": "A thorn (朿) on the left and a knife (刂) on the right. To pierce like a thorn: to stab, to prick. In ancient China it also meant a wooden tag with a name on it, hence 名刺 (business card).",
+   "ru": "Слева шип (朿), справа нож (刂). Вонзать, как шип: колоть, прокалывать. В Древнем Китае так называли и деревянную табличку с именем, отсюда 名刺 (визитка)."
+  },
+  "hekaye": {
+   "az": "Tikan + bıçaq = sancmaq: 刺す (sasu). 名刺 (meishi) – vizit kartı, 刺身 (sashimi) – sashimi.",
+   "en": "Thorn + knife = to stab: 刺す (sasu). 名刺 (meishi), business card; 刺身 (sashimi), sashimi.",
+   "ru": "Шип + нож = колоть: 刺す (сасу). 名刺 (мэйси) – визитка, 刺身 (сасими) – сасими."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "名刺 (めいし) vizit kartı",
+   "刺身 (さしみ) sashimi (yemək adı)"
+  ]
+ },
+ {
+  "kanji": "土",
+  "on": "ド",
+  "kun": "つち",
+  "az": "torpaq",
+  "en": "earth, soil",
+  "ru": "земля, почва",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "土"
+  ],
+  "mense": {
+   "az": "Yer üzərində qalxan torpaq topasıdır: aşağıdakı xətt yer, yuxarıdakı hissə torpaq yığını. Qədim yazıda bu yığın dolğun bir ləkə kimi çəkilirdi.",
+   "en": "A clod of earth rising from the ground: the bottom line is the ground and the upper part is the heap of soil. In ancient script the heap was drawn as a solid blob.",
+   "ru": "Ком земли, поднимающийся над поверхностью: нижняя черта – земля, верхняя часть – кучка почвы. В древнем письме кучку рисовали сплошным пятном."
+  },
+  "hekaye": {
+   "az": "Yerdə torpaq topası: 土 (tsuchi) – torpaq. 土曜日 (doyoubi) – şənbə, お土産 (omiyage) – suvenir.",
+   "en": "A clod on the ground: 土 (tsuchi), soil. 土曜日 (doyoubi), Saturday; お土産 (omiyage), souvenir.",
+   "ru": "Ком на земле: 土 (цути) – земля, почва. 土曜日 (доёби) – суббота, お土産 (омияге) – сувенир."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "お土産 (おみやげ) hədiyyə, suvenir",
+   "土曜日 (どようび) Şənbə"
+  ]
+ },
+ {
+  "kanji": "語",
+  "on": "ゴ",
+  "kun": "かた・る",
+  "az": "dil, söz",
+  "en": "language, word",
+  "ru": "язык, слово",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "言",
+   "#",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 吾 (\"mən\"). Danışmaq, söhbət etmək; sonra söz və dil.",
+   "en": "The meaning part is words (言) and the sound part is 吾 (\"I\"). To talk, to converse; later a word, a language.",
+   "ru": "Смысловая часть – слово (言), звуковая – 吾 («я»). Говорить, беседовать; позже слово, язык."
+  },
+  "hekaye": {
+   "az": "Mənim sözlərim: 語 (go) – dil. 日本語 (nihongo) – yapon dili, 物語 (monogatari) – hekayə.",
+   "en": "My words: 語 (go), language. 日本語 (nihongo), Japanese; 物語 (monogatari), tale.",
+   "ru": "Мои слова: 語 (го) – язык. 日本語 (нихонго) – японский язык, 物語 (моногатари) – повесть."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "英語 (えいご) ingilis dili",
+   "～語 (～ご) ~ca/cə, ~dili"
+  ]
+ },
+ {
+  "kanji": "雑",
+  "on": "ザツ",
+  "kun": "–",
+  "az": "qarışıq",
+  "en": "miscellaneous",
+  "ru": "смешанный",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "九",
+   "木",
+   "隹"
+  ],
+  "mense": {
+   "az": "Köhnə forması 雜: paltar (衣) və toplamaq (集). Müxtəlif rəngli parçaları bir yerə yığmaq: qarışıq, müxtəlif. Sadələşəndə sol tərəf 九 + 木-ə bənzədi, sağda quş (隹) qaldı.",
+   "en": "The old form is 雜: clothing (衣) and gathering (集). Collecting cloth of many colours in one place: mixed, assorted. When simplified, the left side came to look like 九 + 木, with the bird (隹) still on the right.",
+   "ru": "Старая форма 雜: одежда (衣) и собирать (集). Собрать вместе ткани разных цветов: смешанный, разный. При упрощении левая часть стала похожа на 九 + 木, справа осталась птица (隹)."
+  },
+  "hekaye": {
+   "az": "Hər şey bir yerdə, qarışıq: 雑誌 (zasshi) – jurnal, 雑音 (zatsuon) – səs-küy.",
+   "en": "Everything together, mixed: 雑誌 (zasshi), magazine; 雑音 (zatsuon), noise.",
+   "ru": "Всё вместе, вперемешку: 雑誌 (дзасси) – журнал, 雑音 (дзацуон) – шум, помехи."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "雑誌 (ざっし) jurnal"
+  ]
+ },
+ {
+  "kanji": "誌",
+  "on": "シ",
+  "kun": "–",
+  "az": "jurnal, qeyd",
+  "en": "magazine, record",
+  "ru": "журнал, запись",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "言",
+   "士",
+   "心"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 志 (niyyət, \"yadda saxlamaq\"). Sözü yazıb qeyd etmək: qeyd, salnamə. Sonra müntəzəm çıxan nəşr, jurnal.",
+   "en": "The meaning part is words (言) and the sound part is 志 (intention, \"to keep in mind\"). Writing words down: a record, a chronicle. Later a regular publication, a magazine.",
+   "ru": "Смысловая часть – слова (言), звуковая – 志 (намерение, «держать в памяти»). Записывать слова: запись, летопись. Позже – периодическое издание, журнал."
+  },
+  "hekaye": {
+   "az": "Yazılıb qeyd olunan sözlər: 雑誌 (zasshi) – jurnal, 日誌 (nisshi) – gündəlik.",
+   "en": "Words written down: 雑誌 (zasshi), magazine; 日誌 (nisshi), log, diary.",
+   "ru": "Записанные слова: 雑誌 (дзасси) – журнал, 日誌 (нисси) – дневник, журнал записей."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "雑誌 (ざっし) jurnal"
+  ]
+ },
+ {
+  "kanji": "帳",
+  "on": "チョウ",
+  "kun": "–",
+  "az": "dəftər",
+  "en": "notebook",
+  "ru": "тетрадь",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "巾",
+   "長"
+  ],
+  "mense": {
+   "az": "Məna hissəsi parça (巾), səs hissəsi uzun (長). Əvvəlcə uzun parça pərdə, çadır idi. Sonra bir-birinə tikilmiş vərəqlər, qeyd dəftəri mənasını aldı.",
+   "en": "The meaning part is cloth (巾) and the sound part is long (長). It was first a long cloth curtain or tent; later sheets sewn together, a notebook.",
+   "ru": "Смысловая часть – ткань (巾), звуковая – длинный (長). Сначала длинный тканевый полог, шатёр; позже сшитые листы, тетрадь."
+  },
+  "hekaye": {
+   "az": "Uzun parçadan dəftərə: 手帳 (techou) – cib dəftərçəsi, 通帳 (tsuuchou) – bank kitabçası.",
+   "en": "From a long cloth to a notebook: 手帳 (techou), pocket diary; 通帳 (tsuuchou), bankbook.",
+   "ru": "От длинной ткани к тетради: 手帳 (тэтё) – записная книжка, 通帳 (цутё) – сберкнижка."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "手帳 (てちょう) kitabça"
+  ]
+ },
+ {
+  "kanji": "鉛",
+  "on": "エン",
+  "kun": "なまり",
+  "az": "qurğuşun",
+  "en": "lead (metal)",
+  "ru": "свинец",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "金",
+   "八",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi metal (金), səs hissəsi 㕣. Yumşaq, boz metal: qurğuşun. Qələmin içi əvvəllər qurğuşun sanıldığı üçün \"qələm\" sözündə də işlənir.",
+   "en": "The meaning part is metal (金) and the sound part is 㕣. A soft grey metal: lead. Because pencil cores were once thought to be lead, it is used in the word \"pencil\".",
+   "ru": "Смысловая часть – металл (金), звуковая – 㕣. Мягкий серый металл: свинец. Стержень карандаша когда-то считали свинцовым, поэтому знак есть в слове «карандаш»."
+  },
+  "hekaye": {
+   "az": "Boz metal: 鉛 (namari) – qurğuşun. 鉛筆 (enpitsu) – karandaş.",
+   "en": "A grey metal: 鉛 (namari), lead. 鉛筆 (enpitsu), pencil.",
+   "ru": "Серый металл: 鉛 (намари) – свинец. 鉛筆 (эмпицу) – карандаш."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "鉛筆 (えんぴつ) karandaş"
+  ]
+ },
+ {
+  "kanji": "筆",
+  "on": "ヒツ",
+  "kun": "ふで",
+  "az": "fırça, yazı",
+  "en": "brush, writing",
+  "ru": "кисть, письмо",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "竹",
+   "聿"
+  ],
+  "mense": {
+   "az": "Yuxarıda bambuk (⺮), aşağıda 聿 (fırça tutan əl). Əvvəl təkcə 聿 fırça demək idi, sonra fırçanın sapı bambukdan olduğu üçün ⺮ əlavə olundu.",
+   "en": "Bamboo (⺮) on top and 聿 (a hand holding a brush) below. At first 聿 alone meant brush; ⺮ was added because the handle was made of bamboo.",
+   "ru": "Сверху бамбук (⺮), снизу 聿 (рука с кистью). Сначала кисть обозначал один 聿, позже добавили ⺮, потому что рукоять делали из бамбука."
+  },
+  "hekaye": {
+   "az": "Bambuk saplı fırça: 筆 (fude). 鉛筆 (enpitsu) – karandaş, 筆者 (hissha) – müəllif.",
+   "en": "A bamboo-handled brush: 筆 (fude). 鉛筆 (enpitsu), pencil; 筆者 (hissha), the author.",
+   "ru": "Кисть с бамбуковой рукоятью: 筆 (фудэ). 鉛筆 (эмпицу) – карандаш, 筆者 (хисся) – автор."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "鉛筆 (えんぴつ) karandaş"
+  ]
+ },
+ {
+  "kanji": "鍵",
+  "on": "ケン",
+  "kun": "かぎ",
+  "az": "açar",
+  "en": "key",
+  "ru": "ключ",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "金",
+   "聿",
+   "廴"
+  ],
+  "mense": {
+   "az": "Məna hissəsi metal (金), səs hissəsi 建. Qədimdə qapı və sandıqları bağlayan metal sürgü idi, indi açar və kilid.",
+   "en": "The meaning part is metal (金) and the sound part is 建. In old times it was the metal bolt that locked doors and chests; today a key or a lock.",
+   "ru": "Смысловая часть – металл (金), звуковая – 建. В старину металлический засов на дверях и сундуках, сегодня ключ или замок."
+  },
+  "hekaye": {
+   "az": "Metal + 建 səsi: 鍵 (kagi) – açar. 鍵を かけます (kagi o kakemasu) – qapını kilidləmək.",
+   "en": "Metal + the sound of 建: 鍵 (kagi), key. 鍵を かけます (kagi o kakemasu), to lock.",
+   "ru": "Металл + звук 建: 鍵 (каги) – ключ. 鍵を かけます (каги о какэмасу) – запирать."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "鍵 (かぎ) açar"
+  ]
+ },
+ {
+  "kanji": "計",
+  "on": "ケイ",
+  "kun": "はか・る",
+  "az": "ölçmək, plan",
+  "en": "measure, plan",
+  "ru": "измерять, план",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "言",
+   "十"
+  ],
+  "mense": {
+   "az": "Söz (言) və on (十). Yüksək səslə ona qədər saymaq: hesablamaq, ölçmək, planlamaq.",
+   "en": "Words (言) and ten (十). Counting aloud up to ten: to count, measure, plan.",
+   "ru": "Слово (言) и десять (十). Считать вслух до десяти: считать, измерять, планировать."
+  },
+  "hekaye": {
+   "az": "Ona qədər say: 計る (hakaru) – ölçmək. 時計 (tokei) – saat, 計画 (keikaku) – plan.",
+   "en": "Count to ten: 計る (hakaru), to measure. 時計 (tokei), clock; 計画 (keikaku), plan.",
+   "ru": "Посчитай до десяти: 計る (хакару) – измерять. 時計 (токэй) – часы, 計画 (кэйкаку) – план."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "時計 (とけい) saat"
+  ]
+ },
+ {
+  "kanji": "傘",
+  "on": "サン",
+  "kun": "かさ",
+  "az": "çətir",
+  "en": "umbrella",
+  "ru": "зонт",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "人@top",
+   "人",
+   "人",
+   "人",
+   "人",
+   "十"
+  ],
+  "mense": {
+   "az": "Açıq çətirin şəklidir: yuxarıda qübbə, ortada sap, altında dörd kiçik 人. Bu \"insanlar\" əslində çətirin parça qatları və mil çubuqlarıdır.",
+   "en": "A picture of an open umbrella: the canopy on top, the shaft in the middle and four little 人 underneath. These \"people\" are really the folds of cloth and the ribs.",
+   "ru": "Рисунок раскрытого зонта: купол сверху, стержень посередине и четыре маленьких 人 под ним. Эти «человечки» на самом деле складки ткани и спицы."
+  },
+  "hekaye": {
+   "az": "Çətirin altında dörd nəfər: 傘 (kasa) – çətir. 日傘 (higasa) – günlük çətir.",
+   "en": "Four people under an umbrella: 傘 (kasa), umbrella. 日傘 (higasa), parasol.",
+   "ru": "Четверо под зонтом: 傘 (каса) – зонт. 日傘 (хигаса) – зонтик от солнца."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "傘 (かさ) çətir"
+  ]
+ },
+ {
+  "kanji": "机",
+  "on": "キ",
+  "kun": "つくえ",
+  "az": "masa",
+  "en": "desk",
+  "ru": "стол",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "木",
+   "几@right"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağac (木), səs hissəsi 几 (kiçik ayaqlı masa). Taxtadan düzəldilən masa: yazı masası.",
+   "en": "The meaning part is wood (木) and the sound part is 几 (a small table on legs). A table made of wood: a desk.",
+   "ru": "Смысловая часть – дерево (木), звуковая – 几 (столик на ножках). Стол из дерева: письменный стол."
+  },
+  "hekaye": {
+   "az": "Taxta + ayaqlı masa: 机 (tsukue) – yazı masası.",
+   "en": "Wood + a table on legs: 机 (tsukue), desk.",
+   "ru": "Дерево + столик на ножках: 机 (цукуэ) – письменный стол."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "机 (つくえ) masa, stol"
+  ]
+ },
+ {
+  "kanji": "産",
+  "on": "サン",
+  "kun": "う・む",
+  "az": "istehsal, doğmaq",
+  "en": "produce, birth",
+  "ru": "производить, рождать",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "立",
+   "厂",
+   "生"
+  ],
+  "mense": {
+   "az": "Məna hissəsi 生 (doğulmaq), yuxarı hissə səs verir. Doğmaq, dünyaya gətirmək; sonra torpağın və insanın \"yetirdiyi\" şey: məhsul.",
+   "en": "The meaning part is 生 (to be born); the top part gives the sound. To give birth; later what land or people \"bring forth\": produce.",
+   "ru": "Смысловая часть – 生 (рождаться), верхняя часть даёт звук. Рожать; позже то, что «производит» земля или человек: продукт."
+  },
+  "hekaye": {
+   "az": "Doğulan, yetişən: 産む (umu) – doğmaq. お土産 (omiyage) – suvenir, 産業 (sangyou) – sənaye.",
+   "en": "What is born or grown: 産む (umu), to give birth. お土産 (omiyage), souvenir; 産業 (sangyou), industry.",
+   "ru": "Рождённое, выращенное: 産む (уму) – рожать. お土産 (омияге) – сувенир, 産業 (сангё) – промышленность."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "お土産 (おみやげ) hədiyyə, suvenir"
+  ]
+ },
+ {
+  "kanji": "英",
+  "on": "エイ",
+  "kun": "–",
+  "az": "İngiltərə, əla",
+  "en": "England, excellent",
+  "ru": "Англия, выдающийся",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "大",
+   "#"
+  ],
+  "mense": {
+   "az": "Yuxarıda ot (艹), aşağıda 央 (orta, səs verir). Bitkinin ən gözəl hissəsi, çiçəyi: seçilmiş, görkəmli. Yapon dilində İngiltərənin adını yazmaq üçün də işlənir.",
+   "en": "Grass (艹) on top and 央 (centre, giving the sound) below. The finest part of a plant, its blossom: outstanding, excellent. In Japanese it is also used to write England.",
+   "ru": "Сверху трава (艹), снизу 央 (центр, даёт звук). Лучшая часть растения, цветок: выдающийся. В японском также пишется в названии Англии."
+  },
+  "hekaye": {
+   "az": "Bitkinin çiçəyi, seçilmişi: 英語 (eigo) – ingilis dili, 英国 (eikoku) – Böyük Britaniya.",
+   "en": "The flower of a plant, the finest: 英語 (eigo), English; 英国 (eikoku), the UK.",
+   "ru": "Цветок растения, лучшее: 英語 (эйго) – английский язык, 英国 (эйкоку) – Великобритания."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "英語 (えいご) ingilis dili"
+  ]
+ },
+ {
+  "kanji": "違",
+  "on": "イ",
+  "kun": "ちが・う",
+  "az": "fərqlənmək",
+  "en": "differ",
+  "ru": "отличаться",
+  "ders": 2,
+  "kart": true,
+  "komponent": [
+   "#",
+   "口",
+   "#",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol, hərəkət (辶), səs hissəsi 韋. 韋 qədimdə əks istiqamətə gedən iki ayaq idi. Yolları ayrılan insanlar: fərqli olmaq, səhv.",
+   "en": "The meaning part is road, movement (辶) and the sound part is 韋. In ancient script 韋 was two feet going in opposite directions. People whose paths part: to differ, to be wrong.",
+   "ru": "Смысловая часть – путь, движение (辶), звуковая – 韋. В древности 韋 – две ступни, идущие в разные стороны. Люди, чьи пути расходятся: отличаться, ошибаться."
+  },
+  "hekaye": {
+   "az": "Yollar ayrıldı: 違う (chigau) – fərqli olmaq; səhv. 間違い (machigai) – səhv.",
+   "en": "The paths part: 違う (chigau), to differ; to be wrong. 間違い (machigai), mistake.",
+   "ru": "Пути разошлись: 違う (тигау) – отличаться; быть неверным. 間違い (матигай) – ошибка."
+  },
+  "ilk_soz_dersi": 2,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "違います (ちがいます) Səhvdir, belə deyil"
+  ]
+ }
+]

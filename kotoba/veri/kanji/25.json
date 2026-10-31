@@ -1,0 +1,154 @@
+[
+ {
+  "kanji": "考",
+  "on": "コウ",
+  "kun": "かんが・える",
+  "az": "fikirləşmək",
+  "en": "think, consider",
+  "ru": "думать, обдумывать",
+  "ders": 25,
+  "kart": true,
+  "komponent": [
+   "耂",
+   "丂"
+  ],
+  "mense": {
+   "az": "Yuxarıda uzun saçlı qoca (耂), aşağıda əyilmiş əsa (丂). Yaşlı, təcrübəli insanın dərindən düşünməsi: düşünmək.",
+   "en": "An old man with long hair (耂) on top and a bent staff (丂) below. The deep thinking of an experienced elder: to think.",
+   "ru": "Сверху старик с длинными волосами (耂), снизу изогнутый посох (丂). Глубокие раздумья опытного старца: думать."
+  },
+  "hekaye": {
+   "az": "Qocanın düşüncəsi: 考える (kangaeru) – düşünmək.",
+   "en": "An elder's thought: 考える (kangaeru), to think.",
+   "ru": "Дума старца: 考える (кангаэру) – думать."
+  },
+  "ilk_soz_dersi": 25,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "考えます (かんがえます) fikirləşmək, düşünüb-daşınmaq"
+  ]
+ },
+ {
+  "kanji": "舎",
+  "on": "シャ",
+  "kun": "–",
+  "az": "ev, bina",
+  "en": "cottage, building",
+  "ru": "дом, здание",
+  "ders": 25,
+  "kart": true,
+  "komponent": [
+   "人@top",
+   "士",
+   "口"
+  ],
+  "mense": {
+   "az": "Bünövrə üzərində damı olan bina. Qonaq evi, yataqxana, bina.",
+   "en": "A building with a roof on a foundation. A lodging, a hostel, a building.",
+   "ru": "Здание с крышей на основании. Постоялый двор, общежитие, здание."
+  },
+  "hekaye": {
+   "az": "Damlı bina: 田舎 (inaka) – kənd, 校舎 (kousha) – məktəb binası.",
+   "en": "A roofed building: 田舎 (inaka), countryside; 校舎 (kousha), school building.",
+   "ru": "Здание под крышей: 田舎 (инака) – деревня, 校舎 (кося) – школьное здание."
+  },
+  "ilk_soz_dersi": 25,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "田舎 (いなか) kənd"
+  ]
+ },
+ {
+  "kanji": "億",
+  "on": "オク",
+  "kun": "–",
+  "az": "yüz milyon",
+  "en": "hundred million",
+  "ru": "сто миллионов",
+  "ders": 25,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "立",
+   "日",
+   "心"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 意. Yüz milyon.",
+   "en": "The meaning part is person (亻) and the sound part is 意. A hundred million.",
+   "ru": "Смысловая часть – человек (亻), звуковая – 意. Сто миллионов."
+  },
+  "hekaye": {
+   "az": "Yüz milyon: 一億 (ichioku) – 100 000 000.",
+   "en": "A hundred million: 一億 (ichioku), 100,000,000.",
+   "ru": "Сто миллионов: 一億 (итиоку) – 100 000 000."
+  },
+  "ilk_soz_dersi": 25,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "億 (おく) yüz milyon"
+  ]
+ },
+ {
+  "kanji": "勤",
+  "on": "キン",
+  "kun": "つと・める",
+  "az": "çalışmaq, xidmət",
+  "en": "work, serve",
+  "ru": "работать, служить",
+  "ders": 25,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "一",
+   "一",
+   "一",
+   "#",
+   "力"
+  ],
+  "mense": {
+   "az": "Məna hissəsi güc (力), səs hissəsi 堇. Bütün gücü ilə çalışmaq: işləmək, xidmət etmək.",
+   "en": "The meaning part is strength (力) and the sound part is 堇. Working with all your strength: to work, to serve.",
+   "ru": "Смысловая часть – сила (力), звуковая – 堇. Трудиться изо всех сил: работать, служить."
+  },
+  "hekaye": {
+   "az": "Güclə çalış: 勤める (tsutomeru) – işləmək (bir yerdə), 通勤 (tsuukin) – işə gediş.",
+   "en": "Work with strength: 勤める (tsutomeru), to work for; 通勤 (tsuukin), commuting.",
+   "ru": "Трудись с силой: 勤める (цутомэру) – служить, 通勤 (цукин) – дорога на работу."
+  },
+  "ilk_soz_dersi": 25,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "転勤 (てんきん) təyinat (～します: başqa yerə təyin olunmaq)"
+  ]
+ },
+ {
+  "kanji": "暇",
+  "on": "カ",
+  "kun": "ひま",
+  "az": "boş vaxt",
+  "en": "free time",
+  "ru": "свободное время",
+  "ders": 25,
+  "kart": true,
+  "komponent": [
+   "日",
+   "叚"
+  ],
+  "mense": {
+   "az": "Məna hissəsi gün (日), səs hissəsi 叚 (borc almaq). Gündən \"borc alınmış\" vaxt: boş vaxt.",
+   "en": "The meaning part is day (日) and the sound part is 叚 (to borrow). Time \"borrowed\" from the day: free time.",
+   "ru": "Смысловая часть – день (日), звуковая – 叚 (занимать). Время, «одолженное» у дня: свободное время."
+  },
+  "hekaye": {
+   "az": "Gündən borc vaxt: 暇 (hima) – boş vaxt.",
+   "en": "Time borrowed from the day: 暇 (hima), free time.",
+   "ru": "Время, взятое у дня: 暇 (хима) – свободное время."
+  },
+  "ilk_soz_dersi": 25,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "暇 (ひま) boş vaxt"
+  ]
+ }
+]

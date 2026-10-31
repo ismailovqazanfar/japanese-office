@@ -1,0 +1,927 @@
+[
+ {
+  "kanji": "下",
+  "on": "カ、ゲ",
+  "kun": "した、さ・がる",
+  "az": "alt, aşağı",
+  "en": "below, down",
+  "ru": "низ, вниз",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "下"
+  ],
+  "mense": {
+   "az": "Üfüqi xəttin altına qoyulmuş işarə: \"altda\". Qədimdə qısa xətt uzun xəttin altında idi, sonra şaquli xətt və nöqtə əlavə olundu. 上 onun güzgü əksidir.",
+   "en": "A mark placed below a horizontal line: \"below\". In the earliest form a short line sat under a long one; later a vertical stroke and a dot were added. 上 is its mirror image.",
+   "ru": "Знак под горизонтальной чертой: «внизу». В древнейшей форме короткая черта стояла под длинной, позже добавились вертикаль и точка. 上 – его зеркальное отражение."
+  },
+  "hekaye": {
+   "az": "Xəttin altında: 下 (shita) – aşağı. 地下 (chika) – yeraltı, 下手 (heta) – bacarıqsız.",
+   "en": "Under the line: 下 (shita), below. 地下 (chika), underground; 下手 (heta), unskilled.",
+   "ru": "Под чертой: 下 (сита) – низ. 地下 (тика) – подземный, 下手 (хэта) – неумелый."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 7,
+  "nümunə_sozler": [
+   "地下 (ちか) yeraltı mərtəbə, zirzəmi",
+   "地下鉄 (ちかてつ) metro",
+   "下手[な] (へた[な]) bacarıqsız, fərsiz",
+   "下 (した) alt"
+  ]
+ },
+ {
+  "kanji": "見",
+  "on": "ケン",
+  "kun": "み・る",
+  "az": "görmək, baxmaq",
+  "en": "see, look",
+  "ru": "видеть, смотреть",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "見"
+  ],
+  "mense": {
+   "az": "Yuxarıda göz (目), aşağıda insan ayaqları (儿). Gözü irəli çıxmış insan: baxmaq, görmək.",
+   "en": "An eye (目) on top and a person's legs (儿) below. A person who is all eye: to look, to see.",
+   "ru": "Сверху глаз (目), снизу ноги человека (儿). Человек, ставший одним глазом: смотреть, видеть."
+  },
+  "hekaye": {
+   "az": "Ayaq üstə göz: 見る (miru) – baxmaq. 見物 (kenbutsu) – gəzib-görmək, 意見 (iken) – fikir.",
+   "en": "An eye on legs: 見る (miru), to look. 見物 (kenbutsu), sightseeing; 意見 (iken), opinion.",
+   "ru": "Глаз на ногах: 見る (миру) – смотреть. 見物 (кэмбуцу) – осмотр достопримечательностей, 意見 (икэн) – мнение."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 6,
+  "nümunə_sozler": [
+   "～を見せてください (～をみせてください) ~ göstərin zəhmət olmasa",
+   "見ます (みます) görmək, baxmaq, izləmək",
+   "[お]花見 ([お]はなみ) Sakura (albalı çiçəkləri) seyri",
+   "見せます (みせます) göstərmək"
+  ]
+ },
+ {
+  "kanji": "食",
+  "on": "ショク",
+  "kun": "た・べる",
+  "az": "yemək",
+  "en": "eat, food",
+  "ru": "есть, еда",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "食"
+  ],
+  "mense": {
+   "az": "Qapaqlı yemək qabının şəklidir: yuxarıda qapaq (人-ə bənzəyən hissə), altında içi yeməklə dolu ayaqlı qab. Yemək, yeyinti.",
+   "en": "A picture of a covered food vessel: the lid on top (the part that looks like 人) and a footed bowl full of food below. To eat, food.",
+   "ru": "Рисунок сосуда с крышкой: сверху крышка (часть, похожая на 人), внизу чаша на ножке, полная еды. Есть, еда."
+  },
+  "hekaye": {
+   "az": "Qapaqlı qab: 食べる (taberu) – yemək. 食堂 (shokudou) – yeməkxana, 食事 (shokuji) – yemək.",
+   "en": "A covered bowl: 食べる (taberu), to eat. 食堂 (shokudou), canteen; 食事 (shokuji), meal.",
+   "ru": "Сосуд с крышкой: 食べる (табэру) – есть. 食堂 (сёкудо) – столовая, 食事 (сёкудзи) – еда."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 5,
+  "nümunə_sozler": [
+   "食堂 (しょくどう) yeməkxana",
+   "食べます (たべます) yemək",
+   "食べ物 (たべもの) qida, yemək",
+   "食事します (しょくじします) qida qəbul etmək, yemək"
+  ]
+ },
+ {
+  "kanji": "事",
+  "on": "ジ",
+  "kun": "こと",
+  "az": "iş, hadisə",
+  "en": "thing, matter",
+  "ru": "дело, событие",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "事"
+  ],
+  "mense": {
+   "az": "Əlində üstü bayraqlı çubuq (məmurun nişanı) tutan əl. Məmurun gördüyü iş: iş, məsələ, hadisə.",
+   "en": "A hand holding a stick topped with a banner, an official's badge. The work an official does: work, matter, affair.",
+   "ru": "Рука, держащая палку с флажком – знак чиновника. Работа чиновника: дело, вопрос, событие."
+  },
+  "hekaye": {
+   "az": "Məmurun işi: 仕事 (shigoto) – iş, 事務所 (jimusho) – ofis, 大事 (daiji) – vacib.",
+   "en": "An official's work: 仕事 (shigoto), job; 事務所 (jimusho), office; 大事 (daiji), important.",
+   "ru": "Дело чиновника: 仕事 (сигото) – работа, 事務所 (дзимусё) – офис, 大事 (дайдзи) – важный."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 5,
+  "nümunə_sozler": [
+   "事務所 (じむしょ) ofis",
+   "[お]仕事 ([お]しごと) iş",
+   "用事 (ようじ) vacib iş",
+   "食事します (しょくじします) qida qəbul etmək, yemək"
+  ]
+ },
+ {
+  "kanji": "地",
+  "on": "チ、ジ",
+  "kun": "–",
+  "az": "yer, torpaq",
+  "en": "ground, land",
+  "ru": "земля, местность",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "土",
+   "也"
+  ],
+  "mense": {
+   "az": "Məna hissəsi torpaq (土), səs hissəsi 也. Göyün altındakı torpaq, yer üzü: yer, ərazi.",
+   "en": "The meaning part is earth (土) and the sound part is 也. The land beneath the sky, the earth's surface: ground, region.",
+   "ru": "Смысловая часть – земля (土), звуковая – 也. Земля под небом, поверхность: почва, местность."
+  },
+  "hekaye": {
+   "az": "Göyün altındakı torpaq: 地下 (chika) – yeraltı, 地図 (chizu) – xəritə, 地震 (jishin) – zəlzələ.",
+   "en": "The land under the sky: 地下 (chika), underground; 地図 (chizu), map; 地震 (jishin), earthquake.",
+   "ru": "Земля под небом: 地下 (тика) – подземный, 地図 (тидзу) – карта, 地震 (дзисин) – землетрясение."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 5,
+  "nümunə_sozler": [
+   "地下 (ちか) yeraltı mərtəbə, zirzəmi",
+   "地下鉄 (ちかてつ) metro",
+   "遊園地 (ゆうえんち) əyləncə parkı",
+   "地図 (ちず) xəritə"
+  ]
+ },
+ {
+  "kanji": "所",
+  "on": "ショ",
+  "kun": "ところ",
+  "az": "yer",
+  "en": "place",
+  "ru": "место",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "戸",
+   "斤"
+  ],
+  "mense": {
+   "az": "Solda qapı (戸, səs verir), sağda balta (斤). Əvvəl baltanın taqqıltısı idi, sonra səsinə görə \"yer\" sözünü yazmaq üçün götürüldü.",
+   "en": "A door (戸, giving the sound) on the left and an axe (斤) on the right. It first described the sound of chopping and was later borrowed for its sound to write the word \"place\".",
+   "ru": "Слева дверь (戸, даёт звук), справа топор (斤). Сначала знак обозначал стук топора, позже его взяли по звучанию для слова «место»."
+  },
+  "hekaye": {
+   "az": "Qapı və balta olan yer: 所 (tokoro) – yer. 台所 (daidokoro) – mətbəx, 住所 (juusho) – ünvan.",
+   "en": "A place with a door and an axe: 所 (tokoro), place. 台所 (daidokoro), kitchen; 住所 (juusho), address.",
+   "ru": "Место с дверью и топором: 所 (токоро) – место. 台所 (дайдокоро) – кухня, 住所 (дзюсё) – адрес."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "事務所 (じむしょ) ofis",
+   "所 (ところ) yer",
+   "住所 (じゅうしょ) ünvan",
+   "市役所 (しやくしょ) bələdiyyə"
+  ]
+ },
+ {
+  "kanji": "部",
+  "on": "ブ",
+  "kun": "–",
+  "az": "hissə, şöbə",
+  "en": "part, department",
+  "ru": "часть, отдел",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "立",
+   "口",
+   "⻏"
+  ],
+  "mense": {
+   "az": "Sağda 阝 (burada 邑, şəhər, yaşayış yeri), solda səs hissəsi. Əvvəl bir bölgənin, şəhərin hissəsi idi: hissə, şöbə.",
+   "en": "On the right 阝 (here 邑, a town, a settlement), on the left the sound part. It was first a part of a region or town: section, department.",
+   "ru": "Справа 阝 (здесь 邑, город, поселение), слева звуковая часть. Сначала часть области или города: часть, отдел."
+  },
+  "hekaye": {
+   "az": "Bütövün bir hissəsi: 部屋 (heya) – otaq, 部長 (buchou) – departament müdiri, 全部 (zenbu) – hamısı.",
+   "en": "A part of the whole: 部屋 (heya), room; 部長 (buchou), department head; 全部 (zenbu), all.",
+   "ru": "Часть целого: 部屋 (хэя) – комната, 部長 (бутё) – начальник отдела, 全部 (дзэмбу) – всё."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "部屋 (へや) otaq",
+   "全部で (ぜんぶで) hamısı, cəmi",
+   "部長 (ぶちょう) şöbə müdiri",
+   "全部 (ぜんぶ) hamısı"
+  ]
+ },
+ {
+  "kanji": "自",
+  "on": "ジ、シ",
+  "kun": "みずか・ら",
+  "az": "öz",
+  "en": "self",
+  "ru": "сам",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "自"
+  ],
+  "mense": {
+   "az": "Burunun şəklidir: yuxarıda burnun ucu, aşağıda iki deşik. Çin və Yaponiyada \"mən\" deyəndə barmağı buruna uzadırlar, buradan \"öz, özü\" mənası yarandı.",
+   "en": "A picture of a nose: the tip at the top and two nostrils below. In China and Japan people point to their nose when they say \"me\", hence the meaning \"self\".",
+   "ru": "Рисунок носа: сверху кончик, снизу две ноздри. В Китае и Японии, говоря «я», показывают пальцем на нос, отсюда значение «сам»."
+  },
+  "hekaye": {
+   "az": "Barmağını buruna uzat: 自分 (jibun) – öz, 自動 (jidou) – avtomatik, 自転車 (jitensha) – velosiped.",
+   "en": "Point to your nose: 自分 (jibun), oneself; 自動 (jidou), automatic; 自転車 (jitensha), bicycle.",
+   "ru": "Покажи на нос: 自分 (дзибун) – сам, 自動 (дзидо) – автоматический, 自転車 (дзитэнся) – велосипед."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "自動販売機 (じどうはんばいき) avtomat satış maşını",
+   "自転車 (じてんしゃ) velosiped",
+   "自動車 (じどうしゃ) avtomobil",
+   "自分で (じぶんで) özü, təkbaşına"
+  ]
+ },
+ {
+  "kanji": "動",
+  "on": "ドウ",
+  "kun": "うご・く",
+  "az": "hərəkət etmək",
+  "en": "move",
+  "ru": "двигаться",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "千",
+   "#",
+   "力"
+  ],
+  "mense": {
+   "az": "Məna hissəsi güc (力), səs hissəsi 重 (ağır). Ağır şeyi güclə yerindən tərpətmək: hərəkət etmək.",
+   "en": "The meaning part is strength (力) and the sound part is 重 (heavy). Moving something heavy with force: to move.",
+   "ru": "Смысловая часть – сила (力), звуковая – 重 (тяжёлый). Сдвинуть тяжёлое силой: двигать(ся)."
+  },
+  "hekaye": {
+   "az": "Ağırı güclə tərpət: 動く (ugoku) – hərəkət etmək. 自動 (jidou) – avtomatik, 運動 (undou) – idman.",
+   "en": "Shift the heavy thing with strength: 動く (ugoku), to move. 自動 (jidou), automatic; 運動 (undou), exercise.",
+   "ru": "Сдвинь тяжёлое силой: 動く (угоку) – двигаться. 自動 (дзидо) – автоматический, 運動 (ундо) – спорт."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "自動販売機 (じどうはんばいき) avtomat satış maşını",
+   "動物 (どうぶつ) heyvan",
+   "動きます (うごきます) hərəkət etmək, işləmək (əşya)",
+   "自動車 (じどうしゃ) avtomobil"
+  ]
+ },
+ {
+  "kanji": "家",
+  "on": "カ、ケ",
+  "kun": "いえ、うち",
+  "az": "ev, ailə",
+  "en": "house, family",
+  "ru": "дом, семья",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "豕"
+  ],
+  "mense": {
+   "az": "Dam (宀) altında donuz (豕). Qədim Çində donuzları evin altında, birinci mərtəbədə saxlayırdılar. Damın altında ev heyvanı olan yer: ev, ailə.",
+   "en": "A pig (豕) under a roof (宀). In ancient China pigs were kept under the house, on the ground floor. A place under a roof with livestock: home, family.",
+   "ru": "Свинья (豕) под крышей (宀). В Древнем Китае свиней держали под домом, на нижнем этаже. Место под крышей с домашним скотом: дом, семья."
+  },
+  "hekaye": {
+   "az": "Damın altında donuz: 家 (ie) – ev. 家族 (kazoku) – ailə, 作家 (sakka) – yazıçı.",
+   "en": "A pig under the roof: 家 (ie), house. 家族 (kazoku), family; 作家 (sakka), writer.",
+   "ru": "Свинья под крышей: 家 (иэ) – дом. 家族 (кадзоку) – семья, 作家 (сакка) – писатель."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "家 (うち) ev",
+   "家族 (かぞく) ailə",
+   "妻/家内 (つま/かない) mənim xanımım",
+   "家賃 (やちん) kirayə ev pulu"
+  ]
+ },
+ {
+  "kanji": "室",
+  "on": "シツ",
+  "kun": "むろ",
+  "az": "otaq",
+  "en": "room",
+  "ru": "комната",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "至"
+  ],
+  "mense": {
+   "az": "Yuxarıda dam (宀), altında 至 (çatmaq, səs də verir). Evin içində gəlib çatdığın yer: otaq.",
+   "en": "A roof (宀) on top and 至 (to arrive, also giving the sound) below. The place you reach inside a house: a room.",
+   "ru": "Сверху крыша (宀), под ней 至 (достигать, также даёт звук). Место, куда приходишь внутри дома: комната."
+  },
+  "hekaye": {
+   "az": "Damın altında çatdığın yer: 教室 (kyoushitsu) – sinif otağı, 会議室 (kaigishitsu) – iclas otağı.",
+   "en": "The place you reach under the roof: 教室 (kyoushitsu), classroom; 会議室 (kaigishitsu), meeting room.",
+   "ru": "Место под крышей: 教室 (кёсицу) – класс, 会議室 (кайгисицу) – переговорная."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "教室 (きょうしつ) sinif otağı, auditoriya",
+   "会議室 (かいぎしつ) iclas otağı",
+   "和室 (わしつ) yapon üslublu otaq"
+  ]
+ },
+ {
+  "kanji": "洗",
+  "on": "セン",
+  "kun": "あら・う",
+  "az": "yumaq",
+  "en": "wash",
+  "ru": "мыть",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "先"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 先. Su ilə təmizləmək: yumaq. Qədim izaha görə əvvəlcə ayaq yumaq idi.",
+   "en": "The meaning part is water (氵) and the sound part is 先. Cleaning with water: to wash. According to the old explanation it first meant washing the feet.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 先. Чистить водой: мыть. По старому толкованию, сначала это было мытьё ног."
+  },
+  "hekaye": {
+   "az": "Su ilə yu: 洗う (arau) – yumaq. 洗濯 (sentaku) – paltar yumaq, お手洗い (otearai) – tualet.",
+   "en": "Wash with water: 洗う (arau), to wash. 洗濯 (sentaku), laundry; お手洗い (otearai), toilet.",
+   "ru": "Мой водой: 洗う (арау) – мыть. 洗濯 (сэнтаку) – стирка, お手洗い (отэарай) – туалет."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "お手洗い (おてあらい) tualet (nəzakətli forma)",
+   "洗います (あらいます) yumaq",
+   "洗濯します (せんたくします) paltar yumaq"
+  ]
+ },
+ {
+  "kanji": "階",
+  "on": "カイ",
+  "kun": "–",
+  "az": "mərtəbə",
+  "en": "floor, storey",
+  "ru": "этаж",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "⻖",
+   "比",
+   "白"
+  ],
+  "mense": {
+   "az": "Solda 阝 (təpə, pilləli yamac), sağda səs hissəsi 皆. Təpəyə qalxan pillələr: pillə, mərtəbə.",
+   "en": "On the left 阝 (a mound, a stepped slope), on the right the sound part 皆. Steps up a hill: a stair, a floor.",
+   "ru": "Слева 阝 (холм, уступчатый склон), справа звуковая часть 皆. Ступени на холм: ступень, этаж."
+  },
+  "hekaye": {
+   "az": "Təpəyə pillələr: 階段 (kaidan) – pilləkən, 2階 (nikai) – ikinci mərtəbə.",
+   "en": "Steps up a hill: 階段 (kaidan), stairs; 2階 (nikai), second floor.",
+   "ru": "Ступени на холм: 階段 (кайдан) – лестница, 2階 (никай) – второй этаж."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "階段 (かいだん) pilləkən",
+   "～階 (～かい) ~mərtəbə (san gai: üçüncü mərtəbə)",
+   "何階 (なんがい) neçənci mərtəbə"
+  ]
+ },
+ {
+  "kanji": "売",
+  "on": "バイ",
+  "kun": "う・る",
+  "az": "satmaq",
+  "en": "sell",
+  "ru": "продавать",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "士",
+   "冖",
+   "儿"
+  ],
+  "mense": {
+   "az": "Köhnə forması 賣: yuxarıda 出 (çıxarmaq), aşağıda 買 (almaq). Aldığın malı çölə çıxarmaq: satmaq.",
+   "en": "The old form is 賣: 出 (to put out) on top and 買 (to buy) below. Putting out goods you bought: to sell.",
+   "ru": "Старая форма 賣: сверху 出 (выносить), снизу 買 (покупать). Выносить купленный товар: продавать."
+  },
+  "hekaye": {
+   "az": "Aldığını çıxar sat: 売る (uru) – satmaq. 売り場 (uriba) – satış bölməsi.",
+   "en": "Put out what you bought: 売る (uru), to sell. 売り場 (uriba), sales counter.",
+   "ru": "Вынеси купленное: 売る (уру) – продавать. 売り場 (уриба) – отдел (в магазине)."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "自動販売機 (じどうはんばいき) avtomat satış maşını",
+   "売り場 (うりば) satış məntəqəsi (universamda şöbə)",
+   "売ります (うります) satmaq"
+  ]
+ },
+ {
+  "kanji": "場",
+  "on": "ジョウ",
+  "kun": "ば",
+  "az": "yer, meydan",
+  "en": "place",
+  "ru": "место, площадка",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "土",
+   "旦",
+   "勿"
+  ],
+  "mense": {
+   "az": "Məna hissəsi torpaq (土), səs hissəsi 昜 (günəşin doğub hər yeri işıqlandırması). Açıq, düz torpaq sahəsi: meydan, yer.",
+   "en": "The meaning part is earth (土) and the sound part is 昜 (the sun rising and lighting everything). An open, level piece of ground: an open space, a place.",
+   "ru": "Смысловая часть – земля (土), звуковая – 昜 (солнце, восходящее и освещающее всё). Открытый ровный участок: площадка, место."
+  },
+  "hekaye": {
+   "az": "Günəşli açıq sahə: 場所 (basho) – yer, 駐車場 (chuushajou) – avtodayanacaq.",
+   "en": "Open sunny ground: 場所 (basho), place; 駐車場 (chuushajou), car park.",
+   "ru": "Открытая солнечная площадка: 場所 (басё) – место, 駐車場 (тюсядзё) – парковка."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "売り場 (うりば) satış məntəqəsi (universamda şöbə)",
+   "乗り場 (のりば) dayanacaq",
+   "駐車場 (ちゅうしゃじょう) maşın dayanacağı"
+  ]
+ },
+ {
+  "kanji": "議",
+  "on": "ギ",
+  "kun": "–",
+  "az": "müzakirə",
+  "en": "discussion",
+  "ru": "обсуждение",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "言",
+   "羊",
+   "#",
+   "戈",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 義 (ədalət). Nəyin doğru olduğunu sözlə müzakirə etmək: müzakirə, iclas.",
+   "en": "The meaning part is words (言) and the sound part is 義 (righteousness). Talking over what is right: discussion, debate.",
+   "ru": "Смысловая часть – слово (言), звуковая – 義 (справедливость). Обсуждать словами, что правильно: обсуждение, совет."
+  },
+  "hekaye": {
+   "az": "Doğrunu sözlə axtar: 会議 (kaigi) – iclas, 議員 (giin) – deputat.",
+   "en": "Seek what's right in words: 会議 (kaigi), meeting; 議員 (giin), member of parliament.",
+   "ru": "Ищи правду в словах: 会議 (кайги) – совещание, 議員 (гиин) – депутат."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "会議室 (かいぎしつ) iclas otağı",
+   "会議 (かいぎ) iclas (～をします: iclas keçirmək)"
+  ]
+ },
+ {
+  "kanji": "屋",
+  "on": "オク",
+  "kun": "や",
+  "az": "dam, dükan",
+  "en": "roof, shop",
+  "ru": "крыша, лавка",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "尸",
+   "至"
+  ],
+  "mense": {
+   "az": "Yuxarıda 尸 (burada dam), altında 至 (gəlib çatmaq). Gəlib dincəldiyin dam altı: ev, bina. Yapon dilində dükan və peşə adlarında işlənir.",
+   "en": "尸 on top (a roof here) and 至 (to arrive) below. The shelter you reach and rest under: a house, a building. In Japanese it appears in names of shops and trades.",
+   "ru": "Сверху 尸 (здесь крыша), снизу 至 (достигать). Кров, куда приходишь отдохнуть: дом, здание. В японском – в названиях лавок и ремёсел."
+  },
+  "hekaye": {
+   "az": "Çatdığın dam: 部屋 (heya) – otaq, 本屋 (hon'ya) – kitab mağazası, 屋上 (okujou) – dam üstü.",
+   "en": "The roof you reach: 部屋 (heya), room; 本屋 (hon'ya), bookshop; 屋上 (okujou), rooftop.",
+   "ru": "Крыша, до которой дошёл: 部屋 (хэя) – комната, 本屋 (хонъя) – книжный магазин, 屋上 (окудзё) – крыша."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "部屋 (へや) otaq",
+   "～屋 (～や) ~mağaza"
+  ]
+ },
+ {
+  "kanji": "機",
+  "on": "キ",
+  "kun": "はた",
+  "az": "maşın, mexanizm",
+  "en": "machine",
+  "ru": "машина, механизм",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "木",
+   "幺",
+   "幺",
+   "戈",
+   "人"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağac (木), səs hissəsi 幾 (incə, xırda hissələr). Əvvəl taxtadan düzəldilmiş toxuculuq dəzgahı idi: mürəkkəb mexanizm, maşın.",
+   "en": "The meaning part is wood (木) and the sound part is 幾 (fine, tiny parts). It was first a wooden loom: a complex mechanism, a machine.",
+   "ru": "Смысловая часть – дерево (木), звуковая – 幾 (мелкие детали). Сначала деревянный ткацкий станок: сложный механизм, машина."
+  },
+  "hekaye": {
+   "az": "Taxta dəzgah, xırda hissələr: 機械 (kikai) – maşın, 飛行機 (hikouki) – təyyarə.",
+   "en": "A wooden loom of tiny parts: 機械 (kikai), machine; 飛行機 (hikouki), aeroplane.",
+   "ru": "Деревянный станок из мелких деталей: 機械 (кикай) – машина, 飛行機 (хикоки) – самолёт."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "自動販売機 (じどうはんばいき) avtomat satış maşını",
+   "飛行機 (ひこうき) təyyarə"
+  ]
+ },
+ {
+  "kanji": "万",
+  "on": "マン、バン",
+  "kun": "–",
+  "az": "on min",
+  "en": "ten thousand",
+  "ru": "десять тысяч",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "一",
+   "#"
+  ],
+  "mense": {
+   "az": "Köhnə forması 萬 əqrəbin şəkli idi və səsinə görə \"on min\" sözü üçün götürülmüşdü. 万 isə çoxdan işlənən sadə variantdır.",
+   "en": "The old form 萬 was a picture of a scorpion, borrowed for its sound to write \"ten thousand\". 万 is a simple variant that has long been in use.",
+   "ru": "Старая форма 萬 – рисунок скорпиона, заимствованный по звучанию для «десяти тысяч». 万 – давно употребляемый простой вариант."
+  },
+  "hekaye": {
+   "az": "On min: 一万円 (ichiman'en) – 10 000 yen, 万年筆 (mannenhitsu) – avtomat qələm.",
+   "en": "Ten thousand: 一万円 (ichiman'en), 10,000 yen; 万年筆 (mannenhitsu), fountain pen.",
+   "ru": "Десять тысяч: 一万円 (итиман-эн) – 10 000 иен, 万年筆 (маннэнхицу) – перьевая ручка."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "万 (まん) on min",
+   "万里の長城 (ばんりのちょうじょう) Böyük Çin səddi"
+  ]
+ },
+ {
+  "kanji": "阪",
+  "on": "ハン",
+  "kun": "さか",
+  "az": "yamac (Osaka)",
+  "en": "slope (Osaka)",
+  "ru": "склон (Осака)",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "⻖",
+   "厂",
+   "又"
+  ],
+  "mense": {
+   "az": "Solda 阝 (təpə, yamac), sağda 反 (səs verir). Mənası \"yamac\"dır, 坂 ilə eyni. Bu gün əsasən Osaka şəhərinin adında işlənir.",
+   "en": "On the left 阝 (a mound, a slope), on the right 反 (giving the sound). It means \"slope\", like 坂. Today it is used mostly in the name of Osaka.",
+   "ru": "Слева 阝 (холм, склон), справа 反 (даёт звук). Значит «склон», как 坂. Сегодня в основном пишется в названии Осаки."
+  },
+  "hekaye": {
+   "az": "Yamac: 大阪 (Oosaka) – Osaka, \"böyük yamac\". 京阪 (Keihan) – Kioto və Osaka.",
+   "en": "A slope: 大阪 (Oosaka), Osaka, \"big slope\". 京阪 (Keihan), Kyoto and Osaka.",
+   "ru": "Склон: 大阪 (Осака) – «большой склон». 京阪 (Кэйхан) – Киото и Осака."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "新大阪 (しんおおさか) Osaka stansiya adı (Yeni Osaka)",
+   "大阪城 (おおさかじょう) Osaka Qəsri"
+  ]
+ },
+ {
+  "kanji": "堂",
+  "on": "ドウ",
+  "kun": "–",
+  "az": "zal",
+  "en": "hall",
+  "ru": "зал",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "⺌",
+   "冂",
+   "口",
+   "土"
+  ],
+  "mense": {
+   "az": "Məna hissəsi torpaq (土), səs hissəsi 尚. Torpaqdan qaldırılmış meydança üzərində tikilən böyük bina: zal, salon.",
+   "en": "The meaning part is earth (土) and the sound part is 尚. A large building raised on an earthen platform: a hall.",
+   "ru": "Смысловая часть – земля (土), звуковая – 尚. Большое здание на земляном возвышении: зал."
+  },
+  "hekaye": {
+   "az": "Hündür bünövrədə böyük zal: 食堂 (shokudou) – yeməkxana, 講堂 (koudou) – akt zalı.",
+   "en": "A big hall on a raised base: 食堂 (shokudou), canteen; 講堂 (koudou), auditorium.",
+   "ru": "Большой зал на возвышении: 食堂 (сёкудо) – столовая, 講堂 (кодо) – актовый зал."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "食堂 (しょくどう) yeməkxana"
+  ]
+ },
+ {
+  "kanji": "務",
+  "on": "ム",
+  "kun": "つと・める",
+  "az": "vəzifə",
+  "en": "duty",
+  "ru": "обязанность",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "矛",
+   "攵",
+   "力"
+  ],
+  "mense": {
+   "az": "Solda nizə (矛), sağda vurmaq (攵), aşağıda güc (力). Bütün gücünü sərf edib çalışmaq: vəzifə, borc.",
+   "en": "A spear (矛) on the left, striking (攵) on the right and strength (力) below. Putting in all your effort: duty, task.",
+   "ru": "Слева копьё (矛), справа удар (攵), внизу сила (力). Трудиться изо всех сил: обязанность, служба."
+  },
+  "hekaye": {
+   "az": "Bütün gücünlə çalış: 事務所 (jimusho) – ofis, 義務 (gimu) – borc, vəzifə.",
+   "en": "Work with all your strength: 事務所 (jimusho), office; 義務 (gimu), duty.",
+   "ru": "Трудись изо всех сил: 事務所 (дзимусё) – офис, 義務 (гиму) – обязанность."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "事務所 (じむしょ) ofis"
+  ]
+ },
+ {
+  "kanji": "受",
+  "on": "ジュ",
+  "kun": "う・ける",
+  "az": "qəbul etmək",
+  "en": "receive",
+  "ru": "получать",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "⺤",
+   "冖",
+   "又"
+  ],
+  "mense": {
+   "az": "Yuxarıda verən əl (爫), aşağıda alan əl (又), ortada ötürülən əşya (əvvəl qayıq 舟 idi). Bir əldən o birinə keçən şey: qəbul etmək, almaq.",
+   "en": "A giving hand (爫) on top, a receiving hand (又) below and the object being passed in between (originally a boat, 舟). Something passing from hand to hand: to receive.",
+   "ru": "Сверху дающая рука (爫), снизу принимающая (又), между ними передаваемый предмет (изначально лодка 舟). Вещь, переходящая из рук в руки: получать."
+  },
+  "hekaye": {
+   "az": "Əldən ələ keçən: 受ける (ukeru) – almaq, imtahan vermək. 受付 (uketsuke) – qəbul masası.",
+   "en": "Passed from hand to hand: 受ける (ukeru), to receive, take (an exam). 受付 (uketsuke), reception.",
+   "ru": "Из рук в руки: 受ける (укэру) – получать, сдавать (экзамен). 受付 (укэцукэ) – приёмная."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "受付 (うけつけ) qəbul, resepsiya"
+  ]
+ },
+ {
+  "kanji": "付",
+  "on": "フ",
+  "kun": "つ・ける",
+  "az": "bərkitmək, əlavə etmək",
+  "en": "attach",
+  "ru": "прикреплять",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "寸"
+  ],
+  "mense": {
+   "az": "Solda insan (亻), sağda əl (寸). Əllə bir şeyi insana vermək, ona yapışdırmaq: əlavə etmək, qoşmaq.",
+   "en": "A person (亻) on the left and a hand (寸) on the right. Handing something to a person, attaching it to them: to attach, to add.",
+   "ru": "Слева человек (亻), справа рука (寸). Рукой передать что-то человеку, прикрепить к нему: прикреплять, прилагать."
+  },
+  "hekaye": {
+   "az": "Əl insana nəsə verir: 付ける (tsukeru) – taxmaq, qoşmaq. 受付 (uketsuke) – qəbul masası.",
+   "en": "A hand gives something to a person: 付ける (tsukeru), to attach. 受付 (uketsuke), reception.",
+   "ru": "Рука даёт что-то человеку: 付ける (цукэру) – прикреплять. 受付 (укэцукэ) – приёмная."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "受付 (うけつけ) qəbul, resepsiya"
+  ]
+ },
+ {
+  "kanji": "段",
+  "on": "ダン",
+  "kun": "–",
+  "az": "pillə",
+  "en": "step",
+  "ru": "ступень",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "#",
+   "殳"
+  ],
+  "mense": {
+   "az": "Solda qayaya oyulmuş pillələr, sağda alət tutan əl (殳). Daşı yonub pillə açmaq: pillə, mərhələ, dərəcə.",
+   "en": "Steps cut into rock on the left and a hand with a tool (殳) on the right. Hewing steps into stone: step, stage, grade.",
+   "ru": "Слева ступени, вырубленные в скале, справа рука с инструментом (殳). Вырубать ступени в камне: ступень, этап, степень."
+  },
+  "hekaye": {
+   "az": "Daşa oyulmuş pillə: 階段 (kaidan) – pilləkən, 値段 (nedan) – qiymət.",
+   "en": "Steps cut in stone: 階段 (kaidan), stairs; 値段 (nedan), price.",
+   "ru": "Ступени в камне: 階段 (кайдан) – лестница, 値段 (нэдан) – цена."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "階段 (かいだん) pilləkən"
+  ]
+ },
+ {
+  "kanji": "販",
+  "on": "ハン",
+  "kun": "–",
+  "az": "satmaq",
+  "en": "sell",
+  "ru": "продавать",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "貝",
+   "厂",
+   "又"
+  ],
+  "mense": {
+   "az": "Məna hissəsi pul (貝, qədim pul olan balıqqulağı), səs hissəsi 反. Pulla alıb-satmaq: ticarət, satış.",
+   "en": "The meaning part is money (貝, a cowrie shell once used as money) and the sound part is 反. Buying and selling for money: trade, sales.",
+   "ru": "Смысловая часть – деньги (貝, раковина каури, служившая деньгами), звуковая – 反. Покупать и продавать за деньги: торговля."
+  },
+  "hekaye": {
+   "az": "Pul + ticarət: 販売 (hanbai) – satış, 自動販売機 (jidou hanbaiki) – avtomat.",
+   "en": "Money + trade: 販売 (hanbai), sales; 自動販売機 (jidou hanbaiki), vending machine.",
+   "ru": "Деньги + торговля: 販売 (хамбай) – продажа, 自動販売機 (дзидо хамбайки) – торговый автомат."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "自動販売機 (じどうはんばいき) avtomat satış maşını"
+  ]
+ },
+ {
+  "kanji": "靴",
+  "on": "カ",
+  "kun": "くつ",
+  "az": "ayaqqabı",
+  "en": "shoes",
+  "ru": "обувь",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "革",
+   "化"
+  ],
+  "mense": {
+   "az": "Məna hissəsi aşılanmış dəri (革), səs hissəsi 化. Dəridən tikilən ayaqqabı, çəkmə.",
+   "en": "The meaning part is tanned leather (革) and the sound part is 化. Footwear sewn from leather: shoes, boots.",
+   "ru": "Смысловая часть – выделанная кожа (革), звуковая – 化. Обувь из кожи: ботинки, сапоги."
+  },
+  "hekaye": {
+   "az": "Dəridən ayaqqabı: 靴 (kutsu). 靴下 (kutsushita) – corab, 靴屋 (kutsuya) – ayaqqabı mağazası.",
+   "en": "Shoes of leather: 靴 (kutsu). 靴下 (kutsushita), socks; 靴屋 (kutsuya), shoe shop.",
+   "ru": "Обувь из кожи: 靴 (куцу). 靴下 (куцусита) – носки, 靴屋 (куцуя) – обувной магазин."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "靴 (くつ) ayaqqabı"
+  ]
+ },
+ {
+  "kanji": "円",
+  "on": "エン",
+  "kun": "まる・い",
+  "az": "yen, dairə",
+  "en": "yen, circle",
+  "ru": "иена, круг",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "円"
+  ],
+  "mense": {
+   "az": "Köhnə forması 圓: çərçivə (囗) içində 員 (dairəvi qab). Dairə, girdə. Yaponiyada pul vahidi də belə adlanır, çünki sikkələr girdədir.",
+   "en": "The old form is 圓: 員 (a round vessel) inside a frame (囗). A circle, round. Japan's currency took the name because coins are round.",
+   "ru": "Старая форма 圓: 員 (круглый сосуд) внутри рамки (囗). Круг, круглый. Валюта Японии получила это имя, потому что монеты круглые."
+  },
+  "hekaye": {
+   "az": "Girdə sikkə: 円 (en) – yen. 百円 (hyakuen) – 100 yen, 円い (marui) – girdə.",
+   "en": "A round coin: 円 (en), yen. 百円 (hyakuen), 100 yen; 円い (marui), round.",
+   "ru": "Круглая монета: 円 (эн) – иена. 百円 (хякуэн) – 100 иен, 円い (маруй) – круглый."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "～円 (～えん) ~yen"
+  ]
+ },
+ {
+  "kanji": "百",
+  "on": "ヒャク",
+  "kun": "–",
+  "az": "yüz",
+  "en": "hundred",
+  "ru": "сто",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "一",
+   "白"
+  ],
+  "mense": {
+   "az": "Bir (一) və 白 (səs verir). Qədim yazıda \"yüz\" sözünü yazmaq üçün səsi uyğun gələn 白 götürülüb, üstünə \"bir\" xətti əlavə edilib.",
+   "en": "One (一) and 白 (giving the sound). In ancient script 白, which sounded alike, was taken to write \"hundred\" and a \"one\" stroke was put on top.",
+   "ru": "Один (一) и 白 (даёт звук). В древнем письме для слова «сто» взяли созвучный 白 и добавили сверху черту «один»."
+  },
+  "hekaye": {
+   "az": "Bir + 白: 百 (hyaku) – yüz. 百円 (hyakuen) – 100 yen, 八百屋 (yaoya) – tərəvəz dükanı.",
+   "en": "One + 白: 百 (hyaku), hundred. 百円 (hyakuen), 100 yen; 八百屋 (yaoya), greengrocer.",
+   "ru": "Один + 白: 百 (хяку) – сто. 百円 (хякуэн) – 100 иен, 八百屋 (яоя) – овощная лавка."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "百 (ひゃく) yüz"
+  ]
+ },
+ {
+  "kanji": "千",
+  "on": "セン",
+  "kun": "ち",
+  "az": "min",
+  "en": "thousand",
+  "ru": "тысяча",
+  "ders": 3,
+  "kart": true,
+  "komponent": [
+   "千"
+  ],
+  "mense": {
+   "az": "İnsan (人) və onun üstündə bir xətt. \"Min\" sözünü yazmaq üçün səsi uyğun gələn 人 götürülüb, \"bir\" işarəsi ilə birləşdirilib.",
+   "en": "A person (人) with a line across it. To write \"thousand\", 人, which sounded alike, was taken and joined with a \"one\" mark.",
+   "ru": "Человек (人) с чертой поперёк. Для слова «тысяча» взяли созвучный 人 и соединили с чертой «один»."
+  },
+  "hekaye": {
+   "az": "İnsan + bir xətt: 千 (sen) – min. 千円 (sen'en) – 1000 yen.",
+   "en": "Person + one line: 千 (sen), thousand. 千円 (sen'en), 1,000 yen.",
+   "ru": "Человек + черта: 千 (сэн) – тысяча. 千円 (сэн-эн) – 1000 иен."
+  },
+  "ilk_soz_dersi": 3,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "千 (せん) min"
+  ]
+ }
+]

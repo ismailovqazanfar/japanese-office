@@ -1,0 +1,480 @@
+[
+ {
+  "kanji": "触",
+  "on": "ショク",
+  "kun": "さわ・る",
+  "az": "toxunmaq",
+  "en": "touch",
+  "ru": "трогать",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "角",
+   "虫"
+  ],
+  "mense": {
+   "az": "Buynuz (角) və böcək (虫). Böcəyin bığcıqları ilə toxunması: toxunmaq.",
+   "en": "A horn (角) and an insect (虫). An insect touching with its antennae: to touch.",
+   "ru": "Рог (角) и насекомое (虫). Насекомое трогает усиками: касаться."
+  },
+  "hekaye": {
+   "az": "Bığcıqla toxun: 触る (sawaru) – toxunmaq.",
+   "en": "Touch with antennae: 触る (sawaru), to touch.",
+   "ru": "Коснись усиками: 触る (савару) – трогать."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "触ります (さわります) [ドアに～] toxunmaq, dəymək"
+  ]
+ },
+ {
+  "kanji": "渡",
+  "on": "ト",
+  "kun": "わた・る",
+  "az": "keçmək",
+  "en": "cross",
+  "ru": "переходить",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "广",
+   "十",
+   "#",
+   "又"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 度. Suyun o tayına keçmək: keçmək; vermək.",
+   "en": "The meaning part is water (氵) and the sound part is 度. Crossing to the other side of water: to cross; to hand over.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 度. Перейти на тот берег: переходить; передавать."
+  },
+  "hekaye": {
+   "az": "Suyu keç: 渡る (wataru) – keçmək, 渡す (watasu) – vermək.",
+   "en": "Cross the water: 渡る (wataru), to cross; 渡す (watasu), to hand over.",
+   "ru": "Перейди воду: 渡る (ватару) – переходить, 渡す (ватасу) – передавать."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "渡ります (わたります) [橋を～] qarşı tərəfə keçmək"
+  ]
+ },
+ {
+  "kanji": "寂",
+  "on": "ジャク",
+  "kun": "さび・しい",
+  "az": "tənha",
+  "en": "lonely",
+  "ru": "одинокий",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "卜",
+   "一",
+   "小",
+   "又"
+  ],
+  "mense": {
+   "az": "Damın (宀) altında səs hissəsi 叔. Sakit, səssiz ev: tənha, kədərli.",
+   "en": "The sound part 叔 under a roof (宀). A quiet, silent house: lonely, sad.",
+   "ru": "Звуковая часть 叔 под крышей (宀). Тихий, безмолвный дом: одинокий, грустный."
+  },
+  "hekaye": {
+   "az": "Səssiz ev: 寂しい (sabishii) – tənha, darıxdırıcı.",
+   "en": "A silent house: 寂しい (sabishii), lonely.",
+   "ru": "Безмолвный дом: 寂しい (сабисий) – одиноко."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "寂しい (さびしい) qüssəli, tənha, qəmli"
+  ]
+ },
+ {
+  "kanji": "湯",
+  "on": "トウ",
+  "kun": "ゆ",
+  "az": "isti su",
+  "en": "hot water",
+  "ru": "горячая вода",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "旦",
+   "勿"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 昜 (günəş, istilik). İsti su.",
+   "en": "The meaning part is water (氵) and the sound part is 昜 (sun, warmth). Hot water.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 昜 (солнце, тепло). Горячая вода."
+  },
+  "hekaye": {
+   "az": "Günəşli su: お湯 (oyu) – isti su, 銭湯 (sentou) – hamam.",
+   "en": "Sun-warmed water: お湯 (oyu), hot water; 銭湯 (sentou), public bath.",
+   "ru": "Солнечная вода: お湯 (ою) – горячая вода, 銭湯 (сэнто) – баня."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "[お]湯 ([お]ゆ) isti su"
+  ]
+ },
+ {
+  "kanji": "障",
+  "on": "ショウ",
+  "kun": "さわ・る",
+  "az": "mane olmaq",
+  "en": "hinder",
+  "ru": "мешать",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "⻖",
+   "立",
+   "日",
+   "十"
+  ],
+  "mense": {
+   "az": "Məna hissəsi təpə (阝), səs hissəsi 章. Yolu kəsən təpə: maneə.",
+   "en": "The meaning part is hill (阝) and the sound part is 章. A hill blocking the way: an obstacle.",
+   "ru": "Смысловая часть – холм (阝), звуковая – 章. Холм, преграждающий путь: препятствие."
+  },
+  "hekaye": {
+   "az": "Yolda təpə: 故障 (koshou) – nasazlıq, 障子 (shouji) – kağız arakəsmə.",
+   "en": "A hill in the way: 故障 (koshou), breakdown; 障子 (shouji), paper sliding screen.",
+   "ru": "Холм на пути: 故障 (косё) – поломка, 障子 (сёдзи) – бумажная перегородка."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "故障 (こしょう) nasazlıq, xarab olma"
+  ]
+ },
+ {
+  "kanji": "道",
+  "on": "ドウ",
+  "kun": "みち",
+  "az": "yol",
+  "en": "road, way",
+  "ru": "дорога, путь",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "首",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), içində baş (首). Başı qabaqda gedən insan: yol; sonra \"üsul, təlim\".",
+   "en": "The meaning part is road (辶) with a head (首) inside. A person going head first: a road; later \"a way, a teaching\".",
+   "ru": "Смысловая часть – путь (辶), внутри голова (首). Человек, идущий головой вперёд: дорога; позже «путь, учение»."
+  },
+  "hekaye": {
+   "az": "Baş qabaqda: 道 (michi) – yol, 柔道 (juudou) – cüdo, 北海道 (Hokkaidou).",
+   "en": "Head first: 道 (michi), road; 柔道 (juudou), judo; 北海道 (Hokkaidou).",
+   "ru": "Головой вперёд: 道 (мити) – дорога, 柔道 (дзюдо), 北海道 (Хоккайдо)."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "道 (みち) yol"
+  ]
+ },
+ {
+  "kanji": "差",
+  "on": "サ",
+  "kun": "さ・す",
+  "az": "fərq",
+  "en": "difference",
+  "ru": "разница",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "羊",
+   "#",
+   "工"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir; bir izaha görə əlin (左) tutduğu bərabər olmayan sünbüllər. Fərq, ayrılıq.",
+   "en": "Its origin is debated; one explanation is uneven ears of grain held in the hand (左). Difference, gap.",
+   "ru": "Происхождение спорно; по одному толкованию, неровные колосья в руке (左). Разница."
+  },
+  "hekaye": {
+   "az": "Bərabər olmayan: 差 (sa) – fərq, 差し上げる (sashiageru) – təqdim etmək.",
+   "en": "Not even: 差 (sa), difference; 差し上げる (sashiageru), to offer.",
+   "ru": "Неровное: 差 (са) – разница, 差し上げる (сасиагэру) – преподносить."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "交差点 (こうさてん) yol ayrıcılığı, yol kəsişməsi"
+  ]
+ },
+ {
+  "kanji": "点",
+  "on": "テン",
+  "kun": "–",
+  "az": "nöqtə",
+  "en": "point",
+  "ru": "точка",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "占",
+   "灬"
+  ],
+  "mense": {
+   "az": "Köhnə forması 點: məna hissəsi qara (黑), səs hissəsi 占. Qara ləkə: nöqtə; sonra \"bal, qiymət\".",
+   "en": "The old form is 點: the meaning part black (黑) and the sound part 占. A black spot: a dot; later \"a point, a mark\".",
+   "ru": "Старая форма 點: смысловая часть – чёрный (黑), звуковая – 占. Чёрное пятнышко: точка; позже «балл, оценка»."
+  },
+  "hekaye": {
+   "az": "Qara ləkə: 点 (ten) – nöqtə, bal; 点数 (tensuu) – xal.",
+   "en": "A black spot: 点 (ten), dot, point; 点数 (tensuu), score.",
+   "ru": "Чёрное пятнышко: 点 (тэн) – точка, балл; 点数 (тэнсу) – очки."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "交差点 (こうさてん) yol ayrıcılığı, yol kəsişməsi"
+  ]
+ },
+ {
+  "kanji": "角",
+  "on": "カク",
+  "kun": "かど、つの",
+  "az": "künc, buynuz",
+  "en": "corner, horn",
+  "ru": "угол, рог",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "角"
+  ],
+  "mense": {
+   "az": "Heyvan buynuzunun şəklidir, üzərində zolaqlar. Buynuz; buynuzun ucundan \"künc, bucaq\".",
+   "en": "A picture of an animal horn with ridges. Horn; from the horn's tip, \"corner, angle\".",
+   "ru": "Рисунок рога животного с поперечными полосами. Рог; от кончика рога – «угол»."
+  },
+  "hekaye": {
+   "az": "Buynuz, künc: 角 (kado) – küncü, 角 (tsuno) – buynuz, 三角 (sankaku) – üçbucaq.",
+   "en": "Horn, corner: 角 (kado), corner; 角 (tsuno), horn; 三角 (sankaku), triangle.",
+   "ru": "Рог, угол: 角 (кадо) – угол, 角 (цуно) – рог, 三角 (санкаку) – треугольник."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "角 (かど) künc"
+  ]
+ },
+ {
+  "kanji": "駐",
+  "on": "チュウ",
+  "kun": "–",
+  "az": "dayanmaq",
+  "en": "stay, park",
+  "ru": "стоять, парковаться",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "馬",
+   "主"
+  ],
+  "mense": {
+   "az": "Məna hissəsi at (馬), səs hissəsi 主 (bir yerdə durmaq). Atın dayanması: dayanmaq, qalmaq.",
+   "en": "The meaning part is horse (馬) and the sound part is 主 (to stay in one place). A horse coming to a halt: to stop, to stay.",
+   "ru": "Смысловая часть – лошадь (馬), звуковая – 主 (стоять на месте). Лошадь останавливается: стоять, пребывать."
+  },
+  "hekaye": {
+   "az": "Atı saxla: 駐車場 (chuushajou) – avtodayanacaq.",
+   "en": "Halt the horse: 駐車場 (chuushajou), car park.",
+   "ru": "Останови лошадь: 駐車場 (тюсядзё) – парковка."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "駐車場 (ちゅうしゃじょう) maşın dayanacağı"
+  ]
+ },
+ {
+  "kanji": "建",
+  "on": "ケン",
+  "kun": "た・てる",
+  "az": "tikmək",
+  "en": "build",
+  "ru": "строить",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "聿",
+   "廴"
+  ],
+  "mense": {
+   "az": "Solda uzun addım (廴), sağda planı çəkən fırçalı əl (聿). Binanın planını çəkib ucaltmaq: tikmək.",
+   "en": "A long stride (廴) on the left and a hand with a brush drawing the plan (聿) on the right. Laying out a building and raising it: to build.",
+   "ru": "Слева длинный шаг (廴), справа рука с кистью, чертящая план (聿). Разметить и возвести здание: строить."
+  },
+  "hekaye": {
+   "az": "Planı çək, ucalt: 建てる (tateru) – tikmək, 建物 (tatemono) – bina.",
+   "en": "Draw the plan and raise it: 建てる (tateru), to build; 建物 (tatemono), building.",
+   "ru": "Начерти и возведи: 建てる (татэру) – строить, 建物 (татэмоно) – здание."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "建物 (たてもの) bina"
+  ]
+ },
+ {
+  "kanji": "聖",
+  "on": "セイ",
+  "kun": "–",
+  "az": "müqəddəs",
+  "en": "holy",
+  "ru": "святой",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "耳",
+   "口",
+   "王"
+  ],
+  "mense": {
+   "az": "Qulaq (耳), ağız (口) və ayaq üstə duran insan (王-ə bənzəyən). Hər şeyi yaxşı eşidən, düz danışan: müdrik, müqəddəs.",
+   "en": "An ear (耳), a mouth (口) and a standing person (looking like 王). One who hears everything and speaks rightly: a sage, holy.",
+   "ru": "Ухо (耳), рот (口) и стоящий человек (похож на 王). Тот, кто всё слышит и говорит верно: мудрец, святой."
+  },
+  "hekaye": {
+   "az": "Yaxşı eşidən müdrik: 聖徳太子 (Shoutoku Taishi) – şahzadə Shoutoku.",
+   "en": "The sage who hears well: 聖徳太子 (Shoutoku Taishi), Prince Shotoku.",
+   "ru": "Мудрец, что хорошо слышит: 聖徳太子 (Сётоку Тайси) – принц Сётоку."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "聖徳太子 (しょうとくたいし) Şahzadə Shoutoku"
+  ]
+ },
+ {
+  "kanji": "徳",
+  "on": "トク",
+  "kun": "–",
+  "az": "fəzilət",
+  "en": "virtue",
+  "ru": "добродетель",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "彳",
+   "十",
+   "罒",
+   "心"
+  ],
+  "mense": {
+   "az": "Yol (彳), düz (直) və ürək (心). Düz ürəklə yol getmək: fəzilət.",
+   "en": "Road (彳), straight (直) and heart (心). Walking the road with a straight heart: virtue.",
+   "ru": "Путь (彳), прямой (直) и сердце (心). Идти путём с прямым сердцем: добродетель."
+  },
+  "hekaye": {
+   "az": "Düz ürək: 道徳 (doutoku) – əxlaq, 聖徳太子 (Shoutoku Taishi).",
+   "en": "A straight heart: 道徳 (doutoku), morals; 聖徳太子 (Shoutoku Taishi).",
+   "ru": "Прямое сердце: 道徳 (дотоку) – мораль, 聖徳太子 (Сётоку Тайси)."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "聖徳太子 (しょうとくたいし) Şahzadə Shoutoku"
+  ]
+ },
+ {
+  "kanji": "太",
+  "on": "タイ",
+  "kun": "ふと・い",
+  "az": "qalın, böyük",
+  "en": "thick, big",
+  "ru": "толстый, большой",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "大",
+   "#"
+  ],
+  "mense": {
+   "az": "Böyük (大) və altında nöqtə: böyükdən də böyük. Qalın, yoğun; \"ən böyük, baş\".",
+   "en": "Big (大) with a dot beneath: bigger than big. Thick, fat; \"the greatest, chief\".",
+   "ru": "Большой (大) с точкой внизу: больше большого. Толстый; «самый большой, главный»."
+  },
+  "hekaye": {
+   "az": "Böyükdən böyük: 太い (futoi) – qalın, 太陽 (taiyou) – Günəş.",
+   "en": "Bigger than big: 太い (futoi), thick; 太陽 (taiyou), the sun.",
+   "ru": "Больше большого: 太い (футой) – толстый, 太陽 (тайё) – Солнце."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "聖徳太子 (しょうとくたいし) Şahzadə Shoutoku"
+  ]
+ },
+ {
+  "kanji": "法",
+  "on": "ホウ",
+  "kun": "–",
+  "az": "qanun, üsul",
+  "en": "law, method",
+  "ru": "закон, метод",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "土",
+   "厶"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵) və 去. Köhnə formada ədalətli mifik heyvan (廌) da var idi. Su kimi bərabər axan qayda: qanun, üsul.",
+   "en": "The meaning part is water (氵) with 去. The old form also had a mythical animal of justice (廌). A rule that flows as level as water: law, method.",
+   "ru": "Смысловая часть – вода (氵) и 去. В старой форме было ещё мифическое животное правосудия (廌). Правило, ровное, как вода: закон, способ."
+  },
+  "hekaye": {
+   "az": "Su kimi bərabər: 方法 (houhou) – üsul, 法律 (houritsu) – qanun.",
+   "en": "Level as water: 方法 (houhou), method; 法律 (houritsu), law.",
+   "ru": "Ровно, как вода: 方法 (хохо) – способ, 法律 (хорицу) – закон."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "法隆寺 (ほうりゅうじ) Houryuuji Məbədi"
+  ]
+ },
+ {
+  "kanji": "隆",
+  "on": "リュウ",
+  "kun": "–",
+  "az": "çiçəklənən",
+  "en": "prosperous",
+  "ru": "процветающий",
+  "ders": 23,
+  "kart": true,
+  "komponent": [
+   "⻖",
+   "夂",
+   "生"
+  ],
+  "mense": {
+   "az": "Məna hissəsi təpə (阝), sağda yuxarı qalxan hissələr (生). Hündür qalxmaq: yüksəliş, çiçəklənmə.",
+   "en": "The meaning part is hill (阝) with parts rising up (生) on the right. Rising high: elevation, prosperity.",
+   "ru": "Смысловая часть – холм (阝), справа поднимающиеся части (生). Подниматься высоко: возвышение, процветание."
+  },
+  "hekaye": {
+   "az": "Yüksələn təpə: 法隆寺 (Houryuuji) – Houryuu məbədi, Narada.",
+   "en": "A rising hill: 法隆寺 (Houryuuji), Horyu-ji temple in Nara.",
+   "ru": "Высокий холм: 法隆寺 (Хорюдзи) – храм Хорю в Наре."
+  },
+  "ilk_soz_dersi": 23,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "法隆寺 (ほうりゅうじ) Houryuuji Məbədi"
+  ]
+ }
+]

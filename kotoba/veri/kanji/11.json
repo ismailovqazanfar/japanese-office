@@ -1,0 +1,489 @@
+[
+ {
+  "kanji": "出",
+  "on": "シュツ",
+  "kun": "で・る、だ・す",
+  "az": "çıxmaq",
+  "en": "go out, exit",
+  "ru": "выходить",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "山",
+   "凵"
+  ],
+  "mense": {
+   "az": "Çuxurdan (凵) çıxan ayaq (止). Bayıra çıxmaq: çıxmaq, getmək.",
+   "en": "A foot (止) stepping out of a pit (凵). Going out: to exit, to leave.",
+   "ru": "Ступня (止), выходящая из ямы (凵). Выходить наружу: выходить, уходить."
+  },
+  "hekaye": {
+   "az": "Çuxurdan çıxan ayaq: 出る (deru) – çıxmaq, 出口 (deguchi) – çıxış.",
+   "en": "A foot out of a pit: 出る (deru), to go out; 出口 (deguchi), exit.",
+   "ru": "Нога из ямы: 出る (дэру) – выходить, 出口 (дэгути) – выход."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 9,
+  "nümunə_sozler": [
+   "お出かけですか。 (おでかけですか。) Çölə çıxırsınız?",
+   "出ます (でます) çıxmaq",
+   "思い出します (おもいだします) xatırlamaq",
+   "出します (だします) (çölə) çıxartmaq, göndərmək, təhvil vermək"
+  ]
+ },
+ {
+  "kanji": "天",
+  "on": "テン",
+  "kun": "あめ",
+  "az": "səma, göy",
+  "en": "heaven, sky",
+  "ru": "небо",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "一",
+   "大"
+  ],
+  "mense": {
+   "az": "İnsanın (大) üstündə vurğulanmış böyük baş (一). Başın üstündə olan: göy, səma.",
+   "en": "A person (大) with a big head (一) emphasised on top. What is above the head: the sky, heaven.",
+   "ru": "Человек (大) с выделенной большой головой (一). То, что над головой: небо."
+  },
+  "hekaye": {
+   "az": "Başın üstündəki: 天気 (tenki) – hava, 天ぷら (tenpura) – tempura.",
+   "en": "What is above the head: 天気 (tenki), weather; 天ぷら (tenpura), tempura.",
+   "ru": "То, что над головой: 天気 (тэнки) – погода, 天ぷら (тэмпура) – тэмпура."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 5,
+  "nümunə_sozler": [
+   "いい[お]天気ですね。 (いい[お]てんきですね。) Necə gözəl havadır!",
+   "天気 (てんき) hava",
+   "天ぷら (てんぷら) tempura (yemək adı)",
+   "天才 (てんさい) dahi"
+  ]
+ },
+ {
+  "kanji": "回",
+  "on": "カイ",
+  "kun": "まわ・す",
+  "az": "dəfə, fırlatmaq",
+  "en": "times, turn",
+  "ru": "раз, вращать",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "回"
+  ],
+  "mense": {
+   "az": "Dairə içində dairə: burulğan, fırlanma. Dönmək, dövrə vurmaq; sonra \"dəfə\".",
+   "en": "A circle inside a circle: a whirlpool, a spin. To turn, to go round; later \"times\".",
+   "ru": "Круг в круге: водоворот, вращение. Поворачиваться, обходить; позже «раз»."
+  },
+  "hekaye": {
+   "az": "Fırlanan dairə: 回る (mawaru) – fırlanmaq, 一回 (ikkai) – bir dəfə.",
+   "en": "A spinning circle: 回る (mawaru), to turn; 一回 (ikkai), once.",
+   "ru": "Вращающийся круг: 回る (мавару) – вращаться, 一回 (иккай) – один раз."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "～回 (～かい) ~dəfə",
+   "回します (まわします) çevirmək, döndərmək, fırlatmaq",
+   "何回も (なんかいも) dəfələrlə, dönə-dönə"
+  ]
+ },
+ {
+  "kanji": "兄",
+  "on": "ケイ、キョウ",
+  "kun": "あに",
+  "az": "böyük qardaş",
+  "en": "elder brother",
+  "ru": "старший брат",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "口",
+   "儿"
+  ],
+  "mense": {
+   "az": "Böyük ağız və ya baş (口) və insan (儿). Ailədə danışan, başçılıq edən: böyük qardaş.",
+   "en": "A big mouth or head (口) and a person (儿). The one in the family who speaks and leads: elder brother.",
+   "ru": "Большой рот или голова (口) и человек (儿). Тот, кто в семье говорит и ведёт: старший брат."
+  },
+  "hekaye": {
+   "az": "Danışan böyük: 兄 (ani) – böyük qardaş (öz), お兄さん (oniisan) – böyük qardaş (başqasının).",
+   "en": "The elder who speaks: 兄 (ani), (my) elder brother; お兄さん (oniisan), elder brother (polite).",
+   "ru": "Старший, что говорит: 兄 (ани) – (мой) старший брат, お兄さん (онисан) – старший брат (вежл.)."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "兄弟 (きょうだい) bacı-qardaşlar",
+   "兄 (あに) böyük qardaş (özünün)",
+   "お兄さん (おにいさん) böyük qardaş (başqasının)"
+  ]
+ },
+ {
+  "kanji": "弟",
+  "on": "テイ、ダイ",
+  "kun": "おとうと",
+  "az": "kiçik qardaş",
+  "en": "younger brother",
+  "ru": "младший брат",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "八",
+   "弓",
+   "#"
+  ],
+  "mense": {
+   "az": "Dirəyə sıra ilə dolanmış ip. Sıra, ardıcıllıq: ardınca gələn, kiçik qardaş.",
+   "en": "A cord wound in order around a stake. Order, sequence: the one who comes after, younger brother.",
+   "ru": "Шнур, по порядку обмотанный вокруг колышка. Порядок, очерёдность: идущий следом, младший брат."
+  },
+  "hekaye": {
+   "az": "Sırada sonra gələn: 弟 (otouto) – kiçik qardaş, 兄弟 (kyoudai) – qardaşlar.",
+   "en": "Next in order: 弟 (otouto), younger brother; 兄弟 (kyoudai), siblings.",
+   "ru": "Следующий по порядку: 弟 (отото) – младший брат, 兄弟 (кёдай) – братья, сиблинги."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "兄弟 (きょうだい) bacı-qardaşlar",
+   "弟 (おとうと) balaca qardaş (özünün)",
+   "弟さん (おとうとさん) balaca qardaş (başqasının)"
+  ]
+ },
+ {
+  "kanji": "姉",
+  "on": "シ",
+  "kun": "あね",
+  "az": "böyük bacı",
+  "en": "elder sister",
+  "ru": "старшая сестра",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "女",
+   "市"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qadın (女), səs hissəsi 市. Böyük bacı.",
+   "en": "The meaning part is woman (女) and the sound part is 市. Elder sister.",
+   "ru": "Смысловая часть – женщина (女), звуковая – 市. Старшая сестра."
+  },
+  "hekaye": {
+   "az": "Qadın + 市 səsi: 姉 (ane) – böyük bacı, お姉さん (oneesan) – böyük bacı (başqasının).",
+   "en": "Woman + the sound of 市: 姉 (ane), (my) elder sister; お姉さん (oneesan), elder sister (polite).",
+   "ru": "Женщина + звук 市: 姉 (анэ) – (моя) старшая сестра, お姉さん (онэсан) – старшая сестра (вежл.)."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "姉 (あね) böyük bacı (özünün)",
+   "お姉さん (おねえさん) böyük bacı (başqasının)"
+  ]
+ },
+ {
+  "kanji": "妹",
+  "on": "マイ",
+  "kun": "いもうと",
+  "az": "kiçik bacı",
+  "en": "younger sister",
+  "ru": "младшая сестра",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "女",
+   "未"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qadın (女), səs hissəsi 未 (hələ yox, hələ böyüməmiş). Hələ kiçik olan qız: kiçik bacı.",
+   "en": "The meaning part is woman (女) and the sound part is 未 (not yet, not yet grown). A girl who is still small: younger sister.",
+   "ru": "Смысловая часть – женщина (女), звуковая – 未 (ещё не, ещё не выросла). Ещё маленькая девочка: младшая сестра."
+  },
+  "hekaye": {
+   "az": "Hələ böyüməmiş qız: 妹 (imouto) – kiçik bacı, 姉妹 (shimai) – bacılar.",
+   "en": "A girl not yet grown: 妹 (imouto), younger sister; 姉妹 (shimai), sisters.",
+   "ru": "Ещё не выросшая: 妹 (имото) – младшая сестра, 姉妹 (симай) – сёстры."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "妹 (いもうと) balaca bacı (özünün)",
+   "妹さん (いもうとさん) balaca bacı (başqasının)"
+  ]
+ },
+ {
+  "kanji": "留",
+  "on": "リュウ",
+  "kun": "と・める",
+  "az": "qalmaq, saxlamaq",
+  "en": "stay, detain",
+  "ru": "оставаться, задерживать",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "#",
+   "卩",
+   "田"
+  ],
+  "mense": {
+   "az": "Yuxarıda səs hissəsi, aşağıda tarla (田). Tarlada qalıb dayanmaq: qalmaq, saxlamaq.",
+   "en": "The sound part on top and a field (田) below. Staying put in the field: to stay, to keep.",
+   "ru": "Сверху звуковая часть, снизу поле (田). Остаться в поле: оставаться, задерживать."
+  },
+  "hekaye": {
+   "az": "Tarlada qal: 留学 (ryuugaku) – xaricdə təhsil, 留守 (rusu) – evdə olmamaq.",
+   "en": "Stay in the field: 留学 (ryuugaku), studying abroad; 留守 (rusu), being away from home.",
+   "ru": "Останься в поле: 留学 (рюгаку) – учёба за границей, 留守 (русу) – отсутствие дома."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "留学生 (りゅうがくせい) xarici tələbə",
+   "留学します (りゅうがくします) xaricdə oxumaq"
+  ]
+ },
+ {
+  "kanji": "空",
+  "on": "クウ",
+  "kun": "そら、あ・く",
+  "az": "səma, boş",
+  "en": "sky, empty",
+  "ru": "небо, пустой",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "穴",
+   "工"
+  ],
+  "mense": {
+   "az": "Məna hissəsi dəlik (穴), səs hissəsi 工. İçi boş dəlik: boş; başın üstündəki geniş boşluq: göy.",
+   "en": "The meaning part is hole (穴) and the sound part is 工. An empty hole: empty; the wide emptiness above: the sky.",
+   "ru": "Смысловая часть – отверстие (穴), звуковая – 工. Пустая дыра: пустой; широкая пустота над головой: небо."
+  },
+  "hekaye": {
+   "az": "Boşluq: 空 (sora) – göy, 空港 (kuukou) – hava limanı, 空く (aku) – boşalmaq.",
+   "en": "Emptiness: 空 (sora), sky; 空港 (kuukou), airport; 空く (aku), to become empty.",
+   "ru": "Пустота: 空 (сора) – небо, 空港 (куко) – аэропорт, 空く (аку) – освобождаться."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "航空便(エアメール) (こうくうびん(エアメール)) aviapoçt",
+   "空港 (くうこう) hava limanı"
+  ]
+ },
+ {
+  "kanji": "台",
+  "on": "ダイ、タイ",
+  "kun": "–",
+  "az": "altlıq, sayğac (cihaz)",
+  "en": "stand, counter (machines)",
+  "ru": "подставка, счётное (машины)",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "厶",
+   "口"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir. Köhnə 臺 kanjisinin (hündür meydança, səki) sadə forması kimi işlənir. Yapon dilində maşın və cihaz saymaq üçün sayğacdır.",
+   "en": "Its origin is debated. It is used as the simple form of the old 臺 (a raised platform, a terrace). In Japanese it is also the counter for machines and vehicles.",
+   "ru": "Происхождение спорно. Используется как упрощённая форма старого 臺 (возвышение, терраса). В японском также счётный суффикс для машин и устройств."
+  },
+  "hekaye": {
+   "az": "Hündür yer, dayaq: 台所 (daidokoro) – mətbəx, 一台 (ichidai) – bir maşın (cihaz).",
+   "en": "A raised stand: 台所 (daidokoro), kitchen; 一台 (ichidai), one machine.",
+   "ru": "Подставка: 台所 (дайдокоро) – кухня, 一台 (итидай) – одна машина (прибор)."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "～台 (～だい) ~ədəd (cihaz, maşın)"
+  ]
+ },
+ {
+  "kanji": "枚",
+  "on": "マイ",
+  "kun": "–",
+  "az": "sayğac (yastı əşyalar)",
+  "en": "counter (flat things)",
+  "ru": "счётное (плоские)",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "木",
+   "攵"
+  ],
+  "mense": {
+   "az": "Ağac (木) və çubuq tutan əl (攵). Əvvəlcə ağac gövdəsi, əsa idi. Yapon dilində yastı, nazik əşyaları saymaq üçün: vərəq, bilet, köynək.",
+   "en": "Wood (木) and a hand holding a stick (攵). It first meant a tree trunk or a staff. In Japanese it counts flat, thin things: sheets, tickets, shirts.",
+   "ru": "Дерево (木) и рука с палкой (攵). Сначала – ствол, посох. В японском считает плоские тонкие предметы: листы, билеты, рубашки."
+  },
+  "hekaye": {
+   "az": "Nazik, yastı şeylər: 一枚 (ichimai) – bir vərəq, 二枚 (nimai) – iki dənə (bilet, köynək).",
+   "en": "Flat, thin things: 一枚 (ichimai), one sheet; 二枚 (nimai), two (tickets, shirts).",
+   "ru": "Плоские тонкие вещи: 一枚 (итимай) – один лист, 二枚 (нимай) – две штуки (билета, рубашки)."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "～枚 (～まい) ~ədəd (nazik, yastı əşya)"
+  ]
+ },
+ {
+  "kanji": "封",
+  "on": "フウ",
+  "kun": "–",
+  "az": "möhürləmək",
+  "en": "seal",
+  "ru": "запечатывать",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "土",
+   "土",
+   "寸"
+  ],
+  "mense": {
+   "az": "Solda torpaq yığınları (圭), sağda əl (寸). Sərhəddə torpaq tökmək, ağac əkmək: sərhədləmək, möhürləmək, bağlamaq.",
+   "en": "Mounds of earth (圭) on the left and a hand (寸) on the right. Piling up earth and planting trees on a boundary: to enclose, to seal.",
+   "ru": "Слева земляные насыпи (圭), справа рука (寸). Насыпать землю, сажать деревья на границе: ограждать, запечатывать."
+  },
+  "hekaye": {
+   "az": "Bağla, möhürlə: 封筒 (fuutou) – zərf.",
+   "en": "Close and seal: 封筒 (fuutou), envelope.",
+   "ru": "Закрой и запечатай: 封筒 (футо) – конверт."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "封筒 (ふうとう) zərf"
+  ]
+ },
+ {
+  "kanji": "筒",
+  "on": "トウ",
+  "kun": "つつ",
+  "az": "boru",
+  "en": "tube",
+  "ru": "трубка",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "竹",
+   "冂",
+   "一",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi bambuk (⺮), səs hissəsi 同. İçi boş bambuk gövdəsi: boru, qılaf.",
+   "en": "The meaning part is bamboo (⺮) and the sound part is 同. A hollow bamboo stem: a tube, a case.",
+   "ru": "Смысловая часть – бамбук (⺮), звуковая – 同. Полый стебель бамбука: трубка, футляр."
+  },
+  "hekaye": {
+   "az": "İçi boş bambuk: 筒 (tsutsu) – boru, 封筒 (fuutou) – zərf.",
+   "en": "A hollow bamboo: 筒 (tsutsu), tube; 封筒 (fuutou), envelope.",
+   "ru": "Полый бамбук: 筒 (цуцу) – трубка, 封筒 (футо) – конверт."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "封筒 (ふうとう) zərf"
+  ]
+ },
+ {
+  "kanji": "両",
+  "on": "リョウ",
+  "kun": "–",
+  "az": "hər iki",
+  "en": "both",
+  "ru": "оба",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "一",
+   "冂",
+   "山"
+  ],
+  "mense": {
+   "az": "Tərəzinin və ya iki atı birləşdirən boyunduruğun şəklidir. İki tərəf bərabər: hər ikisi, cüt.",
+   "en": "A picture of a balance or a yoke joining two horses. Two equal sides: both, a pair.",
+   "ru": "Рисунок весов или ярма, соединяющего двух лошадей. Две равные стороны: оба, пара."
+  },
+  "hekaye": {
+   "az": "İki tərəf: 両親 (ryoushin) – valideynlər, 両手 (ryoute) – hər iki əl.",
+   "en": "Two sides: 両親 (ryoushin), parents; 両手 (ryoute), both hands.",
+   "ru": "Две стороны: 両親 (рёсин) – родители, 両手 (рётэ) – обе руки."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "両親 (りょうしん) valideynlər"
+  ]
+ },
+ {
+  "kanji": "親",
+  "on": "シン",
+  "kun": "おや",
+  "az": "valideyn",
+  "en": "parent",
+  "ru": "родитель",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "立",
+   "木",
+   "見"
+  ],
+  "mense": {
+   "az": "Solda səs hissəsi (立 + 木), sağda baxmaq (見). Yaxından, diqqətlə baxan, qayğı göstərən: ata-ana, doğma, yaxın.",
+   "en": "The sound part (立 + 木) on the left and to see (見) on the right. The one who watches closely and with care: parent, intimate, close.",
+   "ru": "Слева звуковая часть (立 + 木), справа смотреть (見). Тот, кто смотрит пристально и заботливо: родитель, близкий."
+  },
+  "hekaye": {
+   "az": "Yaxından baxan: 親 (oya) – valideyn, 両親 (ryoushin) – valideynlər, 親切 (shinsetsu) – mehriban.",
+   "en": "The one who watches closely: 親 (oya), parent; 両親 (ryoushin), parents; 親切 (shinsetsu), kind.",
+   "ru": "Тот, кто смотрит вблизи: 親 (оя) – родитель, 両親 (рёсин) – родители, 親切 (синсэцу) – добрый."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "両親 (りょうしん) valideynlər"
+  ]
+ },
+ {
+  "kanji": "航",
+  "on": "コウ",
+  "kun": "–",
+  "az": "üzmək, uçmaq",
+  "en": "navigate",
+  "ru": "плавать, летать",
+  "ders": 11,
+  "kart": true,
+  "komponent": [
+   "舟",
+   "#",
+   "几"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qayıq (舟), səs hissəsi 亢. Su üzərində qayıqla getmək: üzmək, səyahət etmək; sonra hava yolu ilə də.",
+   "en": "The meaning part is boat (舟) and the sound part is 亢. Crossing water by boat: to sail, to voyage; later also by air.",
+   "ru": "Смысловая часть – лодка (舟), звуковая – 亢. Плыть по воде на лодке: плавать; позже и по воздуху."
+  },
+  "hekaye": {
+   "az": "Qayıqla keç: 航空 (koukuu) – aviasiya, 航空便 (koukuubin) – hava poçtu.",
+   "en": "Cross by boat: 航空 (koukuu), aviation; 航空便 (koukuubin), airmail.",
+   "ru": "Переплыви на лодке: 航空 (коку) – авиация, 航空便 (кокубин) – авиапочта."
+  },
+  "ilk_soz_dersi": 11,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "航空便(エアメール) (こうくうびん(エアメール)) aviapoçt"
+  ]
+ }
+]

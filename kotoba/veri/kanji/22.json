@@ -1,0 +1,422 @@
+[
+ {
+  "kanji": "履",
+  "on": "リ",
+  "kun": "は・く",
+  "az": "geyinmək (ayaqqabı)",
+  "en": "wear (shoes)",
+  "ru": "обувать",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "尸",
+   "彳",
+   "#",
+   "日",
+   "夂"
+  ],
+  "mense": {
+   "az": "Yuxarıda 尸 (bədən), altında yol və ayaqqabı ilə bağlı hissələr. Ayaqqabı geyib yerimək: ayaqqabı geyinmək; həm də \"yerinə yetirmək\".",
+   "en": "尸 (the body) on top with parts to do with walking and footwear below. Walking in shoes: to put on footwear; also \"to carry out\".",
+   "ru": "Сверху 尸 (тело), под ним части, связанные с ходьбой и обувью. Идти в обуви: надевать обувь; также «исполнять»."
+  },
+  "hekaye": {
+   "az": "Ayaqqabıda yeri: 履く (haku) – geyinmək (ayaqqabı, şalvar), 履歴書 (rirekisho) – CV.",
+   "en": "Walk in shoes: 履く (haku), to put on (shoes, trousers); 履歴書 (rirekisho), CV.",
+   "ru": "Иди в обуви: 履く (хаку) – надевать (обувь, брюки), 履歴書 (рирэкисё) – резюме."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "履きます (はきます) geyinmək (ayaqqabı, şalvar, ətək)"
+  ]
+ },
+ {
+  "kanji": "被",
+  "on": "ヒ",
+  "kun": "かぶ・る",
+  "az": "başa qoymaq, məruz qalmaq",
+  "en": "put on (head), suffer",
+  "ru": "надевать (на голову), подвергаться",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "衤",
+   "皮"
+  ],
+  "mense": {
+   "az": "Məna hissəsi paltar (衤), səs hissəsi 皮 (dəri). Bədəni paltarla örtmək: örtmək; sonra \"məruz qalmaq\".",
+   "en": "The meaning part is clothing (衤) and the sound part is 皮 (skin). Covering the body with a garment: to cover; later \"to suffer\".",
+   "ru": "Смысловая часть – одежда (衤), звуковая – 皮 (кожа). Покрыть тело одеждой: покрывать; позже «подвергаться»."
+  },
+  "hekaye": {
+   "az": "Bədəni ört: 被る (kaburu) – başa qoymaq, 被害 (higai) – zərər.",
+   "en": "Cover the body: 被る (kaburu), to put on (a hat); 被害 (higai), damage.",
+   "ru": "Укрой тело: 被る (кабуру) – надевать (шапку), 被害 (хигай) – ущерб."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "被ります (かぶります) [帽子を～] qoymaq"
+  ]
+ },
+ {
+  "kanji": "掛",
+  "on": "カ",
+  "kun": "か・ける",
+  "az": "asmaq",
+  "en": "hang",
+  "ru": "вешать",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "扌",
+   "土",
+   "土",
+   "卜"
+  ],
+  "mense": {
+   "az": "Məna hissəsi əl (扌), səs hissəsi 卦. Əllə bir şeyi asmaq.",
+   "en": "The meaning part is hand (扌) and the sound part is 卦. Hanging something up by hand.",
+   "ru": "Смысловая часть – рука (扌), звуковая – 卦. Вешать что-то рукой."
+  },
+  "hekaye": {
+   "az": "Əllə as: 掛ける (kakeru) – asmaq, taxmaq (eynək).",
+   "en": "Hang by hand: 掛ける (kakeru), to hang; to put on (glasses).",
+   "ru": "Повесь рукой: 掛ける (какэру) – вешать; надевать (очки)."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "掛けます (かけます) [眼鏡を～] taxmaq"
+  ]
+ },
+ {
+  "kanji": "帽",
+  "on": "ボウ",
+  "kun": "–",
+  "az": "papaq",
+  "en": "hat",
+  "ru": "шапка",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "巾",
+   "日",
+   "目"
+  ],
+  "mense": {
+   "az": "Məna hissəsi parça (巾), səs hissəsi 冒 (başı örtmək). Başa geyilən parça: papaq.",
+   "en": "The meaning part is cloth (巾) and the sound part is 冒 (to cover the head). Cloth worn on the head: a hat.",
+   "ru": "Смысловая часть – ткань (巾), звуковая – 冒 (покрывать голову). Ткань на голове: шапка."
+  },
+  "hekaye": {
+   "az": "Başa parça: 帽子 (boushi) – papaq.",
+   "en": "Cloth on the head: 帽子 (boushi), hat.",
+   "ru": "Ткань на голове: 帽子 (боси) – шапка."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "帽子 (ぼうし) papaq"
+  ]
+ },
+ {
+  "kanji": "眼",
+  "on": "ガン",
+  "kun": "め",
+  "az": "göz",
+  "en": "eye",
+  "ru": "глаз",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "目",
+   "艮"
+  ],
+  "mense": {
+   "az": "Məna hissəsi göz (目), səs hissəsi 艮. Göz, göz bəbəyi.",
+   "en": "The meaning part is eye (目) and the sound part is 艮. Eye, eyeball.",
+   "ru": "Смысловая часть – глаз (目), звуковая – 艮. Глаз, глазное яблоко."
+  },
+  "hekaye": {
+   "az": "Göz: 眼鏡 (megane) – eynək, 眼科 (ganka) – göz həkimi.",
+   "en": "Eye: 眼鏡 (megane), glasses; 眼科 (ganka), ophthalmology.",
+   "ru": "Глаз: 眼鏡 (мэганэ) – очки, 眼科 (ганка) – офтальмология."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "眼鏡 (めがね) eynək"
+  ]
+ },
+ {
+  "kanji": "鏡",
+  "on": "キョウ",
+  "kun": "かがみ",
+  "az": "güzgü",
+  "en": "mirror",
+  "ru": "зеркало",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "金",
+   "立",
+   "日",
+   "儿"
+  ],
+  "mense": {
+   "az": "Məna hissəsi metal (金), səs hissəsi 竟. Qədim güzgülər cilalanmış metaldan olurdu: güzgü.",
+   "en": "The meaning part is metal (金) and the sound part is 竟. Ancient mirrors were made of polished metal: mirror.",
+   "ru": "Смысловая часть – металл (金), звуковая – 竟. Древние зеркала делали из полированного металла: зеркало."
+  },
+  "hekaye": {
+   "az": "Cilalı metal: 鏡 (kagami) – güzgü, 眼鏡 (megane) – eynək.",
+   "en": "Polished metal: 鏡 (kagami), mirror; 眼鏡 (megane), glasses.",
+   "ru": "Полированный металл: 鏡 (кагами) – зеркало, 眼鏡 (мэганэ) – очки."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "眼鏡 (めがね) eynək"
+  ]
+ },
+ {
+  "kanji": "弁",
+  "on": "ベン",
+  "kun": "–",
+  "az": "nitq, klapan; bento",
+  "en": "speech, valve; bento",
+  "ru": "речь, клапан; бэнто",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "厶",
+   "十",
+   "#"
+  ],
+  "mense": {
+   "az": "Bir neçə köhnə kanjinin (辨, 辯, 瓣) ortaq sadə formasıdır: \"ayırd etmək, danışmaq, ləçək\". Yapon dilində 弁当 (yemək qutusu) sözündə işlənir.",
+   "en": "It is the shared simple form of several old kanji (辨, 辯, 瓣): \"to discern, to speak, a petal\". In Japanese it appears in 弁当, a boxed lunch.",
+   "ru": "Общая упрощённая форма нескольких старых кандзи (辨, 辯, 瓣): «различать, говорить, лепесток». В японском – в слове 弁当 (обед в коробке)."
+  },
+  "hekaye": {
+   "az": "Bir neçə köhnə kanji birində: 弁当 (bentou) – yemək qutusu, 弁護士 (bengoshi) – vəkil.",
+   "en": "Several old kanji in one: 弁当 (bentou), boxed lunch; 弁護士 (bengoshi), lawyer.",
+   "ru": "Несколько старых кандзи в одном: 弁当 (бэнто) – обед в коробке, 弁護士 (бэнгоси) – адвокат."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "お弁当 (おべんとう) bento (qutuda hazır yemək)"
+  ]
+ },
+ {
+  "kanji": "都",
+  "on": "ト、ツ",
+  "kun": "みやこ",
+  "az": "paytaxt, böyük şəhər",
+  "en": "capital, metropolis",
+  "ru": "столица, мегаполис",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "耂",
+   "日",
+   "⻏"
+  ],
+  "mense": {
+   "az": "Sağda şəhər (阝 = 邑), solda səs hissəsi 者. Çoxlu insanın toplandığı böyük şəhər: paytaxt.",
+   "en": "On the right a town (阝 = 邑), on the left the sound part 者. A big town where many people gather: a capital.",
+   "ru": "Справа город (阝 = 邑), слева звуковая часть 者. Большой город, где собирается много людей: столица."
+  },
+  "hekaye": {
+   "az": "Böyük şəhər: 京都 (Kyouto) – Kioto, 都合 (tsugou) – imkan, uyğunluq.",
+   "en": "A big town: 京都 (Kyouto), Kyoto; 都合 (tsugou), convenience.",
+   "ru": "Большой город: 京都 (Киото), 都合 (цуго) – обстоятельства."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "都合 (つごう) vaxt rahatlığı (つごうが いい: vaxtı uyğun olmaq)"
+  ]
+ },
+ {
+  "kanji": "探",
+  "on": "タン",
+  "kun": "さが・す",
+  "az": "axtarmaq",
+  "en": "search",
+  "ru": "искать",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "扌",
+   "冖",
+   "儿",
+   "木"
+  ],
+  "mense": {
+   "az": "Məna hissəsi əl (扌), səs hissəsi 罙 (dərin). Əli dərinə salıb axtarmaq.",
+   "en": "The meaning part is hand (扌) and the sound part is 罙 (deep). Reaching deep with the hand to search.",
+   "ru": "Смысловая часть – рука (扌), звуковая – 罙 (глубокий). Запустить руку вглубь и искать."
+  },
+  "hekaye": {
+   "az": "Əli dərinə sal: 探す (sagasu) – axtarmaq.",
+   "en": "Reach in deep: 探す (sagasu), to look for.",
+   "ru": "Запусти руку вглубь: 探す (сагасу) – искать."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "お探しですか (おさがしですか) Nəsə axtarırsınız?"
+  ]
+ },
+ {
+  "kanji": "賃",
+  "on": "チン",
+  "kun": "–",
+  "az": "haqq, kirayə",
+  "en": "wages, fee",
+  "ru": "плата, аренда",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "#",
+   "士",
+   "貝"
+  ],
+  "mense": {
+   "az": "Məna hissəsi pul (貝), səs hissəsi 任 (tapşırmaq). İşə və ya kirayəyə görə ödənən pul.",
+   "en": "The meaning part is money (貝) and the sound part is 任 (to entrust). Money paid for work or for rent.",
+   "ru": "Смысловая часть – деньги (貝), звуковая – 任 (поручать). Деньги за работу или аренду."
+  },
+  "hekaye": {
+   "az": "İş üçün pul: 家賃 (yachin) – ev kirayəsi, 運賃 (unchin) – yol haqqı.",
+   "en": "Money for a job: 家賃 (yachin), rent; 運賃 (unchin), fare.",
+   "ru": "Деньги за дело: 家賃 (ятин) – квартплата, 運賃 (унтин) – плата за проезд."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "家賃 (やちん) kirayə ev pulu"
+  ]
+ },
+ {
+  "kanji": "和",
+  "on": "ワ",
+  "kun": "–",
+  "az": "ahəng, Yaponiya",
+  "en": "harmony, Japan",
+  "ru": "гармония, Япония",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "禾",
+   "口"
+  ],
+  "mense": {
+   "az": "Səs hissəsi taxıl (禾), məna hissəsi ağız (口). Səslərin ahəngi: həmahəng, sülh. Yapon dilində həm də \"yapon\" mənasında.",
+   "en": "The sound part is grain (禾) and the meaning part mouth (口). Voices in harmony: harmony, peace. In Japanese it also means \"Japanese\".",
+   "ru": "Звуковая часть – колос (禾), смысловая – рот (口). Согласие голосов: гармония, мир. В японском также «японский»."
+  },
+  "hekaye": {
+   "az": "Səslərin ahəngi: 平和 (heiwa) – sülh, 和食 (washoku) – yapon mətbəxi.",
+   "en": "Voices in harmony: 平和 (heiwa), peace; 和食 (washoku), Japanese food.",
+   "ru": "Согласие голосов: 平和 (хэйва) – мир, 和食 (васёку) – японская кухня."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "和室 (わしつ) yapon üslublu otaq"
+  ]
+ },
+ {
+  "kanji": "布",
+  "on": "フ",
+  "kun": "ぬの",
+  "az": "parça",
+  "en": "cloth",
+  "ru": "ткань",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "#",
+   "巾"
+  ],
+  "mense": {
+   "az": "Məna hissəsi parça (巾), yuxarıdakı hissə səs verir. Parça.",
+   "en": "The meaning part is cloth (巾); the top part gives the sound. Cloth.",
+   "ru": "Смысловая часть – ткань (巾), верхняя часть даёт звук. Ткань."
+  },
+  "hekaye": {
+   "az": "Parça: 布 (nuno) – parça, 布団 (futon) – döşək-yorğan, 財布 (saifu) – pul kisəsi.",
+   "en": "Cloth: 布 (nuno), cloth; 布団 (futon), futon; 財布 (saifu), wallet.",
+   "ru": "Ткань: 布 (нуно) – ткань, 布団 (футон) – футон, 財布 (сайфу) – кошелёк."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "布団 (ふとん) yapon üslublu yorğan, döşək"
+  ]
+ },
+ {
+  "kanji": "団",
+  "on": "ダン",
+  "kun": "–",
+  "az": "qrup",
+  "en": "group",
+  "ru": "группа",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "囗",
+   "寸"
+  ],
+  "mense": {
+   "az": "Köhnə forması 團: çərçivə (囗) içində 專 (fırlanan, girdə). Girdə kütlə, topa: qrup.",
+   "en": "The old form is 團: 專 (spinning, round) inside a frame (囗). A round mass, a ball: a group.",
+   "ru": "Старая форма 團: 專 (вращающийся, круглый) в рамке (囗). Круглый ком: группа."
+  },
+  "hekaye": {
+   "az": "Girdə topa: 布団 (futon) – döşək-yorğan, 団体 (dantai) – qrup.",
+   "en": "A round mass: 布団 (futon), futon; 団体 (dantai), group.",
+   "ru": "Круглый ком: 布団 (футон) – футон, 団体 (дантай) – группа."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "布団 (ふとん) yapon üslublu yorğan, döşək"
+  ]
+ },
+ {
+  "kanji": "里",
+  "on": "リ",
+  "kun": "さと",
+  "az": "kənd",
+  "en": "village",
+  "ru": "деревня",
+  "ders": 22,
+  "kart": true,
+  "komponent": [
+   "日",
+   "#"
+  ],
+  "mense": {
+   "az": "Tarla (田) və torpaq (土). Əkin yerləri olan yaşayış: kənd. Qədim uzunluq ölçüsü də idi.",
+   "en": "A field (田) and earth (土). A settlement with farmland: a village. It was also an ancient unit of length.",
+   "ru": "Поле (田) и земля (土). Поселение с пашнями: деревня. Была и древней мерой длины."
+  },
+  "hekaye": {
+   "az": "Tarla və torpaq: 里 (sato) – kənd, ふる里 (furusato) – doğma yurd.",
+   "en": "Field and earth: 里 (sato), village; ふる里 (furusato), hometown.",
+   "ru": "Поле и земля: 里 (сато) – деревня, ふる里 (фурусато) – родина."
+  },
+  "ilk_soz_dersi": 22,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "万里の長城 (ばんりのちょうじょう) Böyük Çin səddi"
+  ]
+ }
+]

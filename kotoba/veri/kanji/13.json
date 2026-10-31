@@ -1,0 +1,502 @@
+[
+ {
+  "kanji": "釣",
+  "on": "チョウ",
+  "kun": "つ・る",
+  "az": "balıq tutmaq",
+  "en": "fish (angle)",
+  "ru": "удить",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "金",
+   "勺"
+  ],
+  "mense": {
+   "az": "Məna hissəsi metal (金), səs hissəsi 勺. Metal qarmaq: balıq tutmaq.",
+   "en": "The meaning part is metal (金) and the sound part is 勺. A metal hook: to fish.",
+   "ru": "Смысловая часть – металл (金), звуковая – 勺. Металлический крючок: ловить рыбу."
+  },
+  "hekaye": {
+   "az": "Metal qarmaq: 釣り (tsuri) – balıq tutma, お釣り (otsuri) – qalıq pul.",
+   "en": "A metal hook: 釣り (tsuri), fishing; お釣り (otsuri), change (money).",
+   "ru": "Металлический крючок: 釣り (цури) – рыбалка, お釣り (оцури) – сдача."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "釣り (つり) balıqçılıq",
+   "お釣り (おつり) qalıq pul"
+  ]
+ },
+ {
+  "kanji": "待",
+  "on": "タイ",
+  "kun": "ま・つ",
+  "az": "gözləmək",
+  "en": "wait",
+  "ru": "ждать",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "彳",
+   "土",
+   "寸"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (彳), səs hissəsi 寺. Yolda dayanıb gözləmək.",
+   "en": "The meaning part is road (彳) and the sound part is 寺. Standing on the road and waiting.",
+   "ru": "Смысловая часть – путь (彳), звуковая – 寺. Стоять у дороги и ждать."
+  },
+  "hekaye": {
+   "az": "Yolda gözlə: 待つ (matsu) – gözləmək, 招待 (shoutai) – dəvət.",
+   "en": "Wait on the road: 待つ (matsu), to wait; 招待 (shoutai), invitation.",
+   "ru": "Жди у дороги: 待つ (мацу) – ждать, 招待 (сётай) – приглашение."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "[少々]お待ちください。 ([しょうしょう]おまちください。) [Biraz] gözləyin, zəhmət olmasa.",
+   "待ちます (まちます) gözləmək"
+  ]
+ },
+ {
+  "kanji": "泳",
+  "on": "エイ",
+  "kun": "およ・ぐ",
+  "az": "üzmək",
+  "en": "swim",
+  "ru": "плавать",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "永"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 永 (uzun axın). Suyun içində irəli getmək: üzmək.",
+   "en": "The meaning part is water (氵) and the sound part is 永 (a long current). Moving forward through water: to swim.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 永 (длинное течение). Продвигаться в воде: плавать."
+  },
+  "hekaye": {
+   "az": "Suda irəli: 泳ぐ (oyogu) – üzmək, 水泳 (suiei) – üzgüçülük.",
+   "en": "Forward through water: 泳ぐ (oyogu), to swim; 水泳 (suiei), swimming.",
+   "ru": "Вперёд по воде: 泳ぐ (оёгу) – плавать, 水泳 (суйэй) – плавание."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "泳ぎます (およぎます) üzmək"
+  ]
+ },
+ {
+  "kanji": "迎",
+  "on": "ゲイ",
+  "kun": "むか・える",
+  "az": "qarşılamaq",
+  "en": "welcome, meet",
+  "ru": "встречать",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "#",
+   "卩",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), sağda başını qaldırıb başqasına baxan insan (卬). Yola çıxıb gələni qarşılamaq.",
+   "en": "The meaning part is road (辶); on the right a person looking up at another (卬). Going out on the road to meet someone: to welcome.",
+   "ru": "Смысловая часть – путь (辶), справа человек, поднявший взгляд на другого (卬). Выйти на дорогу навстречу: встречать."
+  },
+  "hekaye": {
+   "az": "Yola çıxıb qarşıla: 迎える (mukaeru) – qarşılamaq, 歓迎 (kangei) – xoş gəldin.",
+   "en": "Go out to meet: 迎える (mukaeru), to welcome; 歓迎 (kangei), welcome.",
+   "ru": "Выйди навстречу: 迎える (мукаэру) – встречать, 歓迎 (кангэй) – радушный приём."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "迎えます (むかえます) qarşılamaq"
+  ]
+ },
+ {
+  "kanji": "結",
+  "on": "ケツ",
+  "kun": "むす・ぶ",
+  "az": "bağlamaq",
+  "en": "tie, bind",
+  "ru": "связывать",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "士",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi sap (糸), səs hissəsi 吉. Sapı düyünləmək: bağlamaq, birləşdirmək.",
+   "en": "The meaning part is thread (糸) and the sound part is 吉. Knotting a thread: to tie, to join.",
+   "ru": "Смысловая часть – нить (糸), звуковая – 吉. Завязать нить узлом: связывать, соединять."
+  },
+  "hekaye": {
+   "az": "Sapı düyünlə: 結ぶ (musubu) – bağlamaq, 結婚 (kekkon) – evlilik.",
+   "en": "Knot the thread: 結ぶ (musubu), to tie; 結婚 (kekkon), marriage.",
+   "ru": "Завяжи узел: 結ぶ (мусубу) – связывать, 結婚 (кэккон) – брак."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "結婚します (けっこんします) evlənmək, ərə getmək"
+  ]
+ },
+ {
+  "kanji": "婚",
+  "on": "コン",
+  "kun": "–",
+  "az": "nikah",
+  "en": "marriage",
+  "ru": "брак",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "女",
+   "氏",
+   "日"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qadın (女), səs hissəsi 昏 (alaqaranlıq). Qədim Çində toy mərasimi axşam, alaqaranlıqda keçirilirdi: nikah.",
+   "en": "The meaning part is woman (女) and the sound part is 昏 (dusk). In ancient China weddings were held at dusk: marriage.",
+   "ru": "Смысловая часть – женщина (女), звуковая – 昏 (сумерки). В Древнем Китае свадьбу играли в сумерках: брак."
+  },
+  "hekaye": {
+   "az": "Alaqaranlıqda toy: 結婚 (kekkon) – evlilik, 婚約 (kon'yaku) – nişan.",
+   "en": "A wedding at dusk: 結婚 (kekkon), marriage; 婚約 (kon'yaku), engagement.",
+   "ru": "Свадьба в сумерках: 結婚 (кэккон) – брак, 婚約 (конъяку) – помолвка."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "結婚します (けっこんします) evlənmək, ərə getmək"
+  ]
+ },
+ {
+  "kanji": "散",
+  "on": "サン",
+  "kun": "ち・る",
+  "az": "səpələnmək",
+  "en": "scatter",
+  "ru": "рассыпаться",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "月",
+   "#",
+   "攵"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir; bir izaha görə kəndir liflərini (𣏟) döyüb (攵) ayırmaq. Dağıtmaq, səpələmək; \"boş-boş gəzmək\".",
+   "en": "Its origin is debated; one explanation is beating (攵) hemp fibres (𣏟) apart. To scatter, to disperse; \"to wander about\".",
+   "ru": "Происхождение спорно; по одному толкованию, разбивать (攵) волокна конопли (𣏟). Рассеивать, разбрасывать; «бродить»."
+  },
+  "hekaye": {
+   "az": "Səpələnib gəz: 散歩 (sanpo) – gəzinti, 散る (chiru) – tökülmək (ləçək).",
+   "en": "Scatter and wander: 散歩 (sanpo), a walk; 散る (chiru), to fall (petals).",
+   "ru": "Рассыпься и гуляй: 散歩 (сампо) – прогулка, 散る (тиру) – опадать (о лепестках)."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "散歩します (さんぽします) [公園を～] gəzmək"
+  ]
+ },
+ {
+  "kanji": "欲",
+  "on": "ヨク",
+  "kun": "ほ・しい",
+  "az": "istək",
+  "en": "desire",
+  "ru": "желание",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "谷",
+   "欠"
+  ],
+  "mense": {
+   "az": "Səs hissəsi 谷, məna hissəsi ağzını açmış insan (欠). Ağzını açıb bir şeyə can atmaq: istək, arzu.",
+   "en": "The sound part is 谷 and the meaning part a person with an open mouth (欠). Opening your mouth and craving something: desire.",
+   "ru": "Звуковая часть – 谷, смысловая – человек с открытым ртом (欠). Открыть рот и тянуться к чему-то: желание."
+  },
+  "hekaye": {
+   "az": "Ağzını açıb istə: 欲しい (hoshii) – istəmək (əşya).",
+   "en": "Open your mouth and want: 欲しい (hoshii), to want (a thing).",
+   "ru": "Открой рот и пожелай: 欲しい (хосий) – хотеть (вещь)."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "欲しい (ほしい) (nəsə) istəmək"
+  ]
+ },
+ {
+  "kanji": "広",
+  "on": "コウ",
+  "kun": "ひろ・い",
+  "az": "geniş",
+  "en": "wide",
+  "ru": "широкий",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "广",
+   "厶"
+  ],
+  "mense": {
+   "az": "Köhnə forması 廣: bina (广) və 黄 (səs verir). Divarsız geniş zal: geniş.",
+   "en": "The old form is 廣: a building (广) and 黄 (giving the sound). A large hall without walls: wide.",
+   "ru": "Старая форма 廣: здание (广) и 黄 (даёт звук). Большой зал без стен: широкий."
+  },
+  "hekaye": {
+   "az": "Divarsız zal: 広い (hiroi) – geniş, 広場 (hiroba) – meydan.",
+   "en": "A hall without walls: 広い (hiroi), wide; 広場 (hiroba), square.",
+   "ru": "Зал без стен: 広い (хирой) – широкий, 広場 (хироба) – площадь."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "広い (ひろい) geniş"
+  ]
+ },
+ {
+  "kanji": "狭",
+  "on": "キョウ",
+  "kun": "せま・い",
+  "az": "dar",
+  "en": "narrow",
+  "ru": "узкий",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "⺨",
+   "大",
+   "人",
+   "人"
+  ],
+  "mense": {
+   "az": "Solda 犭 (burada köhnə formadakı təpə işarəsi dəyişib), sağda 夾 (iki şey arasında sıxılmaq, səs verir). Sıxışıq: dar.",
+   "en": "On the left 犭 (here it replaced a \"hill\" sign of the old form), on the right 夾 (squeezed between two things, giving the sound). Squeezed: narrow.",
+   "ru": "Слева 犭 (здесь заменил знак «холм» старой формы), справа 夾 (зажатый между двумя, даёт звук). Стиснутый: узкий."
+  },
+  "hekaye": {
+   "az": "İki şey arasında: 狭い (semai) – dar.",
+   "en": "Squeezed between: 狭い (semai), narrow.",
+   "ru": "Зажатый между: 狭い (сэмай) – узкий."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "狭い (せまい) dar"
+  ]
+ },
+ {
+  "kanji": "川",
+  "on": "セン",
+  "kun": "かわ",
+  "az": "çay",
+  "en": "river",
+  "ru": "река",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "川"
+  ],
+  "mense": {
+   "az": "İki sahil arasında axan çay: ortadakı xətt su, yanlardakı sahillər.",
+   "en": "A river flowing between two banks: the middle line is the water, the sides are the banks.",
+   "ru": "Река между двумя берегами: средняя черта – вода, боковые – берега."
+  },
+  "hekaye": {
+   "az": "Sahillər arasında su: 川 (kawa) – çay, 小川 (ogawa) – çay, arx.",
+   "en": "Water between banks: 川 (kawa), river; 小川 (ogawa), stream.",
+   "ru": "Вода меж берегов: 川 (кава) – река, 小川 (огава) – ручей."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "川 (かわ) çay"
+  ]
+ },
+ {
+  "kanji": "末",
+  "on": "マツ",
+  "kun": "すえ",
+  "az": "son",
+  "en": "end",
+  "ru": "конец",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "末"
+  ],
+  "mense": {
+   "az": "Ağacın (木) üstündəki xətt aşağıdakından uzundur: ağacın ucu, zirvəsi. Son, axır.",
+   "en": "The line at the top of the tree (木) is longer than the one below: the tip of the tree. End, last part.",
+   "ru": "Черта наверху дерева (木) длиннее нижней: верхушка дерева. Конец."
+  },
+  "hekaye": {
+   "az": "Ağacın ucu: 週末 (shuumatsu) – həftə sonu, 月末 (getsumatsu) – ayın sonu.",
+   "en": "The tip of the tree: 週末 (shuumatsu), weekend; 月末 (getsumatsu), end of the month.",
+   "ru": "Верхушка дерева: 週末 (сюмацу) – выходные, 月末 (гэцумацу) – конец месяца."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "週末 (しゅうまつ) həftə sonu"
+  ]
+ },
+ {
+  "kanji": "注",
+  "on": "チュウ",
+  "kun": "そそ・ぐ",
+  "az": "tökmək, qeyd",
+  "en": "pour, note",
+  "ru": "лить, примечание",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "主"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 主 (bir yerdə duran çıraq). Suyu bir nöqtəyə tökmək: tökmək; diqqəti yönəltmək.",
+   "en": "The meaning part is water (氵) and the sound part is 主 (a lamp standing still). Pouring water onto one spot: to pour; to direct one's attention.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 主 (неподвижный светильник). Лить воду в одну точку: наливать; направлять внимание."
+  },
+  "hekaye": {
+   "az": "Bir nöqtəyə tök: 注意 (chuui) – diqqət, 注文 (chuumon) – sifariş.",
+   "en": "Pour on one spot: 注意 (chuui), attention; 注文 (chuumon), order.",
+   "ru": "Лей в одну точку: 注意 (тюи) – внимание, 注文 (тюмон) – заказ."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "ご注文は？ (ごちゅうもんは？) Sifarişiniz?"
+  ]
+ },
+ {
+  "kanji": "文",
+  "on": "ブン、モン",
+  "kun": "ふみ",
+  "az": "cümlə, yazı",
+  "en": "sentence, writing",
+  "ru": "предложение, письмо",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "文"
+  ],
+  "mense": {
+   "az": "Sinəsinə naxış çəkilmiş insan. Naxış, bəzək; sonra yazı, mətn.",
+   "en": "A person with a pattern drawn on the chest. Pattern, decoration; later writing, text.",
+   "ru": "Человек с узором на груди. Узор, украшение; позже письмо, текст."
+  },
+  "hekaye": {
+   "az": "Sinədə naxış: 文 (bun) – cümlə, 文化 (bunka) – mədəniyyət, 作文 (sakubun) – inşa.",
+   "en": "A pattern on the chest: 文 (bun), sentence; 文化 (bunka), culture; 作文 (sakubun), composition.",
+   "ru": "Узор на груди: 文 (бун) – предложение, 文化 (бунка) – культура, 作文 (сакубун) – сочинение."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "ご注文は？ (ごちゅうもんは？) Sifarişiniz?"
+  ]
+ },
+ {
+  "kanji": "定",
+  "on": "テイ",
+  "kun": "さだ・める",
+  "az": "müəyyən etmək",
+  "en": "fix, decide",
+  "ru": "устанавливать",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "疋"
+  ],
+  "mense": {
+   "az": "Damın (宀) altında 正 (düz, doğru). Evdə hər şeyi öz yerinə qoymaq: sabitləmək, müəyyən etmək.",
+   "en": "正 (straight, right) under a roof (宀). Putting everything in its place in the house: to fix, to decide.",
+   "ru": "正 (прямой, правильный) под крышей (宀). Расставить всё в доме по местам: устанавливать, определять."
+  },
+  "hekaye": {
+   "az": "Yerinə qoy: 予定 (yotei) – plan, 定食 (teishoku) – kompleks yemək.",
+   "en": "Put in place: 予定 (yotei), plan; 定食 (teishoku), set meal.",
+   "ru": "Поставь на место: 予定 (ётэй) – план, 定食 (тэйсёку) – комплексный обед."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "定食 (ていしょく) kompleks menyu"
+  ]
+ },
+ {
+  "kanji": "丼",
+  "on": "–",
+  "kun": "どんぶり",
+  "az": "düyü kasası",
+  "en": "rice bowl",
+  "ru": "миска риса",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "井",
+   "#"
+  ],
+  "mense": {
+   "az": "Quyunun (井) içinə düşən bir şey (nöqtə). Çində \"quyuya düşən daşın səsi\" idi. Yaponiyada dərin kasa və kasada düyü yeməyi mənasında işlənir.",
+   "en": "Something (the dot) dropped into a well (井). In China it was \"the sound of a stone falling into a well\". In Japan it means a deep bowl, and a rice dish served in one.",
+   "ru": "Что-то (точка), упавшее в колодец (井). В Китае – «звук камня, упавшего в колодец». В Японии – глубокая чаша и блюдо из риса в ней."
+  },
+  "hekaye": {
+   "az": "Quyuda nöqtə: 丼 (donburi) – kasada düyü yeməyi, 牛丼 (gyuudon) – mal ətli kasa.",
+   "en": "A dot in a well: 丼 (donburi), rice bowl dish; 牛丼 (gyuudon), beef bowl.",
+   "ru": "Точка в колодце: 丼 (домбури) – рис в чаше, 牛丼 (гюдон) – рис с говядиной."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "牛丼 (ぎゅうどん) Gyudon (düyü üstündə ət)"
+  ]
+ },
+ {
+  "kanji": "別",
+  "on": "ベツ",
+  "kun": "わか・れる",
+  "az": "ayrı",
+  "en": "separate",
+  "ru": "отдельный",
+  "ders": 13,
+  "kart": true,
+  "komponent": [
+   "口",
+   "勹",
+   "刂"
+  ],
+  "mense": {
+   "az": "Solda sümük (另), sağda bıçaq (刂). Bıçaqla əti sümükdən ayırmaq: ayırmaq, ayrılmaq, başqa.",
+   "en": "Bones (另) on the left and a knife (刂) on the right. Separating meat from bone with a knife: to separate, to part, other.",
+   "ru": "Слева кости (另), справа нож (刂). Отделять мясо от кости ножом: разделять, расставаться, другой."
+  },
+  "hekaye": {
+   "az": "Bıçaqla ayır: 別れる (wakareru) – ayrılmaq, 特別 (tokubetsu) – xüsusi.",
+   "en": "Separate with a knife: 別れる (wakareru), to part; 特別 (tokubetsu), special.",
+   "ru": "Отдели ножом: 別れる (вакарэру) – расставаться, 特別 (токубэцу) – особый."
+  },
+  "ilk_soz_dersi": 13,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "別々に (べつべつに) ayrı-ayrılıqda"
+  ]
+ }
+]

@@ -1,0 +1,562 @@
+[
+ {
+  "n": 0,
+  "ro": "Nyuumon",
+  "az": "Yapon dilinə giriş",
+  "en": "Introduction to Japanese",
+  "ru": "Введение в японский язык",
+  "qrammatika": []
+ },
+ {
+  "n": 1,
+  "ro": "Hajimemashite",
+  "az": "Tanış olaq",
+  "en": "Nice to meet you",
+  "ru": "Давайте познакомимся",
+  "qrammatika": [
+   "İS₁ は İS₂ です",
+   "İS₁ は İS₂ じゃ（では） ありません",
+   "İS₁ は İS₂ ですか",
+   "İS も",
+   "İS₁ の İS₂",
+   "〜さん"
+  ]
+ },
+ {
+  "n": 2,
+  "ro": "Kore wa nan desu ka",
+  "az": "Bu nədir?",
+  "en": "What is this?",
+  "ru": "Что это?",
+  "qrammatika": [
+   "これ / それ / あれ",
+   "この İS / その İS / あの İS",
+   "そうです",
+   "〜か、〜か",
+   "İS₁ の İS₂",
+   "の – ismin yerinə",
+   "お〜",
+   "そうですか"
+  ]
+ },
+ {
+  "n": 3,
+  "ro": "Doko desu ka",
+  "az": "Hardadır?",
+  "en": "Where is it?",
+  "ru": "Где это?",
+  "qrammatika": [
+   "ここ / そこ / あそこ / こちら / そちら / あちら",
+   "İS₁ は İS₂ (məkan) です",
+   "どこ / どちら",
+   "İS₁ の İS₂",
+   "こ・そ・あ・ど sistemi",
+   "お〜"
+  ]
+ },
+ {
+  "n": 4,
+  "ro": "Ima nanji desu ka",
+  "az": "İndi saat neçədir?",
+  "en": "What time is it now?",
+  "ru": "Который сейчас час?",
+  "qrammatika": [
+   "今 ‒時‒分です",
+   "F ます / F ません / F ました / F ませんでした",
+   "İS (vaxt) に F",
+   "İS₁ から İS₂ まで",
+   "İS₁ と İS₂",
+   "〜ね"
+  ]
+ },
+ {
+  "n": 5,
+  "ro": "Koushien e ikimasu ka",
+  "az": "Koushienə gedirmi?",
+  "en": "Does it go to Koshien?",
+  "ru": "Идёт до Косиэн?",
+  "qrammatika": [
+   "İS (yer) へ 行きます / 来ます / 帰ります",
+   "どこ（へ）も 行きません",
+   "İS (nəqliyyat) で 行きます / 来ます / 帰ります",
+   "İS (canlı) と F",
+   "いつ",
+   "〜よ",
+   "そうですね"
+  ]
+ },
+ {
+  "n": 6,
+  "ro": "Issho ni ikimasen ka",
+  "az": "Bizimlə getməzsiniz?",
+  "en": "Won't you come with us?",
+  "ru": "Не пойдёте с нами?",
+  "qrammatika": [
+   "İS を F (təsirli)",
+   "İS を します",
+   "何を しますか",
+   "なん və なに",
+   "İS (məkan) で F",
+   "F ませんか",
+   "F ましょう",
+   "〜か"
+  ]
+ },
+ {
+  "n": 7,
+  "ro": "Gomen kudasai",
+  "az": "Bağışlayın, gəlmək olar?",
+  "en": "May I come in?",
+  "ru": "Можно войти?",
+  "qrammatika": [
+   "İS (alət, vasitə) で F",
+   "“SÖZ / CÜMLƏ” は 〜語で 何ですか",
+   "İS₁ (insan) に İS₂ を あげます və s.",
+   "İS₁ (insan) に İS₂ を もらいます və s.",
+   "もう F ました",
+   "Ədatların düşməsi"
+  ]
+ },
+ {
+  "n": 8,
+  "ro": "Sorosoro shitsurei shimasu",
+  "az": "Evə getmək vaxtıdır",
+  "en": "It's time to go home",
+  "ru": "Пора домой",
+  "qrammatika": [
+   "Sifətlər",
+   "İS は な-SİF [な] です · İS は い-SİF (〜い) です",
+   "な-SİF な İS · い-SİF (〜い) İS",
+   "〜が、〜",
+   "とても / あまり",
+   "İS は どうですか",
+   "İS₁ は どんな İS₂ ですか",
+   "そうですね",
+   "Sifətdən zərf: 〜く / 〜に",
+   "Rənglər: isim və sifət"
+  ]
+ },
+ {
+  "n": 9,
+  "ro": "Zannen desu ga",
+  "az": "Təəssüf",
+  "en": "What a pity",
+  "ru": "Жаль",
+  "qrammatika": [
+   "İS が あります / わかります · İS が 好きです / 嫌いです / 上手です / 下手です",
+   "どんな İS",
+   "よく / だいたい / たくさん / 少し / あまり / 全然",
+   "〜から、〜",
+   "どうして"
+  ]
+ },
+ {
+  "n": 10,
+  "ro": "Nanpuraa, arimasu ka",
+  "az": "Nam pla sousu var?",
+  "en": "Do you have nam pla?",
+  "ru": "Есть нам пла?",
+  "qrammatika": [
+   "İS が あります / います",
+   "MƏKAN に İS が あります / います",
+   "İS は MƏKAN に あります / います",
+   "İS₁ の İS₂ (yer sözü)",
+   "İS₁ や İS₂",
+   "İS ですか？"
+  ]
+ },
+ {
+  "n": 11,
+  "ro": "Kore, onegaishimasu",
+  "az": "Bunu göndərin, zəhmət olmasa",
+  "en": "Please send this",
+  "ru": "Отправьте это, пожалуйста",
+  "qrammatika": [
+   "Miqdarın ifadəsi",
+   "Miqdar ifadəsinin işlədilməsi",
+   "müddət に 〜回 F",
+   "say だけ / İS だけ",
+   "〜しか 〜ません",
+   "Say + も / Say + ずつ",
+   "〜ごろ və 〜ぐらい",
+   "Səs dəyişməsi: 連濁"
+  ]
+ },
+ {
+  "n": 12,
+  "ro": "Gion Matsuri wa dou deshita ka",
+  "az": "Gion bayramı necə keçdi?",
+  "en": "How was the Gion Festival?",
+  "ru": "Как прошёл праздник Гион?",
+  "qrammatika": [
+   "İS / な-SİF: zaman formaları",
+   "い-SİF: zaman formaları",
+   "İS₁ は İS₂ より SİF です",
+   "İS₁ と İS₂ と どちらが SİF ですか · İS₁ / İS₂ の ほうが SİF です",
+   "İS₁ [の中] で 何 / どこ / だれ / いつ が いちばん SİF ですか",
+   "SİF の"
+  ]
+ },
+ {
+  "n": 13,
+  "ro": "Betsubetsu ni onegaishimasu",
+  "az": "Ayrı-ayrı hesablayın, zəhmət olmasa",
+  "en": "Separate bills, please",
+  "ru": "Посчитайте отдельно, пожалуйста",
+  "qrammatika": [
+   "İS が 欲しいです",
+   "F ます-forma たいです",
+   "İS (yer) へ Fます-forma / İS に 行きます / 来ます / 帰ります",
+   "どこか / 何か",
+   "ご〜",
+   "Sual sözü + でも"
+  ]
+ },
+ {
+  "n": 14,
+  "ro": "Midorichou made onegaishimasu",
+  "az": "Midori-çoya, zəhmət olmasa",
+  "en": "To Midori-cho, please",
+  "ru": "В Мидори-тё, пожалуйста",
+  "qrammatika": [
+   "Feil qrupları",
+   "て-forma",
+   "F て-forma ください",
+   "F て-forma います",
+   "F ます-forma ましょうか",
+   "İS が F",
+   "すみませんが"
+  ]
+ },
+ {
+  "n": 15,
+  "ro": "Gokazoku wa?",
+  "az": "Ailəniz haqqında danışın",
+  "en": "Tell me about your family",
+  "ru": "Расскажите о семье",
+  "qrammatika": [
+   "F て-forma も いいですか",
+   "F て-forma は いけません",
+   "F て-forma います (II)",
+   "İS に F",
+   "İS₁ に İS₂ を F"
+  ]
+ },
+ {
+  "n": 16,
+  "ro": "Tsukaikata o oshiete kudasai",
+  "az": "Necə istifadə etməli?",
+  "en": "How do I use it?",
+  "ru": "Как пользоваться?",
+  "qrammatika": [
+   "Cümlələri birləşdirmək",
+   "F₁ て-forma から、F₂",
+   "İS₁ は İS₂ が SİF",
+   "İS を F",
+   "どうやって",
+   "どれ / どの İS",
+   "F-ます-kökü + 方",
+   "〜て きます"
+  ]
+ },
+ {
+  "n": 17,
+  "ro": "Dou shimashita ka",
+  "az": "Sizə nə olub?",
+  "en": "What's the matter?",
+  "ru": "Что с вами?",
+  "qrammatika": [
+   "F ない-forma",
+   "F ない-forma ないで ください",
+   "F ない-forma なければ なりません",
+   "F ない-forma なくても いいです",
+   "Tamamlığın mövzuya çevrilməsi",
+   "İS (vaxt) までに F",
+   "F-ない + で"
+  ]
+ },
+ {
+  "n": 18,
+  "ro": "Shumi wa nan desu ka",
+  "az": "Sizin hobbiniz nədir?",
+  "en": "What is your hobby?",
+  "ru": "Какое у вас хобби?",
+  "qrammatika": [
+   "Feilin lüğət forması",
+   "İS / F-lüğət forması こと が できます",
+   "わたしの 趣味は İS / F-lüğət forması こと です",
+   "F₁-lüğət forması / İS の / Say (müddət) まえに、F₂",
+   "なかなか",
+   "ぜひ",
+   "F-lüğət + の が / の を"
+  ]
+ },
+ {
+  "n": 19,
+  "ro": "Daietto wa ashita kara",
+  "az": "Pəhriz sabahdan!",
+  "en": "The diet starts tomorrow!",
+  "ru": "Диета – с завтрашнего дня!",
+  "qrammatika": [
+   "F た-forma",
+   "F た-forma ことが あります",
+   "F た-forma り F た-forma り します",
+   "い-SİF (〜い) → 〜く / な-SİF [な] → 〜に / İS に なります"
+  ]
+ },
+ {
+  "n": 20,
+  "ro": "Issho ni ikanai?",
+  "az": "Mənimlə gedərsən?",
+  "en": "Will you come with me?",
+  "ru": "Пойдёшь со мной?",
+  "qrammatika": [
+   "Nəzakətli üslub və sadə üslub",
+   "Üslubların işlədilməsi",
+   "Sadə üslubda danışıq",
+   "〜て［い］る, 〜けど"
+  ]
+ },
+ {
+  "n": 21,
+  "ro": "Watashi mo sou omoimasu",
+  "az": "Mən də elə düşünürəm",
+  "en": "I think so too",
+  "ru": "Я тоже так думаю",
+  "qrammatika": [
+   "neytral forma と 思います",
+   "「cümlə」/ neytral forma と 言います",
+   "neytral forma でしょう？",
+   "İS₁ (yer) で İS₂ が あります",
+   "İS (vəziyyət) で",
+   "İS でも F",
+   "F ない-forma ないと……",
+   "〜でしょう (ehtimal)"
+  ]
+ },
+ {
+  "n": 22,
+  "ro": "Donna heya o osagashi desu ka",
+  "az": "Necə mənzil axtarırsınız?",
+  "en": "What kind of flat are you looking for?",
+  "ru": "Какую квартиру вы ищете?",
+  "qrammatika": [
+   "Təyin cümləsi",
+   "Təyin olunan isim cümlədə",
+   "F-lüğət forması 時間 / 約束 / 用事",
+   "F ます-forma ましょうか"
+  ]
+ },
+ {
+  "n": 23,
+  "ro": "Dou yatte ikimasu ka",
+  "az": "Necə gedim?",
+  "en": "How do I get there?",
+  "ru": "Как добраться?",
+  "qrammatika": [
+   "F-lüğət / F ない / い-SİF / な-SİF な / İS の とき、〜",
+   "F-lüğət forması / F た-forma とき、〜",
+   "F-lüğət forması と、〜",
+   "İS が SİF",
+   "İS を F (hərəkət)"
+  ]
+ },
+ {
+  "n": 24,
+  "ro": "Tetsudatte kuremasu ka",
+  "az": "Mənə kömək edərsiniz?",
+  "en": "Will you help me?",
+  "ru": "Поможете мне?",
+  "qrammatika": [
+   "くれます",
+   "F て-forma あげます / もらいます / くれます",
+   "Ədatlar dəyişmir",
+   "İS₁ は İS₂ が F",
+   "自分 / 自分で"
+  ]
+ },
+ {
+  "n": 25,
+  "ro": "Iroiro osewa ni narimashita",
+  "az": "Hər şey üçün minnətdaram",
+  "en": "Thank you for everything",
+  "ru": "Спасибо за всё",
+  "qrammatika": [
+   "Keçmiş zamanın sadə forması ら、〜",
+   "F た-forma ら、〜",
+   "F て-forma / F ない → なくて / い-SİF → くて / な-SİF → で / İS で も、〜",
+   "もし",
+   "Budaq cümlənin mübtədası"
+  ]
+ },
+ {
+  "n": 26,
+  "ro": "Tenpura ga tsukuremasu ka",
+  "az": "Tempura bişirə bilirsiniz?",
+  "en": "Can you make tempura?",
+  "ru": "Вы умеете готовить тэмпуру?",
+  "qrammatika": [
+   "Bacarıq forması: 〜えます / 〜られます",
+   "見えます / 聞こえます",
+   "できます: tikilmək, açılmaq, hazır olmaq",
+   "しか 〜ません",
+   "Qarşılaşdırma bildirən は",
+   "〜だけでなく、〜も"
+  ]
+ },
+ {
+  "n": 27,
+  "ro": "Natsuyasumi ni nani o shiyou to omotte imasu ka",
+  "az": "Yay tətilində nə etmək fikrindəsiniz?",
+  "en": "What are you thinking of doing in the summer holidays?",
+  "ru": "Что вы думаете делать летом?",
+  "qrammatika": [
+   "Niyyət forması: 〜(よ)う",
+   "〜(よ)うと 思って います",
+   "〜つもりです / 〜ない つもりです",
+   "〜予定です",
+   "まだ 〜て いません",
+   "〜ことに します",
+   "〜ことに なります",
+   "〜がります",
+   "〜(よ)うと します"
+  ]
+ },
+ {
+  "n": 28,
+  "ro": "Kasa o wasurete shimaimashita",
+  "az": "Çətiri unutdum",
+  "en": "I've gone and forgotten my umbrella",
+  "ru": "Я забыл зонт",
+  "qrammatika": [
+   "Təsirli və təsirsiz feillər",
+   "〜て しまいます",
+   "〜て おきます",
+   "〜て あります",
+   "〜て みます",
+   "〜ないで / 〜ずに",
+   "〜まま"
+  ]
+ },
+ {
+  "n": 29,
+  "ro": "Ongaku o kikinagara benkyou shimasu",
+  "az": "Musiqi dinləyə-dinləyə dərs oxuyuram",
+  "en": "I study while listening to music",
+  "ru": "Я занимаюсь под музыку",
+  "qrammatika": [
+   "〜ながら",
+   "〜し、〜し",
+   "〜すぎます",
+   "〜やすい / 〜にくい",
+   "〜た ばかりです",
+   "〜ところです",
+   "〜ばかり",
+   "〜方",
+   "〜始める / 〜続ける / 〜終わる / 〜出す",
+   "〜うちに"
+  ]
+ },
+ {
+  "n": 30,
+  "ro": "Ame ga fureba, chuushi ni naru kamoshiremasen",
+  "az": "Yağış yağsa, ləğv oluna bilər",
+  "en": "If it rains, it might be cancelled",
+  "ru": "Если пойдёт дождь, могут отменить",
+  "qrammatika": [
+   "Şərt forması: 〜ば",
+   "〜なら",
+   "〜た ほうが いいです / 〜ない ほうが いいです",
+   "〜かもしれません / 〜でしょう",
+   "〜のに",
+   "〜ば〜ほど",
+   "〜ば よかった",
+   "〜ことが あります (ara-sıra)",
+   "〜場合は"
+  ]
+ },
+ {
+  "n": 31,
+  "ro": "Oishisou desu ne",
+  "az": "Dadlı görünür!",
+  "en": "It looks delicious!",
+  "ru": "Выглядит вкусно!",
+  "qrammatika": [
+   "〜そうです (görünüş)",
+   "〜そうです (eşitdiyimə görə)",
+   "〜ようです / 〜みたいです",
+   "〜はずです",
+   "〜らしい"
+  ]
+ },
+ {
+  "n": 32,
+  "ro": "Nihongo ga hanaseru you ni narimashita",
+  "az": "Yaponca danışa bilir oldum",
+  "en": "I've become able to speak Japanese",
+  "ru": "Я научился говорить по-японски",
+  "qrammatika": [
+   "〜ために",
+   "〜ように (məqsəd)",
+   "〜ように なります / 〜ように して います",
+   "〜か / 〜かどうか",
+   "〜んです",
+   "〜ので",
+   "〜おかげで / 〜せいで",
+   "〜とおりに",
+   "〜という N",
+   "〜ように 言う / 頼む",
+   "〜て くる / 〜て いく"
+  ]
+ },
+ {
+  "n": 33,
+  "ro": "Sensei ni homeraremashita",
+  "az": "Müəllim məni təriflədi",
+  "en": "I was praised by my teacher",
+  "ru": "Меня похвалил учитель",
+  "qrammatika": [
+   "Məchul forma",
+   "A は B に 〜(ら)れます",
+   "A は B に Cを 〜(ら)れます",
+   "〜が 〜(ら)れます / 〜によって"
+  ]
+ },
+ {
+  "n": 34,
+  "ro": "Hayaku kaerasete itadakemasen ka",
+  "az": "Tez getməyimə icazə verərdiniz?",
+  "en": "Could you let me leave early?",
+  "ru": "Не могли бы вы отпустить меня пораньше?",
+  "qrammatika": [
+   "Səbəb forması (使役)",
+   "A は B を / に 〜(さ)せます",
+   "〜(さ)せて いただけませんか",
+   "Məcburi məchul (使役受身)",
+   "〜て もらえませんか / 〜て いただけませんか",
+   "〜て ほしい",
+   "命令形 / 〜なさい"
+  ]
+ },
+ {
+  "n": 35,
+  "ro": "Nanji ni irasshaimasu ka",
+  "az": "Saat neçədə təşrif gətirəcəksiniz?",
+  "en": "What time will you be coming?",
+  "ru": "Во сколько вы изволите прийти?",
+  "qrammatika": [
+   "Hörmət dili (尊敬語)",
+   "Təvazökar dil (謙譲語)",
+   "ございます / で ございます",
+   "Hörmət dilini necə seçmək"
+  ]
+ },
+ {
+  "n": 36,
+  "ro": "Furoku",
+  "az": "Əlavələr",
+  "en": "Appendices",
+  "ru": "Приложения",
+  "qrammatika": []
+ }
+]

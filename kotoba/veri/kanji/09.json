@@ -1,0 +1,1004 @@
+[
+ {
+  "kanji": "間",
+  "on": "カン",
+  "kun": "あいだ、ま",
+  "az": "ara, arasında",
+  "en": "interval, between",
+  "ru": "промежуток, между",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "門",
+   "日"
+  ],
+  "mense": {
+   "az": "Darvaza (門) və günəş (日). Köhnə formada 閒: darvazanın aralığından görünən ay (月). İki şeyin arası, boşluq, zaman aralığı.",
+   "en": "A gate (門) and the sun (日). In the old form 閒 it was the moon (月) seen through a gap in the gate. The space between two things, an interval of time.",
+   "ru": "Ворота (門) и солнце (日). В старой форме 閒 – луна (月), видная в щели ворот. Промежуток между двумя вещами, отрезок времени."
+  },
+  "hekaye": {
+   "az": "Darvazanın arası: 間 (aida) – ara, 時間 (jikan) – vaxt, 人間 (ningen) – insan.",
+   "en": "The gap in the gate: 間 (aida), between; 時間 (jikan), time; 人間 (ningen), human being.",
+   "ru": "Щель в воротах: 間 (аида) – промежуток, 時間 (дзикан) – время, 人間 (нинген) – человек."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "時間 (じかん) vaxt",
+   "間 (あいだ) ara(sı)",
+   "～時間 (～じかん) ~saat (müddət)",
+   "～週間 (～しゅうかん) ~həftə (müddət)"
+  ]
+ },
+ {
+  "kanji": "少",
+  "on": "ショウ",
+  "kun": "すく・ない、すこ・し",
+  "az": "az",
+  "en": "few, little",
+  "ru": "мало",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "小",
+   "#"
+  ],
+  "mense": {
+   "az": "Kiçik (小) və altında bir maili xətt. Kiçiyin daha da azalması: az, bir az.",
+   "en": "Small (小) with a slanting stroke below. Something small becoming even less: few, a little.",
+   "ru": "Маленький (小) и косая черта внизу. Малое становится ещё меньше: мало, немного."
+  },
+  "hekaye": {
+   "az": "Kiçikdən də az: 少し (sukoshi) – bir az, 少ない (sukunai) – az.",
+   "en": "Less than small: 少し (sukoshi), a little; 少ない (sukunai), few.",
+   "ru": "Меньше малого: 少し (сукоси) – немного, 少ない (сукунай) – мало."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "少し (すこし) biraz, az",
+   "少ない [人が～] (すくない[ひとが～]) az (miqdarca) [az adam]",
+   "[少々]お待ちください。 ([しょうしょう]おまちください。) [Biraz] gözləyin, zəhmət olmasa.",
+   "もう少し (もうすこし) biraz daha"
+  ]
+ },
+ {
+  "kanji": "上",
+  "on": "ジョウ",
+  "kun": "うえ、あ・がる",
+  "az": "üst, yuxarı",
+  "en": "above, up",
+  "ru": "верх, вверх",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "卜",
+   "一"
+  ],
+  "mense": {
+   "az": "Üfüqi xəttin üstünə qoyulmuş işarə: \"yuxarıda\". 下 onun əksidir.",
+   "en": "A mark placed above a horizontal line: \"above\". 下 is its opposite.",
+   "ru": "Знак над горизонтальной чертой: «вверху». 下 – его противоположность."
+  },
+  "hekaye": {
+   "az": "Xəttin üstündə: 上 (ue) – yuxarı, 上手 (jouzu) – bacarıqlı.",
+   "en": "Above the line: 上 (ue), above; 上手 (jouzu), skilful.",
+   "ru": "Над чертой: 上 (уэ) – верх, 上手 (дзёдзу) – умелый."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "上手[な] (じょうず[な]) bacarıqlı, zirak",
+   "上 (うえ) üst",
+   "上着 (うわぎ) üst geyim"
+  ]
+ },
+ {
+  "kanji": "理",
+  "on": "リ",
+  "kun": "–",
+  "az": "səbəb, məntiq",
+  "en": "reason, logic",
+  "ru": "причина, логика",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "王",
+   "日",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qiymətli daş, yəşəm (王 = 玉), səs hissəsi 里. Yəşəmin damarlarına görə daşı yonmaq: qayda, məntiq, səbəb.",
+   "en": "The meaning part is jade (王 = 玉) and the sound part is 里. Cutting jade along its veins: order, logic, reason.",
+   "ru": "Смысловая часть – нефрит (王 = 玉), звуковая – 里. Обрабатывать нефрит по прожилкам: порядок, логика, причина."
+  },
+  "hekaye": {
+   "az": "Daşın damarı = qayda: 料理 (ryouri) – yemək, 理由 (riyuu) – səbəb, 無理 (muri) – mümkünsüz.",
+   "en": "The stone's grain = order: 料理 (ryouri), cooking; 理由 (riyuu), reason; 無理 (muri), impossible.",
+   "ru": "Прожилка камня = порядок: 料理 (рёри) – кухня, 理由 (рию) – причина, 無理 (мури) – невозможно."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "料理 (りょうり) yemək (xörək), aşpazlıq",
+   "無理[な] (むり[な]) imkansız, mümkünsüz, çətin",
+   "修理します (しゅうりします) düzəltmək, təmir etmək"
+  ]
+ },
+ {
+  "kanji": "歌",
+  "on": "カ",
+  "kun": "うた、うた・う",
+  "az": "mahnı, oxumaq",
+  "en": "song, sing",
+  "ru": "песня, петь",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "丁",
+   "口",
+   "口",
+   "欠"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağzını açmış insan (欠), səs hissəsi 哥. Ağızdan uca səslə çıxan: mahnı oxumaq.",
+   "en": "The meaning part is a person with an open mouth (欠) and the sound part is 哥. Sound coming out loud from the mouth: to sing.",
+   "ru": "Смысловая часть – человек с открытым ртом (欠), звуковая – 哥. Громко звучащее изо рта: петь."
+  },
+  "hekaye": {
+   "az": "Ağzını aç, oxu: 歌 (uta) – mahnı, 歌う (utau) – oxumaq.",
+   "en": "Open your mouth and sing: 歌 (uta), song; 歌う (utau), to sing.",
+   "ru": "Открой рот и пой: 歌 (ута) – песня, 歌う (утау) – петь."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "歌 (うた) mahnı",
+   "歌舞伎 (かぶき) Kabuki (ənənəvi yapon teatrı)",
+   "歌います (うたいます) mahnı oxumaq"
+  ]
+ },
+ {
+  "kanji": "字",
+  "on": "ジ",
+  "kun": "–",
+  "az": "hərf, işarə",
+  "en": "letter, character",
+  "ru": "буква, знак",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "子"
+  ],
+  "mense": {
+   "az": "Damın (宀) altında uşaq (子): evdə uşaq doğulur, ailə artır. Sadə işarələrdən yeni işarələr \"doğulduğu\" üçün mənası \"hərf, yazı işarəsi\" oldu.",
+   "en": "A child (子) under a roof (宀): a baby is born and the family grows. Because new characters are \"born\" from simple ones, it came to mean \"letter, written character\".",
+   "ru": "Ребёнок (子) под крышей (宀): в доме родился ребёнок, семья растёт. Из простых знаков «рождаются» новые, поэтому значение стало «буква, письменный знак»."
+  },
+  "hekaye": {
+   "az": "Evdə doğulan: 字 (ji) – hərf, 漢字 (kanji) – kanji.",
+   "en": "Born in the house: 字 (ji), character; 漢字 (kanji), kanji.",
+   "ru": "Рождённое в доме: 字 (дзи) – знак, 漢字 (кандзи) – кандзи."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "字 (じ) hərf",
+   "漢字 (かんじ) heroqlif",
+   "ローマ字 (ローマじ) Latın əlifbası"
+  ]
+ },
+ {
+  "kanji": "全",
+  "on": "ゼン",
+  "kun": "まった・く",
+  "az": "bütün",
+  "en": "whole, all",
+  "ru": "весь",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "人@top",
+   "王"
+  ],
+  "mense": {
+   "az": "Yuxarıda içəri qoymaq (入), aşağıda yəşəm (王 = 玉). Qüsursuz yəşəmi saxlamaq: bütöv, tam.",
+   "en": "Putting in (入) on top and jade (王 = 玉) below. Keeping a flawless piece of jade: whole, complete.",
+   "ru": "Сверху вкладывать (入), снизу нефрит (王 = 玉). Хранить безупречный нефрит: целый, полный."
+  },
+  "hekaye": {
+   "az": "Qüsursuz daş: 全部 (zenbu) – hamısı, 安全 (anzen) – təhlükəsiz.",
+   "en": "Flawless stone: 全部 (zenbu), all; 安全 (anzen), safe.",
+   "ru": "Безупречный камень: 全部 (дзэмбу) – всё, 安全 (андзэн) – безопасный."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "全然 (ぜんぜん) heç (inkarla)",
+   "全部で (ぜんぶで) hamısı, cəmi",
+   "全部 (ぜんぶ) hamısı"
+  ]
+ },
+ {
+  "kanji": "度",
+  "on": "ド",
+  "kun": "たび",
+  "az": "dərəcə, dəfə",
+  "en": "degree, time",
+  "ru": "степень, раз",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "广",
+   "十",
+   "#",
+   "又"
+  ],
+  "mense": {
+   "az": "Yuxarıda bina (广) və 廿, aşağıda əl (又). Əl qarışı ilə ölçmək: ölçü, dərəcə; sonra \"dəfə\".",
+   "en": "A building (广) and 廿 on top, with a hand (又) below. Measuring by hand spans: measure, degree; later \"times\".",
+   "ru": "Сверху здание (广) и 廿, снизу рука (又). Мерить пядями: мера, степень; позже «раз»."
+  },
+  "hekaye": {
+   "az": "Əllə ölçmək: 今度 (kondo) – bu dəfə, gələn dəfə; 一度 (ichido) – bir dəfə; 温度 (ondo) – temperatur.",
+   "en": "Measure by hand: 今度 (kondo), this time, next time; 一度 (ichido), once; 温度 (ondo), temperature.",
+   "ru": "Мерить рукой: 今度 (кондо) – в этот или следующий раз, 一度 (итидо) – однажды, 温度 (ондо) – температура."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "また今度お願いします。 (またこんどおねがいします。) Qalsın gələn dəfəyə, zəhmət olmasa.",
+   "一度 (いちど) bir dəfə",
+   "一度も (いちども) heç bir dəfə (inkar ifadələrlə)"
+  ]
+ },
+ {
+  "kanji": "料",
+  "on": "リョウ",
+  "kun": "–",
+  "az": "haqq, material",
+  "en": "fee, material",
+  "ru": "плата, материал",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "米",
+   "斗"
+  ],
+  "mense": {
+   "az": "Solda düyü (米), sağda ölçü qabı (斗). Düyünü ölçmək: material, ərzaq; sonra \"haqq, ödəniş\".",
+   "en": "Rice (米) on the left and a measuring dipper (斗) on the right. Measuring rice: ingredients, provisions; later \"fee, charge\".",
+   "ru": "Слева рис (米), справа мерный ковш (斗). Отмерять рис: материалы, припасы; позже «плата»."
+  },
+  "hekaye": {
+   "az": "Düyünü ölç: 料理 (ryouri) – yemək bişirmə, 料金 (ryoukin) – haqq.",
+   "en": "Measure the rice: 料理 (ryouri), cooking; 料金 (ryoukin), fee.",
+   "ru": "Отмерь рис: 料理 (рёри) – кухня, 料金 (рёкин) – плата."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "料理 (りょうり) yemək (xörək), aşpazlıq",
+   "資料 (しりょう) material, sənəd"
+  ]
+ },
+ {
+  "kanji": "球",
+  "on": "キュウ",
+  "kun": "たま",
+  "az": "top",
+  "en": "ball",
+  "ru": "мяч",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "王",
+   "求"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yəşəm (王 = 玉), səs hissəsi 求. Yəşəmdən yonulmuş girdə muncuq: kürə, top.",
+   "en": "The meaning part is jade (王 = 玉) and the sound part is 求. A round bead cut from jade: a sphere, a ball.",
+   "ru": "Смысловая часть – нефрит (王 = 玉), звуковая – 求. Круглая бусина из нефрита: шар, мяч."
+  },
+  "hekaye": {
+   "az": "Daşdan kürə: 野球 (yakyuu) – beysbol, 地球 (chikyuu) – Yer kürəsi.",
+   "en": "A stone sphere: 野球 (yakyuu), baseball; 地球 (chikyuu), the Earth.",
+   "ru": "Каменный шар: 野球 (якю) – бейсбол, 地球 (тикю) – Земля."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "野球 (やきゅう) beysbol",
+   "地球 (ちきゅう) Yer kürəsi"
+  ]
+ },
+ {
+  "kanji": "音",
+  "on": "オン",
+  "kun": "おと",
+  "az": "səs",
+  "en": "sound",
+  "ru": "звук",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "立",
+   "日"
+  ],
+  "mense": {
+   "az": "Söz (言) işarəsinin ağzına bir xətt əlavə olunub: ağızdan çıxan səs, ahəng.",
+   "en": "A line added inside the mouth of the sign for words (言): sound coming from the mouth, a tone.",
+   "ru": "В «рот» знака «слово» (言) добавлена черта: звук изо рта, тон."
+  },
+  "hekaye": {
+   "az": "Ağızdan çıxan səs: 音 (oto) – səs, 音楽 (ongaku) – musiqi.",
+   "en": "Sound from the mouth: 音 (oto), sound; 音楽 (ongaku), music.",
+   "ru": "Звук изо рта: 音 (ото) – звук, 音楽 (онгаку) – музыка."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "音楽 (おんがく) musiqi",
+   "音 (おと) səs"
+  ]
+ },
+ {
+  "kanji": "約",
+  "on": "ヤク",
+  "kun": "–",
+  "az": "vəd, təxminən",
+  "en": "promise, about",
+  "ru": "обещание, примерно",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "勺"
+  ],
+  "mense": {
+   "az": "Məna hissəsi sap (糸), səs hissəsi 勺. Sapla bağlamaq: söz bağlamaq, vəd; həm də \"təxminən\".",
+   "en": "The meaning part is thread (糸) and the sound part is 勺. To tie with thread: to bind with a promise; also \"approximately\".",
+   "ru": "Смысловая часть – нить (糸), звуковая – 勺. Связывать нитью: связать словом, обещание; также «примерно»."
+  },
+  "hekaye": {
+   "az": "Sapla bağla: 約束 (yakusoku) – vəd, 予約 (yoyaku) – bron, 約 (yaku) – təxminən.",
+   "en": "Tie with thread: 約束 (yakusoku), promise; 予約 (yoyaku), booking; 約 (yaku), about.",
+   "ru": "Свяжи нитью: 約束 (якусоку) – обещание, 予約 (ёяку) – бронь, 約 (яку) – примерно."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "約束 (やくそく) söz, sözləşmə",
+   "予約します (よやくします) rezerv etmək, bron etmək"
+  ]
+ },
+ {
+  "kanji": "主",
+  "on": "シュ",
+  "kun": "ぬし、おも",
+  "az": "sahib, əsas",
+  "en": "master, main",
+  "ru": "хозяин, главный",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "主"
+  ],
+  "mense": {
+   "az": "Dayaq üzərində yanan çıraq, yuxarıdakı nöqtə alovdur. Evin odunu qoruyan şəxs: sahib, əsas.",
+   "en": "A lamp burning on a stand; the dot on top is the flame. The person who keeps the household fire: master, main.",
+   "ru": "Светильник на подставке, точка сверху – пламя. Тот, кто хранит огонь дома: хозяин, главный."
+  },
+  "hekaye": {
+   "az": "Çırağı yandıran sahib: 主人 (shujin) – ər, sahib; 主婦 (shufu) – evdar qadın.",
+   "en": "The master who keeps the lamp: 主人 (shujin), husband, owner; 主婦 (shufu), housewife.",
+   "ru": "Хозяин, хранящий огонь: 主人 (сюдзин) – муж, хозяин; 主婦 (сюфу) – домохозяйка."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "ご主人 (ごしゅじん) başqasının əri",
+   "夫/主人 (おっと/しゅじん) mənim ərim"
+  ]
+ },
+ {
+  "kanji": "夫",
+  "on": "フ",
+  "kun": "おっと",
+  "az": "ər",
+  "en": "husband",
+  "ru": "муж",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "夫"
+  ],
+  "mense": {
+   "az": "Böyük insan (大) və başında sancaq (一). Qədim Çində yetkin kişi saçını sancaqla yığırdı: yetkin kişi, ər.",
+   "en": "A grown person (大) with a hairpin (一) through the hair. In ancient China an adult man pinned up his hair: a grown man, a husband.",
+   "ru": "Взрослый человек (大) со шпилькой (一) в волосах. В Древнем Китае взрослый мужчина закалывал волосы: мужчина, муж."
+  },
+  "hekaye": {
+   "az": "Saçında sancaq olan kişi: 夫 (otto) – ər, 大丈夫 (daijoubu) – problem yoxdur.",
+   "en": "A man with a hairpin: 夫 (otto), husband; 大丈夫 (daijoubu), all right.",
+   "ru": "Мужчина со шпилькой: 夫 (отто) – муж, 大丈夫 (дайдзёбу) – всё в порядке."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "夫/主人 (おっと/しゅじん) mənim ərim",
+   "大丈夫[な] (だいじょうぶ[な]) problem yoxdur, qaydasındadır"
+  ]
+ },
+ {
+  "kanji": "内",
+  "on": "ナイ",
+  "kun": "うち",
+  "az": "daxil",
+  "en": "inside",
+  "ru": "внутри",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "冂",
+   "人"
+  ],
+  "mense": {
+   "az": "Evin girişi (冂) və içəri girən (入). İçəri girmək: iç, daxil.",
+   "en": "A house entrance (冂) and entering (入). Going in: inside, interior.",
+   "ru": "Вход в дом (冂) и входить (入). Войти внутрь: внутри, внутренний."
+  },
+  "hekaye": {
+   "az": "Qapıdan içəri: 内 (uchi) – iç, 案内 (annai) – bələdçilik.",
+   "en": "In through the door: 内 (uchi), inside; 案内 (annai), guidance.",
+   "ru": "Внутрь через дверь: 内 (ути) – внутри, 案内 (аннай) – проводить, показывать."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "妻/家内 (つま/かない) mənim xanımım",
+   "案内します (あんないします) yol göstərmək, bələdçilik etmək"
+  ]
+ },
+ {
+  "kanji": "早",
+  "on": "ソウ",
+  "kun": "はや・い",
+  "az": "tez",
+  "en": "early, fast",
+  "ru": "рано, быстро",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "日",
+   "十"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir. Bir izaha görə üfüqdən çıxan günəş (日) və altında bitki: günün ən erkən çağı. Tez, erkən.",
+   "en": "Its origin is debated. One explanation sees the sun (日) rising over a plant: the earliest part of the day. Early, quick.",
+   "ru": "Происхождение спорно. По одному толкованию, солнце (日), встающее над растением: самое раннее время дня. Рано, быстро."
+  },
+  "hekaye": {
+   "az": "Günün ilk çağı: 早い (hayai) – tez, erkən; お早う (ohayou) – sabahınız xeyir.",
+   "en": "The first part of the day: 早い (hayai), early; お早う (ohayou), good morning.",
+   "ru": "Самое начало дня: 早い (хаяй) – ранний, お早う (охаё) – доброе утро."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "早く (はやく) tez, sürətlə",
+   "速い/早い (はやい) tez, sürətli"
+  ]
+ },
+ {
+  "kanji": "残",
+  "on": "ザン",
+  "kun": "のこ・る",
+  "az": "qalmaq",
+  "en": "remain",
+  "ru": "оставаться",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "歹",
+   "一",
+   "一",
+   "戈"
+  ],
+  "mense": {
+   "az": "Solda 歹 (sümük qalıqları), sağda səs hissəsi 戋. Geridə qalan, artıq qalan: qalmaq, qalıq.",
+   "en": "On the left 歹 (remains of bones), on the right the sound part 戋. What is left behind: to remain, leftovers.",
+   "ru": "Слева 歹 (останки костей), справа звуковая часть 戋. То, что осталось: оставаться, остаток."
+  },
+  "hekaye": {
+   "az": "Geridə qalan: 残る (nokoru) – qalmaq, 残念 (zannen) – təəssüf.",
+   "en": "What is left: 残る (nokoru), to remain; 残念 (zannen), a pity.",
+   "ru": "Оставшееся: 残る (нокору) – оставаться, 残念 (дзаннэн) – жаль."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "残念です[が] (ざんねんです[が]) Təəssüf edirəm, amma...",
+   "残業します (ざんぎょうします) əlavə işləmək"
+  ]
+ },
+ {
+  "kanji": "好",
+  "on": "コウ",
+  "kun": "す・き",
+  "az": "xoşlamaq",
+  "en": "like",
+  "ru": "нравиться",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "女",
+   "子"
+  ],
+  "mense": {
+   "az": "Qadın (女) və uşaq (子) yan-yana: uşağını qucaqlayan ana. Bu mənzərədən \"sevmək, xoş\" mənası yaranıb.",
+   "en": "A woman (女) and a child (子) side by side: a mother holding her child. From this picture came \"to like, pleasant\".",
+   "ru": "Женщина (女) и ребёнок (子) рядом: мать с ребёнком на руках. Отсюда значение «любить, приятный»."
+  },
+  "hekaye": {
+   "az": "Ana və uşaq: 好き (suki) – xoşlamaq, 好物 (koubutsu) – sevimli yemək.",
+   "en": "Mother and child: 好き (suki), to like; 好物 (koubutsu), favourite food.",
+   "ru": "Мать и дитя: 好き (суки) – нравиться, 好物 (кобуцу) – любимое блюдо."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "好き[な] (すき[な]) xoşagələn"
+  ]
+ },
+ {
+  "kanji": "嫌",
+  "on": "ケン",
+  "kun": "きら・い",
+  "az": "xoşlamamaq",
+  "en": "dislike",
+  "ru": "не нравиться",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "女",
+   "八",
+   "⺕",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qadın (女), səs hissəsi 兼. Narazı olmaq, xoşlamamaq.",
+   "en": "The meaning part is woman (女) and the sound part is 兼. To be displeased, to dislike.",
+   "ru": "Смысловая часть – женщина (女), звуковая – 兼. Быть недовольным, не любить."
+  },
+  "hekaye": {
+   "az": "Narazılıq: 嫌い (kirai) – xoşlamamaq, 嫌 (iya) – istəmirəm, xoşa gəlməz.",
+   "en": "Displeasure: 嫌い (kirai), to dislike; 嫌 (iya), unpleasant, no thanks.",
+   "ru": "Недовольство: 嫌い (кирай) – не любить, 嫌 (ия) – неприятно, не хочу."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "嫌い[な] (きらい[な]) xoşuma gəlməyən, zəhləm gedən"
+  ]
+ },
+ {
+  "kanji": "旅",
+  "on": "リョ",
+  "kun": "たび",
+  "az": "səyahət",
+  "en": "travel",
+  "ru": "путешествие",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "方",
+   "#",
+   "亻",
+   "#"
+  ],
+  "mense": {
+   "az": "Solda və yuxarıda bayraq (方 + 𠂉), altında bir-birinin ardınca gedən insanlar. Bayraq arxasınca yola çıxan dəstə: səfər, səyahət.",
+   "en": "A banner (方 + 𠂉) on the left and top, with people walking one after another beneath it. A band setting off behind a banner: a journey.",
+   "ru": "Слева и сверху знамя (方 + 𠂉), под ним люди, идущие друг за другом. Отряд, отправившийся в путь за знаменем: путешествие."
+  },
+  "hekaye": {
+   "az": "Bayraq arxasınca yol: 旅行 (ryokou) – səyahət, 旅館 (ryokan) – yapon mehmanxanası.",
+   "en": "On the road behind a banner: 旅行 (ryokou), trip; 旅館 (ryokan), Japanese inn.",
+   "ru": "В путь за знаменем: 旅行 (рёко) – путешествие, 旅館 (рёкан) – японская гостиница."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "旅行 (りょこう) səyahət"
+  ]
+ },
+ {
+  "kanji": "楽",
+  "on": "ガク、ラク",
+  "kun": "たの・しい",
+  "az": "musiqi, zövq",
+  "en": "music, fun",
+  "ru": "музыка, радость",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "楽"
+  ],
+  "mense": {
+   "az": "Köhnə forması 樂: taxta dayaq (木) üzərində təbil və zınqırovlar. Musiqi aləti, musiqi; musiqi sevinc verdiyi üçün \"xoş, rahat\" mənası da yarandı.",
+   "en": "The old form is 樂: drums and bells on a wooden stand (木). A musical instrument, music; since music brings joy, also \"pleasant, easy\".",
+   "ru": "Старая форма 樂: барабаны и колокольчики на деревянной подставке (木). Музыкальный инструмент, музыка; музыка радует, отсюда «приятный, лёгкий»."
+  },
+  "hekaye": {
+   "az": "Təbil və zınqırov: 音楽 (ongaku) – musiqi, 楽しい (tanoshii) – şən, 楽 (raku) – rahat.",
+   "en": "Drums and bells: 音楽 (ongaku), music; 楽しい (tanoshii), fun; 楽 (raku), easy.",
+   "ru": "Барабаны и колокольчики: 音楽 (онгаку) – музыка, 楽しい (таносий) – весёлый, 楽 (раку) – легко."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "音楽 (おんがく) musiqi"
+  ]
+ },
+ {
+  "kanji": "舞",
+  "on": "ブ",
+  "kun": "ま・う",
+  "az": "rəqs",
+  "en": "dance",
+  "ru": "танец",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "#",
+   "一",
+   "#",
+   "舛"
+  ],
+  "mense": {
+   "az": "Yuxarıda əllərində qotazlar tutub oynayan insan, aşağıda iki ayaq (舛). Rəqs etmək.",
+   "en": "A person dancing with tassels in their hands on top and two feet (舛) below. To dance.",
+   "ru": "Сверху человек, танцующий с кистями в руках, снизу две ступни (舛). Танцевать."
+  },
+  "hekaye": {
+   "az": "Qotaz və ayaqlar: 舞う (mau) – rəqs etmək, 歌舞伎 (kabuki) – kabuki teatrı.",
+   "en": "Tassels and feet: 舞う (mau), to dance; 歌舞伎 (kabuki), kabuki theatre.",
+   "ru": "Кисти и ноги: 舞う (мау) – танцевать, 歌舞伎 (кабуки) – театр кабуки."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "歌舞伎 (かぶき) Kabuki (ənənəvi yapon teatrı)"
+  ]
+ },
+ {
+  "kanji": "伎",
+  "on": "キ",
+  "kun": "–",
+  "az": "məharət (kabuki)",
+  "en": "skill (kabuki)",
+  "ru": "мастерство (кабуки)",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "十",
+   "又"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 支. Bacarıqlı ifaçı, aktyor.",
+   "en": "The meaning part is person (亻) and the sound part is 支. A skilled performer, an actor.",
+   "ru": "Смысловая часть – человек (亻), звуковая – 支. Искусный исполнитель, актёр."
+  },
+  "hekaye": {
+   "az": "Səhnə ustası: 歌舞伎 (kabuki) – \"mahnı, rəqs, ustalıq\".",
+   "en": "A master of the stage: 歌舞伎 (kabuki), \"song, dance, skill\".",
+   "ru": "Мастер сцены: 歌舞伎 (кабуки) – «песня, танец, мастерство»."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "歌舞伎 (かぶき) Kabuki (ənənəvi yapon teatrı)"
+  ]
+ },
+ {
+  "kanji": "絵",
+  "on": "カイ、エ",
+  "kun": "–",
+  "az": "rəsm",
+  "en": "picture",
+  "ru": "картина",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "人",
+   "云"
+  ],
+  "mense": {
+   "az": "Məna hissəsi sap (糸), səs hissəsi 会 (köhnə forması 繪). Rəngli sapların bir yerdə toplanması, tikmə: şəkil.",
+   "en": "The meaning part is thread (糸) and the sound part is 会 (old form 繪). Coloured threads coming together, embroidery: a picture.",
+   "ru": "Смысловая часть – нить (糸), звуковая – 会 (старая форма 繪). Сошедшиеся цветные нити, вышивка: картина."
+  },
+  "hekaye": {
+   "az": "Rəngli saplardan şəkil: 絵 (e) – şəkil, 絵本 (ehon) – şəkilli kitab.",
+   "en": "A picture of coloured threads: 絵 (e), picture; 絵本 (ehon), picture book.",
+   "ru": "Картина из цветных нитей: 絵 (э) – картина, 絵本 (эхон) – книжка с картинками."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "絵 (え) rəsm"
+  ]
+ },
+ {
+  "kanji": "漢",
+  "on": "カン",
+  "kun": "–",
+  "az": "Çin (Han)",
+  "en": "China (Han)",
+  "ru": "Китай (Хань)",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "艹",
+   "口",
+   "夫"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi sağdakı hissə. Əvvəlcə Han çayının adı idi, sonra Han sülaləsinin, sonra isə ümumiyyətlə \"Çin\" mənasında işlənir.",
+   "en": "The meaning part is water (氵) and the right side gives the sound. It was first the name of the Han River, then of the Han dynasty, and then simply \"Chinese\".",
+   "ru": "Смысловая часть – вода (氵), правая часть даёт звук. Сначала – название реки Хань, затем династии Хань, затем просто «китайский»."
+  },
+  "hekaye": {
+   "az": "Han çayından Çinə: 漢字 (kanji) – Çin yazı işarəsi.",
+   "en": "From the Han River to China: 漢字 (kanji), Chinese characters.",
+   "ru": "От реки Хань к Китаю: 漢字 (кандзи) – китайские знаки."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "漢字 (かんじ) heroqlif"
+  ]
+ },
+ {
+  "kanji": "細",
+  "on": "サイ",
+  "kun": "ほそ・い、こま・かい",
+  "az": "nazik, xırda",
+  "en": "thin, fine",
+  "ru": "тонкий, мелкий",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "田"
+  ],
+  "mense": {
+   "az": "Məna hissəsi sap (糸), sağdakı hissə (indi 田) əvvəlcə başqa işarə idi. İncə sap: nazik, xırda, ətraflı.",
+   "en": "The meaning part is thread (糸); the right side (now 田) was originally another sign. A fine thread: thin, small, detailed.",
+   "ru": "Смысловая часть – нить (糸); правая часть (сейчас 田) изначально была другим знаком. Тонкая нить: тонкий, мелкий, подробный."
+  },
+  "hekaye": {
+   "az": "İncə sap: 細い (hosoi) – nazik, 細かい (komakai) – xırda, ətraflı.",
+   "en": "A fine thread: 細い (hosoi), thin; 細かい (komakai), small, detailed.",
+   "ru": "Тонкая нить: 細い (хосой) – тонкий, 細かい (комакай) – мелкий, подробный."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "細かいお金 (こまかいおかね) xırda pul"
+  ]
+ },
+ {
+  "kanji": "用",
+  "on": "ヨウ",
+  "kun": "もち・いる",
+  "az": "istifadə, iş",
+  "en": "use, business",
+  "ru": "использование, дело",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "用"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir: vedrə və ya taxta hasar kimi izah olunur. Çox erkən dövrdən \"işlətmək, istifadə\" mənasındadır.",
+   "en": "Its origin is debated: it has been explained as a bucket or a wooden fence. From very early on it has meant \"to use\".",
+   "ru": "Происхождение спорно: толкуют как ведро или деревянную ограду. С ранних времён значит «использовать»."
+  },
+  "hekaye": {
+   "az": "İşlət: 用事 (youji) – iş, məşğuliyyət; 使用 (shiyou) – istifadə.",
+   "en": "Put to use: 用事 (youji), errand; 使用 (shiyou), use.",
+   "ru": "Используй: 用事 (ёдзи) – дело, 使用 (сиё) – использование."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "用事 (ようじ) vacib iş"
+  ]
+ },
+ {
+  "kanji": "束",
+  "on": "ソク",
+  "kun": "たば",
+  "az": "dəstə",
+  "en": "bundle",
+  "ru": "пучок",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "束"
+  ],
+  "mense": {
+   "az": "Ağac (木) və onu ortadan sıxan kəmər (口). Bağlanmış dəstə: dəstə, bağlamaq.",
+   "en": "A tree (木) with a band (口) tied round its middle. Something tied together: a bundle, to bind.",
+   "ru": "Дерево (木) с обвязкой (口) посередине. Связанное вместе: пучок, связывать."
+  },
+  "hekaye": {
+   "az": "Ortadan bağlanmış: 約束 (yakusoku) – vəd, 花束 (hanataba) – gül dəstəsi.",
+   "en": "Tied at the middle: 約束 (yakusoku), promise; 花束 (hanataba), bouquet.",
+   "ru": "Перевязанное посередине: 約束 (якусоку) – обещание, 花束 (ханатаба) – букет."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "約束 (やくそく) söz, sözləşmə"
+  ]
+ },
+ {
+  "kanji": "奥",
+  "on": "オウ",
+  "kun": "おく",
+  "az": "iç, daxili",
+  "en": "interior, inner",
+  "ru": "внутренняя часть",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "#",
+   "冂",
+   "米",
+   "大"
+  ],
+  "mense": {
+   "az": "Köhnə forması 奧: dam (宀), onun altında bir şeyi saxlayan iki əl. Evin dərin, iç tərəfi. Yapon dilində evin içində olan \"xanım\" mənası da var.",
+   "en": "The old form is 奧: a roof (宀) with two hands keeping something beneath it. The deep, inner part of the house. In Japanese it also gives \"wife\", the lady of the inner house.",
+   "ru": "Старая форма 奧: крыша (宀) и под ней две руки, что-то хранящие. Глубина, внутренняя часть дома. В японском – ещё и «хозяйка, жена»."
+  },
+  "hekaye": {
+   "az": "Evin içi: 奥 (oku) – iç tərəf, 奥さん (okusan) – xanım (başqasının arvadı).",
+   "en": "The inner house: 奥 (oku), the back, inside; 奥さん (okusan), (someone's) wife.",
+   "ru": "Глубь дома: 奥 (оку) – глубина, 奥さん (окусан) – (чужая) жена."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "奥さん (おくさん) başqasının xanımı"
+  ]
+ },
+ {
+  "kanji": "妻",
+  "on": "サイ",
+  "kun": "つま",
+  "az": "arvad, həyat yoldaşı",
+  "en": "wife",
+  "ru": "жена",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "⺕",
+   "#",
+   "女"
+  ],
+  "mense": {
+   "az": "Qadının (女) saçını düzəldən əl (彐). Saçını yığmış ərli qadın: arvad, həyat yoldaşı.",
+   "en": "A hand (彐) arranging a woman's (女) hair. A married woman with her hair put up: wife.",
+   "ru": "Рука (彐), убирающая волосы женщины (女). Замужняя женщина с убранными волосами: жена."
+  },
+  "hekaye": {
+   "az": "Saçı yığılmış qadın: 妻 (tsuma) – arvad (öz).",
+   "en": "A woman with her hair put up: 妻 (tsuma), (my) wife.",
+   "ru": "Женщина с убранными волосами: 妻 (цума) – (моя) жена."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "妻/家内 (つま/かない) mənim xanımım"
+  ]
+ },
+ {
+  "kanji": "供",
+  "on": "キョウ",
+  "kun": "とも、そな・える",
+  "az": "yoldaş, təqdim etmək",
+  "en": "companion, offer",
+  "ru": "спутник, предлагать",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "共"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 共 (iki əllə təqdim etmək). Hörmətlə təqdim etmək, yanında olmaq. 子供 sözündə \"uşaq\" mənasında işlənir.",
+   "en": "The meaning part is person (亻) and the sound part is 共 (offering with two hands). To present respectfully, to accompany. In 子供 it forms the word \"child\".",
+   "ru": "Смысловая часть – человек (亻), звуковая – 共 (подносить двумя руками). Почтительно подносить, сопровождать. В 子供 образует слово «ребёнок»."
+  },
+  "hekaye": {
+   "az": "İki əllə təqdim: 子供 (kodomo) – uşaq, お供 (otomo) – müşayiət.",
+   "en": "Offered in two hands: 子供 (kodomo), child; お供 (otomo), accompanying.",
+   "ru": "Поднесённое двумя руками: 子供 (кодомо) – ребёнок, お供 (отомо) – сопровождение."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "子供 (こども) uşaq"
+  ]
+ },
+ {
+  "kanji": "然",
+  "on": "ゼン",
+  "kun": "–",
+  "az": "belə",
+  "en": "so, like that",
+  "ru": "так",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "月",
+   "犬",
+   "灬"
+  ],
+  "mense": {
+   "az": "Ət (月 = 肉), it (犬) və od (灬): od üstündə ət qızartmaq. Əvvəlcə \"yandırmaq\" idi; səsinə görə \"belə, elə\" sözü üçün götürüldü, yandırmaq mənası isə 燃-ə keçdi.",
+   "en": "Meat (月 = 肉), dog (犬) and fire (灬): roasting meat over a fire. It first meant \"to burn\"; it was borrowed for its sound for \"so, thus\", and \"to burn\" moved to 燃.",
+   "ru": "Мясо (月 = 肉), собака (犬) и огонь (灬): жарить мясо на огне. Сначала – «жечь»; по звучанию знак взяли для «так», а «жечь» перешло к 燃."
+  },
+  "hekaye": {
+   "az": "Elə, belə: 全然 (zenzen) – heç, tamamilə (inkarla); 自然 (shizen) – təbiət.",
+   "en": "So, thus: 全然 (zenzen), not at all; 自然 (shizen), nature.",
+   "ru": "Так, этак: 全然 (дзэндзэн) – совсем (не), 自然 (сидзэн) – природа."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "全然 (ぜんぜん) heç (inkarla)"
+  ]
+ },
+ {
+  "kanji": "念",
+  "on": "ネン",
+  "kun": "–",
+  "az": "fikir, arzu",
+  "en": "thought, wish",
+  "ru": "мысль, желание",
+  "ders": 9,
+  "kart": true,
+  "komponent": [
+   "人@top",
+   "一",
+   "#",
+   "心"
+  ],
+  "mense": {
+   "az": "Yuxarıda 今 (indi, səs verir), aşağıda ürək (心). İndi ürəkdə tutulan: fikir, arzu, yaddaş.",
+   "en": "今 (now, giving the sound) on top and the heart (心) below. What is held in the heart right now: thought, wish, memory.",
+   "ru": "Сверху 今 (сейчас, даёт звук), снизу сердце (心). То, что держишь в сердце сейчас: мысль, желание, память."
+  },
+  "hekaye": {
+   "az": "Ürəkdə qalan fikir: 残念 (zannen) – təəssüf, 記念 (kinen) – xatirə.",
+   "en": "A thought kept in the heart: 残念 (zannen), a pity; 記念 (kinen), commemoration.",
+   "ru": "Мысль в сердце: 残念 (дзаннэн) – жаль, 記念 (кинэн) – память, сувенир."
+  },
+  "ilk_soz_dersi": 9,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "残念です[が] (ざんねんです[が]) Təəssüf edirəm, amma..."
+  ]
+ }
+]

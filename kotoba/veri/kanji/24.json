@@ -1,0 +1,331 @@
+[
+ {
+  "kanji": "連",
+  "on": "レン",
+  "kun": "つ・れる",
+  "az": "aparmaq, bağlamaq",
+  "en": "take along, link",
+  "ru": "брать с собой, связь",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "車",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Yol (辶) və araba (車). Yolda bir-birinin ardınca gedən arabalar: birləşmək, aparmaq.",
+   "en": "Road (辶) and cart (車). Carts following one another on the road: to link, to take along.",
+   "ru": "Путь (辶) и повозка (車). Повозки, идущие друг за другом: соединять, брать с собой."
+  },
+  "hekaye": {
+   "az": "Ard-arda arabalar: 連れる (tsureru) – aparmaq, 連絡 (renraku) – əlaqə.",
+   "en": "Carts in a line: 連れる (tsureru), to take along; 連絡 (renraku), contact.",
+   "ru": "Повозки вереницей: 連れる (цурэру) – брать с собой, 連絡 (рэнраку) – связь."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "連れて行きます (つれていきます) (kimisə) özünlə aparmaq",
+   "連れて来ます (つれてきます) (kimisə) özünlə gətirmək"
+  ]
+ },
+ {
+  "kanji": "直",
+  "on": "チョク",
+  "kun": "なお・す",
+  "az": "düzəltmək, düz",
+  "en": "fix, straight",
+  "ru": "чинить, прямой",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "十",
+   "目",
+   "#"
+  ],
+  "mense": {
+   "az": "Göz (目) və onun üstündə düz xətt. Düz baxmaq: düz, birbaşa; sonra \"düzəltmək\".",
+   "en": "An eye (目) with a straight line above it. Looking straight: straight, direct; later \"to fix\".",
+   "ru": "Глаз (目) и прямая линия над ним. Смотреть прямо: прямой; позже «исправлять»."
+  },
+  "hekaye": {
+   "az": "Düz bax: 直す (naosu) – düzəltmək, 直接 (chokusetsu) – birbaşa.",
+   "en": "Look straight: 直す (naosu), to fix; 直接 (chokusetsu), directly.",
+   "ru": "Смотри прямо: 直す (наосу) – исправлять, 直接 (тёкусэцу) – напрямую."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "直します (なおします) təmir etmək, düzəltmək"
+  ]
+ },
+ {
+  "kanji": "紹",
+  "on": "ショウ",
+  "kun": "–",
+  "az": "tanıtmaq",
+  "en": "introduce",
+  "ru": "представлять",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "糸",
+   "刀",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi sap (糸), səs hissəsi 召 (çağırmaq). Sapları birləşdirmək kimi insanları tanış etmək.",
+   "en": "The meaning part is thread (糸) and the sound part is 召 (to call). Joining people like joining threads: to introduce.",
+   "ru": "Смысловая часть – нить (糸), звуковая – 召 (звать). Соединять людей, как нити: знакомить."
+  },
+  "hekaye": {
+   "az": "Sapları birləşdir: 紹介 (shoukai) – tanış etmək.",
+   "en": "Join the threads: 紹介 (shoukai), introduction.",
+   "ru": "Соедини нити: 紹介 (сёкай) – представление."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "紹介します (しょうかいします) tanıtmaq"
+  ]
+ },
+ {
+  "kanji": "介",
+  "on": "カイ",
+  "kun": "–",
+  "az": "vasitəçilik",
+  "en": "mediate",
+  "ru": "посредничать",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "介"
+  ],
+  "mense": {
+   "az": "İki zireh lövhəsi arasında insan (人). Arada durmaq: vasitəçi olmaq.",
+   "en": "A person (人) between two plates of armour. Standing in between: to mediate.",
+   "ru": "Человек (人) между двумя пластинами доспеха. Стоять посередине: быть посредником."
+  },
+  "hekaye": {
+   "az": "Arada duran: 紹介 (shoukai) – tanış etmək, 介護 (kaigo) – qulluq.",
+   "en": "Standing between: 紹介 (shoukai), introduction; 介護 (kaigo), care.",
+   "ru": "Стоящий между: 紹介 (сёкай) – представление, 介護 (кайго) – уход."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "紹介します (しょうかいします) tanıtmaq"
+  ]
+ },
+ {
+  "kanji": "案",
+  "on": "アン",
+  "kun": "–",
+  "az": "plan, fikir",
+  "en": "plan, idea",
+  "ru": "план, идея",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "宀",
+   "女",
+   "木"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağac (木), səs hissəsi 安. Əvvəlcə taxta masa idi. Masa arxasında düşünülən: plan, təklif.",
+   "en": "The meaning part is wood (木) and the sound part is 安. It was first a wooden table. What is thought out at a desk: a plan, a proposal.",
+   "ru": "Смысловая часть – дерево (木), звуковая – 安. Сначала – деревянный стол. То, что обдумывают за столом: план, предложение."
+  },
+  "hekaye": {
+   "az": "Masa arxasında plan: 案内 (annai) – bələdçilik, 案 (an) – təklif.",
+   "en": "A plan made at the desk: 案内 (annai), guidance; 案 (an), proposal.",
+   "ru": "План за столом: 案内 (аннай) – сопровождение, 案 (ан) – предложение."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "案内します (あんないします) yol göstərmək, bələdçilik etmək"
+  ]
+ },
+ {
+  "kanji": "説",
+  "on": "セツ",
+  "kun": "と・く",
+  "az": "izah etmək",
+  "en": "explain",
+  "ru": "объяснять",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "言",
+   "八",
+   "口",
+   "儿"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 兌. Sözlə izah etmək.",
+   "en": "The meaning part is words (言) and the sound part is 兌. To explain in words.",
+   "ru": "Смысловая часть – слово (言), звуковая – 兌. Объяснять словами."
+  },
+  "hekaye": {
+   "az": "Sözlə izah: 説明 (setsumei) – izah, 小説 (shousetsu) – roman.",
+   "en": "Explain in words: 説明 (setsumei), explanation; 小説 (shousetsu), novel.",
+   "ru": "Объясни словами: 説明 (сэцумэй) – объяснение, 小説 (сёсэцу) – роман."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "説明します (せつめいします) izah etmək"
+  ]
+ },
+ {
+  "kanji": "準",
+  "on": "ジュン",
+  "kun": "–",
+  "az": "meyar, hazırlamaq",
+  "en": "standard, prepare",
+  "ru": "норма, готовить",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "隹",
+   "十"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 隼. Su səthi kimi düz: ölçü, meyar.",
+   "en": "The meaning part is water (氵) and the sound part is 隼. Level as a water surface: a standard.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 隼. Ровный, как гладь воды: мерило, стандарт."
+  },
+  "hekaye": {
+   "az": "Su kimi düz: 準備 (junbi) – hazırlıq.",
+   "en": "Level as water: 準備 (junbi), preparation.",
+   "ru": "Ровно, как вода: 準備 (дзюмби) – подготовка."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "準備 (じゅんび) hazırlıq (～します: hazırlaşmaq)"
+  ]
+ },
+ {
+  "kanji": "備",
+  "on": "ビ",
+  "kun": "そな・える",
+  "az": "təchiz etmək",
+  "en": "equip, prepare",
+  "ru": "снаряжать",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "艹",
+   "厂",
+   "用"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), sağda oxla dolu ox qabı. Oxları qabaqcadan hazır saxlamaq: hazırlamaq.",
+   "en": "The meaning part is person (亻); on the right a quiver full of arrows. Keeping arrows ready in advance: to prepare.",
+   "ru": "Смысловая часть – человек (亻), справа колчан, полный стрел. Держать стрелы наготове: готовить."
+  },
+  "hekaye": {
+   "az": "Dolu ox qabı: 準備 (junbi) – hazırlıq, 備える (sonaeru) – hazırlaşmaq.",
+   "en": "A full quiver: 準備 (junbi), preparation; 備える (sonaeru), to prepare.",
+   "ru": "Полный колчан: 準備 (дзюмби) – подготовка, 備える (сонаэру) – готовиться."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "準備 (じゅんび) hazırlıq (～します: hazırlaşmaq)"
+  ]
+ },
+ {
+  "kanji": "越",
+  "on": "エツ",
+  "kun": "こ・す",
+  "az": "keçmək, köçmək",
+  "en": "cross over, move",
+  "ru": "переходить, переезжать",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "走",
+   "厂",
+   "戈"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qaçmaq (走), səs hissəsi 戉 (balta). Üstündən aşıb keçmək.",
+   "en": "The meaning part is to run (走) and the sound part is 戉 (an axe). To run over and beyond: to cross over.",
+   "ru": "Смысловая часть – бежать (走), звуковая – 戉 (топор). Перебежать через что-то: переходить."
+  },
+  "hekaye": {
+   "az": "Üstündən aş: 越える (koeru) – aşmaq, 引っ越す (hikkosu) – köçmək.",
+   "en": "Run over it: 越える (koeru), to cross; 引っ越す (hikkosu), to move house.",
+   "ru": "Перебеги: 越える (коэру) – перейти, 引っ越す (хиккосу) – переезжать."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "引っ越し (ひっこし) köç (～します: köçmək)"
+  ]
+ },
+ {
+  "kanji": "菓",
+  "on": "カ",
+  "kun": "–",
+  "az": "şirniyyat",
+  "en": "sweets",
+  "ru": "сладости",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "田",
+   "木"
+  ],
+  "mense": {
+   "az": "Yuxarıda ot (艹), aşağıda meyvə (果). Meyvə; sonra şirniyyat.",
+   "en": "Grass (艹) on top and fruit (果) below. Fruit; later sweets.",
+   "ru": "Сверху трава (艹), снизу плод (果). Фрукты; позже сладости."
+  },
+  "hekaye": {
+   "az": "Meyvədən şirniyyata: お菓子 (okashi) – şirniyyat, 和菓子 (wagashi) – yapon şirniyyatı.",
+   "en": "From fruit to sweets: お菓子 (okashi), sweets; 和菓子 (wagashi), Japanese sweets.",
+   "ru": "От фруктов к сладостям: お菓子 (окаси) – сладости, 和菓子 (вагаси) – японские сладости."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "[お]菓子 ([お]かし) şirniyyat"
+  ]
+ },
+ {
+  "kanji": "他",
+  "on": "タ",
+  "kun": "ほか",
+  "az": "başqa",
+  "en": "other",
+  "ru": "другой",
+  "ders": 24,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "也"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 也. Başqa insan: digər, başqa.",
+   "en": "The meaning part is person (亻) and the sound part is 也. Another person: other.",
+   "ru": "Смысловая часть – человек (亻), звуковая – 也. Другой человек: другой."
+  },
+  "hekaye": {
+   "az": "Başqa insan: 他 (hoka) – başqa, 他人 (tanin) – yad adam.",
+   "en": "Another person: 他 (hoka), other; 他人 (tanin), stranger.",
+   "ru": "Другой человек: 他 (хока) – другой, 他人 (танин) – чужой."
+  },
+  "ilk_soz_dersi": 24,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "他に (ほかに) ~dan başqa"
+  ]
+ }
+]

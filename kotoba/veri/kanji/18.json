@@ -1,0 +1,477 @@
+[
+ {
+  "kanji": "当",
+  "on": "トウ",
+  "kun": "あ・たる",
+  "az": "dəymək, bu, doğru",
+  "en": "hit, this, correct",
+  "ru": "попадать, этот, верный",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "⺌",
+   "⺕"
+  ],
+  "mense": {
+   "az": "Köhnə forması 當: məna hissəsi tarla (田), səs hissəsi 尚. Bir-birinə uyğun gələn tarlalar: uyğun, düz gəlmək, dəymək.",
+   "en": "The old form is 當: the meaning part field (田) and the sound part 尚. Fields that match each other: suitable, to hit, to fit.",
+   "ru": "Старая форма 當: смысловая часть – поле (田), звуковая – 尚. Поля, совпадающие друг с другом: подходящий, попадать."
+  },
+  "hekaye": {
+   "az": "Uyğun gələn: 本当 (hontou) – həqiqət, 当たる (ataru) – dəymək, tutmaq.",
+   "en": "What fits: 本当 (hontou), truth; 当たる (ataru), to hit.",
+   "ru": "То, что совпадает: 本当 (хонто) – правда, 当たる (атару) – попадать."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "本当ですか (ほんとうですか) Doğrudanmı?",
+   "本当 (ほんとう) gerçək, həqiqət",
+   "お弁当 (おべんとう) bento (qutuda hazır yemək)"
+  ]
+ },
+ {
+  "kanji": "味",
+  "on": "ミ",
+  "kun": "あじ",
+  "az": "dad",
+  "en": "taste",
+  "ru": "вкус",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "口",
+   "未"
+  ],
+  "mense": {
+   "az": "Məna hissəsi ağız (口), səs hissəsi 未. Ağızda hiss olunan: dad.",
+   "en": "The meaning part is mouth (口) and the sound part is 未. What the mouth senses: taste.",
+   "ru": "Смысловая часть – рот (口), звуковая – 未. То, что чувствует рот: вкус."
+  },
+  "hekaye": {
+   "az": "Ağızda: 味 (aji) – dad, 意味 (imi) – məna, 趣味 (shumi) – hobbi.",
+   "en": "In the mouth: 味 (aji), taste; 意味 (imi), meaning; 趣味 (shumi), hobby.",
+   "ru": "Во рту: 味 (адзи) – вкус, 意味 (ими) – смысл, 趣味 (сюми) – хобби."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "趣味 (しゅみ) hobbi, maraq",
+   "意味 (いみ) məna"
+  ]
+ },
+ {
+  "kanji": "故",
+  "on": "コ",
+  "kun": "ゆえ",
+  "az": "səbəb, mərhum",
+  "en": "reason, late",
+  "ru": "причина, покойный",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "十",
+   "口",
+   "攵"
+  ],
+  "mense": {
+   "az": "Məna hissəsi vurmaq (攵), səs hissəsi 古 (köhnə). Səbəb; keçmiş, əvvəlki.",
+   "en": "The meaning part is striking (攵) and the sound part is 古 (old). Cause; former, past.",
+   "ru": "Смысловая часть – удар (攵), звуковая – 古 (старый). Причина; прежний, бывший."
+  },
+  "hekaye": {
+   "az": "Köhnə və səbəb: 故郷 (furusato) – doğma yurd, 事故 (jiko) – qəza.",
+   "en": "Old and cause: 故郷 (furusato), hometown; 事故 (jiko), accident.",
+   "ru": "Старое и причина: 故郷 (фурусато) – родина, 事故 (дзико) – авария."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "故郷 (ふるさと) Furusato (mahnı adı, “Vətən”)",
+   "故障 (こしょう) nasazlıq, xarab olma"
+  ]
+ },
+ {
+  "kanji": "弾",
+  "on": "ダン",
+  "kun": "ひ・く",
+  "az": "çalmaq, güllə",
+  "en": "play (instrument), bullet",
+  "ru": "играть (на инстр.), пуля",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "弓",
+   "⺍",
+   "甲"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yay (弓), səs hissəsi 単. Daş atan yay: güllə; kirişi dartıb buraxmaq: çalmaq (simli alət).",
+   "en": "The meaning part is bow (弓) and the sound part is 単. A bow that shoots pellets: a bullet; pulling and releasing a string: to play (a string instrument).",
+   "ru": "Смысловая часть – лук (弓), звуковая – 単. Лук, стреляющий камешками: пуля; натянуть и отпустить струну: играть (на струнном)."
+  },
+  "hekaye": {
+   "az": "Kirişi dart, burax: 弾く (hiku) – çalmaq (piano, gitara).",
+   "en": "Pull and release the string: 弾く (hiku), to play (piano, guitar).",
+   "ru": "Натяни и отпусти струну: 弾く (хику) – играть (на пианино, гитаре)."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "弾きます (ひきます) (musiqi alətində) çalmaq"
+  ]
+ },
+ {
+  "kanji": "集",
+  "on": "シュウ",
+  "kun": "あつ・める",
+  "az": "toplamaq",
+  "en": "gather",
+  "ru": "собирать",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "隹",
+   "木"
+  ],
+  "mense": {
+   "az": "Ağacın (木) üstünə qonmuş quş (隹). Əvvəl üç quş çəkilirdi: quşların ağacda toplanması.",
+   "en": "A bird (隹) perched on a tree (木). Early forms showed three birds: birds gathering on a tree.",
+   "ru": "Птица (隹) на дереве (木). В ранних формах – три птицы: птицы собираются на дереве."
+  },
+  "hekaye": {
+   "az": "Ağacda quşlar: 集まる (atsumaru) – toplanmaq, 集める (atsumeru) – toplamaq.",
+   "en": "Birds on a tree: 集まる (atsumaru), to gather; 集める (atsumeru), to collect.",
+   "ru": "Птицы на дереве: 集まる (ацумару) – собираться, 集める (ацумэру) – собирать."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "集めます (あつめます) yığmaq, toplamaq, cəmləmək"
+  ]
+ },
+ {
+  "kanji": "捨",
+  "on": "シャ",
+  "kun": "す・てる",
+  "az": "atmaq",
+  "en": "throw away",
+  "ru": "выбрасывать",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "扌",
+   "人@top",
+   "士",
+   "口"
+  ],
+  "mense": {
+   "az": "Məna hissəsi əl (扌), səs hissəsi 舎 (buraxmaq). Əldən buraxmaq: atmaq.",
+   "en": "The meaning part is hand (扌) and the sound part is 舎 (to let go). Letting go from the hand: to throw away.",
+   "ru": "Смысловая часть – рука (扌), звуковая – 舎 (отпускать). Выпустить из рук: выбрасывать."
+  },
+  "hekaye": {
+   "az": "Əldən burax: 捨てる (suteru) – atmaq, ゴミ捨て (gomisute) – zibil atma.",
+   "en": "Let go from the hand: 捨てる (suteru), to throw away; ゴミ捨て (gomisute), taking out the rubbish.",
+   "ru": "Выпусти из рук: 捨てる (сутэру) – выбрасывать, ゴミ捨て (гомисутэ) – вынос мусора."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "捨てます (すてます) atmaq"
+  ]
+ },
+ {
+  "kanji": "運",
+  "on": "ウン",
+  "kun": "はこ・ぶ",
+  "az": "daşımaq, bəxt",
+  "en": "carry, luck",
+  "ru": "нести, удача",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "冖",
+   "車",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), səs hissəsi 軍 (ordu, araba). Arabalarla yük daşımaq: daşımaq, hərəkət; sonra \"tale, bəxt\".",
+   "en": "The meaning part is road (辶) and the sound part is 軍 (army, carts). Carrying loads with carts: to transport, to move; later \"fortune, luck\".",
+   "ru": "Смысловая часть – путь (辶), звуковая – 軍 (войско, повозки). Возить грузы на повозках: перевозить; позже «судьба, удача»."
+  },
+  "hekaye": {
+   "az": "Yolda araba: 運ぶ (hakobu) – daşımaq, 運転 (unten) – sürmək, 運 (un) – bəxt.",
+   "en": "Carts on the road: 運ぶ (hakobu), to carry; 運転 (unten), driving; 運 (un), luck.",
+   "ru": "Повозки в пути: 運ぶ (хакобу) – нести, 運転 (унтэн) – вождение, 運 (ун) – удача."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "運転します (うんてんします) (maşın) sürmək, idarə etmək"
+  ]
+ },
+ {
+  "kanji": "予",
+  "on": "ヨ",
+  "kun": "–",
+  "az": "əvvəlcədən",
+  "en": "beforehand",
+  "ru": "заранее",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "予"
+  ],
+  "mense": {
+   "az": "Toxucu məkiyinin şəkli kimi izah olunur: sapı qabaqcadan ötürən alət. \"Əvvəlcədən\" mənasında işlənir.",
+   "en": "It is explained as a weaver's shuttle: the tool that passes the thread ahead. It means \"in advance\".",
+   "ru": "Толкуют как ткацкий челнок: орудие, проводящее нить вперёд. Значит «заранее»."
+  },
+  "hekaye": {
+   "az": "Qabaqcadan: 予約 (yoyaku) – bron, 予定 (yotei) – plan, 天気予報 (tenki yohou) – hava proqnozu.",
+   "en": "In advance: 予約 (yoyaku), booking; 予定 (yotei), plan; 天気予報 (tenki yohou), forecast.",
+   "ru": "Заранее: 予約 (ёяку) – бронь, 予定 (ётэй) – план, 天気予報 (тэнки ёхо) – прогноз погоды."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "予約します (よやくします) rezerv etmək, bron etmək"
+  ]
+ },
+ {
+  "kanji": "現",
+  "on": "ゲン",
+  "kun": "あらわ・れる",
+  "az": "indiki, görünmək",
+  "en": "present, appear",
+  "ru": "настоящий, появляться",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "王",
+   "見"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yəşəm (王 = 玉), səs hissəsi 見 (görmək). Yəşəmin parıltısının görünməsi: görünmək, indiki.",
+   "en": "The meaning part is jade (王 = 玉) and the sound part is 見 (to see). The gleam of jade becoming visible: to appear, present.",
+   "ru": "Смысловая часть – нефрит (王 = 玉), звуковая – 見 (видеть). Проявляется блеск нефрита: появляться, нынешний."
+  },
+  "hekaye": {
+   "az": "Görünən parıltı: 現金 (genkin) – nağd pul, 現在 (genzai) – indi.",
+   "en": "A gleam that appears: 現金 (genkin), cash; 現在 (genzai), at present.",
+   "ru": "Проявившийся блеск: 現金 (гэнкин) – наличные, 現在 (гэндзай) – сейчас."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "現金 (げんきん) nəğd pul"
+  ]
+ },
+ {
+  "kanji": "趣",
+  "on": "シュ",
+  "kun": "おもむき",
+  "az": "zövq, maraq",
+  "en": "taste, interest",
+  "ru": "вкус, интерес",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "走",
+   "耳",
+   "又"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qaçmaq (走), səs hissəsi 取. Bir şeyə tərəf can atmaq: maraq, zövq.",
+   "en": "The meaning part is to run (走) and the sound part is 取. Hurrying towards something: interest, taste.",
+   "ru": "Смысловая часть – бежать (走), звуковая – 取. Стремиться к чему-то: интерес, вкус."
+  },
+  "hekaye": {
+   "az": "Ürəyin qaçdığı yer: 趣味 (shumi) – hobbi.",
+   "en": "Where the heart runs: 趣味 (shumi), hobby.",
+   "ru": "Куда бежит сердце: 趣味 (сюми) – хобби."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "趣味 (しゅみ) hobbi, maraq"
+  ]
+ },
+ {
+  "kanji": "記",
+  "on": "キ",
+  "kun": "しる・す",
+  "az": "qeyd etmək",
+  "en": "record",
+  "ru": "записывать",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "言",
+   "己"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 己. Sözü yazıb qeyd etmək.",
+   "en": "The meaning part is words (言) and the sound part is 己. Writing words down: to record.",
+   "ru": "Смысловая часть – слово (言), звуковая – 己. Записывать слова: отмечать."
+  },
+  "hekaye": {
+   "az": "Sözü yaz: 日記 (nikki) – gündəlik, 記念 (kinen) – xatirə.",
+   "en": "Write the words down: 日記 (nikki), diary; 記念 (kinen), commemoration.",
+   "ru": "Запиши слова: 日記 (никки) – дневник, 記念 (кинэн) – память."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "日記 (にっき) gündəlik"
+  ]
+ },
+ {
+  "kanji": "祈",
+  "on": "キ",
+  "kun": "いの・る",
+  "az": "dua etmək",
+  "en": "pray",
+  "ru": "молиться",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "礻",
+   "斤"
+  ],
+  "mense": {
+   "az": "Məna hissəsi 示 (qurbangah, ilahi), səs hissəsi 斤. Dua etmək, arzulamaq.",
+   "en": "The meaning part is 示 (altar, the sacred) and the sound part is 斤. To pray, to wish.",
+   "ru": "Смысловая часть – 示 (алтарь, священное), звуковая – 斤. Молиться, желать."
+  },
+  "hekaye": {
+   "az": "Ürəkdən arzula: 祈る (inoru) – dua etmək, arzulamaq.",
+   "en": "Wish from the heart: 祈る (inoru), to pray, to wish.",
+   "ru": "Пожелай от сердца: 祈る (инору) – молиться, желать."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "[お]祈り ([お]いのり) dua"
+  ]
+ },
+ {
+  "kanji": "課",
+  "on": "カ",
+  "kun": "–",
+  "az": "bölmə, dərs",
+  "en": "section, lesson",
+  "ru": "отдел, урок",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "言",
+   "日",
+   "木"
+  ],
+  "mense": {
+   "az": "Məna hissəsi söz (言), səs hissəsi 果 (nəticə). Sözlə tapşırıq vermək, nəticəni yoxlamaq: tapşırıq, dərs, şöbə.",
+   "en": "The meaning part is words (言) and the sound part is 果 (result). Setting tasks in words and checking the results: task, lesson, section.",
+   "ru": "Смысловая часть – слово (言), звуковая – 果 (результат). Задавать задание и проверять итог: задание, урок, отдел."
+  },
+  "hekaye": {
+   "az": "Tapşırıq ver: 第1課 (dai ikka) – 1-ci dərs, 課長 (kachou) – şöbə müdiri.",
+   "en": "Set a task: 第1課 (dai ikka), lesson 1; 課長 (kachou), section chief.",
+   "ru": "Задай задание: 第1課 (дай икка) – урок 1, 課長 (катё) – начальник отдела."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "課長 (かちょう) bölmə müdiri"
+  ]
+ },
+ {
+  "kanji": "馬",
+  "on": "バ",
+  "kun": "うま",
+  "az": "at",
+  "en": "horse",
+  "ru": "лошадь",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "馬"
+  ],
+  "mense": {
+   "az": "Atın şəklidir: yuxarıda baş və yal, aşağıdakı dörd nöqtə ayaqlar və quyruq.",
+   "en": "A picture of a horse: head and mane on top, and the four dots at the bottom are legs and tail.",
+   "ru": "Рисунок лошади: сверху голова и грива, четыре точки внизу – ноги и хвост."
+  },
+  "hekaye": {
+   "az": "Yallı at: 馬 (uma) – at, 競馬 (keiba) – at yarışı.",
+   "en": "A maned horse: 馬 (uma), horse; 競馬 (keiba), horse racing.",
+   "ru": "Лошадь с гривой: 馬 (ума) – лошадь, 競馬 (кэйба) – скачки."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "馬 (うま) at"
+  ]
+ },
+ {
+  "kanji": "郷",
+  "on": "キョウ、ゴウ",
+  "kun": "さと",
+  "az": "vətən, doğma yer",
+  "en": "hometown",
+  "ru": "родина",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "乡",
+   "艮",
+   "⻏"
+  ],
+  "mense": {
+   "az": "Qədim forması yemək qabının iki tərəfində üz-üzə oturan iki insandır. Birlikdə yemək yeyən kənd camaatı: kənd, yurd.",
+   "en": "The ancient form shows two people sitting face to face on either side of a food bowl. Villagers eating together: village, home.",
+   "ru": "Древняя форма – двое, сидящие лицом к лицу по обе стороны чаши с едой. Односельчане за общей едой: деревня, родные места."
+  },
+  "hekaye": {
+   "az": "Birgə süfrə: 故郷 (furusato) – doğma yurd, 郷土 (kyoudo) – yerli, doğma diyar.",
+   "en": "A shared table: 故郷 (furusato), hometown; 郷土 (kyoudo), local, native region.",
+   "ru": "Общий стол: 故郷 (фурусато) – родина, 郷土 (кёдо) – родной край."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "故郷 (ふるさと) Furusato (mahnı adı, “Vətən”)"
+  ]
+ },
+ {
+  "kanji": "原",
+  "on": "ゲン",
+  "kun": "はら",
+  "az": "çöl, mənbə",
+  "en": "field, origin",
+  "ru": "равнина, источник",
+  "ders": 18,
+  "kart": true,
+  "komponent": [
+   "厂",
+   "白",
+   "小"
+  ],
+  "mense": {
+   "az": "Qayanın (厂) dibindən çıxan bulaq (泉). Suyun başlandığı yer: mənbə; sonra düzənlik.",
+   "en": "A spring (泉) coming out at the foot of a cliff (厂). Where water begins: source; later a plain.",
+   "ru": "Источник (泉) у подножия утёса (厂). Где начинается вода: исток; позже равнина."
+  },
+  "hekaye": {
+   "az": "Suyun mənbəyi: 原因 (gen'in) – səbəb, 野原 (nohara) – çöl.",
+   "en": "The source of water: 原因 (gen'in), cause; 野原 (nohara), field.",
+   "ru": "Исток воды: 原因 (гэнъин) – причина, 野原 (нохара) – поле."
+  },
+  "ilk_soz_dersi": 18,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "秋葉原 (あきはばら) Tokioda rayon (elektrik malları mərkəzi)"
+  ]
+ }
+]

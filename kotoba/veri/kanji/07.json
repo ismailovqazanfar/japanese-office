@@ -1,0 +1,366 @@
+[
+ {
+  "kanji": "切",
+  "on": "セツ",
+  "kun": "き・る",
+  "az": "kəsmək",
+  "en": "cut",
+  "ru": "резать",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "七",
+   "刀"
+  ],
+  "mense": {
+   "az": "Solda 七 (əvvəlcə çarpaz kəsik işarəsi idi, səs də verir), sağda bıçaq (刀). Bıçaqla kəsmək.",
+   "en": "On the left 七 (originally a cross-shaped cut mark, also giving the sound), on the right a knife (刀). To cut with a knife.",
+   "ru": "Слева 七 (изначально знак крестообразного надреза, также даёт звук), справа нож (刀). Резать ножом."
+  },
+  "hekaye": {
+   "az": "Bıçaqla kəs: 切る (kiru) – kəsmək, 切手 (kitte) – marka, 大切 (taisetsu) – dəyərli.",
+   "en": "Cut with a knife: 切る (kiru), to cut; 切手 (kitte), stamp; 大切 (taisetsu), precious.",
+   "ru": "Режь ножом: 切る (киру) – резать, 切手 (киттэ) – марка, 大切 (тайсэцу) – ценный."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 4,
+  "nümunə_sozler": [
+   "切ります (きります) kəsmək",
+   "切符 (きっぷ) bilet",
+   "切手 (きって) marka",
+   "大切[な] (たいせつ[な]) önəmli, vacib"
+  ]
+ },
+ {
+  "kanji": "送",
+  "on": "ソウ",
+  "kun": "おく・る",
+  "az": "göndərmək",
+  "en": "send",
+  "ru": "отправлять",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "大",
+   "#",
+   "⻌"
+  ],
+  "mense": {
+   "az": "Məna hissəsi yol (辶), sağda iki əllə yuxarı qaldırılan bir şey. Hədiyyəni əldə tutub yola salmaq: göndərmək, ötürmək.",
+   "en": "The meaning part is road (辶); on the right something held up in two hands. Sending something off on the road, held in your hands: to send, to see off.",
+   "ru": "Смысловая часть – путь (辶), справа что-то, поднятое двумя руками. Отправить в путь то, что держишь в руках: посылать, провожать."
+  },
+  "hekaye": {
+   "az": "Yola sal: 送る (okuru) – göndərmək, ötürmək. 放送 (housou) – yayım.",
+   "en": "Send it on its way: 送る (okuru), to send, to see off. 放送 (housou), broadcast.",
+   "ru": "Отправь в путь: 送る (окуру) – посылать, провожать. 放送 (хосо) – вещание."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "送ります (おくります) göndərmək, ötürmək",
+   "放送 (ほうそう) yayım",
+   "送ります[人を～] (おくります[ひとを～]) yola salmaq [kimisə yola salmaq]"
+  ]
+ },
+ {
+  "kanji": "母",
+  "on": "ボ",
+  "kun": "はは",
+  "az": "ana",
+  "en": "mother",
+  "ru": "мать",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "母"
+  ],
+  "mense": {
+   "az": "Qadının (女) şəklinə iki nöqtə əlavə olunub: sinə. Uşağı əmizdirən qadın: ana.",
+   "en": "Two dots added to a woman (女): the breasts. A woman nursing a child: mother.",
+   "ru": "К женщине (女) добавлены две точки: грудь. Женщина, кормящая ребёнка: мать."
+  },
+  "hekaye": {
+   "az": "İki nöqtəli qadın: 母 (haha) – ana, お母さん (okaasan) – ana (başqasının).",
+   "en": "A woman with two dots: 母 (haha), mother; お母さん (okaasan), mother (polite).",
+   "ru": "Женщина с двумя точками: 母 (хаха) – мать, お母さん (окасан) – мама."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 3,
+  "nümunə_sozler": [
+   "母 (はは) ana, anam (öz anası)",
+   "お母さん (おかあさん) ana, anası (başqasının anası)",
+   "母の日 (ははのひ) Analar günü"
+  ]
+ },
+ {
+  "kanji": "貸",
+  "on": "タイ",
+  "kun": "か・す",
+  "az": "borc vermək",
+  "en": "lend",
+  "ru": "одалживать",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "弋",
+   "貝"
+  ],
+  "mense": {
+   "az": "Məna hissəsi pul (貝), səs hissəsi 代 (əvəz). Pulu müvəqqəti başqasına vermək: borc vermək.",
+   "en": "The meaning part is money (貝) and the sound part is 代 (substitute). Giving money to someone for a while: to lend.",
+   "ru": "Смысловая часть – деньги (貝), звуковая – 代 (замена). Временно отдать деньги другому: давать взаймы."
+  },
+  "hekaye": {
+   "az": "Pulu müvəqqəti ver: 貸す (kasu) – borc vermək, 貸し出し (kashidashi) – kitab verilməsi.",
+   "en": "Give money for a time: 貸す (kasu), to lend; 貸し出し (kashidashi), lending out.",
+   "ru": "Дай деньги на время: 貸す (касу) – одалживать, 貸し出し (касидаси) – выдача."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "貸します (かします) borc vermək",
+   "貸してください。 (かしてください。) Borc verin, zəhmət olmasa."
+  ]
+ },
+ {
+  "kanji": "習",
+  "on": "シュウ",
+  "kun": "なら・う",
+  "az": "öyrənmək",
+  "en": "learn",
+  "ru": "учиться",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "羽@top",
+   "白"
+  ],
+  "mense": {
+   "az": "Yuxarıda qanadlar (羽), aşağıda 白 (əvvəlcə 日 və ya 自). Balaca quşun uçmağı öyrənmək üçün qanadlarını təkrar-təkrar çırpması: öyrənmək, məşq etmək.",
+   "en": "Wings (羽) on top and 白 below (originally 日 or 自). A young bird flapping its wings again and again to learn to fly: to learn, to practise.",
+   "ru": "Сверху крылья (羽), снизу 白 (изначально 日 или 自). Птенец снова и снова машет крыльями, учась летать: учиться, упражняться."
+  },
+  "hekaye": {
+   "az": "Qanad çırpa-çırpa öyrən: 習う (narau) – öyrənmək, 練習 (renshuu) – məşq.",
+   "en": "Learn by flapping again and again: 習う (narau), to learn; 練習 (renshuu), practice.",
+   "ru": "Учись, взмахивая снова и снова: 習う (нарау) – учиться, 練習 (рэнсю) – тренировка."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "習います (ならいます) öyrənmək",
+   "練習 (れんしゅう) məşq, çalışma ([～をします])"
+  ]
+ },
+ {
+  "kanji": "消",
+  "on": "ショウ",
+  "kun": "け・す",
+  "az": "silmək, söndürmək",
+  "en": "erase, turn off",
+  "ru": "стирать, выключать",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "氵",
+   "⺌",
+   "月"
+  ],
+  "mense": {
+   "az": "Məna hissəsi su (氵), səs hissəsi 肖 (kiçik). Su odu kiçildib söndürür: söndürmək, yox olmaq.",
+   "en": "The meaning part is water (氵) and the sound part is 肖 (small). Water makes the fire smaller and puts it out: to extinguish, to vanish.",
+   "ru": "Смысловая часть – вода (氵), звуковая – 肖 (маленький). Вода уменьшает огонь и гасит его: гасить, исчезать."
+  },
+  "hekaye": {
+   "az": "Su odu kiçildir: 消す (kesu) – söndürmək, silmək; 消える (kieru) – sönmək, yox olmaq.",
+   "en": "Water shrinks the fire: 消す (kesu), to put out, to erase; 消える (kieru), to go out, to vanish.",
+   "ru": "Вода уменьшает огонь: 消す (кэсу) – гасить, стирать; 消える (киэру) – гаснуть, исчезать."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "消しゴム (けしゴム) pozan",
+   "消します (けします) söndürmək (işıq, radio, tv)"
+  ]
+ },
+ {
+  "kanji": "父",
+  "on": "フ",
+  "kun": "ちち",
+  "az": "ata",
+  "en": "father",
+  "ru": "отец",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "父"
+  ],
+  "mense": {
+   "az": "Əlində daş balta və ya çubuq tutan əl. Ailədə ağır işi görən, çubuqla yol göstərən: ata.",
+   "en": "A hand holding a stone axe or a stick. The one in the family who does the heavy work and leads with a rod: father.",
+   "ru": "Рука, держащая каменный топор или палку. Тот, кто в семье делает тяжёлую работу и ведёт с палкой: отец."
+  },
+  "hekaye": {
+   "az": "Balta tutan əl: 父 (chichi) – ata, お父さん (otousan) – ata (başqasının), 祖父 (sofu) – baba.",
+   "en": "A hand holding an axe: 父 (chichi), father; お父さん (otousan), father (polite); 祖父 (sofu), grandfather.",
+   "ru": "Рука с топором: 父 (тити) – отец, お父さん (отосан) – папа, 祖父 (софу) – дедушка."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "父 (ちち) ata, atam (öz atası)",
+   "お父さん (おとうさん) ata, atası (başqasının atası)"
+  ]
+ },
+ {
+  "kanji": "借",
+  "on": "シャク",
+  "kun": "か・りる",
+  "az": "borc almaq",
+  "en": "borrow",
+  "ru": "брать взаймы",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "昔"
+  ],
+  "mense": {
+   "az": "Məna hissəsi insan (亻), səs hissəsi 昔. Başqasından bir şeyi müvəqqəti almaq: borc almaq.",
+   "en": "The meaning part is person (亻) and the sound part is 昔. Taking something from another person for a while: to borrow.",
+   "ru": "Смысловая часть – человек (亻), звуковая – 昔. Временно взять у другого: брать взаймы."
+  },
+  "hekaye": {
+   "az": "İnsandan müvəqqəti al: 借りる (kariru) – borc almaq, 借金 (shakkin) – borc.",
+   "en": "Take from a person for a while: 借りる (kariru), to borrow; 借金 (shakkin), debt.",
+   "ru": "Возьми у человека на время: 借りる (кариру) – брать взаймы, 借金 (сяккин) – долг."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "借ります (かります) borc almaq"
+  ]
+ },
+ {
+  "kanji": "賀",
+  "on": "ガ",
+  "kun": "–",
+  "az": "təbrik etmək",
+  "en": "congratulate",
+  "ru": "поздравлять",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "力",
+   "口",
+   "貝"
+  ],
+  "mense": {
+   "az": "Məna hissəsi pul, dəyərli əşya (貝), səs hissəsi 加 (əlavə etmək). Hədiyyə əlavə edib sevinci bölüşmək: təbrik etmək.",
+   "en": "The meaning part is money, valuables (貝) and the sound part is 加 (to add). Adding gifts to share someone's joy: to congratulate.",
+   "ru": "Смысловая часть – деньги, ценности (貝), звуковая – 加 (добавлять). Добавить подарок, разделяя радость: поздравлять."
+  },
+  "hekaye": {
+   "az": "Hədiyyə ilə təbrik: 年賀状 (nengajou) – yeni il açıqcası, 祝賀 (shukuga) – bayram.",
+   "en": "Congratulate with a gift: 年賀状 (nengajou), New Year card; 祝賀 (shukuga), celebration.",
+   "ru": "Поздравь подарком: 年賀状 (нэнгадзё) – новогодняя открытка, 祝賀 (сюкуга) – празднование."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "年賀状 (ねんがじょう) Yeni il təbrik kartı"
+  ]
+ },
+ {
+  "kanji": "状",
+  "on": "ジョウ",
+  "kun": "–",
+  "az": "məktub, vəziyyət",
+  "en": "letter, condition",
+  "ru": "письмо, состояние",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "⺦",
+   "犬"
+  ],
+  "mense": {
+   "az": "Solda səs hissəsi 爿, sağda it (犬). Əvvəlcə itin görkəmi, şəkli idi: forma, vəziyyət. Sonra rəsmi məktub mənasını da aldı.",
+   "en": "The sound part 爿 on the left and a dog (犬) on the right. It first meant a dog's appearance: form, condition. Later also a formal letter.",
+   "ru": "Слева звуковая часть 爿, справа собака (犬). Сначала – облик собаки: вид, состояние. Позже ещё и официальное письмо."
+  },
+  "hekaye": {
+   "az": "Görkəm, vəziyyət: 状態 (joutai) – vəziyyət, 年賀状 (nengajou) – yeni il açıqcası.",
+   "en": "Look, state: 状態 (joutai), condition; 年賀状 (nengajou), New Year card.",
+   "ru": "Облик, состояние: 状態 (дзётай) – состояние, 年賀状 (нэнгадзё) – новогодняя открытка."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "年賀状 (ねんがじょう) Yeni il təbrik kartı"
+  ]
+ },
+ {
+  "kanji": "荷",
+  "on": "カ",
+  "kun": "に",
+  "az": "yük, baqaj",
+  "en": "load, luggage",
+  "ru": "груз, багаж",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "亻",
+   "丁",
+   "口"
+  ],
+  "mense": {
+   "az": "Yuxarıda ot (艹), aşağıda 何. 何 əvvəlcə çiynində yük daşıyan insan idi. \"Yük\" mənası bu kanjiyə keçdi: yük, baqaj.",
+   "en": "Grass (艹) on top and 何 below. 何 was first a person carrying a load on the shoulder; the meaning \"load\" moved to this kanji: load, luggage.",
+   "ru": "Сверху трава (艹), снизу 何. 何 изначально – человек с грузом на плече; значение «груз» перешло к этому кандзи: груз, багаж."
+  },
+  "hekaye": {
+   "az": "Çiyindəki yük: 荷物 (nimotsu) – baqaj, bağlama.",
+   "en": "The load on the shoulder: 荷物 (nimotsu), luggage, parcel.",
+   "ru": "Груз на плече: 荷物 (нимоцу) – багаж, посылка."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "荷物 (にもつ) yük, baqaj"
+  ]
+ },
+ {
+  "kanji": "符",
+  "on": "フ",
+  "kun": "–",
+  "az": "nişan, bilet",
+  "en": "token, ticket",
+  "ru": "знак, билет",
+  "ders": 7,
+  "kart": true,
+  "komponent": [
+   "竹",
+   "亻",
+   "寸"
+  ],
+  "mense": {
+   "az": "Yuxarıda bambuk (⺮), aşağıda 付 (qoşmaq, səs verir). Qədimdə iki yerə bölünən bambuk lövhəcik idi: iki hissə üst-üstə düşəndə sahibi təsdiqlənirdi. Nişan, bilet.",
+   "en": "Bamboo (⺮) on top and 付 (to attach, giving the sound) below. In old times it was a bamboo tally split in two: when the halves matched, the holder was confirmed. A token, a ticket.",
+   "ru": "Сверху бамбук (⺮), снизу 付 (прикреплять, даёт звук). В древности бамбуковая бирка, расколотая надвое: если половинки совпадали, владелец подтверждался. Знак, билет."
+  },
+  "hekaye": {
+   "az": "İki yarısı uyğun gələn lövhə: 切符 (kippu) – bilet, 符号 (fugou) – işarə.",
+   "en": "A tally whose halves match: 切符 (kippu), ticket; 符号 (fugou), sign, code.",
+   "ru": "Бирка из двух половинок: 切符 (киппу) – билет, 符号 (фуго) – знак."
+  },
+  "ilk_soz_dersi": 7,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "切符 (きっぷ) bilet"
+  ]
+ }
+]

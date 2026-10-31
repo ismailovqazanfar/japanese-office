@@ -1,0 +1,443 @@
+[
+ {
+  "kanji": "交",
+  "on": "コウ",
+  "kun": "まじ・わる",
+  "az": "kəsişmək, mübadilə",
+  "en": "cross, exchange",
+  "ru": "пересекаться, обмен",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "交"
+  ],
+  "mense": {
+   "az": "Ayaqlarını çarpazlayıb duran insan. Çarpazlaşmaq, qarışmaq: kəsişmək, ünsiyyət.",
+   "en": "A person standing with legs crossed. To cross, to mix: to intersect, to associate.",
+   "ru": "Человек, стоящий со скрещёнными ногами. Скрещиваться, смешиваться: пересекаться, общаться."
+  },
+  "hekaye": {
+   "az": "Çarpaz ayaqlar: 交通 (koutsuu) – nəqliyyat, 交番 (kouban) – polis budkası, 交換 (koukan) – mübadilə.",
+   "en": "Crossed legs: 交通 (koutsuu), traffic; 交番 (kouban), police box; 交換 (koukan), exchange.",
+   "ru": "Скрещённые ноги: 交通 (коцу) – транспорт, 交番 (кобан) – полицейская будка, 交換 (кокан) – обмен."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "交通 (こうつう) yol hərəkəti",
+   "交差点 (こうさてん) yol ayrıcılığı, yol kəsişməsi"
+  ]
+ },
+ {
+  "kanji": "合",
+  "on": "ゴウ",
+  "kun": "あ・う",
+  "az": "uyğun gəlmək",
+  "en": "fit, match",
+  "ru": "подходить",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "合"
+  ],
+  "mense": {
+   "az": "Qab (口) və onun üstünə oturan qapaq. Uyğun gəlmək, birləşmək.",
+   "en": "A container (口) with a lid fitting on top. To fit, to join.",
+   "ru": "Сосуд (口) и садящаяся на него крышка. Подходить, соединяться."
+  },
+  "hekaye": {
+   "az": "Qapaq qaba uyğun: 合う (au) – uyğun gəlmək, 試合 (shiai) – oyun, matç.",
+   "en": "A lid that fits: 合う (au), to fit; 試合 (shiai), match.",
+   "ru": "Крышка подходит: 合う (ау) – подходить, 試合 (сиай) – матч."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "試合 (しあい) yarış",
+   "都合 (つごう) vaxt rahatlığı (つごうが いい: vaxtı uyğun olmaq)"
+  ]
+ },
+ {
+  "kanji": "意",
+  "on": "イ",
+  "kun": "–",
+  "az": "məna, niyyət",
+  "en": "meaning, mind",
+  "ru": "смысл, мысль",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "立",
+   "日",
+   "心"
+  ],
+  "mense": {
+   "az": "Yuxarıda səs (音), aşağıda ürək (心). Ürəyin səsi: fikir, niyyət, məna.",
+   "en": "Sound (音) on top and the heart (心) below. The voice of the heart: idea, intention, meaning.",
+   "ru": "Сверху звук (音), снизу сердце (心). Голос сердца: мысль, намерение, смысл."
+  },
+  "hekaye": {
+   "az": "Ürəyin səsi: 意味 (imi) – məna, 意見 (iken) – fikir, 注意 (chuui) – diqqət.",
+   "en": "The heart's voice: 意味 (imi), meaning; 意見 (iken), opinion; 注意 (chuui), attention.",
+   "ru": "Голос сердца: 意味 (ими) – смысл, 意見 (икэн) – мнение, 注意 (тюи) – внимание."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 2,
+  "nümunə_sozler": [
+   "意見 (いけん) fikir",
+   "意味 (いみ) məna"
+  ]
+ },
+ {
+  "kanji": "勝",
+  "on": "ショウ",
+  "kun": "か・つ",
+  "az": "qalib gəlmək",
+  "en": "win",
+  "ru": "побеждать",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "月",
+   "#",
+   "人",
+   "力",
+   "#"
+  ],
+  "mense": {
+   "az": "Məna hissəsi güc (力), səs hissəsi 朕. Gücü çatmaq, üstün gəlmək: qalib gəlmək.",
+   "en": "The meaning part is strength (力) and the sound part is 朕. To have enough strength, to prevail: to win.",
+   "ru": "Смысловая часть – сила (力), звуковая – 朕. Хватить силы, одолеть: побеждать."
+  },
+  "hekaye": {
+   "az": "Güclə üstün gəl: 勝つ (katsu) – qalib gəlmək, 勝手 (katte) – öz bildiyi kimi.",
+   "en": "Prevail by strength: 勝つ (katsu), to win; 勝手 (katte), as one pleases.",
+   "ru": "Одолей силой: 勝つ (кацу) – побеждать, 勝手 (каттэ) – как вздумается."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "勝ちます (かちます) qələbə çalmaq, udmaq, qazanmaq"
+  ]
+ },
+ {
+  "kanji": "負",
+  "on": "フ",
+  "kun": "ま・ける",
+  "az": "uduzmaq",
+  "en": "lose",
+  "ru": "проигрывать",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "𠂊",
+   "貝"
+  ],
+  "mense": {
+   "az": "Yuxarıda insan (⺈), aşağıda pul (貝). Belində pul, yük daşıyan insan: yük çəkmək, borclu olmaq; sonra \"uduzmaq\".",
+   "en": "A person (⺈) on top and money (貝) below. A person carrying money or a burden: to bear, to owe; later \"to lose\".",
+   "ru": "Сверху человек (⺈), снизу деньги (貝). Человек, несущий деньги или груз: нести, быть должным; позже «проигрывать»."
+  },
+  "hekaye": {
+   "az": "Yük daşıyan: 負ける (makeru) – uduzmaq, 勝負 (shoubu) – yarış.",
+   "en": "Carrying a load: 負ける (makeru), to lose; 勝負 (shoubu), contest.",
+   "ru": "Несущий груз: 負ける (макэру) – проигрывать, 勝負 (сёбу) – состязание."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "負けます (まけます) məğlub olmaq, uduzmaq"
+  ]
+ },
+ {
+  "kanji": "不",
+  "on": "フ",
+  "kun": "–",
+  "az": "qeyri-, -sız",
+  "en": "not, un-",
+  "ru": "не-, без-",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "不"
+  ],
+  "mense": {
+   "az": "Mənşəyi mübahisəlidir: çiçəyin kasacığı və ya kökü kimi izah olunur. Səsinə görə inkar sözü kimi götürülüb: \"yox, deyil\".",
+   "en": "Its origin is debated: it is explained as the calyx of a flower or a root. It was borrowed for its sound as a negative: \"not, un-\".",
+   "ru": "Происхождение спорно: толкуют как чашечку цветка или корень. По звучанию взят как отрицание: «не, без»."
+  },
+  "hekaye": {
+   "az": "İnkar: 不便 (fuben) – əlverişsiz, 不安 (fuan) – narahatlıq.",
+   "en": "Negation: 不便 (fuben), inconvenient; 不安 (fuan), anxiety.",
+   "ru": "Отрицание: 不便 (фубэн) – неудобный, 不安 (фуан) – тревога."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "不便[な] (ふべん[な]) narahat"
+  ]
+ },
+ {
+  "kanji": "価",
+  "on": "カ",
+  "kun": "あたい",
+  "az": "dəyər, qiymət",
+  "en": "value, price",
+  "ru": "ценность, цена",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "亻",
+   "覀"
+  ],
+  "mense": {
+   "az": "Köhnə forması 價: insan (亻) və 賈 (alver). Malın insan arasında qiyməti: dəyər, qiymət.",
+   "en": "The old form is 價: a person (亻) and 賈 (trade). The worth of goods among people: value, price.",
+   "ru": "Старая форма 價: человек (亻) и 賈 (торговля). Цена товара среди людей: стоимость, цена."
+  },
+  "hekaye": {
+   "az": "Alverdə dəyər: 価格 (kakaku) – qiymət, 物価 (bukka) – qiymətlər səviyyəsi.",
+   "en": "Value in trade: 価格 (kakaku), price; 物価 (bukka), prices.",
+   "ru": "Ценность в торговле: 価格 (какаку) – цена, 物価 (букка) – уровень цен."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "物価 (ぶっか) qiymətlər (bazar qiymətləri)"
+  ]
+ },
+ {
+  "kanji": "放",
+  "on": "ホウ",
+  "kun": "はな・す",
+  "az": "buraxmaq",
+  "en": "release",
+  "ru": "отпускать",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "方",
+   "攵"
+  ],
+  "mense": {
+   "az": "Məna hissəsi vurmaq (攵), səs hissəsi 方. Qovub uzaqlaşdırmaq: buraxmaq, azad etmək; yayımlamaq.",
+   "en": "The meaning part is striking (攵) and the sound part is 方. Driving away: to release, to let go; to broadcast.",
+   "ru": "Смысловая часть – удар (攵), звуковая – 方. Прогнать прочь: отпускать, освобождать; транслировать."
+  },
+  "hekaye": {
+   "az": "Burax getsin: 放す (hanasu) – buraxmaq, 放送 (housou) – yayım.",
+   "en": "Let it go: 放す (hanasu), to release; 放送 (housou), broadcast.",
+   "ru": "Отпусти: 放す (ханасу) – отпускать, 放送 (хосо) – вещание."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "放送 (ほうそう) yayım"
+  ]
+ },
+ {
+  "kanji": "夢",
+  "on": "ム",
+  "kun": "ゆめ",
+  "az": "yuxu, arzu",
+  "en": "dream",
+  "ru": "сон, мечта",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "艹",
+   "罒",
+   "冖",
+   "夕"
+  ],
+  "mense": {
+   "az": "Yuxarıda göz və qaşlar, aşağıda gecə (夕). Gecə yumulu gözün gördükləri: yuxu, arzu.",
+   "en": "An eye and brows on top and night (夕) below. What closed eyes see at night: a dream.",
+   "ru": "Сверху глаз и брови, снизу ночь (夕). То, что видят закрытые глаза ночью: сон, мечта."
+  },
+  "hekaye": {
+   "az": "Gecə gözün gördüyü: 夢 (yume) – yuxu, arzu.",
+   "en": "What the eye sees at night: 夢 (yume), dream.",
+   "ru": "Что видит глаз ночью: 夢 (юмэ) – сон, мечта."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "夢 (ゆめ) röya, yuxu"
+  ]
+ },
+ {
+  "kanji": "才",
+  "on": "サイ",
+  "kun": "–",
+  "az": "istedad, yaş",
+  "en": "talent, age",
+  "ru": "талант, возраст",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "才"
+  ],
+  "mense": {
+   "az": "Torpaqdan təzəcə çıxan cücərti kimi izah olunur. Anadangəlmə qabiliyyət: istedad. Yapon dilində yaş saymaq üçün 歳 əvəzinə də yazılır.",
+   "en": "It is explained as a shoot just breaking through the soil. Inborn ability: talent. In Japanese it is also written instead of 歳 to count years of age.",
+   "ru": "Толкуют как росток, только что пробившийся из земли. Врождённая способность: талант. В японском пишется и вместо 歳 при счёте возраста."
+  },
+  "hekaye": {
+   "az": "Təzə cücərti: 天才 (tensai) – dahi, 5才 (gosai) – 5 yaş.",
+   "en": "A new shoot: 天才 (tensai), genius; 5才 (gosai), five years old.",
+   "ru": "Свежий росток: 天才 (тэнсай) – гений, 5才 (госай) – 5 лет."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "天才 (てんさい) dahi"
+  ]
+ },
+ {
+  "kanji": "最",
+  "on": "サイ",
+  "kun": "もっと・も",
+  "az": "ən",
+  "en": "most",
+  "ru": "самый",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "日",
+   "耳",
+   "又"
+  ],
+  "mense": {
+   "az": "Yuxarıda 日 (köhnədə başlıq 冃), aşağıda 取 (götürmək). Qabaqda gedib ən birinci götürmək: ən.",
+   "en": "日 on top (formerly a headdress, 冃) and 取 (to take) below. Rushing ahead and taking first: the most.",
+   "ru": "Сверху 日 (раньше головной убор 冃), снизу 取 (брать). Ринуться вперёд и взять первым: самый."
+  },
+  "hekaye": {
+   "az": "İlk götürən: 最初 (saisho) – əvvəl, 最近 (saikin) – son vaxtlar, 最高 (saikou) – ən yaxşı.",
+   "en": "The first to take: 最初 (saisho), the beginning; 最近 (saikin), recently; 最高 (saikou), the best.",
+   "ru": "Взявший первым: 最初 (сайсё) – начало, 最近 (сайкин) – недавно, 最高 (сайко) – наилучший."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "最近 (さいきん) son vaxtlar, yaxınlarda"
+  ]
+ },
+ {
+  "kanji": "久",
+  "on": "キュウ",
+  "kun": "ひさ・しい",
+  "az": "uzun müddət",
+  "en": "long time",
+  "ru": "давно",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "𠂊",
+   "#"
+  ],
+  "mense": {
+   "az": "Əyilmiş insan və arxadan onu saxlayan bir şey. Uzun müddət dayanmaq: uzun zaman.",
+   "en": "A bent person held from behind by something. Staying put a long time: long, for a long time.",
+   "ru": "Согнутый человек, удерживаемый сзади. Задерживаться надолго: долгий, давно."
+  },
+  "hekaye": {
+   "az": "Uzun müddət: 久しぶり (hisashiburi) – çoxdandır görüşmürük.",
+   "en": "For a long time: 久しぶり (hisashiburi), long time no see.",
+   "ru": "Долго: 久しぶり (хисасибури) – давно не виделись."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "久しぶりですね。 (ひさしぶりですね。) Çoxdandır görüşmürük."
+  ]
+ },
+ {
+  "kanji": "牧",
+  "on": "ボク",
+  "kun": "まき",
+  "az": "otlaq, pastor",
+  "en": "pasture, pastor",
+  "ru": "пастбище, пастор",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "牛",
+   "攵"
+  ],
+  "mense": {
+   "az": "Öküz (牛) və çubuq tutan əl (攵). Çubuqla mal-qaranı otarmaq: otlaq, çoban.",
+   "en": "An ox (牛) and a hand holding a stick (攵). Herding cattle with a stick: pasture, herding.",
+   "ru": "Бык (牛) и рука с палкой (攵). Пасти скот палкой: пастбище, пастух."
+  },
+  "hekaye": {
+   "az": "Çubuqla otar: 牧場 (bokujou) – ferma, otlaq.",
+   "en": "Herd with a stick: 牧場 (bokujou), ranch, pasture.",
+   "ru": "Паси палкой: 牧場 (бокудзё) – ферма, пастбище."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "キング牧師 (キングぼくし) Martin Lüter King (1929–1968)"
+  ]
+ },
+ {
+  "kanji": "姫",
+  "on": "キ",
+  "kun": "ひめ",
+  "az": "şahzadə qız",
+  "en": "princess",
+  "ru": "принцесса",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "女",
+   "臣"
+  ],
+  "mense": {
+   "az": "Məna hissəsi qadın (女), sağ hissə səs verir. Zadəgan qızı: şahzadə.",
+   "en": "The meaning part is woman (女); the right side gives the sound. A daughter of nobility: princess.",
+   "ru": "Смысловая часть – женщина (女), правая часть даёт звук. Дочь знатного рода: принцесса."
+  },
+  "hekaye": {
+   "az": "Zadəgan qız: 姫 (hime) – şahzadə xanım, 姫路 (Himeji) – Himeji şəhəri.",
+   "en": "A noble daughter: 姫 (hime), princess; 姫路 (Himeji), the city of Himeji.",
+   "ru": "Знатная дочь: 姫 (химэ) – принцесса, 姫路 (Химэдзи) – город Химэдзи."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "かぐや姫 (かぐやひめ) Şahzadə Kaguya (yapon folklor qəhrəmanı)"
+  ]
+ },
+ {
+  "kanji": "吉",
+  "on": "キチ",
+  "kun": "–",
+  "az": "uğur",
+  "en": "good luck",
+  "ru": "удача",
+  "ders": 21,
+  "kart": true,
+  "komponent": [
+   "士",
+   "口"
+  ],
+  "mense": {
+   "az": "Yuxarıda 士 (balta, silah), aşağıda qab və ya ağız (口). Silahı qabın içinə qoyub saxlamaq: dinclik, xoşbəxtlik, uğur.",
+   "en": "士 (an axe, a weapon) on top and a container or mouth (口) below. Putting a weapon away in a box: peace, good fortune.",
+   "ru": "Сверху 士 (топор, оружие), снизу сосуд или рот (口). Убрать оружие в ящик: мир, счастье, удача."
+  },
+  "hekaye": {
+   "az": "Silah yerində: 吉 (kichi) – uğur, 大吉 (daikichi) – böyük uğur.",
+   "en": "The weapon put away: 吉 (kichi), good luck; 大吉 (daikichi), great luck.",
+   "ru": "Оружие убрано: 吉 (кити) – удача, 大吉 (дайкити) – большая удача."
+  },
+  "ilk_soz_dersi": 21,
+  "soz_sayi": 1,
+  "nümunə_sozler": [
+   "吉野山 (よしのやま) Yoshino dağı (Nara prefekturası)"
+  ]
+ }
+]

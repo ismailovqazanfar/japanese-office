@@ -1,0 +1,83 @@
+{
+  "_not": "Kotoba no Tabi üçün agent dəsti. İşə salmaq: cp ornek/ajanlar.kotoba.json ajanlar.json. Promptlarda {kok} bu qovluğun yolu, {bugun} bu günün tarixidir.",
+  "surum": 2,
+  "ayarlar": { "kullanici": "Qəzənfər", "marka": "Yapon Ofisi" },
+  "odalar": [
+    { "id": "ceo", "ad": "Sensei", "aciklama": "İstəyini dinləyir, işi uyğun agentə verir." },
+    { "id": "yazi", "ad": "Hekayə Otağı", "aciklama": "Kartı olmayan kanjilər üçün mənşə və yadda saxlama hekayəsi (az / en / ru)." },
+    { "id": "arastirma", "ad": "Kanji Müfəttişliyi", "aciklama": "Oxunuş, məna, dərs uyğunluğu və zəif hekayələri yoxlayır." },
+    { "id": "tasarim", "ad": "Komponent Emalatxanası", "aciklama": "Kanjiləri hissələrinə ayırır, kart şəkli üçün tərif yazır." },
+    { "id": "kod", "ad": "Redaksiya", "aciklama": "Lüğət və tərcümələrdə səhv, üslub və ardıcıllıq yoxlaması." },
+    { "id": "atolye", "ad": "İmtahan Otağı", "aciklama": "Kanji testləri və Anki kartları hazırlayır." },
+    { "id": "veri", "ad": "Data Otağı", "aciklama": "Sayt datasını yeniləyir və boşluq hesabatı çıxarır." },
+    { "id": "gun-sonu", "ad": "Gün Sonu", "aciklama": "Günün işlərini toplayır: nə hazırdır, nə saytda qoşulmalıdır." },
+    { "id": "yapon", "ad": "Şəxsi Dərs Otağı", "aciklama": "Öz qeydlərini yoxlatmaq üçün." }
+  ],
+  "varsayilan_yasak_araclar": ["Read(**/.env)", "Read(**/.env.*)", "Read(~/.env)", "Bash(rm:*)", "Bash(git push:*)", "Bash(curl:*)", "Bash(open:*)", "Edit", "Write"],
+  "ajanlar": [
+    { "id": "ceo", "ad": "Sensei", "oda": "ceo", "cwd": ".", "model": "haiku", "ne_zaman": "istek",
+      "ne_zaman_metin": "Sən danışanda", "aciklama": "İstəyini uyğun agentə ötürür. Özü iş görmür.", "izinli_araclar": [], "hazir_gorevler": [] },
+
+    { "id": "hekayeci", "ad": "Hekayəçi", "oda": "yazi", "cwd": ".", "model": "sonnet", "ne_zaman": "istek", "yalin": true, "cavab_hecmi": 170,
+      "ne_zaman_metin": "İstək gələndə", "aciklama": "Kartı olmayan kanjilər üçün mənşə və yadda saxlama hekayəsi yazır (5-5).",
+      "izinli_araclar": ["Read", "Glob", "Grep"],
+      "hazir_gorevler": [
+        { "etiket": "Növbəti 5 kart", "prompt": "{kok}/kotoba/veri/novbe.json faylından sıra ilə ilk 5 kanjini götür. {kok}/cikti/hekayeci/ qovluğunda artıq yazılmış kanjiləri (```json bloklarındakı açarlar) ötür. Nümunə üslub üçün {kok}/kotoba/veri/kanji/01.json faylından 3 kartın 'mense' və 'hekaye' sahəsinə bax. Hər kanji üçün yaz: o = mənşə (qədim yazıdakı şəkil, necə dəyişib, 1-2 cümlə); kk = yadda saxlama hekayəsi (kanjinin özü, ən çox işlənən oxunuşu və nümunə söz mütləq keçsin; 1-2 cümlə); sk = komponentlər (kanji simvolları siyahısı). Hər mətn üç dildə: az, en, ru. Cavabda əvvəl tək ```json bloku ver: {\"八\": {\"o\": [az, en, ru], \"kk\": [az, en, ru], \"sk\": [\"…\"]}, …}. Sonra hər kanji üçün bir sətir şərh, ən sonda 'Növbəti 5:' və növbəti 5 kanji." },
+        { "etiket": "Zəif hekayələri gücləndir", "prompt": "{kok}/kotoba/veri/hesabat.md faylında 'Hekayə qısadır və ya kanjinin özü keçmir' bölməsindən ilk 5 kanjini götür (yaddaşda qeyd olunanlardan sonrakı). Hər birinin indiki 'hekaye' mətnini {kok}/kotoba/veri/kanji/ qovluğundakı dərs faylından oxu və daha yaddaqalan yenisini yaz: kanjinin özü, oxunuşu və bir nümunə söz keçsin, mənşəyə uyğun olsun. Cavab: tək ```json bloku {\"kanji\": {\"kk\": [az, en, ru]}}, sonra hər biri üçün köhnə → yeni fərqi bir sətirdə." }
+      ] },
+
+    { "id": "mufettis", "ad": "Kanji Müfəttişi", "oda": "arastirma", "cwd": ".", "model": "sonnet", "ne_zaman": "istek", "yalin": true, "cavab_hecmi": 80,
+      "ne_zaman_metin": "İstək gələndə", "aciklama": "Kanji datasında səhv və boşluq axtarır. Fayla yazmır.",
+      "izinli_araclar": ["Read", "Glob", "Grep"],
+      "hazir_gorevler": [
+        { "etiket": "Boşluq planı", "prompt": "{kok}/kotoba/veri/hesabat.md faylını oxu. Ən vacib 5 boşluğu prioritetə görə sırala (şagirdə təsiri ən böyük olan birinci). Hər biri üçün: nə çatışmır, neçə kanjiyə aiddir, hansı agent həll edə bilər (Hekayəçi, Komponent Ustası, Redaktor). Sonda bu həftə üçün 3 addımlıq plan." },
+        { "etiket": "Oxunuş və məna yoxlaması", "prompt": "{kok}/kotoba/veri/kanji/ qovluğunda yaddaşda qeyd olunan son dərsdən sonrakı dərs faylını götür (yaddaş boşdursa 01.json). Hər kanjinin on/kun oxunuşunu və az/en/ru mənasını yoxla: səhv, natamam və ya dərs səviyyəsinə uyğun gəlməyən oxunuşları tap. Cavab: cədvəl | kanji | sahə | indiki | təklif | səbəb |. Səhv yoxdursa 'səhv tapılmadı' yaz. Yoxladığın dərsi yaddaşa yaz." },
+        { "etiket": "Dərs uyğunluğu", "prompt": "{kok}/kotoba/veri/kanji.json faylında 'ders' və 'ilk_soz_dersi' sahələrini müqayisə et (Grep ilə). Sözlərdə heç işlənməyən dərs kanjilərini və dərsdən əvvəl işlənənləri tap. Hər problem üçün: kanji, indiki dərs, təklif olunan dərs, səbəb. Ən çox 20 sətir." }
+      ] },
+
+    { "id": "komponent", "ad": "Komponent Ustası", "oda": "tasarim", "cwd": ".", "model": "sonnet", "ne_zaman": "istek", "yalin": true, "cavab_hecmi": 90,
+      "ne_zaman_metin": "İstək gələndə", "aciklama": "Kanjini hissələrinə ayırır və kart şəkli üçün səhnə tərifi yazır.",
+      "izinli_araclar": ["Read", "Glob", "Grep"],
+      "hazir_gorevler": [
+        { "etiket": "Növbəti 5 kartın komponentləri", "prompt": "{kok}/kotoba/veri/novbe.json faylından ilk 5 kanjini götür. Hər biri üçün: komponentlər (açar və hissələr, hər birinin mənası Azərbaycanca), hansı komponent saytda artıq kartı olan kanjidir ({kok}/kotoba/veri/kanji/ fayllarında 'kart': true), kart şəkli üçün 1 cümləlik səhnə tərifi (kanjinin formasına bənzəyən sadə obyekt, dini simvol yox). Cavab: tək ```json bloku {\"kanji\": {\"sk\": [..], \"komponent_menalari\": {\"..\": \"..\"}, \"sehne\": \"..\"}}." }
+      ] },
+
+    { "id": "redaktor", "ad": "Redaktor", "oda": "kod", "cwd": ".", "model": "sonnet", "ne_zaman": "istek", "yalin": true, "cavab_hecmi": 90,
+      "ne_zaman_metin": "İstək gələndə", "aciklama": "Lüğət və kanji mətnlərində dil, üslub və tərcümə səhvlərini tapır.",
+      "izinli_araclar": ["Read", "Glob", "Grep"],
+      "hazir_gorevler": [
+        { "etiket": "Lüğət yoxlaması", "prompt": "{kok}/kotoba/veri/lugat.json faylında yaddaşda qeyd olunan son dərsdən sonrakı dərsin sözlərini yoxla (yaddaş boşdursa 1-ci dərs). Axtar: Azərbaycanca tərcümədə səhv və ya qeyri-təbii ifadə, oxunuş (kana) ilə romaji uyğunsuzluğu, eyni sözün təkrarı. Cavab: cədvəl | söz | problem | təklif |. Yoxladığın dərsi yaddaşa yaz." },
+        { "etiket": "Kanji tərcümələri", "prompt": "{kok}/kotoba/veri/kanji/ qovluğunda yaddaşda qeyd olunan son dərsdən sonrakı dərs faylını götür. Hər kanjinin az, en, ru mənaları və 'hekaye', 'mense' mətnlərinin üç dili bir-birinə uyğundurmu, Azərbaycanca təbii səslənirmi, uzun tire (—) varmı yoxla. Cavab: cədvəl | kanji | sahə | problem | təklif |." }
+      ] },
+
+    { "id": "testci", "ad": "Testçi", "oda": "atolye", "cwd": ".", "model": "haiku", "ne_zaman": "istek", "yalin": true, "cavab_hecmi": 120,
+      "ne_zaman_metin": "İstək gələndə", "aciklama": "Kanji testləri və Anki kartları hazırlayır.",
+      "izinli_araclar": ["Read", "Glob", "Grep"],
+      "hazir_gorevler": [
+        { "etiket": "Kanji testi (növbəti dərs)", "prompt": "{kok}/kotoba/veri/kanji/ qovluğunda yaddaşda qeyd olunan son dərsdən sonrakı dərs faylını götür (yaddaş boşdursa 01.json). 15 sual hazırla: 5 oxunuş (kanji → kana), 5 məna (kanji → Azərbaycanca), 5 söz (nümunə sözdə kanjini seç). Hər sualda 4 variant. Cavabları sonda 'Cavablar' başlığı altında ver. Dərsi yaddaşa yaz." },
+        { "etiket": "Anki CSV (dərs)", "prompt": "{kok}/kotoba/veri/kanji/ qovluğunda yaddaşda qeyd olunan son dərsdən sonrakı dərs faylını CSV-yə çevir: ön;arxa (ön = kanji, arxa = on / kun oxunuşu, Azərbaycanca məna, bir nümunə söz). Yalnız CSV sətirlərini yaz. Dərsi yaddaşa yaz." }
+      ] },
+
+    { "id": "data", "ad": "Data Ustası", "oda": "veri", "cwd": ".", "model": "haiku", "ne_zaman": "istek", "cavab_hecmi": 30,
+      "ne_zaman_metin": "İstək gələndə", "aciklama": "Sayt datasını yeniləyir (kotoba/cixar.py) və dəyişikliyi qısa izah edir.",
+      "izinli_araclar": ["Read", "Bash(python3 kotoba/cixar.py:*)", "Bash(python kotoba/cixar.py:*)", "Bash(py kotoba/cixar.py:*)"],
+      "hazir_gorevler": [
+        { "etiket": "Datanı yenilə", "prompt": "Əvvəl kotoba/veri/hesabat.md faylındakı 'Ümumi' cədvəlini oxu və yadda saxla. Sonra 'python3 kotoba/cixar.py' işə sal (alınmasa 'python kotoba/cixar.py' və ya 'py kotoba/cixar.py'). Yenidən hesabat.md-ni oxu və köhnə ilə yeni cədvəli müqayisə et: nə yaxşılaşıb, nə qalıb. 5 sətir." }
+      ] },
+
+    { "id": "gun-sonu", "ad": "Gün Sonu", "oda": "gun-sonu", "cwd": ".", "model": "haiku", "ne_zaman": "istek", "yalin": true, "cavab_hecmi": 25,
+      "ne_zaman_metin": "Axşam", "aciklama": "Bu günün nəticələrini toplayır və saytda qoşulmalı olanları sadalayır.",
+      "izinli_araclar": ["Read", "Glob", "Grep"],
+      "hazir_gorevler": [
+        { "etiket": "Bu günün xülasəsi", "prompt": "{kok}/cikti/ qovluğunda adı {bugun} ilə başlayan bütün .md fayllarına bax. Hər agent üçün bir sətir: nə hazırladı. Sonra 'Sayta qoşulmalı' siyahısı (hazır JSON blokları olan fayllar, fayl yolu ilə). Sonda sabah üçün 1 təklif." }
+      ] },
+
+    { "id": "qrammatik", "ad": "Qrammatik", "oda": "yapon", "cwd": "~/yapon-dili", "model": "sonnet", "ne_zaman": "istek", "yalin": true,
+      "ne_zaman_metin": "İstək gələndə", "aciklama": "Öz qeydlərini yoxlayır, səhvləri göstərir. Fayla yazmır.",
+      "izinli_araclar": ["Read", "Glob", "Grep"],
+      "hazir_gorevler": [
+        { "etiket": "Qeydləri yoxla", "prompt": "{cwd}/notlar/ qovluğundakı ən son dəyişdirilmiş .md faylını oxu. Yapon cümlələrində qrammatik və kana səhvlərini tap. Hər səhv üçün: yanlış → düzgün, qısa izah. Səviyyə: Kotoba no Tabi-nin 1–35-ci dərsləri." },
+        { "etiket": "Mövzunu izah et", "prompt": "{cwd}/notlar/ içində ən son mövzunu tap və onu 5 yeni nümunə cümlə ilə izah et (kana + romaji + Azərbaycanca tərcümə). Qeydlərdəki nümunələri təkrarlama." }
+      ] }
+  ]
+}
