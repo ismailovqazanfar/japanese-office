@@ -5,9 +5,8 @@ Kalıcı dosya: durum/token-<YYYY-MM-DD>.json
    "_kosular": {"<kosu_id>": {"ajan": .., "usage": {4 alan}}},   ← ofis koşusu başına (değiştirilerek yazılır)
    "_oturumlar": {"<session_id>": {"ajan": .., "usage": {..}}}}   ← terminal oturumu başına (değiştirilerek yazılır)
 Kayıtlar "ekle" değil "yerine koy" ile yazılır: aynı koşu/oturum yeniden sayılırsa çift sayılmaz.
-Süreçler arası (sunucu + kosucu) fcntl kilidiyle korunur.
+Süreçler arası (sunucu + kosucu) ortak kilidiyle korunur (Windows: msvcrt, POSIX: fcntl).
 """
-import fcntl
 import json
 import os
 from contextlib import contextmanager
@@ -74,11 +73,11 @@ def _oku(tarih):
 def _kilitli():
     os.makedirs(ortak.DURUM_DIZINI, exist_ok=True)
     with open(KILIT, "a") as k:
-        fcntl.flock(k, fcntl.LOCK_EX)
+        ortak._kilitle(k)
         try:
             yield
         finally:
-            fcntl.flock(k, fcntl.LOCK_UN)
+            ortak._ac(k)
 
 
 def _ozet_kur(veri):
