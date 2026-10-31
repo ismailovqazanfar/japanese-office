@@ -1,3 +1,12 @@
+> **Bu repo [selmakcby/ajan-ofisi](https://github.com/selmakcby/ajan-ofisi) əsasındadır** (PolyForm Noncommercial 1.0.0, `LICENSE` dəyişdirilməyib).
+> Əlavə: yapon dili (JLPT N5) üçün hazır agentlər — `ornek/ajanlar.yapon.json`, başlanğıc yaddaş — `ornek/hafiza/`.
+>
+> ```bash
+> cp ornek/ajanlar.yapon.json ajanlar.json && mkdir -p hafiza && cp ornek/hafiza/*.md hafiza/
+> mkdir -p ~/yapon-dili/notlar   # qeydlərin buraya (.md)
+> python3 sunucu.py              # http://127.0.0.1:8796
+> ```
+
 ![Ajan Ofisi](docs/kapak.jpg)
 
 # Ajan Ofisi

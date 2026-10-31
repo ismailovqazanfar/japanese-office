@@ -1,0 +1,2 @@
+- JLPT N5 səviyyəsi; izahlar Azərbaycanca, nümunələr kana + romaji ilə.
+- İnkar/ziddiyyətdə て yox, が/けど/から istifadə olunur (istifadəçinin qaydası).
