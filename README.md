@@ -239,4 +239,4 @@ and goes back to sleep. Nothing runs while idle: **0 tokens**.
 - **Security:** localhost only (Host/Origin checked), no string concatenation into a shell, external content is
   treated as data, sending mail / publishing / spending money always stays with the user.
 
-UI text is Turkish. License: PolyForm Noncommercial 1.0.0 — free for personal and other noncommercial use, modify as you like; selling or commercial use is not permitted.
+UI text is Turkish. License: PolyForm Noncommercial 1.0.0 — free for personal and other commercial and noncommercial use, modify as you like
