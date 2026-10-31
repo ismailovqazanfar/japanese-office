@@ -49,6 +49,24 @@ def ajanlari_yukle():
             f"{os.path.basename(AJANLAR_DOSYASI)} yoxdur. Əvvəlcə: cp ornek/ajanlar.kotoba.json ajanlar.json") from e
     if not isinstance(veri, dict) or not isinstance(veri.get("ajanlar"), list):
         raise YapilandirmaHatasi("ajanlar.json içində 'ajanlar' siyahısı olmalıdır")
+    # Merge new workflow actions in memory; preserve user paths, models and tool restrictions.
+    with open(os.path.join(KOK, "ajanlar.example.json"), encoding="utf-8") as f:
+        sablon = json.load(f)
+    mevcut = {a["id"]: a for a in veri["ajanlar"]}
+    for yeni in sablon["ajanlar"]:
+        if yeni["id"] == "sekil" and "sekil" not in mevcut:
+            veri["ajanlar"].append(yeni)
+        elif yeni["id"] in mevcut:
+            hedef = mevcut[yeni["id"]]
+            gorevler = hedef.setdefault("hazir_gorevler", [])
+            etiketler = {g["etiket"] for g in gorevler}
+            for g in yeni.get("hazir_gorevler", []):
+                if g["etiket"].startswith("Aktiv ") and g["etiket"] not in etiketler:
+                    gorevler.insert(0, g)
+    if any(a["id"] == "sekil" for a in veri["ajanlar"]):
+        odalar = veri.setdefault("odalar", [])
+        if not any(o.get("id") == "sekil" for o in odalar):
+            odalar.append(next(o for o in sablon["odalar"] if o["id"] == "sekil"))
     tablo = {}
     for ajan in veri["ajanlar"]:
         if not AJAN_ID_DESENI.match(ajan["id"]):
@@ -163,3 +181,4 @@ def ajan_mesgul(ajan_id):
         return True
     # pəncərə açılarkən pid hələ yazılmamış ola bilər
     return d.get("durum") == "basliyor" and time.time() - d.get("baslangic_ts", 0) < 30
+

@@ -1582,6 +1582,35 @@ function durumRozet(a) {
   d.append(el('span', 'nokta'), document.createTextNode(durumMetni(a)));
   return d;
 }
+function kanjiEmalatxanasi() {
+  const box = el('div', 'not');
+  if (DEMO) { box.textContent = 'Kanji qrupları canlı serverdə seçilir. Demo heç bir iş başlatmır.'; return box; }
+  box.textContent = 'Kanji qrupları yüklənir…';
+  async function render() {
+    try {
+      const s = await getJSON('/api/kanji');
+      box.replaceChildren(el('p', null, `${s.kanji_sayi} kanji · Qrup ${s.partiya}/${s.partiya_sayi}`),
+        el('h3', null, s.kanjiler.map(k => k.kanji).join(' · ')),
+        el('p', null, 'Mövcud kartlar da yenidən hazırlanır. Qrup dəyişmək işi tamamlanmış saymır.'));
+      const nav = el('div', 'hazir');
+      for (const [label, n] of [['← Əvvəlki', s.partiya-1], ['Növbəti →', s.partiya+1]]) {
+        const b = el('button', null, label); b.disabled = n < 1 || n > s.partiya_sayi;
+        b.onclick = async () => {
+          b.disabled = true;
+          try {
+            const r = await postJSON('/api/kanji', {partiya:n});
+            if (r.durum !== 200) tost(r.veri.hata || 'Qrup dəyişmədi');
+            await render();
+          } catch { tost('Serverə çatmaq olmadı'); b.disabled = false; }
+        };
+        nav.append(b);
+      }
+      box.append(nav, el('p', null, '1. Hekayəçi + Komponent → 2. Müfəttiş + Redaktor → 3. Şəkil Rejissoru + Testçi. Hər mərhələ bitdikdən sonra növbətisini başlat.'),
+        el('p', null, 'Şəkil agenti generasiya promptu hazırlayır. PNG yaratmaq üçün ayrıca şəkil generatoru lazımdır.'));
+    } catch { box.textContent = 'Kanji datası yüklənmədi. kotoba/veri/kanji.json faylını yoxla.'; }
+  }
+  render(); return box;
+}
 function ajanPaneli(a) {
   panelAjan = a.id; panelOda = a.oda;
   const oda = odaBul(a.oda);
@@ -1604,7 +1633,7 @@ function ajanPaneli(a) {
   if (a.id === 'ceo') {
     inp.placeholder = 'Sensei-yə istəyini yaz…';
     form.onsubmit = e => { e.preventDefault(); ceoyaSor(inp.value); inp.value = ''; };
-    parcalar.push(el('h3', null, 'Sensei-yə soruş'), form);
+    parcalar.push(el('h3', null, 'Kanji emalatxanası'), kanjiEmalatxanasi(), el('h3', null, 'Sensei-yə soruş'), form);
   } else {
     const hazir = el('div', 'hazir');
     (a.hazir_gorevler || []).forEach(g => {
@@ -1985,3 +2014,4 @@ dongu();
 </script>
 </body>
 </html>
+

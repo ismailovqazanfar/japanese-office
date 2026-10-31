@@ -9,7 +9,7 @@ Claude Code agentlərini 3D ofisdə göstərən yerli interfeys. Hər agent masa
 işləyəndə ekranında nə etdiyi görünür, bitəndə nəticəsi "Sensei soruşur" kartına düşür və pişik yenidən yatır.
 Boş vaxt heç bir model çağırılmır: **0 token**.
 
-Bu versiyanın əsas məqsədi **Kotoba no Tabi** saytını inkişaf etdirməkdir, xüsusilə **kanji kartlarını** tamamlamaq.
+Bu versiyanın əsas məqsədi **Kotoba no Tabi** saytını inkişaf etdirməkdir, **bütün kanji kartlarını** mnemonika, hekayə və vizual yaddaş brifləri ilə yenidən hazırlamaq.
 
 ## Agentlər
 
@@ -98,3 +98,25 @@ kotoba/          Kotoba no Tabi datası və çıxarış skripti
 ornek/           agent dəsti və başlanğıc yaddaş
 CLAUDE.md        Sensei-nin qaydaları
 ```
+
+
+## Yeni: bütün kanjilər üçün emalatxana
+
+- Sensei-nin standart tapşırıq limiti **12**-dir. `OFIS_MAKS_ATAMA` mühit dəyişəni ilə 1–32 seçilə bilər. Bu, bir cavabda verilən tapşırıq sayıdır; eyni agent eyni anda yalnız bir iş görür.
+- Sensei panelində **Kanji emalatxanası** bütün `kanji.json` siyahısını 5-lik qruplara bölür. Mövcud 673 kanji üçün 135 qrup var; son qrupda 3 kanji var. Kartı olanlar da daxildir.
+- Qrup seçimi yadda qalır. Agent işləyərkən dəyişdirilmir. Hər iş qrupun başladığı andakı surətini alır; nəticə faylında `b001` kimi qrup nömrəsi olur.
+- Qrup dəyişmək işi təsdiqləmir və ya bitmiş saymır. Həqiqi PNG və insan yoxlaması ayrıca lazımdır.
+
+Hər qrup üçün agent panelində **Aktiv …** ilə başlayan tapşırıqları seç:
+1. Hekayəçi və Komponent Ustası: mənşə, mnemonika, qısa hekayə və forma-məna əlaqəsi.
+2. Onlar bitdikdən sonra Kanji Müfəttişi və Redaktor: faktlar və az/en/ru redaktəsi.
+3. Redaktə bitdikdən sonra Şəkil Rejissoru və Testçi: hekayəyə uyğun şəkil promptu və aktiv xatırlama testi.
+4. Nəticələri yoxla, şəkilləri ayrıca generatorla yarat, sonra növbəti qrupu seç.
+
+Şəkillər üçün vahid üslub: 1024×1024, gil miniatür, krem fon, coral/indigo/sage rəngləri, yuxarı soldan işıq, bir əsas hərəkət. Obyektlər kanjinin komponent düzülüşünü xatırladır. Şəkildə yazı, loqo və dini simvol yoxdur. Kanji qlifi tətbiqdə ayrıca göstərilir.
+
+**Şəkil generatoru bu tətbiqə qoşulmayıb.** Şəkil Rejissoru yalnız `image_prompt`, `negative_prompt`, `memory_link_az`, `filename`, `status=prompt_ready` hazırlayır; PNG yaratmır. Yeni `mnemonic` və `recall` sahələri hazırlıq datasıdır, sayta birbaşa import formatı deyil.
+
+Yenilənmiş kodu aldıqdan sonra serveri yenidən başlat. Mövcud `ajanlar.json` faylına yazılmadan yeni Aktiv tapşırıqlar və Şəkil Rejissoru yaddaşda əlavə olunur; şəxsi model, yol və alət icazələri saxlanılır. Köhnə fərdi tapşırıqlar da qalır.
+
+Yoxlama: `python -m unittest -v test_kanji_workflow`.
