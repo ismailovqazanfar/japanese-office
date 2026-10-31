@@ -23,11 +23,11 @@ class GeminiTests(unittest.TestCase):
         self.addCleanup(self.temp.cleanup)
         self.files = patch.object(ortak, 'CIKTI_DIZINI', self.temp.name)
         self.files.start(); self.addCleanup(self.files.stop)
-        self.env = patch.dict('os.environ', {'GEMINI_API_KEY':'test-key-never-sent'})
+        self.env = patch.dict('os.environ', {'GEMINI_API_KEY':'test-key-never-sent', 'CF_ACCOUNT_ID':'', 'CF_API_TOKEN':'', 'SEKIL_PROVIDER':''})
         self.env.start(); self.addCleanup(self.env.stop)
 
     def test_no_key_blocks_generation_without_network(self):
-        with patch.dict('os.environ', {'GEMINI_API_KEY':''}), patch.object(images, 'generate') as call:
+        with patch.dict('os.environ', {'GEMINI_API_KEY':'', 'SEKIL_PROVIDER':'gemini'}), patch.object(images, 'generate') as call:
             with self.assertRaises(images.ImageError) as e:
                 images.start(SPEC)
             self.assertEqual(e.exception.code, 409)
@@ -117,7 +117,38 @@ class GeminiTests(unittest.TestCase):
                 server.shutdown(); server.server_close(); thread.join()
 
     def test_claude_subprocess_environment_excludes_image_key(self):
-        self.assertNotIn('GEMINI_API_KEY', ortak.ajan_ortami())
+        with patch.dict('os.environ', {'CF_API_TOKEN':'x', 'CF_ACCOUNT_ID':'y'}):
+            env = ortak.ajan_ortami()
+        for k in ('GEMINI_API_KEY', 'CF_API_TOKEN', 'CF_ACCOUNT_ID'):
+            self.assertNotIn(k, env)
+
+    def test_free_provider_selection(self):
+        with patch.dict('os.environ', {'GEMINI_API_KEY':'', 'CF_ACCOUNT_ID':'', 'CF_API_TOKEN':'', 'SEKIL_PROVIDER':''}):
+            self.assertEqual(images.config()['provider'], 'pollinations')
+            self.assertTrue(images.config()['configured'])
+        with patch.dict('os.environ', {'GEMINI_API_KEY':'g', 'CF_ACCOUNT_ID':'a'*32, 'CF_API_TOKEN':'t', 'SEKIL_PROVIDER':''}):
+            self.assertEqual(images.config()['provider'], 'cloudflare')
+
+    def test_cloudflare_token_only_in_header(self):
+        acc = 'ab' * 16
+        payload = {'success': True, 'result': {'image': base64.b64encode(PNG).decode()}}
+        with patch.dict('os.environ', {'CF_ACCOUNT_ID': acc, 'CF_API_TOKEN': 'cf-secret', 'SEKIL_PROVIDER':''}), \
+             patch.object(images.request, 'build_opener') as opener:
+            opener.return_value.open.return_value = io.BytesIO(json.dumps(payload).encode())
+            self.assertEqual(images.generate('A sun', None)[1], 'image/png')
+            req = opener.return_value.open.call_args.args[0]
+            self.assertIn(acc, req.full_url)
+            self.assertEqual(req.get_header('Authorization'), 'Bearer cf-secret')
+            self.assertNotIn('cf-secret', req.full_url + req.data.decode())
+
+    def test_pollinations_needs_no_key(self):
+        with patch.dict('os.environ', {'GEMINI_API_KEY':'', 'CF_ACCOUNT_ID':'', 'CF_API_TOKEN':'', 'SEKIL_PROVIDER':''}), \
+             patch.object(images.request, 'build_opener') as opener:
+            opener.return_value.open.return_value = io.BytesIO(PNG)
+            self.assertEqual(images.generate('A sun', 'flux', seed=7)[2], '.png')
+            url = opener.return_value.open.call_args.args[0].full_url
+            self.assertTrue(url.startswith(images.POLL_URL))
+            self.assertIn('private=true', url)
 
 
 if __name__ == '__main__':

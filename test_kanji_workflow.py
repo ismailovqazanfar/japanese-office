@@ -9,17 +9,29 @@ import sunucu
 
 
 class WorkflowTests(unittest.TestCase):
-    def test_all_cards_are_included_and_batches_do_not_overlap(self):
+    def test_only_kanji_needing_work_are_queued_without_overlap(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(ortak, 'DURUM_DIZINI', tmp):
+            rows = json.loads((Path(ortak.KOK) / 'kotoba/veri/kanji.json').read_text(encoding='utf-8'))
+            need = {r['kanji'] for r in rows if workflow.sebeb(r)}
             first = workflow.status()
-            self.assertEqual(first['kanji_sayi'], 673)
-            self.assertEqual(first['partiya_sayi'], 135)
+            self.assertEqual(first['hamisi'], len(rows))
+            self.assertEqual(first['kanji_sayi'], len(need))
+            self.assertLess(len(need), len(rows))
             all_chars = []
             for i in range(1, first['partiya_sayi'] + 1):
-                all_chars += [r['kanji'] for r in workflow.sec(i)['kanjiler']]
+                b = workflow.sec(i)['kanjiler']
+                self.assertTrue(all(r['sebeb'] for r in b))
+                all_chars += [r['kanji'] for r in b]
             self.assertEqual(len(all_chars), len(set(all_chars)))
-            self.assertEqual(len(all_chars), 673)
-            self.assertEqual(len(workflow.status()['kanjiler']), 3)
+            self.assertEqual(set(all_chars), need)
+
+    def test_user_named_kanji_is_queued(self):
+        with tempfile.TemporaryDirectory() as tmp, patch.object(ortak, 'DURUM_DIZINI', tmp):
+            rows = json.loads((Path(ortak.KOK) / 'kotoba/veri/kanji.json').read_text(encoding='utf-8'))
+            good = next(r['kanji'] for r in rows if not workflow.sebeb(r))
+            before = workflow.status()['kanji_sayi']
+            (Path(tmp) / 'kanji-elave.json').write_text(json.dumps([good]), encoding='utf-8')
+            self.assertEqual(workflow.status()['kanji_sayi'], before + 1)
 
     def test_selection_validation_and_snapshot(self):
         with tempfile.TemporaryDirectory() as tmp, patch.object(ortak, 'DURUM_DIZINI', tmp):
@@ -27,7 +39,7 @@ class WorkflowTests(unittest.TestCase):
             prompt = workflow.prompt_elave('test', first)
             workflow.sec(2)
             self.assertIn('b001', prompt)
-            for invalid in (True, '2', 0, -1, 136, None):
+            for invalid in (True, '2', 0, -1, first['partiya_sayi'] + 1, None):
                 with self.assertRaises(ValueError):
                     workflow.sec(invalid)
             self.assertEqual(workflow.status()['partiya'], 2)

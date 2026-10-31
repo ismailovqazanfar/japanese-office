@@ -50,8 +50,11 @@ def ajanlari_yukle():
     if not isinstance(veri, dict) or not isinstance(veri.get("ajanlar"), list):
         raise YapilandirmaHatasi("ajanlar.json içində 'ajanlar' siyahısı olmalıdır")
     # Merge new workflow actions in memory; preserve user paths, models and tool restrictions.
-    with open(os.path.join(KOK, "ajanlar.example.json"), encoding="utf-8") as f:
-        sablon = json.load(f)
+    try:
+        with open(os.path.join(KOK, "ajanlar.example.json"), encoding="utf-8") as f:
+            sablon = json.load(f)
+    except (OSError, ValueError):
+        sablon = {"ajanlar": []}
     mevcut = {a["id"]: a for a in veri["ajanlar"]}
     for yeni in sablon["ajanlar"]:
         if yeni["id"] == "sekil" and "sekil" not in mevcut:
@@ -184,6 +187,9 @@ def ajan_mesgul(ajan_id):
 
 
 
+SIRR_ACARLAR = ("GEMINI_API_KEY", "GOOGLE_API_KEY", "CF_API_TOKEN", "CF_ACCOUNT_ID")
+
+
 def ajan_ortami():
     """Image API credentials belong to the server, not Claude subprocesses."""
-    return {k: v for k, v in os.environ.items() if k not in ('GEMINI_API_KEY', 'GOOGLE_API_KEY')}
+    return {k: v for k, v in os.environ.items() if k not in SIRR_ACARLAR}

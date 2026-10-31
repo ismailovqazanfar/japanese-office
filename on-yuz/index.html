@@ -1590,9 +1590,9 @@ function kanjiEmalatxanasi() {
   async function render() {
     try {
       const s = await getJSON('/api/kanji');
-      box.replaceChildren(el('p', null, `${s.kanji_sayi} kanji · Qrup ${s.partiya}/${s.partiya_sayi}`),
+      box.replaceChildren(el('p', null, `Qrup ${s.partiya}/${s.partiya_sayi}`),
         el('h3', null, s.kanjiler.map(k => k.kanji).join(' · ')),
-        el('p', null, 'Mövcud kartlar da yenidən hazırlanır. Qrup dəyişmək işi tamamlanmış saymır.'));
+        el('p', null, `İşə ehtiyacı olan ${s.kanji_sayi} kanji (cəmi ${s.hamisi}). Yaxşı kartlara toxunulmur.`));
       const nav = el('div', 'hazir');
       for (const [label, n] of [['← Əvvəlki', s.partiya-1], ['Növbəti →', s.partiya+1]]) {
         const b = el('button', null, label); b.disabled = n < 1 || n > s.partiya_sayi;
@@ -1607,7 +1607,7 @@ function kanjiEmalatxanasi() {
         nav.append(b);
       }
       box.append(nav, el('p', null, '1. Hekayəçi + Komponent → 2. Müfəttiş + Redaktor → 3. Şəkil Rejissoru + Testçi. Hər mərhələ bitdikdən sonra növbətisini başlat.'),
-        el('p', null, 'Şəkil Rejissoru promptu hazırlayır. Gemini panelində promptu seçib şəkil yarat.'));
+        el('p', null, 'Şəkil Rejissoru promptu hazırlayır. Şəkil studiyasında promptu seçib şəkil yarat.'));
     } catch { box.textContent = 'Kanji datası yüklənmədi. kotoba/veri/kanji.json faylını yoxla.'; }
   }
   render(); return box;

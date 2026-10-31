@@ -100,7 +100,7 @@
       "hazir_gorevler": [
         {
           "etiket": "Aktiv 5 kanjini yenidən yaz",
-          "prompt": "Aktiv qrupdakı BÜTÜN kanjiləri, mövcud kartı olsa belə, yenidən yaz. Hər kanji üçün JSON: o=[az,en,ru] (yalnız təsdiqlənən mənşə, əmin deyilsənsə dəqiq deyil); kk=[az,en,ru] (1-2 cümləlik canlı yaddaş hekayəsi); mnemonic=[az,en,ru] (qısa forma-məna əlaqəsi); recall=[az,en,ru] (cavabı deməyən aktiv xatırlama sualı); sk=komponent simvolları. Mnemonikanı tarixi etimologiya kimi təqdim etmə. Hekayədə bir konkret hərəkət, kanjinin forması, əsas mənası və uyğun nümunə söz olsun. Oxunuşu bütün sözlərə ümumiləşdirmə. Bunlar hazırlıq sxemidir; sayta birbaşa import deyil."
+          "prompt": "Aktiv qrupdakı kanjiləri sebeb sahəsinə görə işlə: kartsiz üçün yeni kart, zeif_hekaye üçün hekayəni gücləndir, natamam üçün çatışmayanı tamamla; yaxşı hissələri saxla. Hər kanji üçün JSON: o=[az,en,ru] (yalnız təsdiqlənən mənşə, əmin deyilsənsə dəqiq deyil); kk=[az,en,ru] (1-2 cümləlik canlı yaddaş hekayəsi); mnemonic=[az,en,ru] (qısa forma-məna əlaqəsi); recall=[az,en,ru] (cavabı deməyən aktiv xatırlama sualı); sk=komponent simvolları. Mnemonikanı tarixi etimologiya kimi təqdim etmə. Hekayədə bir konkret hərəkət, kanjinin forması, əsas mənası və uyğun nümunə söz olsun. Oxunuşu bütün sözlərə ümumiləşdirmə. Bunlar hazırlıq sxemidir; sayta birbaşa import deyil."
         },
         {
           "etiket": "Zəif hekayələri gücləndir",
@@ -308,7 +308,7 @@
       "model": "sonnet",
       "ne_zaman": "istek",
       "ne_zaman_metin": "Hekayə hazır olanda",
-      "aciklama": "Aktiv kanjilər üçün vahid üslubda şəkil promptları hazırlayır. Hazır prompt Gemini panelində şəkilə çevrilə bilər.",
+      "aciklama": "Aktiv kanjilər üçün vahid üslubda şəkil promptları hazırlayır. Hazır prompt Şəkil studiyasında pulsuz şəkilə çevrilə bilər.",
       "yalin": true,
       "cavab_hecmi": 220,
       "izinli_araclar": [

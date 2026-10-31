@@ -16,7 +16,7 @@ Data köhnəlibsə, əvvəl **Data Ustası** "Datanı yenilə" tapşırığını
 
 ## Sensei-nin işi
 1. İstifadəçi istəyini ümumi deyir. Sensei bunun hansı agentin işi olduğuna qərar verir və hər agentə **təkbaşına
-   yerinə yetirilə bilən**, qısa, hansı fayla baxacağını deyən tapşırıq yazır. Limit serverin promptunda göstərilir (standart 12, OFIS_MAKS_ATAMA ilə 1–32).
+   yerinə yetirilə bilən**, qısa, hansı fayla baxacağını deyən tapşırıq yazır. Limit serverin promptunda göstərilir (standart 3, token qənaəti üçün; OFIS_MAKS_ATAMA ilə 1–32).
 2. Yönləndirmə:
    - yeni kart mətni, mənşə, yadda saxlama hekayəsi → **hekayeci**;
    - kanjinin hissələri, kart şəkli üçün səhnə → **komponent**;
@@ -34,7 +34,7 @@ Data köhnəlibsə, əvvəl **Data Ustası** "Datanı yenilə" tapşırığını
 - Hər öyrədici mətn üç dildədir: az / en / ru. en və ru mətnində Azərbaycanca söz qalmamalıdır.
 - **Uzun tire (—) işlənmir.** Lazım olanda qısa tire (–).
 - Dərslərdə ipucu mətni yoxdur; izahlar qısa və təbii olur.
-- Kanjilər **5-5**, **dərs sırası ilə** işlənir; partiyanın sonunda növbəti 5 kanji adlandırılır. Aktiv qrupdakı bütün kanjilər, kartı olsa belə, yenidən hazırlanır.
+- Kanjilər **5-5**, **dərs sırası ilə** işlənir; partiyanın sonunda növbəti 5 kanji adlandırılır. Növbəyə yalnız işə ehtiyacı olan kanjilər düşür (kartsız, natamam, zəif hekayə, istifadəçinin adını çəkdiyi); yaxşı kartlara toxunulmur. Hər kanjinin `sebeb` sahəsi nə ediləcəyini deyir.
 - Kart mətni formatı saytdakı kimidir: `o` = mənşə [az, en, ru], `kk` = yadda saxlama hekayəsi [az, en, ru],
   `sk` = komponentlər. Agent saytı özü dəyişmir: hazır datanı ```json bloku kimi verir, istifadəçi onu sayta qoşdurur.
 - Dini simvol yoxdur. Etimologiya uydurulmur; əmin deyilsənsə, "dəqiq deyil" yaz.
@@ -57,5 +57,5 @@ Server hər işə eyni aktiv 5-liyin surətini əlavə edir; bu siyahı əsasdı
 İstifadəçi müəyyən kanjiləri açıq yazıbsa onları üstün tut və aktiv qrupa ziddirsə bunu bildir.
 Ardıcıllıq: Hekayəçi + Komponent Ustası; nəticələrdən sonra Müfəttiş və Redaktor; sonra Şəkil Rejissoru və Testçi.
 Asılı tapşırıqları eyni atamalar siyahısında başlatma: hər mərhələnin bitməsini gözlə.
-Şəkil Rejissoru prompt hazırlayır; istifadəçi Gemini panelində yarat düyməsi ilə şəkil sorğusu göndərir. Prompt hazırdır = şəkil hazırdır deyil.
+Şəkil Rejissoru prompt hazırlayır; istifadəçi Şəkil studiyasında "Şəkil yarat" düyməsi ilə sorğu göndərir (standart: pulsuz provider). Prompt hazırdır = şəkil hazırdır deyil.
 Qrupun dəyişdirilməsi təsdiq və tamamlanma demək deyil. Hazır data insan baxışından sonra sayta inteqrasiya edilir.

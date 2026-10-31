@@ -102,8 +102,8 @@ CLAUDE.md        Sensei-nin qaydaları
 
 ## Yeni: bütün kanjilər üçün emalatxana
 
-- Sensei-nin standart tapşırıq limiti **12**-dir. `OFIS_MAKS_ATAMA` mühit dəyişəni ilə 1–32 seçilə bilər. Bu, bir cavabda verilən tapşırıq sayıdır; eyni agent eyni anda yalnız bir iş görür.
-- Sensei panelində **Kanji emalatxanası** bütün `kanji.json` siyahısını 5-lik qruplara bölür. Mövcud 673 kanji üçün 135 qrup var; son qrupda 3 kanji var. Kartı olanlar da daxildir.
+- Sensei-nin standart tapşırıq limiti **3**-dür (token qənaəti). `OFIS_MAKS_ATAMA` mühit dəyişəni ilə 1–32 seçilə bilər. Bu, bir cavabda verilən tapşırıq sayıdır; eyni agent eyni anda yalnız bir iş görür.
+- Sensei panelində **Kanji emalatxanası** yalnız işə ehtiyacı olan kanjiləri 5-lik qruplara bölür: kartsız, natamam, zəif hekayəli, uzun tireli və `durum/kanji-elave.json`-da adını yazdığın kanjilər (`["字", "話"]`). Hazırda 673-dən 282 kanji, 57 qrup; qalan 391 yaxşı karta toxunulmur. Hər kanjinin `sebeb` sahəsi agentə nə edəcəyini deyir.
 - Qrup seçimi yadda qalır. Agent işləyərkən dəyişdirilmir. Hər iş qrupun başladığı andakı surətini alır; nəticə faylında `b001` kimi qrup nömrəsi olur.
 - Qrup dəyişmək işi təsdiqləmir və ya bitmiş saymır. Həqiqi PNG və insan yoxlaması ayrıca lazımdır.
 
@@ -111,43 +111,42 @@ Hər qrup üçün agent panelində **Aktiv …** ilə başlayan tapşırıqları
 1. Hekayəçi və Komponent Ustası: mənşə, mnemonika, qısa hekayə və forma-məna əlaqəsi.
 2. Onlar bitdikdən sonra Kanji Müfəttişi və Redaktor: faktlar və az/en/ru redaktəsi.
 3. Redaktə bitdikdən sonra Şəkil Rejissoru və Testçi: hekayəyə uyğun şəkil promptu və aktiv xatırlama testi.
-4. Nəticələri yoxla, Gemini panelində və ya ayrıca generatorla şəkilləri yarat, sonra növbəti qrupu seç.
+4. Nəticələri yoxla, Şəkil studiyasında şəkilləri yarat, sonra növbəti qrupu seç.
 
 Şəkillər üçün vahid üslub: 1024×1024, gil miniatür, krem fon, coral/indigo/sage rəngləri, yuxarı soldan işıq, bir əsas hərəkət. Obyektlər kanjinin komponent düzülüşünü xatırladır. Şəkildə yazı, loqo və dini simvol yoxdur. Kanji qlifi tətbiqdə ayrıca göstərilir.
 
-**Gemini şəkil bağlantısı mövcuddur; işləməsi üçün öz yeni API açarın lazımdır.** Şəkil Rejissoru yalnız `image_prompt`, `negative_prompt`, `memory_link_az`, `filename`, `status=prompt_ready` hazırlayır; PNG yaratmır. Yeni `mnemonic` və `recall` sahələri hazırlıq datasıdır, sayta birbaşa import formatı deyil.
+Şəkil Rejissoru yalnız `image_prompt`, `negative_prompt`, `memory_link_az`, `filename`, `status=prompt_ready` hazırlayır; PNG yaratmır. Yeni `mnemonic` və `recall` sahələri hazırlıq datasıdır, sayta birbaşa import formatı deyil.
 
 Yenilənmiş kodu aldıqdan sonra serveri yenidən başlat. Mövcud `ajanlar.json` faylına yazılmadan yeni Aktiv tapşırıqlar və Şəkil Rejissoru yaddaşda əlavə olunur; şəxsi model, yol və alət icazələri saxlanılır. Köhnə fərdi tapşırıqlar da qalır.
 
 Yoxlama: `python -m unittest -v test_kanji_workflow`.
 
-## Gemini ilə şəkil yaratmaq
+## Pulsuz şəkil
 
-Windows-da layihə qovluğunda `py baslat.py` işlət. macOS/Linux: `python3 baslat.py`.
-İlk açılışda çatışmayan `ajanlar.json` nümunədən yaradılır; mövcud şəxsi sazlamalar dəyişmir.
-Açarı terminalda gizli daxil et. Bu açar yalnız serverin cari sessiyasında saxlanır, diskə və GitHub-a yazılmır.
-Enter ilə boş buraxsan ofis API olmadan açılır. Əvvəldən `GEMINI_API_KEY` mühit dəyişəni varsa giriş soruşulmur.
-Söhbətdə paylaşılmış köhnə açarı Google AI Studio-da ləğv et; yalnız yeni açardan istifadə et.
+Şəkil studiyası üç provider ilə işləyir. Serverin sessiyasında hansı açar varsa, avtomatik o seçilir
+(`SEKIL_PROVIDER=cloudflare|pollinations|gemini` ilə məcburi seçmək olar):
+
+| Provider | Qiymət | Açar | Qeyd |
+|---|---|---|---|
+| **Cloudflare Workers AI** (tövsiyə) | pulsuz, gündə 10 000 neuron (FLUX-1-schnell ilə yüzlərlə şəkil) | Account ID + API token | kart tələb etmir |
+| **Pollinations** | pulsuz | lazım deyil | 15 saniyədə 1 sorğu, bəzən su nişanı |
+| Gemini API | ödənişli (şəkil üçün pulsuz kvota yoxdur) | `GEMINI_API_KEY` mühit dəyişəni | Gemini Plus abunəsi API-ni əhatə etmir |
+
+**Cloudflare açarı (1 dəfə, 3 dəqiqə):** dash.cloudflare.com-da pulsuz hesab aç → sağ paneldə **Account ID**-ni kopyala →
+My Profile → API Tokens → Create Token → **Workers AI** şablonu → Create. Sonra `py baslat.py` işlət, ikisini daxil et.
+Açarlar yalnız serverin cari sessiyasında qalır, diskə, brauzerə və Claude agentlərinə verilmir.
 
 1. Şəkil Rejissoruna aktiv qrupun promptlarını hazırlat.
-2. Sensei və ya Şəkil Rejissoru panelində **Gemini · Şəkil studiyası** bölməsini aç.
-3. **Promptları yenilə**, kanjini seç və promptu yoxla/düzəlt.
-4. **Gemini ilə yarat** bas. Şəkil hazır olanda önizləmə və yükləmə linki görünür.
+2. Sensei və ya Şəkil Rejissoru panelində **Şəkil studiyası**-nı aç, **Promptları yenilə**, kanjini seç.
+3. **Şəkil yarat** bas. Şəkil hazır olanda önizləmə və yükləmə linki görünür.
+4. ChatGPT Plus və ya Gemini abunən varsa: **Promptu kopyala** → tətbiqdə yapışdır. Bu, abunəyə daxildir, API pulu yoxdur.
 
-API sorğusu yalnız bu düymə ilə başlayır; avtomatik generasiya və avtomatik təkrar sorğu yoxdur.
-Eyni qrup/kanji/prompt/model üçün hazır şəkil yenidən istifadə edilir. Yeni variant üçün promptu dəyiş.
-Bir serverdə eyni anda bir şəkil hazırlanır. Paneli bağlasan iş serverdə davam edir; eyni promptla yenidən
-Yarat basmaq işləyən işi və ya hazır nəticəni qaytarır. Server generasiya zamanı bağlanıbsa nəticə qeyri-müəyyən
-ola bilər; yenidən sorğu ayrıca istifadə yarada bilər.
+Avtomatik generasiya və avtomatik təkrar sorğu yoxdur. Eyni prompt üçün hazır şəkil yenidən istifadə edilir.
+Bir serverdə eyni anda bir şəkil hazırlanır.
 
 Nəticələr `cikti/sekiller/` altında şəkil və JSON metadata kimi saxlanılır (`cikti/` artıq gitignore-dadır).
 Fayl növü provider cavabına uyğundur: PNG, JPEG və ya WebP. Açar frontendə, Claude agentlərinə və job metadata-ya verilmir.
-Model standart olaraq `gemini-nano-banana-2.1`-dir. Hesabına uyğun başqa şəkil modelini `GEMINI_IMAGE_MODEL` ilə seçə bilərsən.
-1:1 və 1K ölçüsü göndərilir. Pulsuz istifadə zəmanəti yoxdur: API açarı mövcud kvota və ödəniş icazəsini əvəz etmir.
-401/403/429 cavabları paneldə qısa izahla göstərilir, sorğu avtomatik təkrarlanmır.
-
-Əlavə Python paketi tələb olunmur. REST inteqrasiyası:
-https://ai.google.dev/gemini-api/docs/image-generation
+Əlavə Python paketi tələb olunmur.
 
 Test: `python -m unittest -v test_kanji_workflow test_gemini_sekil`.
 Testlər saxta provider cavablarından istifadə edir; real açarla ödənişli sorğu göndərilmir.

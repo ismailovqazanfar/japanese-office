@@ -1,5 +1,8 @@
-"""Server-side Gemini image generation. Keys never enter jobs, responses or logs.
-API contract: https://ai.google.dev/gemini-api/docs/image-generation (Interactions).
+"""Server-side image generation with free-first providers. Keys never enter jobs, responses or logs.
+Providers (SEKIL_PROVIDER ilə seçilir, boşdursa avtomatik):
+- cloudflare: Workers AI FLUX-1-schnell, gündəlik pulsuz kvota (CF_ACCOUNT_ID + CF_API_TOKEN);
+- gemini: Gemini API, şəkil üçün pulsuz kvota yoxdur (GEMINI_API_KEY);
+- pollinations: açarsız, pulsuz, yavaş (15 saniyədə 1 sorğu).
 """
 import base64
 import binascii
@@ -9,7 +12,7 @@ import os
 import re
 import threading
 from pathlib import Path
-from urllib import request, error
+from urllib import request, error, parse
 import ortak
 
 ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/interactions'
@@ -24,10 +27,33 @@ class ImageError(Exception):
         super().__init__(message)
 
 
+CF_MODEL = '@cf/black-forest-labs/flux-1-schnell'
+POLL_URL = 'https://image.pollinations.ai/prompt/'
+PULSUZ = {'cloudflare': True, 'pollinations': True, 'gemini': False}
+
+
+def _env(k):
+    return os.environ.get(k, '').strip()
+
+
+def provider():
+    secim = _env('SEKIL_PROVIDER').lower()
+    if secim in PULSUZ:
+        return secim
+    if _env('CF_ACCOUNT_ID') and _env('CF_API_TOKEN'):
+        return 'cloudflare'
+    if _env('GEMINI_API_KEY'):
+        return 'gemini'
+    return 'pollinations'
+
+
 def config():
-    return {'configured': bool(os.environ.get('GEMINI_API_KEY', '').strip()),
-            'model': os.environ.get('GEMINI_IMAGE_MODEL', 'gemini-nano-banana-2.1'),
-            'busy': bool(ACTIVE)}
+    p = provider()
+    model = {'cloudflare': CF_MODEL, 'pollinations': 'flux',
+             'gemini': os.environ.get('GEMINI_IMAGE_MODEL', 'gemini-nano-banana-2.1')}[p]
+    ready = {'cloudflare': bool(_env('CF_ACCOUNT_ID') and _env('CF_API_TOKEN')),
+             'gemini': bool(_env('GEMINI_API_KEY')), 'pollinations': True}[p]
+    return {'configured': ready, 'provider': p, 'model': model, 'pulsuz': PULSUZ[p], 'busy': bool(ACTIVE)}
 
 
 def directory():
@@ -79,6 +105,7 @@ def start(data):
     spec = validate(data)
     cfg = config()
     spec['model'] = cfg['model']
+    spec['provider'] = cfg['provider']
     identity = job_id(spec)
     with LOCK:
         try:
@@ -96,7 +123,7 @@ def start(data):
         if ACTIVE:
             raise ImageError(409, 'Bir şəkil hazırlanır. Bitməsini gözlə.')
         if not cfg['configured']:
-            raise ImageError(409, 'GEMINI_API_KEY yoxdur. Ofisi py baslat.py ilə başlat.')
+            raise ImageError(409, 'Şəkil açarı yoxdur. Ofisi py baslat.py ilə başlat.')
         job = {**spec, 'id': identity, 'status': 'running'}
         save(job)
         ACTIVE.add(identity)
@@ -110,16 +137,75 @@ def start(data):
         return dict(job)
 
 
-def generate(prompt, model):
+class NoRedirect(request.HTTPRedirectHandler):
+    # Do not follow redirects carrying the credential header to another host.
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        return None
+
+
+def _open(req, timeout=180):
+    try:
+        with request.build_opener(NoRedirect).open(req, timeout=timeout) as response:
+            raw = response.read(MAX_RESPONSE + 1)
+    except error.HTTPError as exc:
+        messages = {400: 'Provider sorğunu qəbul etmədi.', 401: 'Açar qəbul olunmadı.',
+                    403: 'Açarın icazəsini yoxla.', 429: 'Pulsuz limit doldu. Bir az gözlə və ya sabah yenə yoxla.'}
+        raise ImageError(502, messages.get(exc.code, 'Şəkil sorğusu uğursuz oldu.')) from None
+    except (error.URLError, TimeoutError, OSError):
+        raise ImageError(502, 'Bağlantı kəsildi və ya vaxtı bitdi. Avtomatik təkrar sorğu göndərilmədi.') from None
+    if len(raw) > MAX_RESPONSE:
+        raise ImageError(502, 'Şəkil cavabı çox böyükdür.')
+    return raw
+
+
+def _image(binary):
+    if binary.startswith(b'\x89PNG\r\n\x1a\n'):
+        return binary, 'image/png', '.png'
+    if binary.startswith(b'\xff\xd8\xff'):
+        return binary, 'image/jpeg', '.jpg'
+    if binary.startswith(b'RIFF') and binary[8:12] == b'WEBP':
+        return binary, 'image/webp', '.webp'
+    raise ImageError(502, 'Provider şəkil qaytarmadı.')
+
+
+def _cloudflare(prompt):
+    acc, tok = _env('CF_ACCOUNT_ID'), _env('CF_API_TOKEN')
+    if not re.fullmatch(r'[a-f0-9]{32}', acc):
+        raise ImageError(409, 'CF_ACCOUNT_ID yanlışdır (32 simvol).')
+    url = f'https://api.cloudflare.com/client/v4/accounts/{acc}/ai/run/{CF_MODEL}'
+    body = json.dumps({'prompt': prompt[:2048], 'steps': 4}).encode()
+    req = request.Request(url, data=body, method='POST',
+                          headers={'Content-Type': 'application/json', 'Authorization': 'Bearer ' + tok})
+    try:
+        data = json.loads(_open(req))
+        return _image(base64.b64decode(data['result']['image'], validate=True))
+    except (ValueError, KeyError, TypeError, binascii.Error):
+        raise ImageError(502, 'Cloudflare cavabı oxunmadı.') from None
+
+
+def _pollinations(prompt, seed):
+    q = parse.urlencode({'width': 1024, 'height': 1024, 'model': 'flux', 'nologo': 'true',
+                         'private': 'true', 'seed': seed, 'referrer': 'yapon-ofisi'})
+    req = request.Request(POLL_URL + parse.quote(prompt[:1500], safe='') + '?' + q,
+                          headers={'User-Agent': 'yapon-ofisi'})
+    return _image(_open(req, timeout=240))
+
+
+def generate(prompt, model, prov=None, seed=0):
+    prov = prov or provider()
+    if prov == 'cloudflare':
+        return _cloudflare(prompt)
+    if prov == 'pollinations':
+        return _pollinations(prompt, seed)
+    return _gemini(prompt, model)
+
+
+def _gemini(prompt, model):
     key = os.environ.get('GEMINI_API_KEY', '').strip()
     body = {'model': model, 'input': [{'type': 'text', 'text': prompt}],
             'response_format': {'type': 'image', 'aspect_ratio': '1:1', 'image_size': '1K'}}
     req = request.Request(ENDPOINT, data=json.dumps(body).encode(), method='POST',
                           headers={'Content-Type': 'application/json', 'x-goog-api-key': key})
-    # Do not follow redirects carrying the credential header to another host.
-    class NoRedirect(request.HTTPRedirectHandler):
-        def redirect_request(self, req, fp, code, msg, headers, newurl):
-            return None
     try:
         with request.build_opener(NoRedirect).open(req, timeout=180) as response:
             raw = response.read(MAX_RESPONSE + 1)
@@ -164,7 +250,7 @@ def work(job):
         prompt = job['image_prompt']
         if job['negative_prompt']:
             prompt += '\nAvoid: ' + job['negative_prompt']
-        binary, mime, extension = generate(prompt, job['model'])
+        binary, mime, extension = generate(prompt, job['model'], job.get('provider'), int(job['id'][:6], 16))
         target = directory() / (job['id'] + extension)
         temp = target.with_suffix(extension + '.tmp')
         temp.write_bytes(binary)

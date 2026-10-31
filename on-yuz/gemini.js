@@ -1,20 +1,20 @@
-// No API credentials are requested or persisted in the browser.
+// Image studio. No API credentials are requested or persisted in the browser.
 export function geminiPanel(demo) {
   const box = document.createElement('section'); box.className = 'not';
   const node = (tag, text) => { const n = document.createElement(tag); if (text) n.textContent = text; return n; };
-  box.append(node('h3', 'Gemini · Şəkil studiyası'));
+  box.append(node('h3', 'Şəkil studiyası'));
   if (demo) { box.append(node('p', 'Demo rejimində API çağırılmır.')); return box; }
   const info = node('p', 'Bağlantı yoxlanır…');
   const select = node('select'); select.setAttribute('aria-label', 'Kanji seç');
   const prompt = node('textarea'); prompt.rows = 5; prompt.maxLength = 6000; prompt.placeholder = 'Şəkil promptu'; prompt.setAttribute('aria-label', 'Şəkil promptu');
   const negative = node('textarea'); negative.rows = 2; negative.maxLength = 1000; negative.placeholder = 'Şəkildə olmasın…'; negative.setAttribute('aria-label', 'Mənfi prompt');
   for (const n of [select, prompt, negative]) { n.style.width = '100%'; n.style.boxSizing = 'border-box'; n.style.marginBottom = '8px'; }
-  const create = node('button', 'Gemini ilə yarat'); create.disabled = true;
+  const create = node('button', 'Şəkil yarat'); create.disabled = true;
   const refresh = node('button', 'Promptları yenilə');
   const copy = node('button', 'Promptu kopyala');
   const result = node('div'); result.setAttribute('aria-live', 'polite');
   box.append(info, select, prompt, negative, create, refresh, copy,
-    node('p', 'Bir klik bir şəkil sorğusudur. API istifadəsi ödənişli ola bilər; açarın olması pulsuz kvota demək deyil. Hazır eyni şəkil təkrar yaradılmır.'), result);
+    node('p', 'Bir klik bir şəkil sorğusudur. Hazır eyni şəkil təkrar yaradılmır. Promptu kopyalayıb ChatGPT və ya Gemini tətbiqində də yarada bilərsən.'), result);
   let config = null, batch = null, running = false;
   const json = async (url, options) => {
     const response = await fetch(url, options); const data = await response.json();
@@ -31,7 +31,8 @@ export function geminiPanel(demo) {
     try {
       [config, batch] = await Promise.all([json('/api/gemini'), json('/api/kanji')]);
       if (config.partiya !== batch.partiya) throw new Error('Qrup dəyişib. Yenilə düyməsinə bas.');
-      info.textContent = config.configured ? `Açar qurulub · ${config.model} · Qrup ${batch.partiya} (API bağlantısı hələ sınaqdan keçirilməyib)` : 'Açar yoxdur. Terminalda py baslat.py ilə başlat və yeni açarı gizli daxil et.';
+      const ad = {cloudflare:'Cloudflare (pulsuz kvota)', pollinations:'Pollinations (pulsuz, yavaş)', gemini:'Gemini (ödənişli)'}[config.provider] || config.provider;
+      info.textContent = config.configured ? `${ad} · Qrup ${batch.partiya}` : 'Açar yoxdur. Terminalda py baslat.py ilə başlat.';
       select.replaceChildren(...batch.kanjiler.map(k => { const n = node('option', `${k.kanji} · ${k.az}`); n.value = k.kanji; return n; }));
       choose();
     } catch (e) { info.textContent = e.message; config = null; availability(); }
