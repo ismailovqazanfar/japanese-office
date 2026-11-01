@@ -200,7 +200,7 @@
   "ders": 9,
   "kart": true,
   "komponent": [
-   "人@top",
+   "人",
    "王"
   ],
   "mense": {
@@ -980,7 +980,7 @@
   "ders": 9,
   "kart": true,
   "komponent": [
-   "人@top",
+   "人",
    "一",
    "#",
    "心"

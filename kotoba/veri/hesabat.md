@@ -1,4 +1,4 @@
-# Kotoba no Tabi: kanji hesabatı (2026-10-31 18:15)
+# Kotoba no Tabi: kanji hesabatı (2026-11-01 13:19)
 
 Mənbə: `/home/claude/kotoba-no-tabi/index.html`
 

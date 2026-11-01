@@ -234,9 +234,9 @@
    "世"
   ],
   "mense": {
-   "az": "Üç \"on\" (十) bir-birinə birləşib: 30 il. Qədim Çində 30 il bir nəsil sayılırdı. Buradan \"nəsil, dövr, dünya\" mənaları yarandı.",
-   "en": "Three \"tens\" (十) joined together: thirty years. In ancient China thirty years counted as one generation. From that came \"generation, age, the world\".",
-   "ru": "Три «десятки» (十), соединённые вместе: тридцать лет. В Древнем Китае тридцать лет считались одним поколением. Отсюда «поколение, эпоха, мир»."
+   "az": "Üç \"on\" (十) bir-birinə birləşib: 30 il. Qədim Çində 30 il bir nəsil sayılırdı. Buradan \"nəsil, dövr, dünya\" mənaları yarandı. Bu, Shuowen lüğətinin ənənəvi izahıdır; müasir tədqiqatçılar qədim formanı fərqli şərh edir, ona görə dəqiq deyil.",
+   "en": "Three \"tens\" (十) joined together: thirty years. In ancient China thirty years counted as one generation. From that came \"generation, age, the world\". This is the traditional explanation of the Shuowen dictionary; modern scholars read the ancient form differently, so it is not certain.",
+   "ru": "Три «десятки» (十), соединённые вместе: тридцать лет. В Древнем Китае тридцать лет считались одним поколением. Отсюда «поколение, эпоха, мир». Это традиционное толкование словаря Шовэнь; современные исследователи читают древнюю форму иначе, поэтому оно не вполне достоверно."
   },
   "hekaye": {
    "az": "Üç on (十) yan-yana: otuz il, bir nəsil 世. Nəsillər bir-birinə calanıb 世界 (sekai), dünyanı qurur; bir-birinə göstərdikləri qayğı isə お世話 (osewa).",
@@ -589,7 +589,7 @@
   "ders": 2,
   "kart": true,
   "komponent": [
-   "人@top",
+   "人",
    "人",
    "人",
    "人",
@@ -623,7 +623,7 @@
   "kart": true,
   "komponent": [
    "木",
-   "几@right"
+   "几"
   ],
   "mense": {
    "az": "Məna hissəsi ağac (木), səs hissəsi 几 (kiçik ayaqlı masa). Taxtadan düzəldilən masa: yazı masası.",

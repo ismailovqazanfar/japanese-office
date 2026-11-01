@@ -52,7 +52,8 @@ def status():
         selected = 1
     selected = max(1, min(selected, total or 1))
     batch = rows[(selected - 1) * BOYUT:selected * BOYUT]
-    return {'partiya': selected, 'partiya_sayi': total, 'kanji_sayi': len(rows), 'hamisi': hamisi,
+    novbeti = [r['kanji'] for r in rows[selected * BOYUT:(selected + 1) * BOYUT]]
+    return {'partiya': selected, 'partiya_sayi': total, 'kanji_sayi': len(rows), 'hamisi': hamisi, 'novbeti': novbeti,
             'kanjiler': [{k: r.get(k) for k in ('kanji', 'sebeb', 'ders', 'on', 'kun', 'az', 'en', 'ru', 'nümunə_sozler')} for r in batch],
             'sekil_status': 'gemini_desteklenir'}
 
@@ -79,5 +80,6 @@ def prompt_elave(prompt, batch):
             + f'Layihənin kökü: {ortak.KOK}. Nisbi fayl yollarını bu kökə görə oxu. '
             + 'Əvvəlki nəticələrdə yalnız eyni bNNN olan fayllara bax. '
             + 'Əlaqəli fayllar cikti/<agent>/*-bNNN-*.md; dərs datası kotoba/veri/kanji/NN.json. '
-            + 'Bu qrup nömrəsi keyfiyyət təsdiqi deyil.\n'
+            + 'Bu qrup nömrəsi keyfiyyət təsdiqi deyil. '
+            + f"Növbəti 5 kanji: {' '.join(batch.get('novbeti', [])) or 'yoxdur'}.\n"
             + json.dumps(batch['kanjiler'], ensure_ascii=False))

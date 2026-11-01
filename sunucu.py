@@ -5,6 +5,7 @@ python3 sunucu.py            # 8796, doludursa növbəti boş port
 tmux varsa hər iş ayrıca tmux pəncərəsində açılır (canlı izləmək üçün), yoxdursa (məs. Windows)
 arxa planda işləyir və ekran çıxışı kosular/<id>.ekran.txt faylına yazılır.
 """
+import glob
 import json
 import os
 import re
@@ -138,6 +139,32 @@ def arxa_planda_baslat(ajan, kosu_id, kosucu, arg_yolu):
 
 # ---------- CEO ----------
 
+def qrup_veziyyeti(tablo):
+    """Aktiv kanji qrupunun mərhələ vəziyyəti: Sensei bitmiş mərhələni təkrar başlatmasın (token qənaəti)."""
+    try:
+        q = kanji_is_axini.status()
+    except (OSError, ValueError, KeyError):
+        return ""
+    etiket = f"b{q['partiya']:03d}"
+    satir = []
+    for aid in ("hekayeci", "komponent", "mufettis", "redaktor", "sekil", "testci"):
+        if aid not in tablo:
+            continue
+        say = 0  # qrup nömrələri növbə qısaldıqca sürüşür: yalnız bu qrupun kanjilərini daşıyan nəticəni say
+        for f in glob.glob(os.path.join(ortak.CIKTI_DIZINI, aid, f"*-{etiket}-*.md")):
+            try:
+                metn = open(f, encoding="utf-8").read(200_000)
+            except OSError:
+                continue
+            say += all(k["kanji"] in metn for k in q["kanjiler"])
+        isde = " (indi işləyir)" if ortak.ajan_mesgul(aid) else ""
+        satir.append(f"{aid}: {'hazır nəticə ' + str(say) if say else 'nəticə yoxdur'}{isde}")
+    return (f"## Aktiv kanji qrupu {etiket}: {' '.join(k['kanji'] for k in q['kanjiler'])}\n"
+            + "; ".join(satir) + "\nHazır nəticəsi olan və ya işləyən agentə eyni mərhələni təkrar vermə. "
+            "İstifadəçi növbəti mərhələni istəyirsə, onu başlat; agentə əvvəlki nəticə fayllarını "
+            f"(cikti/<agent>/*-{etiket}-*.md) oxumasını de.\n\n")
+
+
 def ceo_promptu(metin, tablo):
     satirlar = []
     for a in tablo.values():
@@ -150,6 +177,7 @@ def ceo_promptu(metin, tablo):
     tetikli = [f"'{a['id']}' agentinə yalnız istəkdə '{a['tetik_kelime']}' sözü keçəndə iş verilir."
                for a in tablo.values() if a.get("tetik_kelime")]
     return (
+        qrup_veziyyeti(tablo) +
         "Sən Yapon Ofisinin rəhbəri Sensei-sən. CLAUDE.md sənin qaydalarındır (avtomatik yüklənir). İstifadəçinin istəyini oxu, "
         "hansı agent(lər)ə iş gedəcəyinə qərar ver. Hər tapşırığın prompt-u o agentin təkbaşına yerinə yetirə biləcəyi "
         "aydın tapşırıq olsun (qısa, hansı fayla baxacağını deyir). İş ofisin işi deyilsə və ya istifadəçinin qərarı "

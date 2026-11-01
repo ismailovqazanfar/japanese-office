@@ -133,7 +133,7 @@ def əsas(arg):
         o, kk = k.get("o") or [], k.get("kk") or []
         kanjilər.append({
             "kanji": ch, "on": v[0], "kun": v[1], "az": v[2], "en": v[3], "ru": v[4], "ders": v[5],
-            "kart": bool(k), "komponent": [s[0] for s in (k.get("sk") or [])],
+            "kart": bool(k), "komponent": [s[0].split("@")[0] for s in k["sk"]] if isinstance(k.get("sk"), list) else [],
             "mense": {"az": o[0] if len(o) > 0 else "", "en": o[1] if len(o) > 1 else "", "ru": o[2] if len(o) > 2 else ""},
             "hekaye": {"az": kk[0] if len(kk) > 0 else "", "en": kk[1] if len(kk) > 1 else "", "ru": kk[2] if len(kk) > 2 else ""},
             "ilk_soz_dersi": ilk.get(ch), "soz_sayi": soz_say.get(ch, 0),
